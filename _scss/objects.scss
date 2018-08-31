@@ -1,0 +1,27 @@
+.object-level {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .object-level-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+  }
+}
+
+.object-logo {
+  // import the svg
+  background-image: url(inline-image('./assets/svg-logo.svg'));
+  @extend %background-contain;
+}
+.object-hero {
+  position: relative;
+  height: 100vh;
+
+  .object-hero-image {
+    height: 100vh;
+    @extend %background-cover;
+  }
+}

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <!-- css -->
+    <link href="{{ '/css/main.css' }}" rel="stylesheet" />
+
+    <!-- favicons -->
+    <link href="{{ site.favicon | replace('l9tl/', 'l9tl/c_pad,g_center,h_32,w_32/') }}" sizes="32x32" rel="icon" />
+    <link href="{{ site.favicon | replace('l9tl/', 'l9tl/c_pad,g_center,h_192,w_192/') }}" sizes="192x192" rel="icon" />
+    <link href="{{ site.favicon | replace('l9tl/', 'l9tl/c_pad,g_center,h_180,w_180/') }}" rel="apple-touch-icon-precomposed" />
+    <meta content="{{ site.favicon | replace('l9tl/', 'l9tl/c_pad,g_center,h_270,w_270/') }}"  name="msapplication-TileImage"/>
+
+  </head>
+  <body>
+    <div class="site-layout">
+      {% include '_topnav.njk' %}
+
+      <div class="site-layout-content">
+        {% block contents %}
+          <h1>Whoops! Something went wrong here</h1>
+        {% endblock %}
+      </div>
+
+      {% include '_footer.njk' %}
+    </div>
+  </body>
+</html>
+
+

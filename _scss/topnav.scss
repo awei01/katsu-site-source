@@ -1,0 +1,56 @@
+$topnav-height: 5rem;
+
+.site-topnav-shim {
+  height: $topnav-height;
+  width: 100%;
+  background: #666;
+  z-index: -1;
+  position: relative;
+}
+
+.site-topnav {
+  height: $topnav-height;
+  background: rgba(255, 255, 255, 0.75);
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  width: 100%;
+  padding: 0 2rem;
+  // box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit;
+  box-shadow: 0 0 0.25rem 0.1rem $color-black-screened-50;
+
+  .site-topnav-logo {
+    width: 12rem;
+    height: 100%;
+    padding: 0.5rem 0;
+    // transition opacity on hover
+    background-color: transparent;
+    transition: background-color 200ms ease;
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.5);
+    }
+    .object-logo {
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  .site-topnav-link {
+    font-family: $font-league-gothic, helvetica;
+    font-size: 2rem;
+    text-transform: uppercase;
+    padding: 0.5rem 1rem;
+    // hover transition for color, background, text-decoration
+    color: rgba(0, 0, 0, 0.6);
+    background: transparent;
+    text-decoration: none;
+    transition-property: color, background;
+    transition-duration: 200ms;
+    transition-timing-function: ease;
+    &:hover {
+      color: #000;
+      background: rgba(255, 255, 255, 0.5);
+      text-decoration: underline;
+    }
+  }
+}

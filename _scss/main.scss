@@ -1,0 +1,28 @@
+@import './_fonts';
+@import 'node_modules/normalize-scss/sass/normalize/_import-now';
+
+html {
+  height: 100%;
+}
+
+body {
+  // box-sizing reset
+  box-sizing: border-box;
+  *:not(hr) {
+    box-sizing: inherit;
+  }
+
+  // body
+  background: #fff;
+  font-family: $font-pt-sans, arial, helvetica, sans-serif;
+  font-size: 16px;
+  height: 100%;
+}
+
+
+@import './_exports';
+@import './_colors';
+@import './layout';
+@import './objects';
+@import './topnav';
+@import './footer';

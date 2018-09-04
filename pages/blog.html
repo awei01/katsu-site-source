@@ -1,0 +1,5 @@
+<ul>
+{% for post in collections.posts %}
+  <li>{{ post.path }}: {{ post.key }}</li>
+{% endfor %}
+</ul>

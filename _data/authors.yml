@@ -1,49 +1,49 @@
-austin: 
+austin:
   username: austin
   firstName: Austin
   lastName: Wei
   email: austin@9tailors.com
-eboni: 
+eboni:
   username: eboni
   firstName: Eboni
   lastName: Bell
   email: eboni@9tailors.com
-elizabeth: 
+elizabeth:
   username: elizabeth
   firstName: Elizabeth
   lastName: Dupre
   email: elizabeth@9tailors.com
-irina: 
+irina:
   username: irina
   firstName: Irina
   lastName: Azarkh
   email: irina@9tailors.com
-ivy: 
+ivy:
   username: ivy
   firstName: Ivy
   lastName: Montalvo
   email: ivy@9tailors.com
-jessica: 
+jessica:
   username: jessica
   firstName: Jessica
   lastName: Nguyen
   email: jessica@9tailors.com
-kara: 
+kara:
   username: kara
   firstName: Kara
   lastName: Undag
   email: karau@9tailors.com
-michelle: 
+michelle:
   username: michelle
   firstName: Michelle
   lastName: Chan
   email: michelle@9tailors.com
-sam: 
+sam:
   username: sam
   firstName: Samantha
   lastName: Shih
   email: sam@9tailors.com
-sharan: 
+sharan:
   username: sharan
   firstName: Sharan
   lastName: Gill

@@ -2,3 +2,7 @@ title: 9tailors
 description: we are awesome
 url: http://9tailors.com
 favicon: http://res.cloudinary.com/l9tl/v1472846223/identity/short-logo.png
+emails:
+  info: info@9tailors.com
+  customerservice: customerservice@9tailors.com
+  weddings: weddings@9tailors.com

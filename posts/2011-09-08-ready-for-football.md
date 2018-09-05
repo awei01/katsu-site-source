@@ -1,18 +1,19 @@
 ---
 path: /2011/09/ready-for-football/
 title: Ready for Football?
+date: '2011-09-08'
 author: sam
-categories: 
+categories:
   - our-clients
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - menswear
   - real clients
   - sergio brown
-featuredImage: 1686
+featuredImage: /uploads/2014/11/b2.jpg
 ---
 [Sergio Brown](https://www.facebook.com/pages/Sergio-Brown/143140449079730), #31 on the [Patriots](http://patriots.com/), stopped by our studio last night for his first suit and shirt fitting. His suit arrived just in time for the Patriot's first game of the season. Here's how everything turned out:
 
@@ -24,4 +25,4 @@ Sergio chose a three-piece gray suit with lavender pinstripes. He's also wearing
 
 Don't forget to tune in on Monday night to watch Sergio and Patriots play Miami!
 
-Want to look as handsome as Sergio? E-mail us at [info@9tailors.com](mailto:info@9tailors.com) for an appointment.
+Want to look as handsome as Sergio? E-mail us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) for an appointment.

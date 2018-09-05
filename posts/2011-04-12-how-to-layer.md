@@ -1,19 +1,22 @@
 ---
 path: /2011/04/how-to-layer/
-title: How To: Layer
+title: 'How To: Layer'
+date: '2011-04-12'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - how to
   - menswear
   - style tips
-featuredImage: 1831
+featuredImage: null
 ---
-Yesterday's post touched on layering, but since its the most practical way of dressing in the coming weeks, it deserves a little more attention. Layering is something of an art and can easily turn ugly if not approached properly. Lets start with the obvious; stick with colors in the same family, thinner layers first, avoid over-sized clothing, and bulkier layers on top. Here are some ways to put together a casual Friday look for the office. Pair it with some chinos or textured wool slacks and a nice pair of lace ups. For personalized blazers get yourself an [appointment](http://9tailors.com/pages/customer_service/appointments) with a 9tailors style consultant who can help you design a perfectly fitting perfectly you piece of outerwear. Add a [pocket square](http://9tailors.blogspot.com/2011/02/wednesdays-get-this.html) with a bold print to get some more color in there. [Printed scarfs](http://9tailors.blogspot.com/2011/02/try-it-out-scarf.html) are an alternative to rescue a controlled color scheme from becoming bland.
+Yesterday's post touched on layering, but since its the most practical way of dressing in the coming weeks, it deserves a little more attention. Layering is something of an art and can easily turn ugly if not approached properly. Lets start with the obvious; stick with colors in the same family, thinner layers first, avoid over-sized clothing, and bulkier layers on top.
+
+Here are some ways to put together a casual Friday look for the office. Pair it with some chinos or textured wool slacks and a nice pair of lace ups. For personalized blazers get yourself an [appointment](http://9tailors.com/pages/customer_service/appointments) with a 9tailors style consultant who can help you design a perfectly fitting perfectly you piece of outerwear. Add a [pocket square](http://2011/02/wednesdays-get-this.html) with a bold print to get some more color in there. [Printed scarfs](http://2011/02/try-it-out-scarf.html) are an alternative to rescue a controlled color scheme from becoming bland.
 
 [![Casual Friday](http://www.polyvore.com/cgi/img-set/BQcDAAAAAwoDanBnAAAABC5vdXQKFklwWUtfckJrNEJHY1VUbjZzSXlWV3cAAAACaWQKAWUAAAAEc2l6ZQ.jpg "Casual Friday")](http://www.polyvore.com/casual_friday/set?.mid=embed&id=30318814)
 

@@ -1,10 +1,11 @@
 ---
 path: /2010/06/weekend-getaway-part-ii-nyc/
-title: Weekend Getaway Part II: NYC
+title: 'Weekend Getaway Part II: NYC'
+date: '2010-06-18'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - NYC
   - New York
@@ -12,7 +13,7 @@ tags:
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 2026
+featuredImage: null
 ---
 Last time, as a part of our series of Weekend Getaway posts, we gave tips for men and women going on a Cape Cod/beach weekend getaway.
 
@@ -32,4 +33,4 @@ Below are a few suggestions:
 
 [![Fashion Trends & Styles - Polyvore](http://www.polyvorecdn.com/rsrc/img/logo_embed_alt_63x21.png "Fashion Trends & Styles - Polyvore")](http://www.polyvore.com/)
 
-There are thousands of possibilities. Make an appointment today or start designing [here](http://beta.9tailors.com/ "here").
+There are thousands of possibilities. Make an appointment today or start designing [here](http://9tailors.com/ "here").

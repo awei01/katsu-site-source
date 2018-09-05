@@ -1,16 +1,17 @@
 ---
 path: /2011/08/how-to-care-for-your-9tailors-items/
 title: How to Care for Your 9tailors Items
+date: '2011-08-16'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - menswear
   - tips
-featuredImage: 1702
+featuredImage: /uploads/2014/11/j2.jpg
 ---
 While we are constantly stressing the importance of a good fitting pair of slacks and tailored shirts, once you have these flattering garments in your possession it is your duty to keep them looking sharp.
 
@@ -28,4 +29,4 @@ Dry cleaning a few times a year would be the best action to take with your suits
 
 Make sure to hang your suits after each wear by following the crease in each pant and draping them over a hanger. Hangers are also important because the wrong types, such as wire hangers, can permanently warp your clothing. By keeping your suits properly stored they will have a chance to air out before you wear them again.
 
-If you are looking for suits or shirts to care for feel free to email us at info@9tailors.com to get a style consultant of your very own who can help you design a new look.
+If you are looking for suits or shirts to care for feel free to email us at {{ site.emails.info }} to get a style consultant of your very own who can help you design a new look.

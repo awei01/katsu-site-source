@@ -1,19 +1,20 @@
 ---
 path: /2014/03/congratulations-to-our-beautiful-bride-clients-dana-alexis/
-title: Congratulations to Our Beautiful Bride Clients, Dana & Alexis!
+title: 'Congratulations to Our Beautiful Bride Clients, Dana & Alexis!'
+date: '2014-03-18'
 author: sam
-categories: 
+categories:
   - our-clients
   - style-tips
   - weddings
-tags: 
+tags:
   - LGBT
   - lesbian wedding
   - menswear for women
   - real customers
   - same sex wedding
   - weddings
-featuredImage: 898
+featuredImage: /uploads/2014/10/dana.jpg
 ---
 Women wearing menswear inspired fashion has always been a trend, it comes and goes every year, highlighting different aspects. Some designers focus on an over-sized blazer, others like the look classic look of a white button down with tailored pants, other designers don't even consider the suits and just go for the military inspired pea coats. For this blog post, we are showing you how two of our beautiful brides went for menswear attire for their nuptials instead of just one of them wearing a suit and the other wearing a dress.
 
@@ -59,6 +60,6 @@ Our loving brides in their custom wedding suits. Each suit tailored to their spe
 
 Ha, well I'll take give my best advice to fellow gay ladies who are considering a custom suit! Don't hesitate to go the custom route, it's worth every dollar to be 100% comfortable on your wedding day. Don't worry about what a traditional suit looks like and try to make yourself look the way you think you should. Look the way you want and just be yourself! And when it's all said and done, get yourself some sexy shoes to compliment your suit!
 
-It was such an exciting process to work with these two beautiful ladies. We love it when women come in looking for a menswear style suit and are able to add their feminine charm to it! If you want to know how to make a custom men's suit into a woman's menswear-inspired garment, contact a style consultant at info@9tailors.com. We love our bride-groom couples!
+It was such an exciting process to work with these two beautiful ladies. We love it when women come in looking for a menswear style suit and are able to add their feminine charm to it! If you want to know how to make a custom men's suit into a woman's menswear-inspired garment, contact a style consultant at {{ site.emails.info }}. We love our bride-groom couples!
 
 Wedding photographed by [Andrew San](https://www.facebook.com/andrewsanphotography) / 515-745-3770 / andrewsanphoto@gmail.com

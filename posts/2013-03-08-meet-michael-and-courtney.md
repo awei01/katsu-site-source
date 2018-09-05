@@ -1,11 +1,12 @@
 ---
 path: /2013/03/meet-michael-and-courtney/
 title: Meet Michael and Courtney!
+date: '2013-03-08'
 author: sam
-categories: 
+categories:
   - our-clients
   - weddings
-tags: 
+tags:
   - 9tailors
   - 9tailors wedding
   - bespoke
@@ -13,21 +14,21 @@ tags:
   - custom wedding suit
   - matching suits
   - real client
-featuredImage: 1201
+featuredImage: /uploads/2014/10/courtandmike.jpg
 ---
 [![](http://2.bp.blogspot.com/-T10YmS6cWhE/UTkIOJUJb-I/AAAAAAAACe4/5ax4w0TzMao/s1600/579-Courtney&MIke-3817.jpg)](http://2.bp.blogspot.com/-T10YmS6cWhE/UTkIOJUJb-I/AAAAAAAACe4/5ax4w0TzMao/s1600/579-Courtney&MIke-3817.jpg)
 
 **What are your names?**
 
-Groom: Michael Philbin  
-Bride: Courtney (Swanda) Philbin  
-Groomsmen: Philip Lamere (BM), Tristram Arscott, Caleb Constenstein, Corey Fitzpatrick, Aashish Goswami, Jonathan Larson, James Tucker  
+Groom: Michael Philbin
+Bride: Courtney (Swanda) Philbin
+Groomsmen: Philip Lamere (BM), Tristram Arscott, Caleb Constenstein, Corey Fitzpatrick, Aashish Goswami, Jonathan Larson, James Tucker
 Bridesmaids: Jennifer Swanda (MoH), Caitlin Brome, Erika Gold, Kimberly Hansen, Jessica Murray, Courtney Philbin, Megan Philbin, Erin Unger
 
 **Where and when was the big day?**
 
-Ceremony: The Old Round Church, Richmond, VT  
-Reception: The Inn at the Round Barn Farm, Waitsfield, VT  
+Ceremony: The Old Round Church, Richmond, VT
+Reception: The Inn at the Round Barn Farm, Waitsfield, VT
 June 23, 2012
 
 **How was the weather? Was your wedding indoors/outdoors?**
@@ -46,7 +47,7 @@ We had a great experience. We had a pretty clear vision from the start, so the 9
 
 The ceremony - everything came together wonderfully: the setting was exactly what we had pictured, the minister did a great job, the readings and music were phenomenal... it all just felt right.
 
-**What is your advice to other wedding couples thinking about designing custom suits or shirts?**
+ **What is your advice to other wedding couples thinking about designing custom suits or shirts?**
 
 The process can be great, but it is best if you have some ideas of your own before you start. Find some pictures of the look that you are going for. Get the details before you make any decisions: the timeline for fitting/ordering/alterations, and the specifics of the costs - and be sure to pass these details along to the bridal party with good communication. Be sure to be cost-conscious because even if you think it is a great outfit, bridal party members may have different tastes, and they are already going to be spending a lot of money on your bachelor party, wedding accommodations, gift, etc.
 
@@ -70,7 +71,8 @@ Foxy Socks
 
 [![](http://1.bp.blogspot.com/-ttDlN5R7C2w/UTkIOGGxbwI/AAAAAAAACe0/x0cfzPdkUv8/s1600/440-Courtney&MIke-3414.jpg)](http://1.bp.blogspot.com/-ttDlN5R7C2w/UTkIOGGxbwI/AAAAAAAACe0/x0cfzPdkUv8/s1600/440-Courtney&MIke-3414.jpg)
 
-The beautiful couple, Courtney and Michael Philbin
+The beautiful couple,
+Courtney and Michael Philbin
 
 [![](http://4.bp.blogspot.com/-nzX-fheAIZ0/UTkIN42d0rI/AAAAAAAACe8/N9zuYzVA_r4/s1600/385-Courtney&MIke-3263.jpg)](http://4.bp.blogspot.com/-nzX-fheAIZ0/UTkIN42d0rI/AAAAAAAACe8/N9zuYzVA_r4/s1600/385-Courtney&MIke-3263.jpg)
 
@@ -82,4 +84,4 @@ Argyle Style!
 
 \*All photos courtesy of the Philbins and Ali Kaukas Photography in Manchester, VT.
 
-Have an upcoming Spring or Summer Wedding? We recommend our grooms and groomsmen plan ahead about 2-3 months in advance of the special day. Email a Style Consultant at [info@9tailors.com](mailto:info@9tailors.com) for a consultation!
+Have an upcoming Spring or Summer Wedding? We recommend our grooms and groomsmen plan ahead about 2-3 months in advance of the special day. Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) for a consultation!

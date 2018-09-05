@@ -1,18 +1,19 @@
 ---
 path: /2011/07/fashion-as-history-the-tie/
-title: Fashion as History: The Tie
+title: 'Fashion as History: The Tie'
+date: '2011-07-20'
 author: sam
-categories: 
+categories:
   - press
   - uncategorized
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - history
   - menswear
   - the tie
-featuredImage: 1722
+featuredImage: /uploads/2014/11/t1.jpg
 ---
 Ever wonder why formal dress for men involves a knotted piece of silk hanging from their neck like an expensive noose? Well in an attempt to explain all things sartorial another Google search followed. It seems, as most of mens' traditionally formal pieces, to have originated in the military. This knotted piece of fabric used to adorn the neck was clearly very striking. Since then it has evolved and taken root in the acceptable attire for men. The more detailed version goes something like this...
 
@@ -36,4 +37,4 @@ The tie has been criticized as a restrictive element of formal dress that serves
 
 What are your thoughts on the use of ties? An antiquated formality? An addition that serves to improve the work of those who wear it? A ridiculous tradition that serves no purpose in today's offices? Let us know what you wear to work.
 
-Have a killer tie? Bring it in so we can construct the perfect shirt to show it off. Hate ties? Make an appointment and we can create a shirt so exciting it doesn't need anything extra. Email us at info@9tailors.com to make an appointment or learn more about what we do!
+Have a killer tie? Bring it in so we can construct the perfect shirt to show it off. Hate ties? Make an appointment and we can create a shirt so exciting it doesn't need anything extra. Email us at {{ site.emails.info }} to make an appointment or learn more about what we do!

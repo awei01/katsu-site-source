@@ -1,19 +1,24 @@
 ---
 path: /2013/02/trend-report-double-breasted-jackets/
-title: Trend Report: Double Breasted Jackets
+title: 'Trend Report: Double Breasted Jackets'
+date: '2013-02-01'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - custom suits
   - double breasted jackets
   - trend report
-featuredImage: 1207
+featuredImage: /uploads/2014/10/dbreasted.jpeg
 ---
 [![](http://4.bp.blogspot.com/-zVzofS448wQ/UQwMZXP3xjI/AAAAAAAACDo/mDQr5_eks8o/s640/IMG_8509.jpeg)](http://4.bp.blogspot.com/-zVzofS448wQ/UQwMZXP3xjI/AAAAAAAACDo/mDQr5_eks8o/s1600/IMG_8509.jpeg)
 
-Who's into the Double Breasted Jacket? Nearly every designer this season, that's who. Runways have been littered with the old school trend that is nothing but chic. It's not a newfangled idea of design, but with the way people are reinventing this style, it sure looks brand spankin' new. Whether worn casually over khakis, different colored trousers, cords, jeans or as a full suit, you can be sure to see lots and lots of double breasted jackets from now on. Check out our client, Robinson, pictured above wearing a double breasted trench coat! Inspired? Our outerwear begins at $400...just sayin'... Perhaps it's the current resurgence of 1920's and 1930's styles, but we see so many trends inspired by throwback details (ticket pocket, thin lapels) manifested in new modern ways, it's satisfying to stay current while simultaneously honoring the classics. In a light brown or a muted checked pattern, the DB looks smart and fashionable without bordering crazy (unless you dare to get loud with your color—ahem, mustard). A slight detail like this on your full suit will help you get out of your standard double button or triple button, or three-piece routine. Suits generally have so much structure and traditional lines, may as well play with the classic and mix it up to constantly improve your style, right?
+Who's into the Double Breasted Jacket? Nearly every designer this season, that's who. Runways have been littered with the old school trend that is nothing but chic. It's not a newfangled idea of design, but with the way people are reinventing this style, it sure looks brand spankin' new. Whether worn casually over khakis, different colored trousers, cords, jeans or as a full suit, you can be sure to see lots and lots of double breasted jackets from now on. Check out our client, Robinson, pictured above wearing a double breasted trench coat! Inspired? Our outerwear begins at $400...just sayin'...
+
+Perhaps it's the current resurgence of 1920's and 1930's styles, but we see so many trends inspired by throwback details (ticket pocket, thin lapels) manifested in new modern ways, it's satisfying to stay current while simultaneously honoring the classics.
+
+In a light brown or a muted checked pattern, the DB looks smart and fashionable without bordering crazy (unless you dare to get loud with your color—ahem, mustard). A slight detail like this on your full suit will help you get out of your standard double button or triple button, or three-piece routine. Suits generally have so much structure and traditional lines, may as well play with the classic and mix it up to constantly improve your style, right?
 
 [![](http://1.bp.blogspot.com/-FG1aTPZX0O0/UQwMEAUHSeI/AAAAAAAACDI/i8cKHRGhgJE/s400/esq-bottega-db-suit-ss13-mdn.jpeg)](http://1.bp.blogspot.com/-FG1aTPZX0O0/UQwMEAUHSeI/AAAAAAAACDI/i8cKHRGhgJE/s1600/esq-bottega-db-suit-ss13-mdn.jpeg)
 
@@ -43,4 +48,4 @@ Not sure how to wear this look? Click [here](http://www.gq.com/style/wear-it-no
 
 > "With a DB, it's all about structure and lines, like a car," says Spurr. "Keep the colors minimal so you can see the jacket's silhouette."
 
-Have a hankering to round out your suit collection? Thinking about a sports coat, blazer, trench, full suit, or vest in the double breasted variety? Tell us your ideas—we will try our best to make it happen! Email a Style Consultant at [info@9tailors.com](mailto:info@9tailors.com) to schedule an appointment!
+Have a hankering to round out your suit collection? Thinking about a sports coat, blazer, trench, full suit, or vest in the double breasted variety? Tell us your ideas—we will try our best to make it happen! Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to schedule an appointment!

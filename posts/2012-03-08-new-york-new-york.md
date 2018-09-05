@@ -1,10 +1,11 @@
 ---
 path: /2012/03/new-york-new-york/
 title: New York! New York!
+date: '2012-03-08'
 author: sam
-categories: 
+categories:
   - uncategorized
-tags: 
+tags:
   - 9tailors
   - 9tailors NYC
   - bespoke
@@ -12,13 +13,13 @@ tags:
   - custom suiting
   - mens fashion
   - menswear
-featuredImage: 1029
+featuredImage: /uploads/2014/10/a4.jpg
 ---
 [![](http://2.bp.blogspot.com/-XuaK02voADY/T1eXlXJVzqI/AAAAAAAAAAo/VVI80dFThMI/s640/NY-9tailors1.jpg)](http://2.bp.blogspot.com/-XuaK02voADY/T1eXlXJVzqI/AAAAAAAAAAo/VVI80dFThMI/s1600/NY-9tailors1.jpg)
 
 Have an hour to spare? Make an appointment to meet with CEO Samantha Shih and her design staff to create custom shirts or suits for yourself! The process? Choose your fabrics, decide on the styles you desire, and then after your measurements are taken, discuss fit requests and preferences. The advantage? Custom design allows you the luxury of personalizing your ensembles to your particular tastes and unique proportions.
 
-We are taking appointments in advance of this event. To make an appointment, please **send an RSVP e-mail to info@9tailors.com**. We will send you a confirmation e-mail when we receive your RSVP.
+We are taking appointments in advance of this event. To make an appointment, please **send an RSVP e-mail to {{ site.emails.info }}**. We will send you a confirmation e-mail when we receive your RSVP.
 
 **WHERE:** 
 

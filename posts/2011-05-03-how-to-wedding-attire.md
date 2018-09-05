@@ -1,17 +1,18 @@
 ---
 path: /2011/05/how-to-wedding-attire/
-title: How To: Wedding attire
+title: 'How To: Wedding attire'
+date: '2011-05-03'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - attire
   - bespoke
   - custom suit
   - menswear
   - weddings
-featuredImage: 1809
+featuredImage: null
 ---
 Yesterday, the suiting options for various weddings were laidout. Now lets talk about how to put it all together. The accessories are just as important, you never want to outdo the wedding party. But, you don't want to be the slob in a wrinkled dress shirt either.
 
@@ -35,4 +36,4 @@ Because weddings are full of dancing, eating, laughing, and all around partying,
 
 ![](http://4.bp.blogspot.com/-UwlNHaDNPZQ/TcAf8VvwB1I/AAAAAAAAAS4/XC_mmtazXO8/s320/tear.jpg)
 
-Avoid all this with a custom suit from [9tailors](http://www.blogger.com/www.9tailors.com). Made to fit you perfectly, no pant splitting due to ill fitting clothing! Make an appointment [here](http://9tailors.com/pages/customer_service/appointments).
+Avoid all this with a custom suit from [9tailors](http://www.9tailors.com). Made to fit you perfectly, no pant splitting due to ill fitting clothing! Make an appointment [here](http://9tailors.com/pages/customer_service/appointments).

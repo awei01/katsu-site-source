@@ -1,25 +1,27 @@
 ---
 path: /2014/04/earth-day-earth-tones/
-title: Earth Day, Earth Tones
+title: 'Earth Day, Earth Tones'
+date: '2014-04-22'
 author: michelle
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - earth day
   - fashion tips
   - mens fashion
   - menswear
   - menswear advice
   - neutrals
-featuredImage: 880
+featuredImage: /uploads/2014/10/earth_tones_0001.jpg
 ---
 Today is [Earth Day](http://www.earthday.org/)! Turn off the faucet when you're brushing your teeth and turn the light off if you're not in the room, unplug any appliances that aren't being used and go the extra seven steps to a trash bin instead of just 'letting the wind' take your trash. Our office has 2 recycling bins and so many plants we have a little office garden (all potted).
 
-For those of you who would like to go a step further than creating a greener environment for yourself but incorporate it more into your lifestyle, past [Whole Foods](http://www.wholefoods.com/), take a look at [Glass House Shirtmakers](http://www.glasshouseshirtmakers.com/). They up-cycle old shirts into new [pocket squares](http://9tailors.blogspot.com/2013/10/4-more-ways-to-fold-pocket-square.html), which is genius!
+For those of you who would like to go a step further than creating a greener environment for yourself but incorporate it more into your lifestyle, past [Whole Foods](http://www.wholefoods.com/), take a look at [Glass House Shirtmakers](http://www.glasshouseshirtmakers.com/). They up-cycle old shirts into new [pocket squares](http://2013/10/4-more-ways-to-fold-pocket-square.html), which is genius!
 
 [![](http://4.bp.blogspot.com/-ijT7bQaQYsk/U1bSbu7VW4I/AAAAAAAAB6E/SLdzKr-uUaA/s1600/esq-glasshouse-shirtmakes-042214-xl.jpg)](http://4.bp.blogspot.com/-ijT7bQaQYsk/U1bSbu7VW4I/AAAAAAAAB6E/SLdzKr-uUaA/s1600/esq-glasshouse-shirtmakes-042214-xl.jpg)
 
-Salvaged shirts into new pocket squares! Featured in [Esquire](http://www.esquire.com/), image source: [Esquire](http://www.esquire.com/blogs/mens-fashion/glass-house-shirtmakers-upcycled-pocket-squares-042214)
+Salvaged shirts into new pocket squares!
+Featured in [Esquire](http://www.esquire.com/), image source: [Esquire](http://www.esquire.com/blogs/mens-fashion/glass-house-shirtmakers-upcycled-pocket-squares-042214)
 
 The colorful pocket squares are great to bring neutral suits to life or bring a more vivacious attitude in more vibrants blazers or suits with character.
 
@@ -55,7 +57,7 @@ Want to try this for yourself or tired of seeing that ragged shirt on him that h
 
 **Step 5-B, Home Sewing Machine**: Fold the edges over twice and pin in place. Sew along the edge of the first fold (not the edge of the square itself).
 
-**Step 6**: Learn how to fold your pocket square [Here](http://9tailors.blogspot.com/2013/10/4-ways-to-fold-to-pocket-square-peaks.html) and [Here](http://9tailors.blogspot.com/2013/10/4-more-ways-to-fold-pocket-square.html)
+**Step 6**: Learn how to fold your pocket square [Here](http://2013/10/4-ways-to-fold-to-pocket-square-peaks.html) and [Here](http://2013/10/4-more-ways-to-fold-pocket-square.html)
 
 **Step 7**: Pair with a jacket and enjoy!
 
@@ -67,9 +69,7 @@ Earth Tone jackets and trench coat, left to right: tweed, houndstooth, linen, li
 
 copyright 9tailors, LLC.
 
- 
-
-Interested in an earth tone jacket? Need a light trench coat for the Spring/Summer? Want to glisten up your custom made suit with horn buttons and a vibrant pocket square and shirt? Contact a style consultant at info@9tailors.com
+Interested in an earth tone jacket? Need a light trench coat for the Spring/Summer? Want to glisten up your custom made suit with horn buttons and a vibrant pocket square and shirt? Contact a style consultant at {{ site.emails.info }}
 
 An Earth Day Bonus?
 

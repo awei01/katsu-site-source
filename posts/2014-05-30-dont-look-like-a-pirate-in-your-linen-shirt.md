@@ -1,17 +1,18 @@
 ---
 path: /2014/05/dont-look-like-a-pirate-in-your-linen-shirt/
 title: Don't look like a pirate in your linen shirt
+date: '2014-05-30'
 author: elizabeth
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - custom linen shirts
   - custom shirts
   - linen shirts
   - mens fashion tips
   - menswear how to
   - menswear tips
-featuredImage: 874
+featuredImage: /uploads/2014/10/linen.jpg
 ---
 Linen may conjure up some pretty bad images, like billowy pirate shirts or those ads about vacationing in the Caribbean. Don't fret. Our _new_ linen has been updated. Here are a few tips to stay dry and look cool:
 
@@ -31,4 +32,4 @@ Linen may conjure up some pretty bad images, like billowy pirate shirts or those
 
 ![White Linen Shirt Beach Wedding](http://linenpage.com/wp-content/uploads/2012/07/white-linen-shirt-beach-wedding.jpg "white-linen-shirt-beach-wedding")
 
-Get these looks and more. Contact a Style Consultant at [info@9tailors.com](mailto:info@9tailors.com) or at 617.286.6135.
+Get these looks and more. Contact a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) or at 617.286.6135.

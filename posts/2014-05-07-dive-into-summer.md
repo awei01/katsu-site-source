@@ -1,11 +1,12 @@
 ---
 path: /2014/05/dive-into-summer/
 title: Dive Into Summer
+date: '2014-05-07'
 author: elizabeth
-categories: 
+categories:
   - style-tips
   - weddings
-tags: 
+tags:
   - bespoke suiting
   - blue suit
   - bright blue
@@ -15,7 +16,7 @@ tags:
   - summer blues
   - summer fashion
   - summer suits
-featuredImage: 876
+featuredImage: /uploads/2014/10/summer.jpg
 ---
 It's finally getting warmer and that means that summer is around the corner. Is your wardrobe ready? Here are 5 style tips on how to incorporate one of the most common menswear colors (you guessed it, blue!) in a warm weather style:
 
@@ -25,7 +26,7 @@ Tip #1: Liven up your navy blazer by wearing it with colored denim
 
 [http://bit.ly/Su0PCb](http://bit.ly/Su0PCb)
 
-Tip #2: Pair a brilliant blue with a pair of khakis
+ Tip #2: Pair a brilliant blue with a pair of khakis
 
 ![http://media-cache-ec0.pinimg.com/originals/54/b1/d1/54b1d19bfd23b7ce168c967dca100aab.jpg](http://media-cache-ec0.pinimg.com/originals/54/b1/d1/54b1d19bfd23b7ce168c967dca100aab.jpg)
 
@@ -51,7 +52,8 @@ Tip #5: If a full suit of blue is too much for you, try some fun accessories wit
 
 [![](http://1.bp.blogspot.com/-4liadhe63a8/U2PvGvrpsoI/AAAAAAAAAcI/Fv9hslUhMtQ/s1600/accessories.JPG)](http://1.bp.blogspot.com/-4liadhe63a8/U2PvGvrpsoI/AAAAAAAAAcI/Fv9hslUhMtQ/s1600/accessories.JPG)
 
-Available at 9tailors. Special sale - 9tailors small and large pocket squares - $12/$15, 9tailors bow ties - $15 9tailors knot cuff links - $5, shoelaces - $5
+Available at 9tailors. Special sale - 9tailors small and large pocket squares - $12/$15, 9tailors bow ties - $15
+9tailors knot cuff links - $5, shoelaces - $5
 
 So there you have it, a few ways to wear your summer blues (the good kind). Make an appointment with us for your custom, fit-you-just-right summer brights!
 

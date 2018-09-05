@@ -1,22 +1,23 @@
 ---
 path: /2010/06/summer-fabric-tutorial/
 title: Summer Fabric Tutorial
+date: '2010-06-03'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 2052
+featuredImage: null
 ---
 It's starting to get seriously hot and muggy around here. What are the best fabrics for this climate?
 
 Generally, naturally-derived fabrics such as cotton, silk, and linen are the most breathable in hot weather. Man-made fabrics such as polyester do not breathe as easily, causing you to feel wet and sticky all day.
 
-For men, linen and cotton are both great options. Both fabrics are easy-care, and dry quickly. Lightweight, 100% cotton shirts such as the one below will keep you looking cool and crisp.
+For men, linen and cotton are both great options. Both fabrics are easy-care, and dry quickly. Lightweight, 100% cotton shirts such as the one below will keep you looking cool and crisp. 
 
 [![](http://3.bp.blogspot.com/_20LDsLnO2rk/TAfbOsdj_NI/AAAAAAAAAHs/tKS4LtMjCd0/s320/DSC06094.JPG)](http://3.bp.blogspot.com/_20LDsLnO2rk/TAfbOsdj_NI/AAAAAAAAAHs/tKS4LtMjCd0/s1600/DSC06094.JPG)
 

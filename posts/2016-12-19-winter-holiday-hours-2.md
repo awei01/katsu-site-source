@@ -1,11 +1,12 @@
 ---
 path: /2016/12/winter-holiday-hours-2/
 title: Winter Holiday Hours
+date: '2016-12-19'
 author: eboni
-categories: 
+categories:
   - style-tips
 tags: []
-featuredImage: 4975
+featuredImage: /uploads/2016/12/winter-holiday-hours.jpg
 ---
 ### Happy Holidays Everyone!
 

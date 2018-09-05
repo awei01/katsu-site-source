@@ -1,10 +1,11 @@
 ---
 path: /2013/11/meet-salim-an-eye-for-style-and-an-ear-for-sound/
 title: Meet Salim - An eye for style and an ear for sound
+date: '2013-11-19'
 author: sam
-categories: 
+categories:
   - our-clients
-tags: 
+tags:
   - 9tailors
   - bad rabbits
   - bespoke suiting
@@ -13,7 +14,7 @@ tags:
   - menswear
   - music
   - real clients
-featuredImage: 1127
+featuredImage: /uploads/2014/10/salim.jpg
 ---
 [![](http://3.bp.blogspot.com/-vu-kLT6pWao/UiixDNwCsOI/AAAAAAAADg8/mOJeao4b5UM/s640/BadRabbits-073.jpg)](http://3.bp.blogspot.com/-vu-kLT6pWao/UiixDNwCsOI/AAAAAAAADg8/mOJeao4b5UM/s1600/BadRabbits-073.jpg)
 
@@ -27,7 +28,8 @@ featuredImage: 1127
 
 **Occupation:** Musician, DJ and Audio Engineer
 
-**How long have you been a 9tailors client?**  "Eight months."
+ **How long have you been a 9tailors client?**
+"Eight months."
 
 **Why choose custom?**
 
@@ -39,7 +41,8 @@ featuredImage: 1127
 
 **What is your favorite piece from 9tailors? **
 
-"The whole suit itself, I can't choose one piece!" **How difficult is it to find garments that targets your specific needs and style?**
+"The whole suit itself, I can't choose one piece!"
+**How difficult is it to find garments that targets your specific needs and style?**
 
 "As I mentioned previously, for me it's very difficult. I always end up settling for something that's not exactly what I wanted."
 
@@ -47,10 +50,11 @@ featuredImage: 1127
 
 "Think outside the box and be bold, but clean!"
 
-_We hear that! The trick to accessorizing is all about balancing the look and keeping it clean and sharp._ See photos of Salim below, taken by our esteemed and amazing photographer, [Channing Johnson](http://www.channingjohnson.com/).
+ _We hear that! The trick to accessorizing is all about balancing the look and keeping it clean and sharp._
+ See photos of Salim below, taken by our esteemed and amazing photographer, [Channing Johnson](http://www.channingjohnson.com/).
 
 [![](http://4.bp.blogspot.com/-u_sjDk8REA0/Uiiyfe--HZI/AAAAAAAADhU/WyR1pzTMbiU/s640/BadRabbits-079.jpg)](http://4.bp.blogspot.com/-u_sjDk8REA0/Uiiyfe--HZI/AAAAAAAADhU/WyR1pzTMbiU/s1600/BadRabbits-079.jpg)
 
 [![](http://2.bp.blogspot.com/-53TSQUGQfiY/UiiynUEoHsI/AAAAAAAADhc/ftgmKR06glM/s640/BadRabbits-083.jpg)](http://2.bp.blogspot.com/-53TSQUGQfiY/UiiynUEoHsI/AAAAAAAADhc/ftgmKR06glM/s1600/BadRabbits-083.jpg)
 
-Looking to up the ante on your wardrobe? Email a Style Consultant at [info@9tailors.com](mailto:info@9tailors.com) to book an appointment.
+Looking to up the ante on your wardrobe? Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to book an appointment.

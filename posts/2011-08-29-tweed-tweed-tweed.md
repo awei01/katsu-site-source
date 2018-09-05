@@ -1,17 +1,18 @@
 ---
 path: /2011/08/tweed-tweed-tweed/
-title: tweed, Tweed, TWEED
+title: 'tweed, Tweed, TWEED'
+date: '2011-08-29'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens style
   - menswear
   - tweed
-featuredImage: 1696
+featuredImage: /uploads/2014/11/g3.jpg
 ---
 Well gentlemen, here you have it. Tweeds in every shade and weave. Request after request, we now have what you all seem to be craving. With fall lurking just around the corner here are some chunkier fabrics to usher in that cozy feeling that autumn brings.
 
@@ -33,4 +34,4 @@ This options has brown undertones and a chunkier weave without the geometric pat
 
 The swatch above has a herringbone pattern with warm brown tones. Great for separates or a full suit if you are feeling extra bold.
 
-Hungry for a piece of tweed? Send us an email at info@9tailors.com to set up an appointment or simply get more information.
+Hungry for a piece of tweed? Send us an email at {{ site.emails.info }} to set up an appointment or simply get more information.

@@ -1,10 +1,11 @@
 ---
 path: /2017/02/menswear-spring-summer-2017-trend-preview/
 title: Menswear Spring / Summer 2017 Trend Preview
+date: '2017-02-23'
 author: eboni
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - 9tailors Boston
   - Boston style
@@ -13,7 +14,7 @@ tags:
   - mens fashion
   - mens style
   - menswear
-featuredImage: 5261
+featuredImage: /uploads/2017/02/spring_summer_2017_trends.jpg
 ---
 With fashion constantly evolving it can be a bit hard to keep up with all the trends.  Not to mention the countless trends that you may think would be tough to incorporate into your everyday wardrobe. Trust us when we say finding new trends to try should be fun not an overwhelming process.
 
@@ -21,7 +22,9 @@ Here are a few of our favorites that we're looking forward to this season.
 
 #### **Light Wash Denim**
 
-80s and 90s nostalgia is in full effect with this one. Light wash denim is making a huge comeback this year. Seen on the streets of Europe for fashion week the powder blue hue was a definite fave among fashion week goers. ![](https://s-media-cache-ak0.pinimg.com/564x/ac/e0/d2/ace0d2a469c8081e07c4cf3db4a6ab0b.jpg)
+80s and 90s nostalgia is in full effect with this one. Light wash denim is making a huge comeback this year. Seen on the streets of Europe for fashion week the powder blue hue was a definite fave among fashion week goers.
+
+![](https://s-media-cache-ak0.pinimg.com/564x/ac/e0/d2/ace0d2a469c8081e07c4cf3db4a6ab0b.jpg)
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/f3/37/ee/f337ee2afc2f8b0d48f31dcce13f0336.jpg)
 
@@ -29,7 +32,9 @@ Here are a few of our favorites that we're looking forward to this season.
 
 #### **Camouflage**
 
-No longer reserved for hunters in the wilderness camo is making a bit of a comeback for 2017. Don't be afraid to experiment with color. You don't have to stick to the standard monochromatic green camouflage. Try shades of blue or grey for a more modern look. ![](https://s-media-cache-ak0.pinimg.com/564x/0c/bb/25/0cbb254642a23e1add6e23fb32b46827.jpg)
+No longer reserved for hunters in the wilderness camo is making a bit of a comeback for 2017. Don't be afraid to experiment with color. You don't have to stick to the standard monochromatic green camouflage. Try shades of blue or grey for a more modern look.
+
+![](https://s-media-cache-ak0.pinimg.com/564x/0c/bb/25/0cbb254642a23e1add6e23fb32b46827.jpg)
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/d8/c3/53/d8c353d5f2f6e9622595e1414ffb46bf.jpg)
 

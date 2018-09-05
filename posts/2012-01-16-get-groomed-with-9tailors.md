@@ -1,17 +1,18 @@
 ---
 path: /2012/01/get-groomed-with-9tailors/
 title: Get Groomed with 9tailors
+date: '2012-01-16'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
   - custom suiting
   - mens fashion
   - menswear
-featuredImage: 1065
+featuredImage: /uploads/2014/10/a5.jpg
 ---
 [![](http://www1.pictures.zimbio.com/mp/3c0JaMIPh5kl.jpg)](http://www1.pictures.zimbio.com/mp/3c0JaMIPh5kl.jpg)
 
@@ -27,4 +28,21 @@ Are you eclectic like Steven Tyler? Laid-back like Matthew McConaughey? Or, smo
 
 Photo by [Channing Johnson](http://www.channingjohnsonphoto.com/).
 
-Wedding FAQs: **1) How much is a custom designed suit and/or dress shirt? ** A custom suit starts at $490.50 and a custom dress shirt starts at $79. There are various fabric types and collections, which may increase the final price. There is a 15% discount of wedding parties of 3 or more. **2) How long does the whole process take?** We recommend starting no later than 2 months before the big day. While we can turn suits faster than that, we would prefer 2 months to produce the suit around and make any last minute alterations or adjustments. **3) Should I bring my fiance with me to the appointment?** Yes! We definitely recommend bringing your significant other or a responsible member of the wedding party with you. This is particularly important if your fiance has very specific vision of what she or he wants! **4) What should I bring with me to the appointment?** If you bring a swatch of her dress, bridesmaid dresses or table linen, that all helps us to pair colors to together! We also recommend bringing the shoes or any other accessory that you might be wearing to the wedding as well. **5) I am planning to lose/gain weight before the wedding. Will my suit and dress shirt fit? ** If you are planning to lose or gain weight, we will take your measurements during the first fitting. However, we will likely perform the alterations 1 month before the wedding or until you feel like your weight has stabilized. Have other questions about dressing your groom this wedding season? Let us know at [weddings@9tailors.com](mailto:weddings@9tailors.com).
+Wedding FAQs:
+
+**1) How much is a custom designed suit and/or dress shirt? **
+A custom suit starts at $490.50 and a custom dress shirt starts at $79. There are various fabric types and collections, which may increase the final price. There is a 15% discount of wedding parties of 3 or more.
+
+**2) How long does the whole process take?**
+We recommend starting no later than 2 months before the big day. While we can turn suits faster than that, we would prefer 2 months to produce the suit around and make any last minute alterations or adjustments.
+
+**3) Should I bring my fiance with me to the appointment?**
+Yes! We definitely recommend bringing your significant other or a responsible member of the wedding party with you. This is particularly important if your fiance has very specific vision of what she or he wants!
+
+**4) What should I bring with me to the appointment?**
+If you bring a swatch of her dress, bridesmaid dresses or table linen, that all helps us to pair colors to together! We also recommend bringing the shoes or any other accessory that you might be wearing to the wedding as well.
+
+**5) I am planning to lose/gain weight before the wedding. Will my suit and dress shirt fit? **
+If you are planning to lose or gain weight, we will take your measurements during the first fitting. However, we will likely perform the alterations 1 month before the wedding or until you feel like your weight has stabilized.
+
+Have other questions about dressing your groom this wedding season? Let us know at [{{ site.emails.weddings }}](mailto:{{ site.emails.weddings }}).

@@ -1,18 +1,19 @@
 ---
 path: /2011/06/were-in-the-knot-boston/
 title: We're in The Knot Boston
+date: '2011-06-28'
 author: sam
-categories: 
+categories:
   - press
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - boston
   - custom suit
   - menswear
   - the Knot
-featuredImage: 1740
+featuredImage: /uploads/2014/11/x1.jpg
 ---
 We're very excited as we just learned that one of our lovely couples has been featured in this month's [The Knot](http://www.theknot.com/) magazine!
 
@@ -26,6 +27,6 @@ The "Real Weddings" spread. Check out the groom's shirt and vest on the lower ri
 
 The lovely bride, Liana, is founder and executive director at [New Brahmin](http://www.newbrahmin.com/), a style and fashion blog. Her husband, Michael is the owner of one of Cambridge's newest and hippest restaurants, [Area Four](http://www.areafour.com/).
 
-Liana and Michael were married on a farm in Western Massachusetts. It was one part part [Ralph Lauren](http://www.ralphlauren.com/home/index.jsp?direct), one part cowboy and one part bad-ass. We made classic vests in a beautiful, textural gray herringbone and white oxford dress shirts. Both vest and shirts were accented in a velvety, brushed buffalo check in red and black. Check out [Emilie Inc. Photography](http://blog.emilieinc.net/2010/10/liana-and-michael-marry-in-berkshires.html) for additional photos.
+Liana and Michael were married on a farm in Western Massachusetts. It was one part part [Ralph Lauren](http://www.ralphlauren.com/home/index.jsp?direct), one part cowboy and one part bad-ass. We made classic vests in a beautiful, textural gray herringbone and white oxford dress shirts. Both vest and shirts were accented in a velvety, brushed buffalo check in red and black. Check out [Emilie Inc. Photography](http://blog.emilieinc.net/2010/10/liana-and-michael-marry-in-berkshires.html) for additional photos. 
 
-Need help with your fall wedding? E-mail us at [weddings@9tailors.com](mailto:weddings@9tailors.com).
+Need help with your fall wedding? E-mail us at [{{ site.emails.weddings }}](mailto:{{ site.emails.weddings }}).

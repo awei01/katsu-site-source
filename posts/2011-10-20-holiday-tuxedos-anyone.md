@@ -1,11 +1,12 @@
 ---
 path: /2011/10/holiday-tuxedos-anyone/
 title: Holiday Tuxedos Anyone?
+date: '2011-10-20'
 author: sam
-categories: 
+categories:
   - style-tips
   - weddings
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
@@ -13,7 +14,7 @@ tags:
   - menswear
   - tuxedos
   - wedding
-featuredImage: 1660
+featuredImage: /uploads/2014/11/q.jpg
 ---
 Holidays are continually pushed farther and farther back until eventually we will be decorating for Christmas in August. Well, at 9tailors we don't want to extend the holiday season, just make an appearance during the height of the festivities. That is why we want to give our clients a break on their holiday tuxedos and wrap up the season with a final suiting deal.
 
@@ -27,7 +28,7 @@ You can't beat the fit of a custom tuxedo. This is one of the most attractive qu
 
 Check out our client and model, Bryan, in his midnight blue tuxedo.
 
-With expert advice from a style consultant you will be the best dressed man at your Christmas party. Make an appointment today by emailing [info@9tailors.com](http://www.blogger.com/info@9tailors.com) and get started!
+With expert advice from a style consultant you will be the best dressed man at your Christmas party. Make an appointment today by emailing [{{ site.emails.info }}](http://{{ site.emails.info }}) and get started!
 
 Rules and Restrictions
 

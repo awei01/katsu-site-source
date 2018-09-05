@@ -1,11 +1,12 @@
 ---
 path: /2011/05/wedding-attire-for-same-sex-couples/
 title: Wedding Attire for Same-Sex Couples
+date: '2011-05-06'
 author: sam
-categories: 
+categories:
   - style-tips
   - weddings
-tags: 
+tags:
   - 9tailors
   - attire
   - bespoke
@@ -13,9 +14,13 @@ tags:
   - menswear
   - tips
   - weddings
-featuredImage: 1805
+featuredImage: null
 ---
-We are officially in wedding season at [9tailors](http://9tailors.com/)! We feel so happy and excited that we can be apart of such a special day. From casual weddings on a farm to stately weddings in a mansion, our couples tastes and styles couldn't be more diverse. Thankfully, our custom process is flexible enough to make our couples' visions come to life. We also work with many same-sex couples. But, one of the biggest dilemmas for same-sex couples, particularly for brides, is finding something that is not only sophisticated, but also reflective of their personal styles. Many brides are also not interested in getting married in a traditional gown either, so they turn to us for suiting or shirting. Here are some ideas for our same sex couples....
+We are officially in wedding season at [9tailors](http://9tailors.com/)! We feel so happy and excited that we can be apart of such a special day. From casual weddings on a farm to stately weddings in a mansion, our couples tastes and styles couldn't be more diverse. Thankfully, our custom process is flexible enough to make our couples' visions come to life.
+
+We also work with many same-sex couples. But, one of the biggest dilemmas for same-sex couples, particularly for brides, is finding something that is not only sophisticated, but also reflective of their personal styles. Many brides are also not interested in getting married in a traditional gown either, so they turn to us for suiting or shirting.
+
+Here are some ideas for our same sex couples....
 
 1) **Matching outfits.** While I this is not my favorite idea, I do like the continuity. One way to personalize each of the suits is to line the inside jacket with two complementary colors (typically the couple's wedding colors) inside the jacket. Or, if we're doing a three piece, I might even suggest choosing vest fabrics in two similar colors (e.g., one in a lighter hue and the other darker). See below George Takei and Brad Altman in matching dinner jackets and slacks.
 
@@ -35,4 +40,6 @@ Mark Cornelsen &TR Knight
 
 Portia DeRossi and Ellen DeGeneres
 
-There are so many unconventional and unique ideas that same-sex couples can choose from! Need suiting or shirting for your upcoming wedding? Contact us [here](mailto:info@9tailors.com).
+There are so many unconventional and unique ideas that same-sex couples can choose from!
+
+Need suiting or shirting for your upcoming wedding? Contact us [here](mailto:{{ site.emails.info }}).

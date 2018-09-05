@@ -1,17 +1,18 @@
 ---
 path: /2014/10/fall-wedding-inspiration-shoot-featuring-9tailors/
 title: Fall Wedding Inspiration Shoot featuring 9tailors
+date: '2014-10-06'
 author: elizabeth
-categories: 
+categories:
   - style-tips
   - weddings
-tags: 
+tags:
   - custom menswear
   - custom suit
   - mens fashion
   - menswear
   - wedding suit
-featuredImage: 858
+featuredImage: /uploads/2014/10/groom.jpg
 ---
 Having been featured in a fall wedding inspiration shoot (along with the talented teams at [HelloLove Photography](http://www.hellolovephoto.com/), [mStarr Event Design](http://www.mstarreventdesign.com/), [Ceremony Boston](http://www.ceremony-boston.com/) and a few others), we wanted to share volume IV of [mywedding -The Magazine](http://www.mywedding.com/). It is available online as well as a printable version that you can get [here](http://magazine.mywedding.com/).
 

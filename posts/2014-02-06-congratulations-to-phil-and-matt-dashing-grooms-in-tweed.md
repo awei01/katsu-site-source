@@ -1,12 +1,13 @@
 ---
 path: /2014/02/congratulations-to-phil-and-matt-dashing-grooms-in-tweed/
 title: Congratulations to Phil and Matt - Dashing grooms in tweed
+date: '2014-02-06'
 author: sam
-categories: 
+categories:
   - our-clients
   - style-tips
   - weddings
-tags: 
+tags:
   - LGBT
   - bespoke suiting
   - contrast lapel
@@ -17,9 +18,11 @@ tags:
   - same sex wedding
   - tweed
   - tweed suit
-featuredImage: 1092
+featuredImage: /uploads/2014/10/phil.jpg
 ---
-We love weddings, large and small. We had the chance to work with a very lovely couple, Phil and Matt several months ago on their intimate wedding in Boston.  Both work in creative industries, so they wanted their wedding attire to be unique, yet classic. When they decided upon two complementary gray tweed blazers with matching contrasts, we were beyond thrilled! When the blazers arrived in the studio and we had posted it online, it set our Facebook feed a blaze with rave reviews!
+We love weddings, large and small. We had the chance to work with a very lovely couple, Phil and Matt several months ago on their intimate wedding in Boston. 
+
+Both work in creative industries, so they wanted their wedding attire to be unique, yet classic. When they decided upon two complementary gray tweed blazers with matching contrasts, we were beyond thrilled! When the blazers arrived in the studio and we had posted it online, it set our Facebook feed a blaze with rave reviews!
 
 [![](http://1.bp.blogspot.com/-3V8X4HmclQY/Ut7cOHF59bI/AAAAAAAATkA/qHCnICmcQdU/s1600/1458776_10202213559127673_1617977757_n+(1).jpg)](http://1.bp.blogspot.com/-3V8X4HmclQY/Ut7cOHF59bI/AAAAAAAATkA/qHCnICmcQdU/s1600/1458776_10202213559127673_1617977757_n+(1).jpg)
 
@@ -39,4 +42,4 @@ What or who inspires your style? _You may laugh but... who was better dressed t
 
 Congratulations again to Matt and Phil!
 
-Need attire for your wedding? E-mail us at [info@9tailors.com.](http://info@9tailors.com./)
+Need attire for your wedding? E-mail us at [{{ site.emails.info }}.](http://{{ site.emails.info }}./)

@@ -1,10 +1,11 @@
 ---
 path: /2015/10/back-to-the-black-tie-basics/
 title: Back To The Black Tie Basics
+date: '2015-10-21'
 author: ivy
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - black tie
   - black tie guide
@@ -15,42 +16,46 @@ tags:
   - mens fashion
   - style tips
   - tuxedo
-featuredImage: 3654
+featuredImage: /uploads/2015/10/9609cd7b1c5c9b28bfdb4a9cc4bd5878.jpg
 ---
-Almost everyone can relate to the confusion and slight intimidation that usually accompanies the words “black tie optional” or “formal attire”, or even just “black tie”. “What does that even mean?”, might cross your mind while you try and scan the invitation for clues. Luckily, we have come up with a handy guide to the black tie basics for all you puzzled gentlemen out there. 
+Almost everyone can relate to the confusion and slight intimidation that usually accompanies the words "black tie optional" or "formal attire", or even just "black tie". "What does that even mean?", might cross your mind while you try and scan the invitation for clues. Luckily, we have come up with a handy guide to the black tie basics for all you puzzled gentlemen out there.
 
 ##### **Suits and Tuxedos**
 
-For most people, it is hard to tell the difference between a suit and a tux, but don’t worry, we’ve got you covered. To start, here are the primary physical differences: 
+For most people, it is hard to tell the difference between a suit and a tux, but don't worry, we've got you covered. To start, here are the primary physical differences:
 
 Tuxedo
 
-*   Jacket and pants are black or midnight blue
-*   Lapel and buttons are satin
-*   Trousers have a satin side stripe
-*   Lapel would be peaked, notched, or shawl
-*   Jacket can be double or single breasted
-*   A cummerbund is worn with the folds pointing upward
-*   A waistcoat can be worn instead, but only with a single-breasted jacket
+	*Jacket and pants are black or midnight blue
+	*Lapel and buttons are satin
+	*Trousers have a satin side stripe
+	*Lapel would be peaked, notched, or shawl
+	*Jacket can be double or single breasted
+	*A cummerbund is worn with the folds pointing upward
+	*A waistcoat can be worn instead, but only with a single-breasted jacket
 
 Suit
 
-*   Jacket and pants can be any color
-*   No satin
-*   The lapel can be any style
-*   Instead of a cummerbund or waistcoat, a regular vest is more common
+	*Jacket and pants can be any color
+	*No satin
+	*The lapel can be any style
+	*Instead of a cummerbund or waistcoat, a regular vest is more common
 
 Note: A three-piece suit is NOT a tuxedo
 
-  [![tuxvssuit](http://blog.9tailors.com/uploads/tuxvssuit.jpg)](http://blog.9tailors.com/uploads/tuxvssuit.jpg) 9tailors bonus tip: Shawl lapel = slimmer silhouette.  
+[![tuxvssuit]({{ site.baseUrl }}/uploads/tuxvssuit.jpg)]({{ site.baseUrl }}/uploads/tuxvssuit.jpg)
 
-##### **Shirts**
+9tailors bonus tip: Shawl lapel = slimmer silhouette.
 
-As far as shirts go, a regular button down shirt is not acceptable at a black tie affair. The convention is a white dress shirt with a turned down collar. The plackets are covered and the front panel is a heavier material, typically with texture. If you want to add a little flair without straying from tradition, try horizontal-ridged pleating on your tuxedo shirt. Below is what your shirt and tuxedo should look like put together. ****[![09d28afad38500b3d327d88c9d4a1518](http://blog.9tailors.com/uploads/2015/10/09d28afad38500b3d327d88c9d4a1518.jpg)](http://blog.9tailors.com/uploads/2015/10/09d28afad38500b3d327d88c9d4a1518.jpg)****    
+#####**Shirts**
+
+As far as shirts go, a regular button down shirt is not acceptable at a black tie affair. The convention is a white dress shirt with a turned down collar. The plackets are covered and the front panel is a heavier material, typically with texture. If you want to add a little flair without straying from tradition, try horizontal-ridged pleating on your tuxedo shirt. Below is what your shirt and tuxedo should look like put together.
+
+ ****[![09d28afad38500b3d327d88c9d4a1518]({{ site.baseUrl }}/uploads/2015/10/09d28afad38500b3d327d88c9d4a1518.jpg)]({{ site.baseUrl }}/uploads/2015/10/09d28afad38500b3d327d88c9d4a1518.jpg)**** 
 
 ##### **Grooming**
 
-Hair should be washed and brushed.  Similarly, you should be clean-shaven (unless you always have a beard or moustache). If you have a beard or moustache, make sure it is trimmed and brushed.  
+Hair should be washed and brushed.  Similarly, you should be clean-shaven (unless you always have a beard or moustache). If you have a beard or moustache, make sure it is trimmed and brushed.
 
 ##### **Accessories**
 
@@ -66,4 +71,4 @@ Belts: Belts are not usually worn. Opt for suspenders (black), or rely on the si
 
 Other: Studs and cuff links, in silver of course, are a must.
 
-  Now that you're all set up to look your best at the next black tie event you attend, be sure to contact us at info@9tailors for the perfect tux!
+Now that you're all set up to look your best at the next black tie event you attend, be sure to contact us at info@9tailors for the perfect tux!

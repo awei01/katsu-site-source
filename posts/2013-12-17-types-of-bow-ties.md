@@ -1,16 +1,17 @@
 ---
 path: /2013/12/types-of-bow-ties/
 title: Types of Bow Ties
+date: '2013-12-17'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - bow ties
   - mens accessories
   - mens fashion
   - menswear
   - menswear tips
-featuredImage: 1114
+featuredImage: /uploads/2014/10/tie.jpg
 ---
 Bow ties have come back into fashion just like the pocket square, only it more in the direction of quirky. From skull and crossbones, dinosaurs and owls to polka dots, stripes and paisley, they are popping up in casual wear to formal wear. No matter the pattern you choose or lack there of, they make the wearer look dapper and ever so smooth.
 
@@ -30,7 +31,8 @@ The bat-wing bow tie, also known as a "thistle" bow tie, is the most basic bow t
 
 [![](http://4.bp.blogspot.com/-jZXIsdkx1og/UrCNjlUpzPI/AAAAAAAAAkM/SxpsEuMKO34/s400/sean+connery,+source+-+lifestylemirror.jpg)](http://4.bp.blogspot.com/-jZXIsdkx1og/UrCNjlUpzPI/AAAAAAAAAkM/SxpsEuMKO34/s1600/sean+connery,+source+-+lifestylemirror.jpg)
 
-source: lifestylemirror Sean Connery in a bat-wing bow tie as the ever classic, James Bond
+source: lifestylemirror
+Sean Connery in a bat-wing bow tie as the ever classic, James Bond
 
 [![](http://1.bp.blogspot.com/-ETjnHdJu2K0/UrCLDyKLs5I/AAAAAAAAAjw/59mzyHZzNnU/s400/make+way+for+ducklings+-+bat_wing+-+oootie.jpg)](http://1.bp.blogspot.com/-ETjnHdJu2K0/UrCLDyKLs5I/AAAAAAAAAjw/59mzyHZzNnU/s1600/make+way+for+ducklings+-+bat_wing+-+oootie.jpg)
 
@@ -40,7 +42,8 @@ The butterfly bow tie makes it easy for first time-tiers to learn. Its shape giv
 
 [![](http://1.bp.blogspot.com/-Lns-jyHeoFc/UrCU03OdtgI/AAAAAAAAAkg/m_5SDNXvGMM/s320/bill+nye,+source+-+popularmechanics.jpg)](http://1.bp.blogspot.com/-Lns-jyHeoFc/UrCU03OdtgI/AAAAAAAAAkg/m_5SDNXvGMM/s1600/bill+nye,+source+-+popularmechanics.jpg)
 
-source: popularmechanics Bill Nye the Science Guy always wears a butterfly bow tie and has fun with them, even to this day!
+source: popularmechanics
+Bill Nye the Science Guy always wears a butterfly bow tie and has fun with them, even to this day!
 
 [![](http://1.bp.blogspot.com/-golbN5g8Z1A/UrCaD5Ekk7I/AAAAAAAAAk4/v45SRX6xeoU/s320/dinosaur+v4.0+bow+tie.jpeg)](http://1.bp.blogspot.com/-golbN5g8Z1A/UrCaD5Ekk7I/AAAAAAAAAk4/v45SRX6xeoU/s1600/dinosaur+v4.0+bow+tie.jpeg)
 
@@ -50,7 +53,8 @@ The diamond pointed bow tie is a hybrid between the butterfly and the bat-wing b
 
 [![](http://3.bp.blogspot.com/-Faotenx6TiQ/UrCYvW1_uGI/AAAAAAAAAks/Dc9B90Nh4Fc/s320/Swizz-Beatz,+source+-+gq.jpg)](http://3.bp.blogspot.com/-Faotenx6TiQ/UrCYvW1_uGI/AAAAAAAAAks/Dc9B90Nh4Fc/s1600/Swizz-Beatz,+source+-+gq.jpg)
 
-source: GQ Swizz Beatz making his outfit a touch classier with his bow tie but keeping it casual and light-hearted with the plaid, diamond shape.
+source: GQ
+Swizz Beatz making his outfit a touch classier with his bow tie but keeping it casual and light-hearted with the plaid, diamond shape.
 
 [![](http://4.bp.blogspot.com/-k0Donl6LXsI/UrCaR-UQNSI/AAAAAAAAAlA/r6JltjG-rpg/s320/fixie+bike+diamond+point+bow+tie.jpg)](http://4.bp.blogspot.com/-k0Donl6LXsI/UrCaR-UQNSI/AAAAAAAAAlA/r6JltjG-rpg/s1600/fixie+bike+diamond+point+bow+tie.jpg)
 
@@ -60,10 +64,13 @@ Don't forget, even if you don't tie your bow tie, you look very good with it dra
 
 [![](http://2.bp.blogspot.com/-R6hl2mV84Jc/UrCcDVT7v7I/AAAAAAAAAlM/G4rQKMJCHdI/s400/idris+elba,+source+-+pinterest.jpg)](http://2.bp.blogspot.com/-R6hl2mV84Jc/UrCcDVT7v7I/AAAAAAAAAlM/G4rQKMJCHdI/s1600/idris+elba,+source+-+pinterest.jpg)
 
-source: pinterest Idris Elba
+source: pinterest
+Idris Elba
 
 Don't know how to tie a bow tie? No Problem!
 
 [![](http://4.bp.blogspot.com/-3s_qc6Lm67M/UrC4vgvGOlI/AAAAAAAAS74/J2dU8sknhJo/s640/oootie_event_2013dec.jpg)](http://4.bp.blogspot.com/-3s_qc6Lm67M/UrC4vgvGOlI/AAAAAAAAS74/J2dU8sknhJo/s1600/oootie_event_2013dec.jpg)
 
-\*2 Bow Ties will be given away during this event Stay up to date with our events and promotions, email us at [info@9tailors.com](mailto:info@9tailors.com) and ask to sign up for our bi-monthly newsletters.
+\*2 Bow Ties will be given away during this event
+
+Stay up to date with our events and promotions, email us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and ask to sign up for our bi-monthly newsletters.

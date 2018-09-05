@@ -1,17 +1,18 @@
 ---
 path: /2011/06/get-this-award-winning-look-for-less/
 title: Get this Award-Winning Look for Less!
+date: '2011-06-15'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - fashion
   - menswear
   - style
-featuredImage: 1759
+featuredImage: /uploads/2014/11/57.jpg
 ---
 Michael Bastian has just won the [CFDA](http://www.cfda.com/)'s award for best menswear [designer of the year](http://www.nbcnewyork.com/blogs/threadny/THREAD-CFDA-Award-Nominee-Michael-Bastian-Takes-Control--Finds-Inspiration-in-a-Dressed-Up-Generation-123016613.html)! He is also the only designer to have his namesake collection nominated for the award every year since it's creation in 2006. His designs hit home with American classics sporting strategic pops of bright colors and alternative patterns. We have chosen a few ensembles from the Michael Bastian Spring/Summer Collection 2011 to inspire our readers:
 

@@ -1,19 +1,21 @@
 ---
 path: /2011/04/how-to-equip-your-closet-for-spring/
-title: How To: Equip your closet for Spring
+title: 'How To: Equip your closet for Spring'
+date: '2011-04-05'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - Spring
   - bespoke
   - custom suit
   - how to
   - menswear
-featuredImage: 1839
+featuredImage: null
 ---
-Lauren Antos, Mens style extraordinaire, outlines 6 key pieces for revamped spring ensembles.**6 Key pieces to add for Spring:**
+Lauren Antos, Mens style extraordinaire, outlines 6 key pieces for revamped spring ensembles.
+**6 Key pieces to add for Spring:**
 
 1\. [Utility](http://www.neimanmarcus.com/store/catalog/prod.jhtml?itemId=prod112280024&parentId=cat23690739&masterId=cat14810731&index=37&cmCat=cat000000cat000470cat14120827cat14810731cat23690739) or [Members Only Jacket](http://www.zara.com/webapp/wcs/stores/servlet/product/11719/en/zara-S2011/61164/199047/NYLON%2BJACKET).
 
@@ -24,8 +26,6 @@ Easy going enough for everyday wear, but can also be dressed up for a truly vers
 2\. Linen. Monochromatic white ensembles, pants, and [shirts](http://shop.nordstrom.com/s/burberry-linen-sport-shirt/3151926?origin=keywordsearch&resultback=2954).
 
 This trend is easily transcends the runway to everyday wear.
-
- 
 
 [![](http://1.bp.blogspot.com/-_RHpyPiYDKo/TZdrTBADcwI/AAAAAAAAALA/c9smogjpL9s/s400/monowhite.jpg)](http://1.bp.blogspot.com/-_RHpyPiYDKo/TZdrTBADcwI/AAAAAAAAALA/c9smogjpL9s/s1600/monowhite.jpg)
 
@@ -51,10 +51,10 @@ For those not-quite-summer nights.
 
 [![](http://4.bp.blogspot.com/-AxzN6zhwWJ0/TZs1835bm9I/AAAAAAAAALY/VapUDFtJ7L0/s320/1151152_fpx.jpg)](http://4.bp.blogspot.com/-AxzN6zhwWJ0/TZs1835bm9I/AAAAAAAAALY/VapUDFtJ7L0/s1600/1151152_fpx.jpg)
 
-6\. Relaxed casual suit in white,light blue, grey or seersucker.
+6. Relaxed casual suit in white,light blue, grey or seersucker.
 
 Suits can be playful without looking clownish.
 
 [![](http://2.bp.blogspot.com/-eKwdq5jU9vk/TZs1JWOLbbI/AAAAAAAAALI/_s26NxJhgao/s320/erez.jpg)](http://2.bp.blogspot.com/-eKwdq5jU9vk/TZs1JWOLbbI/AAAAAAAAALI/_s26NxJhgao/s1600/erez.jpg)
 
-Let [**9tailors**](http://9tailors.blogspot.com/www.9tailors.com) know if you have any questions about your spring wardrobe, or if you need a more hands on approach, feel free to [e-mail](mailto:lauren.antos@gmail.com) Lauren.
+Let [**9tailors**](http://www.9tailors.com) know if you have any questions about your spring wardrobe, or if you need a more hands on approach, feel free to [e-mail](mailto:lauren.antos@gmail.com) Lauren.

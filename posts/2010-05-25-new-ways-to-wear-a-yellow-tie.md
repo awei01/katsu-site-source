@@ -1,16 +1,17 @@
 ---
 path: /2010/05/new-ways-to-wear-a-yellow-tie/
 title: New Ways to Wear a Yellow Tie?
+date: '2010-05-25'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 2071
+featuredImage: null
 ---
 Hello all! Here is the beginning of our design board post series this week.
 

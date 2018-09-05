@@ -1,17 +1,18 @@
 ---
 path: /2011/10/seeing-double-fall-2011-trends/
 title: Seeing Double- Fall 2011 Trends
+date: '2011-10-05'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - Trends
   - bespoke
   - custom suit
   - fashion
   - menswear
-featuredImage: 1669
+featuredImage: /uploads/2014/11/27.jpg
 ---
 While women's fashion is volatile and swiftly changing, the fashion moguls of men's wear tend to employ more subtle changes. Last season we saw a spike in three-piece suits. This season we're seeing double- double breasted that is. Small changes to the classic suit make for bold statements in the world of suits. Here are a few examples off the runway.
 
@@ -27,4 +28,4 @@ Proportions are also key when concerning double breasted jackets. Carefully look
 
 Peaked lapels are also very attractive in a double breasted jacket, or coat, as they accentuate the shoulders. Since there is more fabric over one's midsection the peaked lapels draw the eye out to prevent a bulky look.
 
-Ready to design a cutting edge suit for the season? Email a style consultant for an appointment at [info@9tailors.com](http://www.blogger.com/info@9tailors.com).
+Ready to design a cutting edge suit for the season? Email a style consultant for an appointment at [{{ site.emails.info }}](http://{{ site.emails.info }}).

@@ -1,10 +1,11 @@
 ---
 path: /2011/02/wedneday-get-this/
 title: Wedneday - Get This
+date: '2011-02-16'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -12,7 +13,7 @@ tags:
   - mens fashion
   - menswear
   - spring trends
-featuredImage: 1896
+featuredImage: null
 ---
 With temperatures flirting with the 50s in Boston, it's easy to get excited for spring! Instead of heavy jackets and snow boots, try boat shoes. They're preptatistic! And, they come in some truly amazing colors!
 

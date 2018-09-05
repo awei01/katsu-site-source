@@ -1,26 +1,27 @@
 ---
 path: /2010/08/perfectly-plaid/
 title: Perfectly Plaid
+date: '2010-08-17'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 1957
+featuredImage: null
 ---
-I know we've been doing a lot on suits lately, but for those of you who don't like get suited up, have no fear! We haven't forgotten about you. Check out these cozy-chic options for your fall wardrobe.
+I know we've been doing a lot on suits lately, but for those of you who don't like get suited up, have no fear! We haven't forgotten about you. Check out these cozy-chic options for your fall wardrobe. 
 
 [![](http://3.bp.blogspot.com/_20LDsLnO2rk/TGrLy_Q3_3I/AAAAAAAABJs/3j425mc6ApI/s400/DSC06851.JPG)](http://3.bp.blogspot.com/_20LDsLnO2rk/TGrLy_Q3_3I/AAAAAAAABJs/3j425mc6ApI/s1600/DSC06851.JPG)
 
-chocolate, hazelnut, & soft grey plaid
+chocolate, hazelnut, & soft grey plaid 
 
 [![](http://2.bp.blogspot.com/_20LDsLnO2rk/TGrLyYiQ2PI/AAAAAAAABJk/CcUY73GbIxs/s400/DSC06849.JPG)](http://2.bp.blogspot.com/_20LDsLnO2rk/TGrLyYiQ2PI/AAAAAAAABJk/CcUY73GbIxs/s1600/DSC06849.JPG)
 
-buffalo plaid in the classic red & black
+buffalo plaid in the classic red & black 
 
 [![](http://2.bp.blogspot.com/_20LDsLnO2rk/TGrLxjsDW6I/AAAAAAAABJc/pE2KEtTchI0/s400/DSC06847.JPG)](http://2.bp.blogspot.com/_20LDsLnO2rk/TGrLxjsDW6I/AAAAAAAABJc/pE2KEtTchI0/s1600/DSC06847.JPG)
 
@@ -34,4 +35,4 @@ soft grey, midnight, & snow white plaid
 
 soft white, grey, & fawn plaid
 
-Want to get a kick start to your fall wardrobe? Make an appointment today with a 9tailors stylist. Click [here](http://beta.9tailors.com/).
+Want to get a kick start to your fall wardrobe? Make an appointment today with a 9tailors stylist. Click [here](http://9tailors.com/).

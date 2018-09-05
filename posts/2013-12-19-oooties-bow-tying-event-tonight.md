@@ -1,11 +1,12 @@
 ---
 path: /2013/12/oooties-bow-tying-event-tonight/
 title: oOotie's Bow Tying Event Tonight!
+date: '2013-12-19'
 author: sam
-categories: 
+categories:
   - style-tips
   - weddings
-tags: 
+tags:
   - bow ties
   - how to tie a bow tie
   - mens accessories
@@ -14,7 +15,7 @@ tags:
   - menswear tips
   - oootie
   - style tips
-featuredImage: 1112
+featuredImage: /uploads/2014/10/bowtie.png
 ---
 [![](http://2.bp.blogspot.com/-g7axeWJcPhk/UrMe-0r8DsI/AAAAAAAAAmU/m25WPJowrp8/s400/545881_716042841757288_949865890_n.png)](http://2.bp.blogspot.com/-g7axeWJcPhk/UrMe-0r8DsI/AAAAAAAAAmU/m25WPJowrp8/s1600/545881_716042841757288_949865890_n.png)
 
@@ -42,4 +43,4 @@ Bow ties received a major push towards mainstream with the help of Justin Timber
 
 source: werdplai 
 
-Interested in keeping up to date with our events? Want to know more about accessories or coordinating? Contact a style consultant info@9tailors.com
+Interested in keeping up to date with our events? Want to know more about accessories or coordinating? Contact a style consultant {{ site.emails.info }}

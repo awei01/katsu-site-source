@@ -1,10 +1,11 @@
 ---
 path: /2012/04/how-to-pack-your-suit-for-travel/
-title: How to: Pack Your Suit for Travel
+title: 'How to: Pack Your Suit for Travel'
+date: '2012-04-27'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -13,7 +14,7 @@ tags:
   - mens fashion
   - menswear
   - menswear tips
-featuredImage: 1001
+featuredImage: /uploads/2014/10/p.jpg
 ---
 Whether you're traveling by train, plane, or automobile, there's nothing worse than scurrying to find a dry cleaner to press your suit once you've reached your final destination. While some might attempt to squeeze a suit into a suitcase to avoid that $25 stow-away fee, you should always transport your fine-looking ensemble in style. If you wear suits often, best invest in a reliable luggage carrier.
 
@@ -43,23 +44,28 @@ The ultimate mode of transport. Hey, if you have the loot and you want to invest
 
 [![](http://ak2.polyvoreimg.com/cgi/img-thing/size/s/tid/41447986.jpg)](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=41447986)
 
-[Valextra garment bag](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=41447986) $2,890 - barneys.com  
+[Valextra garment bag](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=41447986)
+$2,890 - barneys.com
 
 [![](http://ak2.polyvoreimg.com/cgi/img-thing/size/s/tid/45295796.jpg)](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=45295796)
 
-[Leather handbag](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=45295796) $495 - bloomingdales.com  
+[Leather handbag](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=45295796)
+$495 - bloomingdales.com
 
 [![](http://ak1.polyvoreimg.com/cgi/img-thing/size/s/tid/51819242.jpg)](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=51819242)
 
-[Aspinal of London Aspinal Leather & Canvas Suit Carrier](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=51819242) $729 - aspinaloflondon.com  
+[Aspinal of London Aspinal Leather & Canvas Suit Carrier](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=51819242)
+$729 - aspinaloflondon.com
 
 [![](http://ak1.polyvoreimg.com/cgi/img-thing/size/s/tid/42929578.jpg)](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=42929578)
 
-[Henry Suit Carrier Black Textured Nylon](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=42929578) $750 - mulberry.com  
+[Henry Suit Carrier Black Textured Nylon](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=42929578)
+$750 - mulberry.com
 
 [![](http://ak2.polyvoreimg.com/cgi/img-thing/size/s/tid/51819201.jpg)](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=51819201)
 
-[Aspinal of London Aspinal Leather & Canvas Suit Carrier](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=51819201) $729 - aspinaloflondon.com  
+[Aspinal of London Aspinal Leather & Canvas Suit Carrier](http://www.polyvore.com/cgi/thing.outbound?.embedder=3494903&.svc=copypaste&id=51819201)
+$729 - aspinaloflondon.com
 
 However, there are more affordable options available that won't break the bank. Check [here](http://www.luggageonline.com/) for some less fancy, perfectly reasonable suit carriers that still do the trick.
 
@@ -69,4 +75,6 @@ However, there are more affordable options available that won't break the bank. 
 
 [![](http://4.bp.blogspot.com/-LSMolePTvdI/T5rBUrXL-SI/AAAAAAAAAN8/9mTWuh19fIw/s320/Screen+shot+2012-04-27+at+11.52.15+AM.png)](http://4.bp.blogspot.com/-LSMolePTvdI/T5rBUrXL-SI/AAAAAAAAAN8/9mTWuh19fIw/s1600/Screen+shot+2012-04-27+at+11.52.15+AM.png)
 
-How do you travel with your suit or tuxedo? Any of these options? None of the above? Email me your packing tips [kimberly@9tailors.com](mailto:kimberly@9tailors.com) Need a new dress shirt, tuxedo, or suit for a special occasion in another land? Email [info@9tailors.com](mailto:info@9tailors.com) and schedule an appointment to design some custom threads and be the talk of your event.
+How do you travel with your suit or tuxedo? Any of these options? None of the above? Email me your packing tips [kimberly@9tailors.com](mailto:kimberly@9tailors.com)
+
+Need a new dress shirt, tuxedo, or suit for a special occasion in another land? Email [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and schedule an appointment to design some custom threads and be the talk of your event.

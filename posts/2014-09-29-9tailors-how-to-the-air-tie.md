@@ -1,10 +1,11 @@
 ---
 path: /2014/09/9tailors-how-to-the-air-tie/
-title: 9tailors How To: The Air Tie
+title: '9tailors How To: The Air Tie'
+date: '2014-09-29'
 author: elizabeth
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - bespoke
   - custom
   - how to
@@ -14,7 +15,7 @@ tags:
   - menswear
   - menswear advice
   - menswear how to
-featuredImage: 861
+featuredImage: /uploads/2014/10/mickjagger.jpg
 ---
 While some may want to, few dare to sport the risquè air tie. Being a look that has gone in and out of style many a time, it takes no small amount of courage to wear. But if you have 'em, you can nail the look and stand out in all the right ways.
 
@@ -38,4 +39,4 @@ Here's how to do it:
 
 [LensCAP Productions](http://www.lenscapproductions.com/index2.php)
 
-There you have it, a few good ways to rock the air tie! Custom suits, shirts and (despite the irony) ties are available at [9tailors](http://www.9tailors.com/). Contact us at info@9tailors.com to make an appointment with a style consultant.
+There you have it, a few good ways to rock the air tie! Custom suits, shirts and (despite the irony) ties are available at [9tailors](http://www.9tailors.com/). Contact us at {{ site.emails.info }} to make an appointment with a style consultant.

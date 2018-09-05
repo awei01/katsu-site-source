@@ -1,19 +1,20 @@
 ---
 path: /2010/08/9tailors-photo-shoot-behind-the-scenes/
 title: 9tailors Photo Shoot Behind the Scenes
+date: '2010-08-25'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
   - photo shoot
-featuredImage: 1949
+featuredImage: null
 ---
-[![](http://4.bp.blogspot.com/_20LDsLnO2rk/THaZdnMtf9I/AAAAAAAABVg/Gb8Q-u97a-s/s800/DSC07027.JPG)](http://4.bp.blogspot.com/_20LDsLnO2rk/THaZdnMtf9I/AAAAAAAABVg/Gb8Q-u97a-s/s1600/DSC07027.JPG)  
+[![](http://4.bp.blogspot.com/_20LDsLnO2rk/THaZdnMtf9I/AAAAAAAABVg/Gb8Q-u97a-s/s800/DSC07027.JPG)](http://4.bp.blogspot.com/_20LDsLnO2rk/THaZdnMtf9I/AAAAAAAABVg/Gb8Q-u97a-s/s1600/DSC07027.JPG)
 
 A family of 9tailors suits and suit separates, photographed in our photo shoot yesterday.
 
@@ -21,17 +22,17 @@ A family of 9tailors suits and suit separates, photographed in our photo shoot y
 
 Zebra print lining with hot pink welted edge inside the woman's black blazer. So cute!
 
-[![](http://1.bp.blogspot.com/_20LDsLnO2rk/THaY-kcqNOI/AAAAAAAABVQ/cGGPTSlQC34/s800/DSC07033.JPG)](http://1.bp.blogspot.com/_20LDsLnO2rk/THaY-kcqNOI/AAAAAAAABVQ/cGGPTSlQC34/s1600/DSC07033.JPG)  [![](http://1.bp.blogspot.com/_20LDsLnO2rk/THaY-J6owAI/AAAAAAAABVI/ecD33GQUZqA/s800/DSC07030.JPG)](http://1.bp.blogspot.com/_20LDsLnO2rk/THaY-J6owAI/AAAAAAAABVI/ecD33GQUZqA/s1600/DSC07030.JPG)
+[![](http://1.bp.blogspot.com/_20LDsLnO2rk/THaY-kcqNOI/AAAAAAAABVQ/cGGPTSlQC34/s800/DSC07033.JPG)](http://1.bp.blogspot.com/_20LDsLnO2rk/THaY-kcqNOI/AAAAAAAABVQ/cGGPTSlQC34/s1600/DSC07033.JPG)[![](http://1.bp.blogspot.com/_20LDsLnO2rk/THaY-J6owAI/AAAAAAAABVI/ecD33GQUZqA/s800/DSC07030.JPG)](http://1.bp.blogspot.com/_20LDsLnO2rk/THaY-J6owAI/AAAAAAAABVI/ecD33GQUZqA/s1600/DSC07030.JPG)
 
-It's the details that count: purple stitching inside of the buttons.
+It's the details that count: purple stitching inside of the buttons. 
 
 [![](http://4.bp.blogspot.com/_20LDsLnO2rk/THaY9nMlyRI/AAAAAAAABVA/xAHdBxrOSt4/s800/DSC07029.JPG)](http://4.bp.blogspot.com/_20LDsLnO2rk/THaY9nMlyRI/AAAAAAAABVA/xAHdBxrOSt4/s1600/DSC07029.JPG)
 
 A pretty ruffled 9tailors tunic worn with the black skirt suit.
 
-[![](http://4.bp.blogspot.com/_20LDsLnO2rk/THaY865wgrI/AAAAAAAABU4/HixzCrO8AC8/s800/DSC07028.JPG)](http://4.bp.blogspot.com/_20LDsLnO2rk/THaY865wgrI/AAAAAAAABU4/HixzCrO8AC8/s1600/DSC07028.JPG)  [![](http://1.bp.blogspot.com/_20LDsLnO2rk/THWCl0dSvaI/AAAAAAAABTI/b8X5PLpIPcs/s800/DSC07022.JPG)](http://1.bp.blogspot.com/_20LDsLnO2rk/THWCl0dSvaI/AAAAAAAABTI/b8X5PLpIPcs/s1600/DSC07022.JPG)
+[![](http://4.bp.blogspot.com/_20LDsLnO2rk/THaY865wgrI/AAAAAAAABU4/HixzCrO8AC8/s800/DSC07028.JPG)](http://4.bp.blogspot.com/_20LDsLnO2rk/THaY865wgrI/AAAAAAAABU4/HixzCrO8AC8/s1600/DSC07028.JPG)[![](http://1.bp.blogspot.com/_20LDsLnO2rk/THWCl0dSvaI/AAAAAAAABTI/b8X5PLpIPcs/s800/DSC07022.JPG)](http://1.bp.blogspot.com/_20LDsLnO2rk/THWCl0dSvaI/AAAAAAAABTI/b8X5PLpIPcs/s1600/DSC07022.JPG)
 
-Magenta mini check lines the inside of the collar.
+Magenta mini check lines the inside of the collar. 
 
 [![](http://4.bp.blogspot.com/_20LDsLnO2rk/THWClFx4b8I/AAAAAAAABTA/JkLu2xT-5Ac/s800/DSC07021.JPG)](http://4.bp.blogspot.com/_20LDsLnO2rk/THWClFx4b8I/AAAAAAAABTA/JkLu2xT-5Ac/s1600/DSC07021.JPG)
 
@@ -39,7 +40,7 @@ Black floral accents spice up this crisp white shirt.
 
 [![](http://1.bp.blogspot.com/_20LDsLnO2rk/THWCkhg7F8I/AAAAAAAABS4/N0EMaDs32Hc/s800/DSC07017.JPG)](http://1.bp.blogspot.com/_20LDsLnO2rk/THWCkhg7F8I/AAAAAAAABS4/N0EMaDs32Hc/s1600/DSC07017.JPG)
 
-Model, Diego, poses in his 9tailors "wedding" look complete with a boutonniere from [Hanaya Floral.](http://www.hanayafloral.com/)
+Model, Diego, poses in his 9tailors "wedding" look complete with a boutonniere from [Hanaya Floral.](http://www.hanayafloral.com/) 
 
 [![](http://4.bp.blogspot.com/_20LDsLnO2rk/THWCkEQQ7QI/AAAAAAAABSw/0L7vB8_9P_0/s800/DSC07013.JPG)](http://4.bp.blogspot.com/_20LDsLnO2rk/THWCkEQQ7QI/AAAAAAAABSw/0L7vB8_9P_0/s1600/DSC07013.JPG)
 

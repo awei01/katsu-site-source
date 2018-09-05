@@ -1,15 +1,16 @@
 ---
 path: /2011/09/business-of-making-clones/
 title: Business of Making Clones
+date: '2011-09-19'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - menswear
-featuredImage: 1676
+featuredImage: /uploads/2014/11/65.jpg
 ---
 Style comes in many different forms. Some relish in their ability to stand out from the crowd with outlandish, original, occasionally offensive forms of clothing. ([See Gaga](http://lady-gaga-style.blogspot.com/)) Yet others pride themselves in masterfully tailored garments in quiet hues and minimal patterns ([See James Bond](http://www.jamesbondlifestyle.com/index_articles.php?m=articles&g=art081202)).
 
@@ -19,4 +20,4 @@ Regardless of your style orientation we can reproduce your favorite piece. Ever 
 
 Not only will you get a garment that fits like a glove, but we have thousands of fabrics to choose from so you can finally get in it every color of the rainbow.
 
-Send the miracle workers at 9tailors an email if you're looking to recreate a garment at [info@9tailors.com](http://www.blogger.com/info@9tailors.com).
+Send the miracle workers at 9tailors an email if you're looking to recreate a garment at [{{ site.emails.info }}](http://{{ site.emails.info }}).

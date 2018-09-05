@@ -1,10 +1,11 @@
 ---
 path: /2014/04/buy-a-suit-get-a-shirt/
-title: Buy a Suit, Get a Shirt!
+title: 'Buy a Suit, Get a Shirt!'
+date: '2014-04-01'
 author: sam
-categories: 
+categories:
   - events-promotions
-tags: 
+tags:
   - BOGO
   - affordable custom clothing
   - buy one get one
@@ -13,7 +14,7 @@ tags:
   - mens fashion
   - menswear sale
   - suit sale
-featuredImage: 888
+featuredImage: /uploads/2014/10/robert.jpg
 ---
 [![](http://4.bp.blogspot.com/-lL9ZYpT_wpA/UzsJbUC03zI/AAAAAAAAB0Q/MKhqRjowre4/s1600/20120414-9tailors-1690.jpg)](http://4.bp.blogspot.com/-lL9ZYpT_wpA/UzsJbUC03zI/AAAAAAAAB0Q/MKhqRjowre4/s1600/20120414-9tailors-1690.jpg)
 
@@ -29,12 +30,14 @@ restrictions apply
 
 \*Promotions cannot be combined
 
-\*Shirt credit cannot be gifted to someone else, must be used by client purchasing suit \*Must be redeemed in the same appointment \*Applies for Super 150 suiting and above only
+\*Shirt credit cannot be gifted to someone else, must be used by client purchasing suit
+\*Must be redeemed in the same appointment
+\*Applies for Super 150 suiting and above only
 
 \*cannot be redeemed for cash or cash equivalent 
 
 \*expires 4/30/2014
 
-Book an appointment with a style consultant at info@9tailors.com!
+Book an appointment with a style consultant at {{ site.emails.info }}!
 
 Photograph by [Channing Johnson](http://www.channingjohnson.com/)

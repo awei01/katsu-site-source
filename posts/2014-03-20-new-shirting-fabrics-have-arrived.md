@@ -1,17 +1,18 @@
 ---
 path: /2014/03/new-shirting-fabrics-have-arrived/
 title: New shirting fabrics have arrived!
+date: '2014-03-20'
 author: sam
-categories: 
+categories:
   - style-tips
   - weddings
-tags: 
+tags:
   - bespoke menswear
   - custom clothing
   - custom shirts
   - mens fashion
   - menswear
-featuredImage: 896
+featuredImage: /uploads/2014/10/springpatts.jpg
 ---
 New season. New spring shirting. Here's a sneak peak at some of the new spring shirting. Shirts start at $79.00. The ones below are some of our favorites for this season.
 

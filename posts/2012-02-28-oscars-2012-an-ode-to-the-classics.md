@@ -1,10 +1,11 @@
 ---
 path: /2012/02/oscars-2012-an-ode-to-the-classics/
-title: Oscars 2012: An Ode to the Classics
+title: 'Oscars 2012: An Ode to the Classics'
+date: '2012-02-28'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -12,9 +13,11 @@ tags:
   - mens fashion
   - menswear
   - oscars 2012
-featuredImage: 1041
+featuredImage: /uploads/2014/10/bbbbb.jpg
 ---
-Not only did we bring back silent films this year, but we saw the majority of the male attendants bringing back classic tuxedo lines and accents.  Shawl, and peaked lapels were the order of the day with a few notched thrown in.  Despite seeing a serious trend towards the classic everyone seemed to have a specific twist to their look that set their traditional attire apart from the rest. The following two gentlemen have accessories that pop.  [Robert Downey Jr](http://en.wikipedia.org/wiki/Robert_Downey,_Jr.). has been featured on the blog several times because of his consistent tasteful approach to quirky.  Sadly, this time I have to say he missed the mark with this over-sized and overly-bedazzled bowtie.  Leave the glitter at home. Despite the added bling we can commend him for his well fitted tux. And, hey, [Gwyneth](http://en.wikipedia.org/wiki/Gwyneth_Paltrow) seems to like it.
+Not only did we bring back silent films this year, but we saw the majority of the male attendants bringing back classic tuxedo lines and accents.  Shawl, and peaked lapels were the order of the day with a few notched thrown in.  Despite seeing a serious trend towards the classic everyone seemed to have a specific twist to their look that set their traditional attire apart from the rest.
+
+The following two gentlemen have accessories that pop.  [Robert Downey Jr](http://en.wikipedia.org/wiki/Robert_Downey,_Jr.). has been featured on the blog several times because of his consistent tasteful approach to quirky.  Sadly, this time I have to say he missed the mark with this over-sized and overly-bedazzled bowtie.  Leave the glitter at home. Despite the added bling we can commend him for his well fitted tux. And, hey, [Gwyneth](http://en.wikipedia.org/wiki/Gwyneth_Paltrow) seems to like it.
 
 [![](http://3.bp.blogspot.com/-Y4q5_F1bSug/T0wI1blmbWI/AAAAAAAABLA/RJmKQwlwGWk/s320/RobertDowneyJr.jpg)](http://3.bp.blogspot.com/-Y4q5_F1bSug/T0wI1blmbWI/AAAAAAAABLA/RJmKQwlwGWk/s1600/RobertDowneyJr.jpg)
 
@@ -66,4 +69,4 @@ Despite the hordes of young men, [Christopher Plummer](http://en.wikipedia.org/w
 
 [Christopher Plummer](http://www.imdb.com/name/nm0001626/) Courtesy of Getty Images
 
-Getting ready for a black tie event?  Let us help you design a look that will set you apart from the other suits out there.  Send a style consultant an email at [info@9tailors.com](mailto:info@9tailors.com) to set up an appointment today.
+Getting ready for a black tie event?  Let us help you design a look that will set you apart from the other suits out there.  Send a style consultant an email at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to set up an appointment today.

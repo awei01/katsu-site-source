@@ -1,11 +1,12 @@
 ---
 path: /2014/04/congratulations-to-marc-and-jen/
 title: Congratulations to Marc and Jen!
+date: '2014-04-18'
 author: sam
-categories: 
+categories:
   - our-clients
   - weddings
-tags: 
+tags:
   - 9tailors wedding
   - bespoke suiting
   - boston marathon
@@ -17,9 +18,11 @@ tags:
   - marriage
   - real clients
   - wedding suit
-featuredImage: 882
+featuredImage: /uploads/2014/10/marc-fucarile-wedding-love-runs_0007.jpg
 ---
-You've been following our journey to help Boston Marathon tragedy survivor, Marc Fucarile, and his wife, Jennifer Regan, in their wedding planning for the last few weeks. We met Marc and Jen back in February and designed gorgeous suits for Marc and their son, Gavin. Last night, the couple were married at [Fenway Park](http://boston.redsox.mlb.com/bos/ballpark/) and celebrated their special day at the elegant, [Hotel Commonwealth](http://www.hotelcommonwealth.com/index.cfm). While temperatures hovered around 40_°_, their story of love, courage and endurance warmed our hearts. Here's a sneak peak of the festivities last night! Congratulations to our beautiful couple!
+You've been following our journey to help Boston Marathon tragedy survivor, Marc Fucarile, and his wife, Jennifer Regan, in their wedding planning for the last few weeks. We met Marc and Jen back in February and designed gorgeous suits for Marc and their son, Gavin. Last night, the couple were married at [Fenway Park](http://boston.redsox.mlb.com/bos/ballpark/) and celebrated their special day at the elegant, [Hotel Commonwealth](http://www.hotelcommonwealth.com/index.cfm). While temperatures hovered around 40_°_, their story of love, courage and endurance warmed our hearts.
+
+Here's a sneak peak of the festivities last night! Congratulations to our beautiful couple!
 
 [![](http://4.bp.blogspot.com/-4d7BeNYH0Eg/U1ElHpc9g1I/AAAAAAAAVpE/ij18Xx_-P08/s1600/marc-fucarile-wedding-love-runs_0015.jpg)](http://4.bp.blogspot.com/-4d7BeNYH0Eg/U1ElHpc9g1I/AAAAAAAAVpE/ij18Xx_-P08/s1600/marc-fucarile-wedding-love-runs_0015.jpg)
 
@@ -81,4 +84,4 @@ Fenway Park
 
 Hotel Commonwealth
 
-To contact a Style Consultant, please email us at [info@9tailors.com](mailto:info@9tailors.com).
+To contact a Style Consultant, please email us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}).

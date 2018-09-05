@@ -1,16 +1,17 @@
 ---
 path: /2010/06/reinvent-your-wardrobe-with-a-few-small-pieces/
 title: Reinvent Your Wardrobe with a Few Small Pieces!
+date: '2010-06-22'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 2020
+featuredImage: null
 ---
 [![](http://3.bp.blogspot.com/_20LDsLnO2rk/TCD2tcAPWCI/AAAAAAAAAY4/2_2gpRuf1sE/s320/il_430xN.153206348.jpg)](http://3.bp.blogspot.com/_20LDsLnO2rk/TCD2tcAPWCI/AAAAAAAAAY4/2_2gpRuf1sE/s1600/il_430xN.153206348.jpg)Vintage mother-of-pearl buttons from VinageSewandSew's store on Etsy. View them [here](http://www.etsy.com/listing/49969563/antique-ornate-amber-gold-glass-button?ref=sr_gallery_4&ga_search_query=glass+buttons&ga_search_type=all&ga_page=&order=&includes%5B%5D=tags&includes%5B%5D=title). 
 
@@ -20,14 +21,14 @@ Most clothing comes with cheap plastic buttons. Replacing these buttons (think o
 
 [![](http://2.bp.blogspot.com/_20LDsLnO2rk/TCD1vHQbl0I/AAAAAAAAAYw/kPBbv6JNeBw/s320/il_430xN.153207619.jpg)](http://2.bp.blogspot.com/_20LDsLnO2rk/TCD1vHQbl0I/AAAAAAAAAYw/kPBbv6JNeBw/s1600/il_430xN.153207619.jpg)Rhinestone and freshwater pearl buttons from lacemonster816's store on [Etsy](http://www.etsy.com/listing/49970299/a-spoon-full-of-joy-vintage-pearls?ref=sr_gallery_1&ga_search_query=buttons&ga_search_type=vintage&ga_page=&order=&includes%5B%5D=tags&includes%5B%5D=title).
 
-[![](http://3.bp.blogspot.com/_20LDsLnO2rk/TCD1u3y1yuI/AAAAAAAAAYo/ZV5dKHmsmGE/s320/il_430xN.153204632.jpg)](http://3.bp.blogspot.com/_20LDsLnO2rk/TCD1u3y1yuI/AAAAAAAAAYo/ZV5dKHmsmGE/s1600/il_430xN.153204632.jpg)Amber-gold vintage buttons from treasurebooth's store on Etsy. Check it out [here](http://www.etsy.com/listing/49969563/antique-ornate-amber-gold-glass-button?ref=sr_gallery_4&ga_search_query=glass+buttons&ga_search_type=all&ga_page=&order=&includes%5B%5D=tags&includes%5B%5D=title).
+[![](http://3.bp.blogspot.com/_20LDsLnO2rk/TCD1u3y1yuI/AAAAAAAAAYo/ZV5dKHmsmGE/s320/il_430xN.153204632.jpg)](http://3.bp.blogspot.com/_20LDsLnO2rk/TCD1u3y1yuI/AAAAAAAAAYo/ZV5dKHmsmGE/s1600/il_430xN.153204632.jpg)Amber-gold vintage buttons from treasurebooth's store on Etsy. Check it out [here](http://www.etsy.com/listing/49969563/antique-ornate-amber-gold-glass-button?ref=sr_gallery_4&ga_search_query=glass+buttons&ga_search_type=all&ga_page=&order=&includes%5B%5D=tags&includes%5B%5D=title). 
 
 [![](http://4.bp.blogspot.com/_20LDsLnO2rk/TCD1pK9NxjI/AAAAAAAAAYg/nvNTQuMhLqM/s320/il_430xN.153201844.jpg)](http://4.bp.blogspot.com/_20LDsLnO2rk/TCD1pK9NxjI/AAAAAAAAAYg/nvNTQuMhLqM/s1600/il_430xN.153201844.jpg)
 
-Vintage cabochon white buttons also from [Etsy](http://9tailors.blogspot.com/www.etsy.com).
+Vintage cabochon white buttons also from [Etsy](http://www.etsy.com). 
 
-Check out **Windsor Button**\- a "Boston Tradition Since 1936." Located on 35 Temple Place in the heart of Boston, they have a large and varied inventory to choose from. You can also choose to shop their [online store](http://www.windsorbutton.com/), where buttons are organized by material (think shell, rhinestone, wood, and many more).
+Check out **Windsor Button**\- a "Boston Tradition Since 1936." Located on 35 Temple Place in the heart of Boston, they have a large and varied inventory to choose from. You can also choose to shop their [online store](http://www.windsorbutton.com/), where buttons are organized by material (think shell, rhinestone, wood, and many more). 
 
-Or, check out online marketplace [**Etsy**](http://www.etsy.com/) for vintage & handmade buttons such as the ones pictured above.
+Or, check out online marketplace [**Etsy**](http://www.etsy.com/) for vintage & handmade buttons such as the ones pictured above. 
 
 Did you know that at 9tailors, you can pick out buttons to match every shirt fabric you choose? Wow, that's cool. How did your wardrobe update project go? Send us pictures!

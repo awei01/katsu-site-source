@@ -1,17 +1,18 @@
 ---
 path: /2010/04/in-the-boston-herald/
 title: In the Boston Herald...
+date: '2010-04-26'
 author: sam
-categories: 
+categories:
   - press
-tags: 
+tags:
   - 9tailors
   - bespoke
   - boston
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 2108
+featuredImage: null
 ---
 [![](http://multimedia.heraldinteractive.com/images/20100424/ad4191_Twel_04252010.jpg)](http://multimedia.heraldinteractive.com/images/20100424/ad4191_Twel_04252010.jpg)Chris Tierney (left) and Taylor Twellman (right)
 

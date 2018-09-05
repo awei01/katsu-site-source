@@ -1,11 +1,12 @@
 ---
 path: /2012/05/meet-patrick-dress-to-fit-the-setting/
-title: Meet Patrick: \Dress to Fit the Setting\
+title: 'Meet Patrick: "Dress to Fit the Setting"'
+date: '2012-05-15'
 author: sam
-categories: 
+categories:
   - our-clients
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -14,15 +15,19 @@ tags:
   - menswear
   - real client
   - style tips
-featuredImage: 991
+featuredImage: /uploads/2014/10/r.jpg
 ---
 [![](http://4.bp.blogspot.com/-mymoPghPQ78/T7JtqTyvM6I/AAAAAAAAMFw/5Z-Lj9lt7bo/s640/pmulready_blogprofile_052012.jpg)](http://4.bp.blogspot.com/-mymoPghPQ78/T7JtqTyvM6I/AAAAAAAAMFw/5Z-Lj9lt7bo/s1600/pmulready_blogprofile_052012.jpg)
 
-Whenever Patrick visits the 9tailors studio, the good-natured gent is always clothed well. As he discusses below, he's not one for under-dressing nor over-dressing, but he has a intuitive knack for looking the part and getting it right.
+Whenever Patrick visits the 9tailors studio, the good-natured gent is always clothed well. As he discusses below, he's not one for under-dressing nor over-dressing, but he has a intuitive knack for looking the part and getting it right. 
 
-A linen sports coat and cotton pants are must-haves for Spring and Summer: they're lightweight, fashionable, and follow trend without overdoing it. Patrick's light blue blazer has a half self-lining, an option we at [9tailors](http://www.9tailors.com/) especially recommend for summer style. Don't be scared of linen and cotton because they wrinkle easily! And what you see here are separates: we offer full linen and cotton suits in a variety of colors.
+A linen sports coat and cotton pants are must-haves for Spring and Summer: they're lightweight, fashionable, and follow trend without overdoing it. Patrick's light blue blazer has a half self-lining, an option we at [9tailors](http://www.9tailors.com/) especially recommend for summer style. Don't be scared of linen and cotton because they wrinkle easily! And what you see here are separates: we offer full linen and cotton suits in a variety of colors. 
 
-**Name:** Patrick Mulready **Age:** 28 **Hometown:** Wethersfield, CT **Current Residence:** Boston, MA **Occupation:** Commercial Property Insurance Underwriter
+**Name:** Patrick Mulready
+**Age:** 28
+**Hometown:** Wethersfield, CT
+**Current Residence:** Boston, MA
+**Occupation:** Commercial Property Insurance Underwriter
 
 **How long have you been a 9tailors client?**
 
@@ -38,9 +43,14 @@ I wouldn't say something or someone specific inspires my style but I like to dre
 
 **What is your favorite piece from 9tailors?**
 
-I like them all but I probably wear my blue gingham shirt with the pink color inlay the most.
+I like them all but I probably wear my blue gingham shirt with the pink color inlay the most. 
 
-**What would be your style advice to other men in your professional field?** I'm not a big fan of business casual but I understand that it is pretty much the norm now. I would say leave the polo shirts for the golf course and barbeques and wear button-down shirts to the workplace. Always have a blazer or suit coat with you, as well. _Right on._ Take a gander at some other shots of Patrick's photo shoot, courtesy of our wonderful photographer, [Channing Johnson](http://www.channingjohnson.com/). Or, you can view more photos of Patrick's shoot on our Facebook page [here](https://www.facebook.com/pages/9tailors/49696314250).
+**What would be your style advice to other men in your professional field?**
+I'm not a big fan of business casual but I understand that it is pretty much the norm now. I would say leave the polo shirts for the golf course and barbeques and wear button-down shirts to the workplace. Always have a blazer or suit coat with you, as well.
+
+_Right on._
+
+Take a gander at some other shots of Patrick's photo shoot, courtesy of our wonderful photographer, [Channing Johnson](http://www.channingjohnson.com/). Or, you can view more photos of Patrick's shoot on our Facebook page [here](https://www.facebook.com/pages/9tailors/49696314250). 
 
 [![](http://1.bp.blogspot.com/-uBI0AMtnVzs/T6wyQTHGBgI/AAAAAAAAAQA/skdkF5QtGsM/s400/20120327-9tailors-0632.jpg)](http://1.bp.blogspot.com/-uBI0AMtnVzs/T6wyQTHGBgI/AAAAAAAAAQA/skdkF5QtGsM/s1600/20120327-9tailors-0632.jpg)
 
@@ -54,4 +64,13 @@ I like them all but I probably wear my blue gingham shirt with the pink color in
 
 Shoot Details:
 
-**Location:** Boston Common  **Shirt: **[9tailors](http://www.9tailors.com/)  **Linen Blazer:** [9tailors](http://www.9tailors.com/) **Cotton Pants:** [9tailors](http://www.9tailors.com/)  **Bow Tie:** [OoOTie](http://www.oootie.com/) **Accessories:** [SnapLnx.com](http://snaplnx.com/) **Shoes:** [Generic Man](http://thegenericman.com/) **Credit Card Case:** [Sterling Kane](http://www.sterlingkane.com/)  "Like" us on [Facebook](https://www.facebook.com/pages/9tailors/49696314250). You know you want to! Loving linen? Craving cotton? Email [info@9tailors.com](mailto:info@9tailors.com) to book your appointment to design some Spring/Summer outfits with us!
+**Location:** Boston Common**Shirt: **[9tailors](http://www.9tailors.com/) 
+**Linen Blazer:** [9tailors](http://www.9tailors.com/)
+**Cotton Pants:** [9tailors](http://www.9tailors.com/)  **Bow Tie:** [OoOTie](http://www.oootie.com/)
+**Accessories:** [SnapLnx.com](http://snaplnx.com/)
+**Shoes:** [Generic Man](http://thegenericman.com/)
+**Credit Card Case:** [Sterling Kane](http://www.sterlingkane.com/) 
+
+"Like" us on [Facebook](https://www.facebook.com/pages/9tailors/49696314250). You know you want to!
+
+Loving linen? Craving cotton? Email [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to book your appointment to design some Spring/Summer outfits with us!

@@ -1,10 +1,11 @@
 ---
 path: /2014/02/february-is-here-you-know-what-that-means/
 title: February is Here! You Know What That Means..
+date: '2014-02-01'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - bespoke suiting
   - custom shirts
   - custom suit
@@ -13,7 +14,7 @@ tags:
   - mens fashion
   - menswear
   - valentines day
-featuredImage: 1095
+featuredImage: /uploads/2014/10/Valentines-Guide_03.jpg
 ---
 Ah Valentines Day. The day where you are either in a panic in what to get for your significant other or you just use as an excuse to eat chocolates. But what about yourself? Why not treat yourself to a little extra love? Our expert style consultants aide you in achieving the look your going for with the desired colors and details. We ensure your look doesn't go overboard and keeping a balanced overall look.
 
@@ -27,7 +28,7 @@ A well fitting basic white shirt is something every man should have in his close
 
 Dress Your Blazer or Suit with a Pocket Square
 
-Don't leave your suit looking bare and naked, bring it to life with a touch of color or pattern. Pocket squares break up full suits, keeping it from looking too plain or overwhelmingly-ordinary. If you are wearing a traditional gray or navy suit, a pocket square is the perfect way to subtly bring your suit to life without wearing a loud tie or shirt. Its the right amount of effort and sophistication that says "[I know what I'm doing](http://9tailors.blogspot.com/2013/10/4-more-ways-to-fold-pocket-square.html), [while looking good doing it](http://9tailors.blogspot.com/2013/10/4-ways-to-fold-to-pocket-square-peaks.html)".
+Don't leave your suit looking bare and naked, bring it to life with a touch of color or pattern. Pocket squares break up full suits, keeping it from looking too plain or overwhelmingly-ordinary. If you are wearing a traditional gray or navy suit, a pocket square is the perfect way to subtly bring your suit to life without wearing a loud tie or shirt. Its the right amount of effort and sophistication that says "[I know what I'm doing](http://2013/10/4-more-ways-to-fold-pocket-square.html), [while looking good doing it](http://2013/10/4-ways-to-fold-to-pocket-square-peaks.html)".
 
 [![](http://1.bp.blogspot.com/-xMLxij9oWgY/Uuv0aTBBk9I/AAAAAAAABDk/g0DP4KFpkPs/s1600/Valentines+Guide_02.jpg)](http://1.bp.blogspot.com/-xMLxij9oWgY/Uuv0aTBBk9I/AAAAAAAABDk/g0DP4KFpkPs/s1600/Valentines+Guide_02.jpg)
 
@@ -43,7 +44,7 @@ If you're not one for patterns, there's always the solid colored shirts that isn
 
 Loving 9tailors custom shirts paired with [OoOtie](http://oootie.com/) bowties
 
-Need help dressing for your date? Not sure what to wear when meeting the significant other's friends and family? Want to experiment with patterns and different colors but not sure how to? Contact a style consultant at info@9tailors.com. We would love to work with you ;-)
+Need help dressing for your date? Not sure what to wear when meeting the significant other's friends and family? Want to experiment with patterns and different colors but not sure how to? Contact a style consultant at {{ site.emails.info }}. We would love to work with you ;-)
 
 [![](http://3.bp.blogspot.com/-7c_N_-lXAWQ/Uu0-Q0gacrI/AAAAAAAABD4/Fjd18kyu6Oo/s1600/9T-10.24-06.jpg)](http://3.bp.blogspot.com/-7c_N_-lXAWQ/Uu0-Q0gacrI/AAAAAAAABD4/Fjd18kyu6Oo/s1600/9T-10.24-06.jpg)
 

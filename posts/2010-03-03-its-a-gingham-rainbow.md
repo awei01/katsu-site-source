@@ -1,17 +1,18 @@
 ---
 path: /2010/03/its-a-gingham-rainbow/
 title: It's a gingham rainbow
+date: '2010-03-03'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - Gingham
   - bespoke
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 2118
+featuredImage: null
 ---
 What's new for spring? Gingham in muted pastels and candy colors, of course!
 

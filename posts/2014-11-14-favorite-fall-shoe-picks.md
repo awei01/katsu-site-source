@@ -1,10 +1,11 @@
 ---
 path: /2014/11/favorite-fall-shoe-picks/
 title: Favorite Fall Shoe Picks
+date: '2014-11-14'
 author: elizabeth
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - fall menswear
   - mens accessories
   - mens fall shoes
@@ -12,9 +13,9 @@ tags:
   - mens shoes
   - menswear advice
   - menswear tips
-featuredImage: 2285
+featuredImage: /uploads/2014/11/fallshoes.jpg
 ---
-Fall is New England's prime season and we still have a little bit left of it before the holidays and winter fully set in. As we already went over how to layer for colder weather in a previous [blog post](http://9tailors.blogspot.com/2014/09/layering-up-for-fall.html), we thought we would gen you in on our favorite fall footwear.
+Fall is New England's prime season and we still have a little bit left of it before the holidays and winter fully set in. As we already went over how to layer for colder weather in a previous [blog post](http://2014/09/layering-up-for-fall.html), we thought we would gen you in on our favorite fall footwear.
 
 **THE WINGTIP BOOT**
 

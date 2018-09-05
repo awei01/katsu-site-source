@@ -1,10 +1,11 @@
 ---
 path: /2011/10/shirt-of-the-week-4/
 title: Shirt of the Week!
+date: '2011-10-31'
 author: sam
-categories: 
+categories:
   - uncategorized
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -12,7 +13,7 @@ tags:
   - custom suiting
   - mens fashion
   - menswear
-featuredImage: 1649
+featuredImage: /uploads/2014/11/k1.jpg
 ---
 Versatility is one of the greatest assets when designing a new article of clothing. The best pieces can go from day to night or from formal to casual. One of our clients in Brooklyn designed the shirt below. He used some of the new fabrics we recently added to our growing collection for the accents. Check out his creation!
 
@@ -22,4 +23,4 @@ He used a grey broadcloth for the shirt and a purple plaid for the accent color.
 
 Don't want to break the bank? The shirt above came to the grand total of 104.00!
 
-Looking for an all-purpose shirt? Set up an appointment with a style consultant at [info@9tailors.com](http://www.blogger.com/info@9tailors.com)!
+Looking for an all-purpose shirt? Set up an appointment with a style consultant at [{{ site.emails.info }}](http://{{ site.emails.info }})!

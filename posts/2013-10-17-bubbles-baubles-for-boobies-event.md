@@ -1,17 +1,18 @@
 ---
 path: /2013/10/bubbles-baubles-for-boobies-event/
 title: Bubbles & Baubles for Boobies Event
+date: '2013-10-17'
 author: sam
-categories: 
+categories:
   - uncategorized
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom shirts
   - menswear
   - sale
   - shirt sale
-featuredImage: 1149
+featuredImage: /uploads/2014/10/sui.jpg
 ---
 [![](http://3.bp.blogspot.com/-0ZfoYDCCsLo/UmBmpFpVKGI/AAAAAAAARFQ/c8FmL_ttUSU/s640/main_shirt_201310.jpg)](http://3.bp.blogspot.com/-0ZfoYDCCsLo/UmBmpFpVKGI/AAAAAAAARFQ/c8FmL_ttUSU/s1600/main_shirt_201310.jpg)
 
@@ -33,7 +34,7 @@ Tuesday, October 29th, 2013
 
 [24 School Street, 5/FL Boston](https://maps.google.com/maps?q=24+School+Street,+Boston,+MA&hl=en&sll=42.31435,-70.970284&sspn=0.323943,0.737457&oq=24+scho&hnear=24+School+St,+Boston,+Suffolk,+Massachusetts+02108&t=m&z=16)
 
-RSVP [here](http://www.stelladot.com/ts/c3xt5) or email [info@9tailors.com](mailto:info@9tailors.com)
+RSVP [here](http://www.stelladot.com/ts/c3xt5) or email [{{ site.emails.info }}](mailto:{{ site.emails.info }})
 
 ![](http://3.bp.blogspot.com/-kgayl3vC0hk/UmBmlkIVVeI/AAAAAAAARFI/nRkI2a-YAUs/s320/Photo+Aug+06,+21+44+47.jpg)
 

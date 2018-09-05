@@ -1,14 +1,15 @@
 ---
 path: /2017/12/9tailors-holiday-hours/
 title: 9tailors Holiday Hours
+date: '2017-12-19'
 author: eboni
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - 9tailors Boston
   - Holiday Hours
-featuredImage: 5669
+featuredImage: /uploads/2017/12/Screen-Shot-2017-12-18-at-1.56.50-PM.png
 ---
 Happy Holidays! We hope that you are staying _nice and warm_, spending time with your family + friends and enjoying some **well deserved R+R**. Please find our holiday hours below.
 
@@ -32,4 +33,4 @@ Happy Holidays! We hope that you are staying _nice and warm_, spending time with
 
 ###### Tuesday January 2nd: Open 11 am - 7 pm
 
-If you have any questions or need to schedule an appointment please feel free to **give us a call at 617-286-6135** or **email us at info@9tailors.com.**
+If you have any questions or need to schedule an appointment please feel free to **give us a call at 617-286-6135** or **email us at {{ site.emails.info }}.**

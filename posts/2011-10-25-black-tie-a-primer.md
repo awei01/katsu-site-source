@@ -1,11 +1,12 @@
 ---
 path: /2011/10/black-tie-a-primer/
-title: Black Tie: A Primer
+title: 'Black Tie: A Primer'
+date: '2011-10-25'
 author: sam
-categories: 
+categories:
   - style-tips
   - weddings
-tags: 
+tags:
   - 9tailors
   - bespoke
   - black tie
@@ -14,7 +15,7 @@ tags:
   - how to
   - mens fashion
   - menswear
-featuredImage: 1655
+featuredImage: /uploads/2014/11/n1.jpg
 ---
 oDespite systematic assaults by era, the Classic Black Tie ensemble has remained the gold standard for formal events. The lines created emphasize the masculinity, height, and strength of those who wear it. While details may be tweaked for a more contemporary look, the foundation is unchanged by fads such as ruffled shirts and aggressive colors.
 
@@ -34,4 +35,4 @@ If you have not reached a point in your life where you feel you need a tuxedo sh
 
 Check out our model, and client, Bryan in his midnight blue tuxedo. He has opted for a more contemporary look. The belt and tie make his look on the more casual side of formal. This is great for a more relaxed black tie.
 
-Need a tuxedo for the holidays? Check out our deal [here.](http://9tailors.blogspot.com/2011/10/holiday-tuxedos-anyone.html) Set up an appointment for your holiday tuxedo by emailing [info@9tailors.com](http://www.blogger.com/info@9tailors.com)!
+Need a tuxedo for the holidays? Check out our deal [here.](http://2011/10/holiday-tuxedos-anyone.html) Set up an appointment for your holiday tuxedo by emailing [{{ site.emails.info }}](http://{{ site.emails.info }})!

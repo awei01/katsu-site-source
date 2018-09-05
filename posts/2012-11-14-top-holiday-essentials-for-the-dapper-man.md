@@ -1,10 +1,11 @@
 ---
 path: /2012/11/top-holiday-essentials-for-the-dapper-man/
 title: Top Holiday Essentials For The Dapper Man
+date: '2012-11-14'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - custom menswear
   - custom suiting
@@ -13,7 +14,7 @@ tags:
   - mens fashion tips
   - menswear
   - menswear how to
-featuredImage: 925
+featuredImage: /uploads/2014/10/3.jpg
 ---
 [![](http://3.bp.blogspot.com/-liWvZbf2vQs/UKPoUaeWP6I/AAAAAAAAAAM/jgHAlfBzB7o/s400/everything.JPG)](http://3.bp.blogspot.com/-liWvZbf2vQs/UKPoUaeWP6I/AAAAAAAAAAM/jgHAlfBzB7o/s1600/everything.JPG)
 
@@ -51,8 +52,8 @@ Give these handsome devils a try. The vintage look is back and cuter than ever! 
 
 [![](http://3.bp.blogspot.com/-Z2wzfF0oETs/UKPtm_7hhvI/AAAAAAAAABE/4CdvzrKc3gI/s400/jeman+ties.PNG)](http://3.bp.blogspot.com/-Z2wzfF0oETs/UKPtm_7hhvI/AAAAAAAAABE/4CdvzrKc3gI/s1600/jeman+ties.PNG)
 
-Too timid for the bowtie? Give [Jegman](http://jegman.com/) a whirl. These babies are the newest addition to our accessories collection and the subject of a [recent blog post](http://9tailors.blogspot.com/2012/10/jegga-what-jegga-who-jegman.html).  Great conversation-starters for every holiday party. 
+Too timid for the bowtie? Give [Jegman](http://jegman.com/) a whirl. These babies are the newest addition to our accessories collection and the subject of a [recent blog post](http://2012/10/jegga-what-jegga-who-jegman.html).  Great conversation-starters for every holiday party. 
 
 [Jegman](http://jegman.com/) ties - $70.00 to $75.00
 
-Each piece is hand-selected and limited in quantity. So, you can rest assured that your guy will still look handsome and stand out from the crowd. Get these in the studio now. For more info, email [us](mailto:info@9tailors.com).
+Each piece is hand-selected and limited in quantity. So, you can rest assured that your guy will still look handsome and stand out from the crowd. Get these in the studio now. For more info, email [us](mailto:{{ site.emails.info }}).

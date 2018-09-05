@@ -1,10 +1,11 @@
 ---
 path: /2015/12/5-holiday-must-haves-from-sportscaster-mike-giardi/
 title: 5 Holiday Must Haves from Sportscaster Mike Giardi
+date: '2015-12-08'
 author: ivy
-categories: 
+categories:
   - fun
-tags: 
+tags:
   - 9tailors
   - Holiday Wishlist
   - Mike Giardi Wishlist
@@ -12,21 +13,21 @@ tags:
   - custom suiting
   - mens fashion
   - menswear
-featuredImage: 3874
+featuredImage: /uploads/2015/12/gifts-e1449601575589.jpg
 ---
-With the holidays approaching, it’s easy to get caught up with all the gift giving that needs to get done. There never seems to be enough to time! That being said, it’s also easy to forget about your own wishlist. Check out Boston based sportscaster Mike Giardi’s wishlist for inspiration!
+With the holidays approaching, it's easy to get caught up with all the gift giving that needs to get done. There never seems to be enough to time! That being said, it's also easy to forget about your own wishlist. Check out Boston based sportscaster Mike Giardi's wishlist for inspiration!
 
 1) A purple blazer with a thin lapel, custom done by 9tailors. I like to be bold. I'm not afraid of colors. I want to wear something that no one else is wearing. This would qualify.
 
-[![purpleblazer](http://blog.9tailors.com/uploads/purpleblazer-1024x682.jpg)](http://blog.9tailors.com/uploads/purpleblazer.jpg)
+[![purpleblazer]({{ site.baseUrl }}/uploads/purpleblazer-1024x682.jpg)]({{ site.baseUrl }}/uploads/purpleblazer.jpg)
 
 2) I want Johnny Hekker's blue suit, only in my size, right on down to the paisley lining (featured on the 9tailors blog). That would absolutely dominate on television.
 
-[![20151112-9tailors-0006](http://blog.9tailors.com/uploads/20151112-9tailors-0006-1024x682.jpg)](http://blog.9tailors.com/uploads/2015/11/20151112-9tailors-0006.jpg)
+[![20151112-9tailors-0006]({{ site.baseUrl }}/uploads/20151112-9tailors-0006-1024x682.jpg)]({{ site.baseUrl }}/uploads/2015/11/20151112-9tailors-0006.jpg)
 
 3) A nice pair of winter dress boots. We do a lot of television from the outdoors and my feet get very cold. I end up wearing bulky boots and I need to step it up. No excuses.
 
-[![mensboots](http://blog.9tailors.com/uploads/mensboots.jpg)](http://blog.9tailors.com/uploads/mensboots.jpg)
+[![mensboots]({{ site.baseUrl }}/uploads/mensboots.jpg)]({{ site.baseUrl }}/uploads/mensboots.jpg)
 
 4) I'm in need of a complete changeover with all my dress socks. Getting a little embarrassing. Threadbare in spots. That's not good.
 
@@ -36,4 +37,4 @@ With the holidays approaching, it’s easy to get caught up with all the gift gi
 
 ![](http://www.gadgetreview.com/wp-content/uploads/2014/01/Galaxy-Camera-21.jpg)
 
-Is a custom suit or blazer sounding like a good idea? Inquire about setting up an appointment with us at [info@9tailors.com](mailto:info@9tailors.com), or get set up with a [gift card](https://9tailors.punchey.com/giftcards) for your loved ones.
+Is a custom suit or blazer sounding like a good idea? Inquire about setting up an appointment with us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}), or get set up with a [gift card](https://9tailors.punchey.com/giftcards) for your loved ones.

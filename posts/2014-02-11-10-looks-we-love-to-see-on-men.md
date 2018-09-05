@@ -1,14 +1,15 @@
 ---
 path: /2014/02/10-looks-we-love-to-see-on-men/
 title: 10 Looks We LOVE to See on Men
+date: '2014-02-11'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - mens fashion
   - menswear
   - what to wear
-featuredImage: 1091
+featuredImage: /uploads/2014/10/g1.jpg
 ---
 Valentine's Day is just at the end of this week and the pressure is building. If you don't have a date yet, there's still time to impress that special someone you have your eye on. We have put together a list of items that we love to see gentlemen in. We can't help but do a double take.
 
@@ -28,7 +29,8 @@ It's comfortable and approachable. You're put together without going overboard. 
 
 Etro, source: nordstrom
 
-Blazer A blazer just makes just about anything sophisticated.
+Blazer
+A blazer just makes just about anything sophisticated.
 
 Look 1: Pair a blazer with a button down and jeans gives the wearer a cool and collected look. It's a man who means business but still knows how to relax and not take everything too seriously. How does your heart not throb while looking at Chris Pine and Zachary Quinto? Aside from them being them, their looks are effortless.
 
@@ -42,7 +44,8 @@ Look 2: Throwing the blazer on over the jean jacket not only makes everything se
 
 source: istreetfashion
 
-Patterns A man who wears patterns just says "fun".
+Patterns
+A man who wears patterns just says "fun".
 
 Look 1: Plaid. Who doesn't love a man in plaid? The pattern exudes masculinity without carrying an ax around in the woods with a full beard. Cultural influences has lead us to believe a man in plaid knows how to take care of himself and his environment.
 
@@ -72,7 +75,8 @@ After all of the plunging v-necks men have been wearing of the past few years, i
 
 source: new york times
 
-Leather Leather is another look that speaks to masculinity, jackets, bags and shoes. A leather jacket gives a man a 'bad boy' look automatically. Enough said.
+Leather
+Leather is another look that speaks to masculinity, jackets, bags and shoes. A leather jacket gives a man a 'bad boy' look automatically. Enough said.
 
 [![](http://3.bp.blogspot.com/-qsmRTiOpPgc/Uvp55kcxQSI/AAAAAAAABGI/1F-FfPB_7Wc/s1600/chris+hemsworth,+leather+jacket+-+source,+itsmusicfashionlife.jpg)](http://3.bp.blogspot.com/-qsmRTiOpPgc/Uvp55kcxQSI/AAAAAAAABGI/1F-FfPB_7Wc/s1600/chris+hemsworth,+leather+jacket+-+source,+itsmusicfashionlife.jpg)
 
@@ -88,4 +92,4 @@ Pharrell Williams wearing a bow tie and a leather jacket, an irresistible combin
 
 If these looks don't work for you - a good rule of them is to have an approachable put together look.
 
-Thinking about getting a suit for a special occasion? Contact a style consultant at info@9tailors.com.
+Thinking about getting a suit for a special occasion? Contact a style consultant at {{ site.emails.info }}.

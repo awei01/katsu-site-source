@@ -1,22 +1,21 @@
 ---
 path: /2016/06/9-fathers-day-gifts-every-dad-will-thank-you-for/
 title: 9 Father's Day Gifts Every Dad Will Thank You For
+date: '2016-06-13'
 author: eboni
-categories: 
+categories:
   - fun
-tags: 
+tags:
   - 9tailors
   - 9tailors Gift Guide
   - father's day gift guide 2016
   - father's day gifts
   - fathers day
-featuredImage: 4430
+featuredImage: /uploads/2016/06/DAD.jpg
 ---
 Has your dad told you not to get him anything or that he doesn't know what he wants? If he has, don't listen! Dads everywhere deserve to be celebrated and even though he may not like to admit it he's totally looking forward to a shiny new gadget this Father's Day.
 
 Dads have a reputation of being the hardest member of the family to shop for. They tend to own everything under the sun. Whether your dad travels for work or it's the first time you're purchasing a gift for your husband there's certainly something on the list he'll love.
-
- 
 
 #### [**Noise Canceling Headphones**](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-25-acoustic-noise-cancelling-headphones-apple-devices.html)
 

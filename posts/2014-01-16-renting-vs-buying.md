@@ -1,11 +1,12 @@
 ---
 path: /2014/01/renting-vs-buying/
 title: Renting vs. Buying
+date: '2014-01-16'
 author: sam
-categories: 
+categories:
   - style-tips
   - weddings
-tags: 
+tags:
   - bespoke suiting
   - custom suit
   - custom tuxedo
@@ -13,7 +14,7 @@ tags:
   - renting vs buying
   - tuxedo
   - tuxedo rental
-featuredImage: 1101
+featuredImage: /uploads/2014/10/jacket.jpg
 ---
 **The Great Groom and Guest Debate - Should You Rent or Buy? **
 
@@ -21,8 +22,8 @@ featuredImage: 1101
 
 _\*\*And I'm not just saying this because [9tailors](http://www.9tailors.com/) does custom suits. I'm saying this because I've asked around why some men have opted for buying a custom suit instead of renting one. _
 
-*   First and foremost, never leave your suits or tuxedos to the last minute - especially if you're in the wedding (not to mention if you're the groom). This is asking for trouble and chaos.
-*   Secondly, every man should own one well fitting suit. It doesn't matter if you have a closet full of suits if they don't fit, Paul Ryan has proven that theory doesn't work.
+	*First and foremost, never leave your suits or tuxedos to the last minute - especially if you're in the wedding (not to mention if you're the groom). This is asking for trouble and chaos.
+	*Secondly, every man should own one well fitting suit. It doesn't matter if you have a closet full of suits if they don't fit, Paul Ryan has proven that theory doesn't work.
 
 [![](http://2.bp.blogspot.com/-0Au16HrRaPk/UtgPX5gh0EI/AAAAAAAAA3k/LU7wqmI0BUI/s1600/paul+ryan+bagg+suit,+source-thedailybeast.jpg)](http://2.bp.blogspot.com/-0Au16HrRaPk/UtgPX5gh0EI/AAAAAAAAA3k/LU7wqmI0BUI/s1600/paul+ryan+bagg+suit,+source-thedailybeast.jpg)
 
@@ -36,13 +37,16 @@ Many of clients have come in with renting horror stories and one gentleman even 
 
 Here are a couple of horror story examples
 
-*   A group of groomsmen ordered their suits at the same time at the same place from a rental company months before the wedding. Two days before the wedding, they went to pick them up - only to find that their suits did not match. The associate explained to them the suits were shipped from different warehouses and this is what they received. There is nothing they can do for them and cannot refund their deposits because it's been 'x' amount of days since the order has been placed.
-    *   **Moral of the Story:** If the rental place is a chain and has warehouses all over the country, the store you order and/or pick up from cannot guarantee all of their fabric will match up as they should. Larger corporate companies also tend to have strict consumer policies and will put those ahead of customer service.
-    *   **Why did the suits come out in different colors?** The suits were probably made at different times. This means the fabric used to make each suit was cut in different places along the bulk roll of fabric or even from different bulk rolls. The dye of each fabric varies from roll to roll even though they are supposed to be the same color, they may not match up perfectly when they are put next to each other. A larger corporate company also probably means they work with several tailoring companies who may get their fabrics from different places. The suits were probably ordered from several tailors.
-    *   **How does 9tailors avoid this issue?** We order our wedding party suits at the same time to ensure they are cut from the same bulk of fabric. Our company only works with one group of suit tailors to ensure consistency of quality and fabric.
-    *   **Happy Ending**: The groomsmen were lucky enough to find matching suits in roughly everyone's size the next day - just in time for the wedding. The next groomsman to become the groom from the group came to us for his suits.
-*   A groom rented a his shirt and suit from a large company several weeks before his wedding. The day before his wedding, the groom went to pick up his items and tried them on. When he came out of the dressing room and looked in the mirror, he felt like a kid playing dress up in his father closet all over again. The associate looked over the order and found that it was another gentleman's order. The groom's order had been shipped to another location in another state.
-    *   **How does 9tailors avoid this issue?** Our tailors ship everything directly to our Boston Showroom. Our style consultants stay in constant communication with each client about the status of their order. Clients need to confirm shipping addresses before any items are sent out and will receive a tracking number.
+	*A group of groomsmen ordered their suits at the same time at the same place from a rental company months before the wedding. Two days before the wedding, they went to pick them up - only to find that their suits did not match. The associate explained to them the suits were shipped from different warehouses and this is what they received. There is nothing they can do for them and cannot refund their deposits because it's been 'x' amount of days since the order has been placed.
+
+***Moral of the Story:** If the rental place is a chain and has warehouses all over the country, the store you order and/or pick up from cannot guarantee all of their fabric will match up as they should. Larger corporate companies also tend to have strict consumer policies and will put those ahead of customer service.
+***Why did the suits come out in different colors?** The suits were probably made at different times. This means the fabric used to make each suit was cut in different places along the bulk roll of fabric or even from different bulk rolls. The dye of each fabric varies from roll to roll even though they are supposed to be the same color, they may not match up perfectly when they are put next to each other. A larger corporate company also probably means they work with several tailoring companies who may get their fabrics from different places. The suits were probably ordered from several tailors.
+***How does 9tailors avoid this issue?** We order our wedding party suits at the same time to ensure they are cut from the same bulk of fabric. Our company only works with one group of suit tailors to ensure consistency of quality and fabric.
+***Happy Ending**: The groomsmen were lucky enough to find matching suits in roughly everyone's size the next day - just in time for the wedding. The next groomsman to become the groom from the group came to us for his suits.
+
+	*A groom rented a his shirt and suit from a large company several weeks before his wedding. The day before his wedding, the groom went to pick up his items and tried them on. When he came out of the dressing room and looked in the mirror, he felt like a kid playing dress up in his father closet all over again. The associate looked over the order and found that it was another gentleman's order. The groom's order had been shipped to another location in another state.
+
+***How does 9tailors avoid this issue?** Our tailors ship everything directly to our Boston Showroom. Our style consultants stay in constant communication with each client about the status of their order. Clients need to confirm shipping addresses before any items are sent out and will receive a tracking number.
 
 Renting a suit doesn't guarantee it will fit you correctly or flatter your shape. Some places will over measure your body to better fit the store sizes they have available and take in the suit minimally. They tend to prefer the bigger look to better preserve their suits and make it easier to fit you. For example, if you measure a size 39, they will put you in a 42 instead. It also really depends on where you are renting from, each place measures differently. 9tailors will not accept any body measurements from Men's Warehouse because of this. Renting also means sacrificing one measurement for another. Joey, from _Friends_, exemplifies forgoing the comfort of a button collar to fit the shoulders and is forces to unbutton his collar.
 
@@ -66,4 +70,4 @@ Custom lining and monogram (not shown) options available
 
 Besides, as a client put it - The worst part about renting suits is having to return the next day hung over. Stay tuned for an upcoming post on Rick Musiol Jr, the winner of our November Social Media Tuxedo Giveaway!
 
-Interested in getting custom suit for an upcoming event or your wedding? Are you an existing client and want to model for us? Contact us at info@9tailors.com
+Interested in getting custom suit for an upcoming event or your wedding? Are you an existing client and want to model for us? Contact us at {{ site.emails.info }}

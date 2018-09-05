@@ -1,13 +1,14 @@
 ---
 path: /2013/11/movember-have-you-started/
-title: Movember, Have You Started?
+title: 'Movember, Have You Started?'
+date: '2013-11-02'
 author: michelle
-categories: 
+categories:
   - uncategorized
-tags: 
+tags:
   - movember
   - mustache
-featuredImage: 1139
+featuredImage: /uploads/2014/10/movembr.jpg
 ---
 [![](http://static.neatorama.com/imagesb/2012-11/14/Movember.jpg)](http://static.neatorama.com/imagesb/2012-11/14/Movember.jpg)
 
@@ -15,7 +16,7 @@ source: neatorama.com
 
 No Shave November, Movember, for beards or for moustaches. Pick which ever suits your fancy, either way; November has officially been taken over by facial hair and for a good cause or two. Both have a slightly different set of rules, goals and causes in mind, either way; you cannot shave.
 
-Movember is all about the moustache. You must start off with a clean face. So if you haven’t shaved yet, shave now, you’re a day late. The purpose is to raise funds for men’s health. Women had October and now the Men have November. Men’s health includes raising funds for prostate cancer, testicular cancer and supporting mental health. You can of course do this independently but to help fight the good fight, go to [http://us.movemeber.com](http://us.movemeber.com/) to registrar and learn more. Moustaches only, no beards allowed.
+Movember is all about the moustache. You must start off with a clean face. So if you haven't shaved yet, shave now, you're a day late. The purpose is to raise funds for men's health. Women had October and now the Men have November. Men's health includes raising funds for prostate cancer, testicular cancer and supporting mental health. You can of course do this independently but to help fight the good fight, go to [http://us.movemeber.com](http://us.movemeber.com/) to registrar and learn more. Moustaches only, no beards allowed.
 
 Nick Offerman has also offered his services to mademan.com to create an instructional video on how to grow a moustache for Movember.
 
@@ -35,11 +36,13 @@ Besides, facial hair can be a great accessory to suits if you're not ready to tr
 
 [![](http://content.artofmanliness.com/uploads/2009/09/clarkgable2.jpg)](http://content.artofmanliness.com/uploads/2009/09/clarkgable2.jpg)
 
-source: artofmanliness.com Clark Gable
+source: artofmanliness.com
+Clark Gable
 
 [![](http://i302.photobucket.com/albums/nn114/hot_daily/201007-suits/preview4_FreddieMercury.jpg)](http://i302.photobucket.com/albums/nn114/hot_daily/201007-suits/preview4_FreddieMercury.jpg)
 
-source: journalfen.net Freddie Mercury
+source: journalfen.net
+Freddie Mercury
 
 [![](http://images1.makefive.com/images/entertainment/movies/best-quotes-from-anchorman-the-legend-of-ron-burgundy/i_m-ron-burgundy-you-stay-classy-san-diego-ron-burgundy-7.jpg)](http://images1.makefive.com/images/entertainment/movies/best-quotes-from-anchorman-the-legend-of-ron-burgundy/i_m-ron-burgundy-you-stay-classy-san-diego-ron-burgundy-7.jpg)
 
@@ -47,4 +50,4 @@ source: makefive.com
 
 "Stay Classy" - Ron Burgundy
 
-Want to design a suit that matches the style of your 'stache? Contact a style consultant at customerservice@9tailors.com
+Want to design a suit that matches the style of your 'stache? Contact a style consultant at {{ site.emails.customerservice }}

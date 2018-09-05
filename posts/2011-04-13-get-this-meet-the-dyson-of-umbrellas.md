@@ -1,16 +1,17 @@
 ---
 path: /2011/04/get-this-meet-the-dyson-of-umbrellas/
 title: Get This - Meet The Dyson Of Umbrellas
+date: '2011-04-13'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens style
   - menswear
-featuredImage: 1829
+featuredImage: null
 ---
 [![](http://www.randomn3ss.com/wp-content/uploads/2008/12/broken-umbrella.jpg)](http://www.randomn3ss.com/wp-content/uploads/2008/12/broken-umbrella.jpg)
 
@@ -30,4 +31,6 @@ Here's what we like about the Blunt. First, we like the sleek design. Second, it
 
 [![](http://www.bluntumbrellas.com/sites/default/files/imagecache/media_image_large/blunt_blue.jpg)](http://www.bluntumbrellas.com/sites/default/files/imagecache/media_image_large/blunt_blue.jpg)
 
-It's a little pricey. It's $99 to own one of these awesome umbrellas. But, perhaps the best thing about the Blunt Umbrella is that it's made to last. You'll want to use this umbrella year after year. You won't ever have to buy a bad umbrella that will just end up in a landfill some where. Need a great [custom shirt](http://9tailors.com/) to go with your new umbrella? Make an appointment [here](https://spreadsheets.google.com/viewform?key=0Arw_UaSrhyAecEZBaHJUN2dWbXJDSmw5UHVIUWlUVkE&hl=en#gid=0).
+It's a little pricey. It's $99 to own one of these awesome umbrellas. But, perhaps the best thing about the Blunt Umbrella is that it's made to last. You'll want to use this umbrella year after year. You won't ever have to buy a bad umbrella that will just end up in a landfill some where.
+
+Need a great [custom shirt](http://9tailors.com/) to go with your new umbrella? Make an appointment [here](https://spreadsheets.google.com/viewform?key=0Arw_UaSrhyAecEZBaHJUN2dWbXJDSmw5UHVIUWlUVkE&hl=en#gid=0).

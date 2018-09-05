@@ -1,10 +1,11 @@
 ---
 path: /2012/11/the-perfect-gift-this-holiday-season/
 title: The Perfect Gift this Holiday Season
+date: '2012-11-26'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - custom menswear
   - custom suiting
@@ -12,7 +13,7 @@ tags:
   - mens accessories
   - mens fashion
   - menswear
-featuredImage: 917
+featuredImage: /uploads/2014/10/b.jpg
 ---
 [![](http://4.bp.blogspot.com/-7xNvQ0so1eI/UKVY7tk45tI/AAAAAAAAAB8/dOyJ101f8mI/s320/chest+shot+with+bowtie+and+placket+front.JPG)](http://4.bp.blogspot.com/-7xNvQ0so1eI/UKVY7tk45tI/AAAAAAAAAB8/dOyJ101f8mI/s1600/chest+shot+with+bowtie+and+placket+front.JPG)
 
@@ -42,4 +43,4 @@ Not only will your friend or loved one get a great gift that was exactly what th
 
 [![](http://1.bp.blogspot.com/-kP9PgQuF66E/UKVUKhKqtvI/AAAAAAAAABk/2geaybSRxfQ/s320/giftcard.JPG)](http://1.bp.blogspot.com/-kP9PgQuF66E/UKVUKhKqtvI/AAAAAAAAABk/2geaybSRxfQ/s1600/giftcard.JPG)
 
-Our shirts range in price from $79-$240, depending on thread count. Our 100% cotton shirts begin at $135. Contacts us at info@9tailors.com with any questions.
+Our shirts range in price from $79-$240, depending on thread count. Our 100% cotton shirts begin at $135. Contacts us at {{ site.emails.info }} with any questions.

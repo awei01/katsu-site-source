@@ -1,17 +1,18 @@
 ---
 path: /2010/05/graduate-in-style-volume-ii/
 title: Graduate in Style- Volume II
+date: '2010-05-07'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
   - style tips
-featuredImage: 2094
+featuredImage: null
 ---
 Here of the next steps you've been waiting for! Check out the images below to see which items in the previous wardrobes have been kept, and which have been stored.
 
@@ -21,10 +22,10 @@ Here of the next steps you've been waiting for! Check out the images below to se
 
 [![Women's Work](http://www.polyvore.com/cgi/img-set/BQcDAAAAAwoDanBnAAAABC5vdXQKFlFnbC1talZYM3hHQV9BZDJPV2RqWXcAAAACaWQKAWUAAAAEc2l6ZQ.jpg "Women's Work")](http://www.polyvore.com/womens_work/set?.embedder=1536106&.mid=embed&id=18425889)
 
-Women's Work Wardrobe
+Women's Work Wardrobe 
 
 [![Men's Work](http://www.polyvore.com/cgi/img-set/BQcDAAAAAwoDanBnAAAABC5vdXQKFjZEbEJDSUpaM3hHaERIQnVPV2RqWXcAAAACaWQKAWUAAAAEc2l6ZQ.jpg "Men's Work")](http://www.polyvore.com/mens_work/set?.embedder=1536106&.mid=embed&id=18425982)
 
 Men's Work Wardrobe
 
-Need some help with your wardrobe? E-mail us at info@9tailors.com.
+Need some help with your wardrobe? E-mail us at {{ site.emails.info }}.

@@ -1,10 +1,11 @@
 ---
 path: /2012/11/trend-watch-ascot-tie/
-title: Trend Watch: Ascot Tie
+title: 'Trend Watch: Ascot Tie'
+date: '2012-11-13'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - custom menswear
   - custom suiting
@@ -12,9 +13,11 @@ tags:
   - mens fashion
   - menswear
   - trend watch
-featuredImage: 927
+featuredImage: /uploads/2014/10/4.jpg
 ---
-As a young man, you probably had someone teach you how to tie a variety of tie knots, from the four-in-hand to the full windsor, perhaps even a bow tie. The ascot? While seemingly a European trend, the most formal of ties designated for black tie weddings, or even associated with the slightest air of pretention ("are we dining on the yacht or in the mansion tonight?"), we are here to tell you that this fanciful feature is a classic twist we keep seeing pop up in modern ways. And guess what? We love it over here at [9tailors](http://www.9tailors.com/)! Take for example, the movie _Seven Psychopaths_, Christopher Walken's character, Carmichael, is hardly seen without an Ascot round his neck (and if you haven't seen the film yet, that's all I'm saying). But it looks effortlessly cool, providing a standout accessory that highlights his clever personality with just a touch of whimsy.
+As a young man, you probably had someone teach you how to tie a variety of tie knots, from the four-in-hand to the full windsor, perhaps even a bow tie. The ascot? While seemingly a European trend, the most formal of ties designated for black tie weddings, or even associated with the slightest air of pretention ("are we dining on the yacht or in the mansion tonight?"), we are here to tell you that this fanciful feature is a classic twist we keep seeing pop up in modern ways. And guess what? We love it over here at [9tailors](http://www.9tailors.com/)!
+
+Take for example, the movie _Seven Psychopaths_, Christopher Walken's character, Carmichael, is hardly seen without an Ascot round his neck (and if you haven't seen the film yet, that's all I'm saying). But it looks effortlessly cool, providing a standout accessory that highlights his clever personality with just a touch of whimsy.
 
 [![](http://2.bp.blogspot.com/-IKddnutvza0/UJ6T1YnJnaI/AAAAAAAABbM/IGHCWQLY_8M/s1600/Seven-Psychopaths-Christopher-Walken.jpg)](http://2.bp.blogspot.com/-IKddnutvza0/UJ6T1YnJnaI/AAAAAAAABbM/IGHCWQLY_8M/s1600/Seven-Psychopaths-Christopher-Walken.jpg)
 
@@ -30,7 +33,11 @@ The tricky part which is actually not tricky at all? Once you find where to buy 
 
 [![](http://3.bp.blogspot.com/-Bhphhi6QQUs/UJ6Uaxf-L4I/AAAAAAAABbU/q-Ol1A-DX1Y/s400/ascot-howtotie.jpg)](http://3.bp.blogspot.com/-Bhphhi6QQUs/UJ6Uaxf-L4I/AAAAAAAABbU/q-Ol1A-DX1Y/s1600/ascot-howtotie.jpg)
 
-Step 1: Lay Ascot around neck. Step 2: Cross right tail over left. Step 3: Form a loose knot. Step 4: Stick both tail ends into shirt, twist forward, then give the knot an extra pouf. Step 5: Voila, there you have it! Not a fan of the tucked in look? Let it all hang out, like the young man below.
+Step 1: Lay Ascot around neck.
+Step 2: Cross right tail over left.
+Step 3: Form a loose knot.
+Step 4: Stick both tail ends into shirt, twist forward, then give the knot an extra pouf.
+Step 5: Voila, there you have it! Not a fan of the tucked in look? Let it all hang out, like the young man below.
 
 [![](http://3.bp.blogspot.com/-V5SZs0xD6CA/UJ6VVulsEsI/AAAAAAAABbk/Dpem64Dov0M/s400/ascot.jpg)](http://3.bp.blogspot.com/-V5SZs0xD6CA/UJ6VVulsEsI/AAAAAAAABbk/Dpem64Dov0M/s1600/ascot.jpg)
 
@@ -42,4 +49,4 @@ Still not convinced that it's a cool look? Don't want to invest in an ascot? Do 
 
 Courtesy of amazonaws.com
 
-Have a trend you're eyeing but still approach with trepidation? We vow to lead you in the right direction! Email a Style Consultant at [info@9tailors.com](mailto:info@9tailors.com) and we'll let you know if your idea is a hit or miss, or how you can incorporate new trends into your wardrobe.
+Have a trend you're eyeing but still approach with trepidation? We vow to lead you in the right direction! Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and we'll let you know if your idea is a hit or miss, or how you can incorporate new trends into your wardrobe.

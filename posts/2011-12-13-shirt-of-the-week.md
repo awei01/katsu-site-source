@@ -1,10 +1,11 @@
 ---
 path: /2011/12/shirt-of-the-week/
 title: Shirt of the Week!
+date: '2011-12-13'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -12,7 +13,7 @@ tags:
   - custom suiting
   - mens fashion
   - menswear
-featuredImage: 1081
+featuredImage: /uploads/2014/10/35.jpg
 ---
 A few weeks back I mentioned that we got some new fabrics in the studio. Well, check this new one out. It takes a fearless man who has mastered colors and patterns to command a shirt as bold as this one. We know just the man. He regularly wears bow ties and playful colors, so this shirt fits nicely into his fun style.
 
@@ -24,4 +25,4 @@ To prevent the shirt from becoming aggressive rather than fun keep the bells and
 
 [![](http://4.bp.blogspot.com/--5WEoSYBskg/Tud_J-87q9I/AAAAAAAABC4/eOJ60-geREQ/s400/awong_shirtofweek_1c.jpg)](http://4.bp.blogspot.com/--5WEoSYBskg/Tud_J-87q9I/AAAAAAAABC4/eOJ60-geREQ/s1600/awong_shirtofweek_1c.jpg)
 
-Come check out our new fabrics and get yourself a gift you really want this season. Or, if you are actually looking to [spread the style](http://9tailors.blogspot.com/2011/04/spread-good-style.html), get someone you really love a [gift card](http://www.9tailors.com/pages/#!/pages/customer_service/gift_cards)! Send us an email at [info@9tailors.com](http://www.blogger.com/info@9tailors.com) to set up an appointment.
+Come check out our new fabrics and get yourself a gift you really want this season. Or, if you are actually looking to [spread the style](http://2011/04/spread-good-style.html), get someone you really love a [gift card](http://www.9tailors.com/pages/#!/pages/customer_service/gift_cards)! Send us an email at [{{ site.emails.info }}](http://{{ site.emails.info }}) to set up an appointment.

@@ -1,10 +1,11 @@
 ---
 path: /2013/05/cool-as-seersucker/
 title: Cool as...Seersucker
+date: '2013-05-06'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - bespoke suiting
@@ -15,7 +16,7 @@ tags:
   - seersucker
   - summer menswear
   - summer suiting
-featuredImage: 1181
+featuredImage: /uploads/2014/10/seer.jpg
 ---
 Spring and Summer temperatures are slowly rising, we are already in May! It's that wonderful time of year where the weather is pleasant and you have more events outside than you can count. It's also the time of year when some lighter clothing is necessary. We have cotton and linen fabrics ready to rock for summer suit design extraordinaire. And now...
 
@@ -29,4 +30,4 @@ Seersucker: you wanted it, we got it. A lightweight treasure, seersucker is a co
 
 [![](http://3.bp.blogspot.com/-FOsG8TcqW3k/UYPw31UdEnI/AAAAAAAAC00/Ac0IBpJrfdY/s400/image_3.jpeg)](http://3.bp.blogspot.com/-FOsG8TcqW3k/UYPw31UdEnI/AAAAAAAAC00/Ac0IBpJrfdY/s1600/image_3.jpeg)
 
-Pining for seersucker? Email a Style Consultant at [info@9tailors.com](mailto:info@9tailors.com) to book your design appointment and claim that light, fanciful fabric to make your own custom suit.
+Pining for seersucker? Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to book your design appointment and claim that light, fanciful fabric to make your own custom suit.

@@ -1,13 +1,14 @@
 ---
 path: /2014/02/our-winter-sample-sale-is-back/
 title: Our Winter Sample Sale is Back!
+date: '2014-02-04'
 author: sam
-categories: 
+categories:
   - events-promotions
-tags: 
+tags:
   - menswear sale
   - sample sale
-featuredImage: 1093
+featuredImage: /uploads/2014/10/samplesale_main_feb2014-2.jpg
 ---
 [![](http://4.bp.blogspot.com/-rhk0_ilspxo/UuFm_fdW2DI/AAAAAAAAA-s/-elrOJ5r2kw/s1600/samplesale_main_feb2014-2.jpg)](http://4.bp.blogspot.com/-rhk0_ilspxo/UuFm_fdW2DI/AAAAAAAAA-s/-elrOJ5r2kw/s1600/samplesale_main_feb2014-2.jpg)
 
@@ -29,13 +30,13 @@ If you can't find anything at the sample sale that suits, we're offering our cli
 
 \* Sample Sale Rules and Restrictions:
 
-*   Sample sale items refer to excess inventory and samples currently stocked in the studio.
+	*Sample sale items refer to excess inventory and samples currently stocked in the studio.
 
-*   All items marked as sample sale are final sale only and cannot be exchanged or returned for refund.  
+	*All items marked as sample sale are final sale only and cannot be exchanged or returned for refund.  
 
-*   10% discount is valid on full-priced items over $100.00 only. Must be redeemed same day as sample sale appointment. Cannot be combined with sample sale merchandise, other discounts or promotions we are currently running.
+	*10% discount is valid on full-priced items over $100.00 only. Must be redeemed same day as sample sale appointment. Cannot be combined with sample sale merchandise, other discounts or promotions we are currently running.
 
-*   Sample sale and 10% discount expires on February 24, 2014
+	*Sample sale and 10% discount expires on February 24, 2014
 
-*   Prices do not include alterations. Alterations will be completed by client's own alterations tailor. 
-*   Other rules and restrictions may apply.
+	*Prices do not include alterations. Alterations will be completed by client's own alterations tailor. 
+	*Other rules and restrictions may apply.

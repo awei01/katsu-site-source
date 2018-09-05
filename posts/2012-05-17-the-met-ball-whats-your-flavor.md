@@ -1,10 +1,11 @@
 ---
 path: /2012/05/the-met-ball-whats-your-flavor/
-title: The MET Ball: What's your flavor?
+title: 'The MET Ball: What''s your flavor?'
+date: '2012-05-17'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - MET ball
   - bespoke
@@ -13,9 +14,11 @@ tags:
   - mens fashion
   - menswear
   - who wore it best
-featuredImage: 989
+featuredImage: /uploads/2014/10/a3.jpg
 ---
-In celebration of the Metropolitan Museum's opening of the fashion exhibit at the Costume Institute, this annual party's guest list features who's who in the fashion and entertainment worlds. Just another reason for the infinitely glamorous and most beautiful to strut their stuff on the red carpet on one of fashion's "Night of Nights." The 2012 gala was held just a few days ago and has been considered fashions's biggest event, since it began in 1948! Classic tuxedos abound, gorgeous gowns astir, and some of the silliest, creative, or most sophisticated (depending on your viewpoint) frolic fancy-free to New York's social event of the year. Anna Wintour, Editor-in-Chief of _Vogue_, has made this her East Coast answer to _Vanity Fair_'s Oscar star-studded parties held on the left Coast. While many men stick to the classic tux, there are simple dashes of fun with unique twists of originality, sometimes in a subtle way, sometimes more bombastic in nature. Personality has everything to do with how your outfit looks on you. What do you think of the men styles below?
+In celebration of the Metropolitan Museum's opening of the fashion exhibit at the Costume Institute, this annual party's guest list features who's who in the fashion and entertainment worlds. Just another reason for the infinitely glamorous and most beautiful to strut their stuff on the red carpet on one of fashion's "Night of Nights." The 2012 gala was held just a few days ago and has been considered fashions's biggest event, since it began in 1948! Classic tuxedos abound, gorgeous gowns astir, and some of the silliest, creative, or most sophisticated (depending on your viewpoint) frolic fancy-free to New York's social event of the year. Anna Wintour, Editor-in-Chief of _Vogue_, has made this her East Coast answer to _Vanity Fair_'s Oscar star-studded parties held on the left Coast.
+
+While many men stick to the classic tux, there are simple dashes of fun with unique twists of originality, sometimes in a subtle way, sometimes more bombastic in nature. Personality has everything to do with how your outfit looks on you. What do you think of the men styles below?
 
 ### Hooray for Hollywood...
 
@@ -59,4 +62,4 @@ I know, some of us may still harbor a little bitterness for Gisele because of  
 
 Getty Images
 
-Need a tux? Get your creativity in gear and make an appointment with a 9tailors style consultant to dream up your twist on the classic tuxedo for your next black tie event! Email [info@9tailors.com](mailto:info@9tailors.com) and let's get started!
+Need a tux? Get your creativity in gear and make an appointment with a 9tailors style consultant to dream up your twist on the classic tuxedo for your next black tie event! Email [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and let's get started!

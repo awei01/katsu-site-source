@@ -1,10 +1,11 @@
 ---
 path: /2013/11/movember-mustaches-for-your-suit/
-title: Movember: Mustaches For Your Suit!
+title: 'Movember: Mustaches For Your Suit!'
+date: '2013-11-04'
 author: michelle
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - dapper
   - mens accessories
   - menswear
@@ -13,7 +14,7 @@ tags:
   - mustache tie clips.
   - tie clips
   - tsai clips
-featuredImage: 1137
+featuredImage: /uploads/2014/10/mustache.jpg
 ---
 Can't grow your own mustache? No problem! [Tsaiclips](http://www.tsaiclip.com/) allow you to wear a 'stache on your tie without the month long commitment in honor of [Movember](http://us.movember.com/).
 
@@ -37,4 +38,4 @@ The good news? (Yes, there is good news about the mustache trend) It raises awar
 
 [![](http://1.bp.blogspot.com/-LIH1cP3qUcs/UnVd7dsbnKI/AAAAAAAAAGI/MyS8bMW63Sg/s320/20131101_131047+(1).jpg)](http://1.bp.blogspot.com/-LIH1cP3qUcs/UnVd7dsbnKI/AAAAAAAAAGI/MyS8bMW63Sg/s1600/20131101_131047+(1).jpg)
 
-Interested in our mustache tie clips by tsaiclip? Email us at customerservice@9tailors.com
+Interested in our mustache tie clips by tsaiclip? Email us at {{ site.emails.customerservice }}

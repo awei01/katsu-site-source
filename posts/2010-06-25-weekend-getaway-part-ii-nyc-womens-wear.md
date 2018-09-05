@@ -1,10 +1,11 @@
 ---
 path: /2010/06/weekend-getaway-part-ii-nyc-womens-wear/
-title: Weekend Getaway Part II: NYC Women's Wear
+title: 'Weekend Getaway Part II: NYC Women''s Wear'
+date: '2010-06-25'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - NYC
   - New York
@@ -12,7 +13,7 @@ tags:
   - custom suit
   - womens fashion
   - womenswear
-featuredImage: 2014
+featuredImage: null
 ---
 Last week, we did a post for men traveling to NYC for the weekend.
 
@@ -32,10 +33,6 @@ See the design board below for inspirational bows, frills, and layered jewelry t
 
 [![Fashion Trends & Styles - Polyvore](http://www.polyvorecdn.com/rsrc/img/logo_embed_alt_63x21.png "Fashion Trends & Styles - Polyvore")](http://www.polyvore.com/)
 
- 
-
 [9tailors women's nyc weekend](http://www.polyvore.com/9tailors_womens_nyc_weekend/set?.embedder=1591450&.mid=embed&id=20061086) by [eparise](http://www.polyvore.com/cgi/profile?.embedder=1591450&.mid=embed&id=1591450) featuring [Wet Seal tops](http://www.polyvore.com/wet_seal_tops/shop?brand=Wet+Seal&category_id=11)
 
- 
-
-Make an appointment with us [today](http://beta.9tailors.com/) to start designing.
+Make an appointment with us [today](http://9tailors.com/) to start designing.

@@ -1,23 +1,29 @@
 ---
 path: /2011/03/how-to-rock-what-youve-got/
-title: How To: Rock what you've got
+title: 'How To: Rock what you''ve got'
+date: '2011-03-22'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - how to
   - menswear
   - style tips
-featuredImage: 1856
+featuredImage: null
 ---
 Here are a few quick tips on how to put your best body forward depending on your body type. Identify the tricks for you by answering the following questions.
 
 **Could you share clothes with Kevin James?**
 
-[![](http://3.bp.blogspot.com/-ubB_CeYCPeM/TYgbRT-_bwI/AAAAAAAAAIY/gl9RTZUc6Rw/s320/Kevin%252BJames%252BDilemma%252BWorld%252BPremiere%252BNJ6SNXEf9mAl.jpg)](http://3.bp.blogspot.com/-ubB_CeYCPeM/TYgbRT-_bwI/AAAAAAAAAIY/gl9RTZUc6Rw/s1600/Kevin%252BJames%252BDilemma%252BWorld%252BPremiere%252BNJ6SNXEf9mAl.jpg) 1. When wearing a suit try a pocket square to draw the attention from your midsection to your chest. 2. Keep your jacket buttoned unless you are sitting down so the hanging sides do not add width to your frame. 3. Avoid plaids and checks as the horizontal lines in the pattern exaggerate your build.
+[![](http://3.bp.blogspot.com/-ubB_CeYCPeM/TYgbRT-_bwI/AAAAAAAAAIY/gl9RTZUc6Rw/s320/Kevin%252BJames%252BDilemma%252BWorld%252BPremiere%252BNJ6SNXEf9mAl.jpg)](http://3.bp.blogspot.com/-ubB_CeYCPeM/TYgbRT-_bwI/AAAAAAAAAIY/gl9RTZUc6Rw/s1600/Kevin%252BJames%252BDilemma%252BWorld%252BPremiere%252BNJ6SNXEf9mAl.jpg)
+1. When wearing a suit try a pocket square to draw the attention from your midsection to your chest.
+
+2. Keep your jacket buttoned unless you are sitting down so the hanging sides do not add width to your frame.
+
+3. Avoid plaids and checks as the horizontal lines in the pattern exaggerate your build.
 
 4\. Flat front pants are your friend, pleats add unnecessary bulk.
 
@@ -35,4 +41,13 @@ Here are a few quick tips on how to put your best body forward depending on your
 
 **Closer to Rondo's height?**
 
-[![](http://4.bp.blogspot.com/-Bd3JP-edo8c/TYgbb-fCeYI/AAAAAAAAAIg/dtbTQO75fjU/s320/rajon-rondo.jpg)](http://4.bp.blogspot.com/-Bd3JP-edo8c/TYgbb-fCeYI/AAAAAAAAAIg/dtbTQO75fjU/s1600/rajon-rondo.jpg) 1. While height has its perks, it is important to keep your proportions balanced. Keep a larger break in your pants to avoid looking lanky. 2. Just as Rondo did, a vest worn under a suit jacket breaks up the lines and prevents a Gumby look. 3. Opt for heavier fabrics such as tweed and wool. These will give your body more structure. 4. Avoid vertical lines or super skinny ties which exaggerate an already long body. Let us know if you have any tricks that work for you!
+[![](http://4.bp.blogspot.com/-Bd3JP-edo8c/TYgbb-fCeYI/AAAAAAAAAIg/dtbTQO75fjU/s320/rajon-rondo.jpg)](http://4.bp.blogspot.com/-Bd3JP-edo8c/TYgbb-fCeYI/AAAAAAAAAIg/dtbTQO75fjU/s1600/rajon-rondo.jpg)
+1. While height has its perks, it is important to keep your proportions balanced. Keep a larger break in your pants to avoid looking lanky.
+
+2. Just as Rondo did, a vest worn under a suit jacket breaks up the lines and prevents a Gumby look.
+
+3. Opt for heavier fabrics such as tweed and wool. These will give your body more structure.
+
+4. Avoid vertical lines or super skinny ties which exaggerate an already long body.
+
+Let us know if you have any tricks that work for you!

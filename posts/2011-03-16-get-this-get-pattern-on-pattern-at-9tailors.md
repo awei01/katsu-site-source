@@ -1,10 +1,11 @@
 ---
 path: /2011/03/get-this-get-pattern-on-pattern-at-9tailors/
 title: Get This - Get Pattern On Pattern at 9tailors
+date: '2011-03-16'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -13,9 +14,13 @@ tags:
   - menswear
   - menswear tips
   - pattern
-featuredImage: 1864
+featuredImage: null
 ---
-This whole week we've been talking about how to mix and match patterns together. When a client comes into the studio and wants to personalize his/her shirt, accenting the collar, cuff or placket with another fabric, I get so excited! It just so happens that mixing patterns together is one of my favorite things to do with clients. We believe that mixing patterns can be for everyone, from the conservative to the trend-setter. You just need a little courage and faith...and of course, a helping hand from a 9tailors Style Consultant. We've received some pretty fantastic shirts this week in the studio. Use these tips to purchase your next [9tailors](http://9tailors.com/) custom dress shirt.
+This whole week we've been talking about how to mix and match patterns together. When a client comes into the studio and wants to personalize his/her shirt, accenting the collar, cuff or placket with another fabric, I get so excited! It just so happens that mixing patterns together is one of my favorite things to do with clients.
+
+We believe that mixing patterns can be for everyone, from the conservative to the trend-setter. You just need a little courage and faith...and of course, a helping hand from a 9tailors Style Consultant.
+
+We've received some pretty fantastic shirts this week in the studio. Use these tips to purchase your next [9tailors](http://9tailors.com/) custom dress shirt.
 
 [![](https://lh5.googleusercontent.com/-8RQgP58VNoo/TX_0Yhu7_fI/AAAAAAAAIuI/G9zSgUk7xOU/s400/option1.jpg)](https://lh5.googleusercontent.com/-8RQgP58VNoo/TX_0Yhu7_fI/AAAAAAAAIuI/G9zSgUk7xOU/s1600/option1.jpg)
 
@@ -33,4 +38,8 @@ A striped blue and purple shirt with a matching purple accent
 
 An green striped shirt with blue pattern
 
-**Tip #3: Choose colors that match.** The last tip is the hardest concept to grasp as there are so many factors in play, such as your natural eye, personal style, light, hue, saturation, etc. Here the client really loved the apple green stripe. But, the client didn't want to use another green accent for fear that there would be "too much green." So, we helped the client find a related color, blue, as the accent. Go back to basics; use the beloved [color wheel](http://en.wikipedia.org/wiki/Color_wheel). Colors that are opposite each other go together. Colors that are side by side also work too! [Here](http://www.mens-fashion-tips.com/color-coordination.html) is an awesome piece on color coordination. All three shirts designs are 10% off this week! [E-mail](mailto:info@9tailors.com) us before next Friday, March 25 if you are interested. Need help mixing patterns? Go to [9tailors.com](http://9tailors.com/) or e-mail us at info@9tailors.com.
+**Tip #3: Choose colors that match.** The last tip is the hardest concept to grasp as there are so many factors in play, such as your natural eye, personal style, light, hue, saturation, etc. Here the client really loved the apple green stripe. But, the client didn't want to use another green accent for fear that there would be "too much green." So, we helped the client find a related color, blue, as the accent. Go back to basics; use the beloved [color wheel](http://en.wikipedia.org/wiki/Color_wheel). Colors that are opposite each other go together. Colors that are side by side also work too! [Here](http://www.mens-fashion-tips.com/color-coordination.html) is an awesome piece on color coordination.
+
+All three shirts designs are 10% off this week! [E-mail](mailto:{{ site.emails.info }}) us before next Friday, March 25 if you are interested.
+
+Need help mixing patterns? Go to [9tailors.com](http://9tailors.com/) or e-mail us at {{ site.emails.info }}.

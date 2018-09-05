@@ -1,11 +1,12 @@
 ---
 path: /2012/09/meet-james-and-emily/
 title: Meet James and Emily!
+date: '2012-09-18'
 author: sam
-categories: 
+categories:
   - our-clients
   - weddings
-tags: 
+tags:
   - 9tailors
   - 9tailors wedding
   - custom menswear
@@ -15,7 +16,7 @@ tags:
   - mens fashion
   - menswear
   - wedding suit
-featuredImage: 945
+featuredImage: /uploads/2014/10/41.jpg
 ---
 As wedding planning can get awfully tiresome and unbearably stressful, we understand your needs as a couple to make everything run as smoothly and perfectly as you have always dreamt it. That's why we take time getting to know you and what you are searching for. We work _with_ you to achieve the exclusive look that helps tell your love story. At [9tailors](http://www.9tailors.com/), we thrive on helping people design their wedding attire. Read below about James and Emily's experience.
 
@@ -37,7 +38,7 @@ We lucked out with a picture perfect Rhode Island summer day. Everything took pl
 
 **Why did you decide to go with 9tailors on your own custom design?**
 
-Our wedding was a labor of love - we hand-made absolutely everything we could, and our personalities came through in the small details. We wanted to put our touch on everything, and 9tailors was the perfect way to do that for James's formal wear. It was a lot of fun to customize the shirt down to the smallest detail. The shirt fit perfectly.
+Our wedding was a labor of love - we hand-made absolutely everything we could, and our personalities came through in the small details. We wanted to put our touch on everything, and 9tailors was the perfect way to do that for James's formal wear. It was a lot of fun to customize the shirt down to the smallest detail. The shirt fit perfectly. 
 
 [![](http://4.bp.blogspot.com/-P3YeKTgaq6I/UFOQbUhXlNI/AAAAAAAAA90/-76MmNPtbqg/s200/jemilyrecep213.jpg)](http://4.bp.blogspot.com/-P3YeKTgaq6I/UFOQbUhXlNI/AAAAAAAAA90/-76MmNPtbqg/s1600/jemilyrecep213.jpg)
 
@@ -49,11 +50,9 @@ Yellow contrast fabric on the inside of his cuffs and collar
 
 James had his wedding date monogrammed on the shirt's left cuff
 
- 
-
 **Describe your 9tailors experience and items**
 
-When we heard that 9tailors would be in New York City, we booked an appointment immediately. Samantha was a wonderful consultant - she guided us through the many, many style, color, and pattern options and helped design the perfect shirt. The step-by-step process was easy with her guidance... there were so many ways to customize the small details, and her expertise was spot on.
+When we heard that 9tailors would be in New York City, we booked an appointment immediately. Samantha was a wonderful consultant - she guided us through the many, many style, color, and pattern options and helped design the perfect shirt. The step-by-step process was easy with her guidance... there were so many ways to customize the small details, and her expertise was spot on. 
 
 **What was the best part of your wedding day?**
 
@@ -75,6 +74,6 @@ We had so much fun taking pictures in the photo booth. It was a time to be playf
 
 Before the dancing ensued...
 
-Upcoming nuptials? Thinking about designing your own shirt or suit?  Garment turnaround time is typically five weeks. We offer rush priority for an additional fee, but we recommend having a consultation at least two months prior to your wedding date (to alleviate your stress and ensure the perfect fit!) Email a style consultant at [customerservice@9tailors.com](mailto:customerservice@9tailors.com) for any questions or to request more information. 
+Upcoming nuptials? Thinking about designing your own shirt or suit?  Garment turnaround time is typically five weeks. We offer rush priority for an additional fee, but we recommend having a consultation at least two months prior to your wedding date (to alleviate your stress and ensure the perfect fit!) Email a style consultant at [{{ site.emails.customerservice }}](mailto:{{ site.emails.customerservice }}) for any questions or to request more information. 
 
 All photos courtesy of [Petersbarrett Photography](http://www.petersbarrettphotography.com/)

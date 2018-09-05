@@ -1,15 +1,16 @@
 ---
 path: /2014/03/winter-movie-personas-lead-us-into-warmer-outlooks/
 title: Winter Movie Personas Lead Us Into Warmer Outlooks
+date: '2014-03-14'
 author: michelle
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - fashion inspiration
   - mens fashion
   - menswear
   - style inspiration
-featuredImage: 900
+featuredImage: /uploads/2014/10/ellen_blog_march-3.jpg
 ---
 Our Spring Collection is here! Every other week we will be debuting a new inspiration from our collection. Our talented team focused on specific character styles in movies from this past Winter.
 
@@ -19,4 +20,4 @@ The man who wears _The Wolf of Wall Street_ look is one who emits confidence. H
 
 [![](http://2.bp.blogspot.com/-6KlsrJPpgPQ/UyNCWhXhI7I/AAAAAAAAUVo/0CzKS3QxjQM/s1600/ellen_blog_march-3.jpg)](http://2.bp.blogspot.com/-6KlsrJPpgPQ/UyNCWhXhI7I/AAAAAAAAUVo/0CzKS3QxjQM/s1600/ellen_blog_march-3.jpg)
 
-Want to know more about _The Wolf of Wall Street_ look? Need help fine tuning the details in your suit to make it into a power suit? Contact a style consultant at info@9tailors.com.
+Want to know more about _The Wolf of Wall Street_ look? Need help fine tuning the details in your suit to make it into a power suit? Contact a style consultant at {{ site.emails.info }}.

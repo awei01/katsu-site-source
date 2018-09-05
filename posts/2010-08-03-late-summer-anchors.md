@@ -1,17 +1,18 @@
 ---
 path: /2010/08/late-summer-anchors/
 title: Late-Summer Anchors
+date: '2010-08-03'
 author: sam
-categories: 
+categories:
   - press
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 1969
+featuredImage: null
 ---
 [![](http://2.bp.blogspot.com/_20LDsLnO2rk/TFg-6SVKrgI/AAAAAAAAAzU/H3hEC5YmxvY/s400/DSC06412.JPG)](http://2.bp.blogspot.com/_20LDsLnO2rk/TFg-6SVKrgI/AAAAAAAAAzU/H3hEC5YmxvY/s1600/DSC06412.JPG)
 

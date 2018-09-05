@@ -1,17 +1,18 @@
 ---
 path: /2014/03/how-to-polish-your-shoes/
 title: How to Polish Your Shoes
+date: '2014-03-20'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - custom menswear
   - mens accessories
   - mens fashion
   - mens fashion advice
   - menswear how to
   - menswear tips
-featuredImage: 894
+featuredImage: /uploads/2014/10/shoe-polish-source-gq.jpg
 ---
 Today is officially the first day of Spring! The winter wardrobes (should) slowly start being put into storage and more your brighter colors and lighter weights should be coming out. Wear lighter layers in the meantime to transition from seasons and temperatures.
 
@@ -25,7 +26,8 @@ source: alphamalelifestyle
 
 [![](http://1.bp.blogspot.com/-PWZEFPoK0wU/UysX-Yru7bI/AAAAAAAABjg/K-PH0497dXw/s1600/shoe+polish,+source+-+gq.jpg)](http://1.bp.blogspot.com/-PWZEFPoK0wU/UysX-Yru7bI/AAAAAAAABjg/K-PH0497dXw/s1600/shoe+polish,+source+-+gq.jpg)
 
-Saphir Polish, $5.50 source: GQ
+Saphir Polish, $5.50
+source: GQ
 
 **Tin of Wax Polish**
 
@@ -33,35 +35,40 @@ You don't want the polish to add color to your shoes, try to match it closely. G
 
 [![](http://2.bp.blogspot.com/-gJ9ihtUvxf8/UysZoz50K-I/AAAAAAAABjs/tQUpo9r09Tc/s1600/allenedmonds_shoe-care_horsehair-shine-brush_l.jpg)](http://2.bp.blogspot.com/-gJ9ihtUvxf8/UysZoz50K-I/AAAAAAAABjs/tQUpo9r09Tc/s1600/allenedmonds_shoe-care_horsehair-shine-brush_l.jpg)
 
-Allen Edmonds Horesehair Brush, $10.00 source: [Allen Edmonds](http://www.allenedmonds.com/aeonline/producti_SF587_1_40000000001_-1)
+Allen Edmonds Horesehair Brush, $10.00
+source: [Allen Edmonds](http://www.allenedmonds.com/aeonline/producti_SF587_1_40000000001_-1)
 
 **Horsehair Brush**
 
 [![](http://3.bp.blogspot.com/-vWpnV6J7QsY/Uysc8f3xmWI/AAAAAAAABj4/aFZXxpFHHCg/s1600/allenedmonds_shoe-care_horsehair-dauber_l.jpg)](http://3.bp.blogspot.com/-vWpnV6J7QsY/Uysc8f3xmWI/AAAAAAAABj4/aFZXxpFHHCg/s1600/allenedmonds_shoe-care_horsehair-dauber_l.jpg)
 
-Allen Edmonds Horsehair Dauber (Polish Applicator), $5.00 source: [Allen Edmonds](http://www.allenedmonds.com/aeonline/producti_SF589_1_40000000001_-1_)
+Allen Edmonds Horsehair Dauber (Polish Applicator), $5.00
+source: [Allen Edmonds](http://www.allenedmonds.com/aeonline/producti_SF589_1_40000000001_-1_)
 
 **Polish Dauber (Polish Applicator)**
 
 [![](http://3.bp.blogspot.com/-h2i6-RraRFU/UysgHITiGHI/AAAAAAAABkM/VDBhjukp3OI/s1600/saphir+polish+cloth.jpg)](http://3.bp.blogspot.com/-h2i6-RraRFU/UysgHITiGHI/AAAAAAAABkM/VDBhjukp3OI/s1600/saphir+polish+cloth.jpg)
 
-Saphir Cotton Polishing Cloth, $11.00 source: Pinterest purchase: [Amazon](http://www.amazon.com/Saphir-Polishing-Cloth-Chamois-Cotton/dp/B00FMWAKHO)
+Saphir Cotton Polishing Cloth, $11.00
+source: Pinterest
+purchase: [Amazon](http://www.amazon.com/Saphir-Polishing-Cloth-Chamois-Cotton/dp/B00FMWAKHO)
 
 ****Cotton Polishing Cloth****
 
 [![](http://2.bp.blogspot.com/-FA0xhzvOHdQ/UysmxG9UM0I/AAAAAAAABkc/R_XFz5dF2po/s1600/welt+brush.jpg)](http://2.bp.blogspot.com/-FA0xhzvOHdQ/UysmxG9UM0I/AAAAAAAABkc/R_XFz5dF2po/s1600/welt+brush.jpg)
 
-Welt Brush Alternative Option: New Toothbrush (bristles need to be stiff) source: exquisitetrimmings
+Welt Brush
+Alternative Option: New Toothbrush (bristles need to be stiff)
+source: exquisitetrimmings
 
 ****Welt Brush****
 
 [![](http://2.bp.blogspot.com/-fnxdGlZuUMU/UysslB-yvBI/AAAAAAAABks/DkzvE18EpwM/s1600/cotton+balls.jpg)](http://2.bp.blogspot.com/-fnxdGlZuUMU/UysslB-yvBI/AAAAAAAABks/DkzvE18EpwM/s1600/cotton+balls.jpg)
 
-Cotton Balls source: thegomoveproject.files.wordpress
+Cotton Balls
+source: thegomoveproject.files.wordpress
 
 **Cotton Balls**
-
- 
 
 **Step One:**
 
@@ -85,4 +92,4 @@ Use cotton shine cloth to put finishing touches and gloss on shoe.
 
 Now that you know what to do, I will leave you with this beautiful video of a shoe being polished (best with sound).
 
-If you need help coordinating your shoes with your pants or want to know what shoes to wear with your suit, contact a style consultant at info@9tailors.com
+If you need help coordinating your shoes with your pants or want to know what shoes to wear with your suit, contact a style consultant at {{ site.emails.info }}

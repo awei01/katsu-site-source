@@ -1,18 +1,19 @@
 ---
 path: /2011/06/three-piece-wedded-bliss/
 title: Three Piece Wedded Bliss
+date: '2011-06-20'
 author: sam
-categories: 
+categories:
   - style-tips
   - weddings
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - menswear
   - style tips
   - weddings
-featuredImage: 1753
+featuredImage: /uploads/2014/11/28.jpg
 ---
 Here are some beautiful photos taken by [Summer Street Photography](http://www.summerstreetphotography.com/) of one of our clients on his wedding day. His three piece suit looks fantastic as do his groomsmen in their custom shirts. And, of course, the bride was stunning in her strapless gown. We love the laid back sophistication of Blair and Karen's wedding, hope it was as fun as it was beautiful!
 
@@ -30,4 +31,4 @@ Here are some beautiful photos taken by [Summer Street Photography](http://www.s
 
 [![](http://4.bp.blogspot.com/-Jyv1tVx8KT8/Tf4ZpMgzh4I/AAAAAAAAAd8/SMcu392l0Mw/s400/Karen%252BBlair-84.jpg)](http://4.bp.blogspot.com/-Jyv1tVx8KT8/Tf4ZpMgzh4I/AAAAAAAAAd8/SMcu392l0Mw/s1600/Karen%252BBlair-84.jpg)All the best from the 9tailors team!
 
-Need your wedding party outfitted? Email us at weddings@9tailors.com to schedule an appointment with a style consultant.
+Need your wedding party outfitted? Email us at {{ site.emails.weddings }} to schedule an appointment with a style consultant.

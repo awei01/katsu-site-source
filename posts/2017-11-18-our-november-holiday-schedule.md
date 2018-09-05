@@ -1,17 +1,18 @@
 ---
 path: /2017/11/our-november-holiday-schedule/
 title: Our November Holiday Schedule
+date: '2017-11-18'
 author: eboni
-categories: 
+categories:
   - events-promotions
-tags: 
+tags:
   - 9tailors
   - 9tailors Boston
   - bespoke suiting
   - custom suiting
   - mens fashion
   - menswear
-featuredImage: 5494
+featuredImage: /uploads/2017/11/GiveThanks-Desktop-e1511041422115.jpg
 ---
 #### Happy Holidays from our 9tailors family to yours!
 
@@ -29,4 +30,4 @@ featuredImage: 5494
 
 In order to ensure a timely delivery for all Christmas and New Years orders **appointments must be made before November 24th**. Orders placed after 11/24, **will include a rush fee** and appointments must be made before December 1st.
 
-To schedule an appointment feel free to call us at 617-286-6135 or email us at info@9tailors.com.
+To schedule an appointment feel free to call us at 617-286-6135 or email us at {{ site.emails.info }}.

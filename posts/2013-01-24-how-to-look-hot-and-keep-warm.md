@@ -1,16 +1,17 @@
 ---
 path: /2013/01/how-to-look-hot-and-keep-warm/
-title: How to: Look Hot and Keep Warm
+title: 'How to: Look Hot and Keep Warm'
+date: '2013-01-24'
 author: sam
-categories: 
+categories:
   - uncategorized
-tags: 
+tags:
   - 9tailors
   - dapper
   - how to
   - mens fashion tips
   - menswear advice
-featuredImage: 2232
+featuredImage: /uploads/2014/11/aa.jpeg
 ---
 So, this week is frigid, right? How about this morning? It feels like the cold seeps into your bone marrow and just permeates throughout your body until you get indoors. Don't have gloves? Fuggedaboutit. Your hands are so numb that it's actually a concerted effort to do everyday things like open doors, hail a cab, send a text, make a call. Jam them digits in your pockets and sparingly remove only when necessary—red, frostbitten fingers kinda hurt and take time to thaw out.
 
@@ -18,7 +19,9 @@ So, this week is frigid, right? How about this morning? It feels like the cold s
 
 Courtesy of National Weather Service
 
-It's fairly serious when even newscasters are cautioning you not to go outside unless absolutely necessary, as has been customary of our local channels this week. And let's face it, gentlemen, a suit and overcoat can only offer so much warmth. To help keep you bundled, we recommend the following rules: LAYER IT UP. Why not wear a cardigan under your jacket or blazer and over your shirt? Tuck the tie in and you actually look quite nice, handsome even. It's also office appropriate for those of you in a more professional dress code setting. Wear the jacket to the meetings with your higher-up executives and clients, slip it off when you're roaming around with co-workers. And what's more? People have been rocking this preppy look all over the place lately. Our contention? Looks hot and keeps you warm.
+It's fairly serious when even newscasters are cautioning you not to go outside unless absolutely necessary, as has been customary of our local channels this week. And let's face it, gentlemen, a suit and overcoat can only offer so much warmth. To help keep you bundled, we recommend the following rules:
+
+LAYER IT UP. Why not wear a cardigan under your jacket or blazer and over your shirt? Tuck the tie in and you actually look quite nice, handsome even. It's also office appropriate for those of you in a more professional dress code setting. Wear the jacket to the meetings with your higher-up executives and clients, slip it off when you're roaming around with co-workers. And what's more? People have been rocking this preppy look all over the place lately. Our contention? Looks hot and keeps you warm.
 
 [![](http://4.bp.blogspot.com/-QMb8SS_Bhkc/UQGmOVmF9SI/AAAAAAAAB1g/PgSzDG9I1CY/s400/imgres.jpeg)](http://4.bp.blogspot.com/-QMb8SS_Bhkc/UQGmOVmF9SI/AAAAAAAAB1g/PgSzDG9I1CY/s1600/imgres.jpeg)
 
@@ -44,4 +47,4 @@ GET A HAT, SON. If you aren't worried about your hair, then the best defense aga
 
 courtesy of StyleBistro.com
 
-Need more style tips or just someone to tell you yay or nay on a trend you're thinking of trying? Email a Style Consultant at [info@9tailors.com](mailto:%20info@9tailors.com) for our opinions.
+Need more style tips or just someone to tell you yay or nay on a trend you're thinking of trying? Email a Style Consultant at [{{ site.emails.info }}](mailto:%20{{ site.emails.info }}) for our opinions.

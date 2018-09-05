@@ -1,18 +1,21 @@
 ---
 path: /2014/11/holiday-schedule/
 title: Holiday Schedule
+date: '2014-11-26'
 author: elizabeth
-categories: 
+categories:
   - events-promotions
-tags: 
+tags:
   - 9tailors
   - boston
   - custom clothing
   - holiday schedule
   - holiday season
-featuredImage: 2337
+featuredImage: /uploads/2014/11/Let-it-snow.jpg
 ---
-[![Cutepillow](http://blog.9tailors.com/uploads/Cutepillow.jpg)](http://blog.9tailors.com/uploads/Cutepillow.jpg) Happy Holidays! Check out our holiday studio hours for 2014:
+[![Cutepillow]({{ site.baseUrl }}/uploads/Cutepillow.jpg)]({{ site.baseUrl }}/uploads/Cutepillow.jpg)
+
+Happy Holidays! Check out our holiday studio hours for 2014:
 
 **Christmas**
 
@@ -30,4 +33,4 @@ Friday, January 2nd - studio OPEN 11am-7pm
 
 Saturday, January 3rd - studio OPEN 11am-5pm
 
-  Once again, happy holidays and stay warm!
+Once again, happy holidays and stay warm!

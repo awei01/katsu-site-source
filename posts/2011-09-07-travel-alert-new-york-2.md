@@ -1,17 +1,18 @@
 ---
 path: /2011/09/travel-alert-new-york-2/
-title: Travel Alert: New York
+title: 'Travel Alert: New York'
+date: '2011-09-07'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - New York
   - bespoke
   - custom suit
   - menswear
   - travel
-featuredImage: 1688
+featuredImage: /uploads/2014/11/c1.jpg
 ---
 9tailors will be making a trip to New York City September 30 and October 1! For the Boston defectors or the NY natives we will be bringing tailored perfection to the bustling isle of Manhattan.
 
@@ -21,4 +22,4 @@ Get while the gettin's good and make your appointment today. A 9tailors style co
 
 On the 30th appointment times are available from 2pm to 7pm. On the 1st appointments are available from 10am to 7pm.
 
-Go ahead and sent us an email to secure your slot at [info@9tailors.com](http://www.blogger.com/info@9tailors.com). See you in NY!
+Go ahead and sent us an email to secure your slot at [{{ site.emails.info }}](http://{{ site.emails.info }}). See you in NY!

@@ -1,10 +1,11 @@
 ---
 path: /2012/11/happy-thanksgiving-to-all/
 title: Happy Thanksgiving to All!
+date: '2012-11-22'
 author: sam
-categories: 
+categories:
   - uncategorized
-tags: 
+tags:
   - 9tailors
   - custom menswear
   - custom suiting
@@ -12,7 +13,7 @@ tags:
   - mens accessories
   - mens fashion
   - menswear
-featuredImage: 919
+featuredImage: /uploads/2014/10/t.jpeg
 ---
 [![](http://4.bp.blogspot.com/-koXtn_Iy9no/UKZq_4GhcRI/AAAAAAAABfw/3KE9Mhj3j_4/s1600/Beautiful-Turkey.jpeg)](http://4.bp.blogspot.com/-koXtn_Iy9no/UKZq_4GhcRI/AAAAAAAABfw/3KE9Mhj3j_4/s1600/Beautiful-Turkey.jpeg)
 

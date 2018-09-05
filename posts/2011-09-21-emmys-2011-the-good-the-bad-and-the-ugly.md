@@ -1,17 +1,18 @@
 ---
 path: /2011/09/emmys-2011-the-good-the-bad-and-the-ugly/
-title: Emmys 2011: The good, the bad, and the ugly
+title: 'Emmys 2011: The good, the bad, and the ugly'
+date: '2011-09-21'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - Emmys
   - Trends
   - bespoke
   - custom suit
   - menswear
-featuredImage: 1675
+featuredImage: /uploads/2014/11/56.jpg
 ---
 Another award show has come to an end. It left some lasting impressions, good and bad. Here are the successes and casualties of the night.
 
@@ -37,6 +38,6 @@ Shawl collars are great, when done right. But, thin and leather? The only saving
 
 [![](http://3.bp.blogspot.com/-cwqR9Cen8tA/Tnn5BYCWxkI/AAAAAAAAAy0/ESDk5tU6jqY/s400/seal.jpg)](http://3.bp.blogspot.com/-cwqR9Cen8tA/Tnn5BYCWxkI/AAAAAAAAAy0/ESDk5tU6jqY/s1600/seal.jpg)
 
-Please Sir, button up, or [button down the right way](http://9tailors.blogspot.com/2011/03/steal-this-look-javier-bardem.html). Did you forget to fasten the top 5 buttons? Or, are you simply trying to emphasize your enormous pectoral muscles that are coincidentally oiled up?
+Please Sir, button up, or [button down the right way](http://2011/03/steal-this-look-javier-bardem.html). Did you forget to fasten the top 5 buttons? Or, are you simply trying to emphasize your enormous pectoral muscles that are coincidentally oiled up?
 
 Don't let Seals misfortune become your own. Contact a style consultant today at to set up an appointment.

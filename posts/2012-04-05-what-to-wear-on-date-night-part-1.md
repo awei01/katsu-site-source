@@ -1,10 +1,11 @@
 ---
 path: /2012/04/what-to-wear-on-date-night-part-1/
-title: What to Wear on Date Night: Part 1
+title: 'What to Wear on Date Night: Part 1'
+date: '2012-04-05'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -13,7 +14,7 @@ tags:
   - date night fashion
   - mens fashion
   - menswear
-featuredImage: 1013
+featuredImage: /uploads/2014/10/3.png
 ---
 Whether you've already married your betrothed or you're trying to impress a new fling, you should always look good on date night. Always. You know this by now.
 
@@ -31,7 +32,7 @@ Courtesy of [http://unmiserablecleveland.com](http://unmiserablecleveland.com/)
 
 First, eliminate speculation. When you make your reservation, ask about the restaurant dresscode or check the website photos to get a feel for the atmosphere and how other patrons dress. There's no shame in preparation. And you'll feel more confident when you approach your closet with an idea in mind.
 
-If you're going to a nice place like [Abe & Louie's](http://abeandlouies.com/) or [Sonsi](http://sonsieboston.com/flash/), wear nice slacks, a presentable button down, a fitted navy blazer, and nice shoes (see last [blogpost](http://9tailors.blogspot.com/2012/04/walk-like-man.html)). Feeling fancy? Accessorize a smidgeon with a tie or a pocket square (one or the other, not both). You could probably get away with dark jeans here but why not step up your game and sport some trousers? Men don't dress up anymore, time to bring classic cool back.
+If you're going to a nice place like [Abe & Louie's](http://abeandlouies.com/) or [Sonsi](http://sonsieboston.com/flash/), wear nice slacks, a presentable button down, a fitted navy blazer, and nice shoes (see last [blogpost](http://2012/04/walk-like-man.html)). Feeling fancy? Accessorize a smidgeon with a tie or a pocket square (one or the other, not both). You could probably get away with dark jeans here but why not step up your game and sport some trousers? Men don't dress up anymore, time to bring classic cool back.
 
 [![](http://4.bp.blogspot.com/-keiOqVWYyQs/T33Kae6eZjI/AAAAAAAAALI/LFtgTIrynx4/s320/9TailorsFallShoot-014.jpg)](http://4.bp.blogspot.com/-keiOqVWYyQs/T33Kae6eZjI/AAAAAAAAALI/LFtgTIrynx4/s1600/9TailorsFallShoot-014.jpg)
 
@@ -49,4 +50,4 @@ Okay, it's dark in there--you're really dressing for dinner and whatever happens
 
 _Sidebar_: Chivalry and romance are seemingly lost nowadays, keep them alive! Open doors, pull out chairs, be attentive, and behave like a true gentleman. She'll be impressed by your manners and your sense of style.
 
-Looking to spiff up your wardrobe for some presentable dating attire? Email [info@9tailors.com](mailto:info@9tailors.com) and a style consultant will help you put together a suit or outfit that highlights just how great you are.
+Looking to spiff up your wardrobe for some presentable dating attire? Email [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and a style consultant will help you put together a suit or outfit that highlights just how great you are.

@@ -1,11 +1,12 @@
 ---
 path: /2012/08/fall-2012-trends-featuring-jermaine-cunningham/
 title: Fall 2012 Trends featuring Jermaine Cunningham
+date: '2012-08-01'
 author: sam
-categories: 
+categories:
   - our-clients
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -16,7 +17,7 @@ tags:
   - menswear
   - new england patriots
   - trend alert
-featuredImage: 953
+featuredImage: /uploads/2014/10/89.jpg
 ---
 [![](http://4.bp.blogspot.com/-Bf2SqWnfHxY/UBQnDtqRQtI/AAAAAAAAApc/WJukdON69sA/s640/20120414-9tailors-0977.jpg)](http://4.bp.blogspot.com/-Bf2SqWnfHxY/UBQnDtqRQtI/AAAAAAAAApc/WJukdON69sA/s1600/20120414-9tailors-0977.jpg)
 
@@ -48,7 +49,8 @@ If you already have enough suits in your closet but need that vest for a finishi
 
 ### Conversation-Starting Shoes
 
-Shoes that make a statement, according to [NYMag](http://nymag.com/daily/fashion/2012/01/fall-2012-menswear-trend-statement-shoes.html), are in this Fall. Check the foot-candy on Jermaine! Now, this is a touchy subject, some of the shoes on the runways are obviously not conservative enough for business meetings and the like, but you can dress up your feet with a bit of pizazz just in detail or texture, rather than going all out on funky designs and colors that scream.
+Shoes that make a statement, according to [NYMag](http://nymag.com/daily/fashion/2012/01/fall-2012-menswear-trend-statement-shoes.html), are in this Fall. Check the foot-candy on Jermaine!
+Now, this is a touchy subject, some of the shoes on the runways are obviously not conservative enough for business meetings and the like, but you can dress up your feet with a bit of pizazz just in detail or texture, rather than going all out on funky designs and colors that scream.
 
 [![](http://1.bp.blogspot.com/-_7p9pLjGOTk/UBRKPESsnrI/AAAAAAAAAqI/FG56CMRP1S4/s400/20120414-9tailors-0994.jpg)](http://1.bp.blogspot.com/-_7p9pLjGOTk/UBRKPESsnrI/AAAAAAAAAqI/FG56CMRP1S4/s1600/20120414-9tailors-0994.jpg)
 
@@ -70,7 +72,7 @@ Courtesy of  burningdvds.com
 
 ### Patterns! Knit ties! 
 
-Autumn is the best time of year to play with textures and patterns. Remember our post on [knit ties](http://9tailors.blogspot.com/2012/03/try-this-accessory-knit-ties.html) a few months back? You'll be seeing more of these around as well.
+Autumn is the best time of year to play with textures and patterns. Remember our post on [knit ties](http://2012/03/try-this-accessory-knit-ties.html) a few months back? You'll be seeing more of these around as well.
 
 [![](http://1.bp.blogspot.com/-3P7z-VG_cn4/UBRL14QsDuI/AAAAAAAAArI/nxy0Z1lsXRg/s400/00060m.jpg)](http://1.bp.blogspot.com/-3P7z-VG_cn4/UBRL14QsDuI/AAAAAAAAArI/nxy0Z1lsXRg/s1600/00060m.jpg)
 
@@ -78,6 +80,8 @@ Autumn is the best time of year to play with textures and patterns. Remember our
 
 [![](http://4.bp.blogspot.com/-46ep_BjbhKA/UBRL5aRXA5I/AAAAAAAAArg/F97q52TwNXM/s400/00220m.jpg)](http://4.bp.blogspot.com/-46ep_BjbhKA/UBRL5aRXA5I/AAAAAAAAArg/F97q52TwNXM/s1600/00220m.jpg)
 
-What does [Esquire](http://www.esquire.com/style/fall-fashion-designer-preview-0812#slide-1) have to say? Echoing the sentiments above, they've highlighted nine **top designer** collections in this wonderful slideshow. See how your wardrobe stacks up. See more of Jermaine Cunningham's photo shoot on our [facebook](https://www.facebook.com/9tailors) page, photos courtesy of the talent-bursting photographer, [Channing Johnson](http://www.channingjohnson.com/).
+What does [Esquire](http://www.esquire.com/style/fall-fashion-designer-preview-0812#slide-1) have to say? Echoing the sentiments above, they've highlighted nine **top designer** collections in this wonderful slideshow. See how your wardrobe stacks up.
 
-Need some fly autumnal looks? Tweeds, Herringbones, Plaids, Checks? Thinking about a double-breasted suit? Email a style consultant at [info@9tailors.com](mailto:info@9tailors.com) and design your custom suit and shirt today!
+See more of Jermaine Cunningham's photo shoot on our [facebook](https://www.facebook.com/9tailors) page, photos courtesy of the talent-bursting photographer, [Channing Johnson](http://www.channingjohnson.com/).
+
+Need some fly autumnal looks? Tweeds, Herringbones, Plaids, Checks? Thinking about a double-breasted suit? Email a style consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and design your custom suit and shirt today!

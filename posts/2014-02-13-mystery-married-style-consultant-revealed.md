@@ -1,13 +1,14 @@
 ---
 path: /2014/02/mystery-married-style-consultant-revealed/
 title: Mystery Married Style Consultant Revealed!
+date: '2014-02-13'
 author: michelle
-categories: 
+categories:
   - weddings
-tags: 
+tags:
   - wedding story
   - weddings
-featuredImage: 1090
+featuredImage: /uploads/2014/10/Karly_01.jpg
 ---
 Tomorrow night is the night for first loves, long loves and those awkward ones where you don't want to call them your love, but you have romantic feelings for that person you've been hanging out with, but are unsure of how they feel. So, you just kind of like them... and hope they like you back.
 
@@ -57,4 +58,4 @@ And they're living happily ever after...
 
 Voted "Best Of" The Knot's 2012, 2013 & 2014
 
-Interested in designing your husband-to-be's suit for your upcoming wedding? Have the perfect suit in mind for your wedding day but can't find it anywhere? Want all of you groomsmen to feel special with their own custom suits? Thinking of saying "Thank You" to the father's of the bride and groom with a custom suit? Contact a style consultant at weddings@9tailors.com.
+Interested in designing your husband-to-be's suit for your upcoming wedding? Have the perfect suit in mind for your wedding day but can't find it anywhere? Want all of you groomsmen to feel special with their own custom suits? Thinking of saying "Thank You" to the father's of the bride and groom with a custom suit? Contact a style consultant at {{ site.emails.weddings }}.

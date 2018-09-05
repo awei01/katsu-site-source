@@ -1,15 +1,16 @@
 ---
 path: /2011/09/channeling-marty-mcfly/
 title: Channeling Marty McFly...
+date: '2011-09-09'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - menswear
-featuredImage: 1684
+featuredImage: /uploads/2014/11/a7.jpg
 ---
 Remember these shoes from [Back to the Future II](http://www.imdb.com/title/tt0096874/)?
 

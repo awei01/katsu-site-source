@@ -1,17 +1,18 @@
 ---
 path: /2014/02/snow-rain-puddles-lifehack-to-keep-your-shoes-happy/
-title: Snow, Rain, Puddles - LifeHack to Keep Your Shoes Happy
+title: 'Snow, Rain, Puddles - LifeHack to Keep Your Shoes Happy'
+date: '2014-02-21'
 author: michelle
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - life hacks
   - mens fashion
   - mens fashion advice
   - menswear
   - menswear tips
   - rain wear
-featuredImage: 1087
+featuredImage: /uploads/2014/10/rubber-shoe-cover-source-iloveurtop.jpg
 ---
 It's a relief to have a day or two without a wintry mix (rain and snow), the temperatures are warming up and it feels like Spring compared to last week. Mother Nature will not stop toying with us and keeps us on our toes. Whether we are slipping on ice or leaping over puddles, our shoes have taken a serious beating this Winter and it isn't over yet.
 
@@ -29,4 +30,4 @@ source: iloveurtop
 
 The rubber shoe covers aren't the most attractive thing but they also aren't the worst. They are practical and and keep your shoe protected and clean while you are in the office without having to change shoes when you leave for your lunch break. They are not obnoxiously loud and actually look decent while you're walking around. One of our clients came in with these the other day. I didn't even realize he was wearing them until he took them off to reveal perfectly polished shoes. The best part? They're inexpensive! You can find them on [amazon](http://www.amazon.com/Totes-Geometric-Overshoe-Size-9-5/dp/B002NWZLTS). It's just smart.
 
-Need style advice? Want to know how to take care of your custom suits and shirts? Need help coordinating outfits or mixing and matching patterns? Contact a style consultant at info@9tailors.com.
+Need style advice? Want to know how to take care of your custom suits and shirts? Need help coordinating outfits or mixing and matching patterns? Contact a style consultant at {{ site.emails.info }}.

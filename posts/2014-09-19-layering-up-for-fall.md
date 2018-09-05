@@ -1,10 +1,11 @@
 ---
 path: /2014/09/layering-up-for-fall/
 title: Layering Up for Fall
+date: '2014-09-19'
 author: elizabeth
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - fall fashion
   - fall menswear
   - fall tips
@@ -13,13 +14,15 @@ tags:
   - mens fashion advice
   - mens fashion tips
   - menswear how to
-featuredImage: 862
+featuredImage: /uploads/2014/10/j.jpg
 ---
-Temperatures are dropping and leaves are turning...fall is here! Here are a few tips on how to layer up without looking like the Michelin man. **Tip #1: Scarves!** Yes, scarves _can_ be manly. In fact, they can add just the right touch to an outfit, while giving you a ton of extra warmth. Your neck, head and hands are the likely to be the only uncovered body parts, so wearing the appropriate gear will keep you significantly warmer without needing a full jacket.
+Temperatures are dropping and leaves are turning...fall is here! Here are a few tips on how to layer up without looking like the Michelin man.
+
+**Tip #1: Scarves!** Yes, scarves _can_ be manly. In fact, they can add just the right touch to an outfit, while giving you a ton of extra warmth. Your neck, head and hands are the likely to be the only uncovered body parts, so wearing the appropriate gear will keep you significantly warmer without needing a full jacket.
 
 [![](http://3.bp.blogspot.com/-mTHrZdVLZQY/VBxwiaVLnTI/AAAAAAAAAq8/jZFZ44SAi3Q/s1600/20120328-9tailors-0195.jpg)](http://3.bp.blogspot.com/-mTHrZdVLZQY/VBxwiaVLnTI/AAAAAAAAAq8/jZFZ44SAi3Q/s1600/20120328-9tailors-0195.jpg)
 
-9tailors 2 piece suit (see our [Grey Matter](http://9tailors.blogspot.com/2014/09/grey-matter-20-discount-on-grey-custom.html) sale - only this month!)
+9tailors 2 piece suit (see our [Grey Matter](http://2014/09/grey-matter-20-discount-on-grey-custom.html) sale - only this month!)
 
 [![](http://4.bp.blogspot.com/-47aSSdCJ-Ig/VBxwu-U_r8I/AAAAAAAAArE/c3B68w4izpk/s1600/Jeff%2BCumberland_08.jpg)](http://4.bp.blogspot.com/-47aSSdCJ-Ig/VBxwu-U_r8I/AAAAAAAAArE/c3B68w4izpk/s1600/Jeff%2BCumberland_08.jpg)
 
@@ -61,4 +64,4 @@ Mix and match patterns, textures and colors done just right!
 
 9tailors custom shirt, [Jegman](http://www.jegman.com/) tie
 
-So there you have it, some simple tips to staying warm _and_ looking great. Contact us at [info@9tailors.com](mailto:info@9tailors.com) to order your vests, tweeds, patterned shirts and custom jackets! We'll have you looking dapper in no time.
+So there you have it, some simple tips to staying warm _and_ looking great. Contact us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to order your vests, tweeds, patterned shirts and custom jackets! We'll have you looking dapper in no time.

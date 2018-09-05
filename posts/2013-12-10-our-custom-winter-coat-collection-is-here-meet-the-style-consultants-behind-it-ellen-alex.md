@@ -1,10 +1,14 @@
 ---
-path: /2013/12/our-custom-winter-coat-collection-is-here-meet-the-style-consultants-behind-it-ellen-alex/
-title: Our Custom Winter Coat Collection is Here! Meet the Style Consultants Behind It, Ellen & Alex
+path: >-
+  /2013/12/our-custom-winter-coat-collection-is-here-meet-the-style-consultants-behind-it-ellen-alex/
+title: >-
+  Our Custom Winter Coat Collection is Here! Meet the Style Consultants Behind
+  It, Ellen & Alex
+date: '2013-12-10'
 author: michelle
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - custom clothing
   - custom coat
@@ -14,7 +18,7 @@ tags:
   - mens outerwear
   - menswear
   - winter coat
-featuredImage: 1118
+featuredImage: /uploads/2014/10/a-christmas-story-530fp121010.jpg
 ---
 Baby, it's snowing outside and Mother Nature has stopped gifting and confusing us with random warm days. Winter is here with snow and holiday cheer! Bundle up with layers and winter outerwear without looking like a giant marshmallow.
 
@@ -32,7 +36,9 @@ The collection was put together by two of our style consultants, Ellen and Alex.
 
 [![](http://3.bp.blogspot.com/-_CnKMH8epxk/UqDK_ZYtgVI/AAAAAAAAAWY/Z-RZKG_H-Bg/s400/winter+coats+blog,+alex&ellen_0045.jpg)](http://3.bp.blogspot.com/-_CnKMH8epxk/UqDK_ZYtgVI/AAAAAAAAAWY/Z-RZKG_H-Bg/s1600/winter+coats+blog,+alex&ellen_0045.jpg)
 
-Alex is standing with her sample favorite, the Brown Mid-Length coat with contrast lining. Taylor Twellman approves (photograph on the wall, modeling a 9tailors custom trench coat). Tie by Jegman
+Alex is standing with her sample favorite, the Brown Mid-Length coat with contrast lining.
+Taylor Twellman approves (photograph on the wall, modeling a 9tailors custom trench coat).
+Tie by Jegman
 
 Alex, Studio Manager & Style Consultant.
 
@@ -64,4 +70,4 @@ _\*Have a drink on us, join us for that Winter warmer drink - whiskey_
 
 [![](http://1.bp.blogspot.com/-eEaeOz7V7BU/UqdLkamZwZI/AAAAAAAAAeI/O7npGhJQQ7g/s640/1455192_10152406113199251_2038530536_n.jpg)](http://1.bp.blogspot.com/-eEaeOz7V7BU/UqdLkamZwZI/AAAAAAAAAeI/O7npGhJQQ7g/s1600/1455192_10152406113199251_2038530536_n.jpg)
 
-Interested in a custom winter coat for yourself or as a gift? Want to drop-in our bow tie event? Contact us at info@9tailors.com
+Interested in a custom winter coat for yourself or as a gift? Want to drop-in our bow tie event? Contact us at {{ site.emails.info }}

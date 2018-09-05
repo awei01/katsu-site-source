@@ -1,10 +1,11 @@
 ---
 path: /2014/11/dont-let-your-suit-go-to-waste/
 title: Don't let your suit go to waste
+date: '2014-11-24'
 author: sam
-categories: 
+categories:
   - events-promotions
-tags: 
+tags:
   - boston
   - clothing drive
   - community
@@ -17,10 +18,24 @@ tags:
   - suit drive
 featuredImage: null
 ---
-[![treat_main_no2014](http://blog.9tailors.com/uploads/treat_main_no2014.jpg)](http://blog.9tailors.com/uploads/treat_main_no2014.jpg) "Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."  - Maimondes We are proud to announce our new partnerships with the non-profit organizations, [St. Francis House](http://www.stfrancishouse.org/) in Downtown Boston! One of their most important initiatives is the Sullivan Family Moving Ahead Program (MAP). The program trains poor or homeless individuals who have battled adversity, homelessness, addiction and incarceration with important job and life skills. MAP also helps students find and retain employment as well. Your suit and professional clothing donations will clothe the students in the program for job interviews and work. We also love that the clothing-drive will help reduce some landfill and clothing waste as millions of tons of clothing and textiles are unnecessarily discarded each year. With your help, your gently-worn suit will get another chance at life. This year we've already donated 75 unworn suits and 48 shirts to St. Francis House. How can you help? Starting November 24, bring us your gently-worn suits or work attire. You will then receive a 20% discount when you spend $150.00+ on a single purchase. No clothes to donate? No problem! You'll can get 10% off your next purchase over $150+. Our holiday sale ends on December 24th 11:59PM EST. \[caption id="attachment\_2319" align="aligncenter" width="400"\][![2014-11-10 12.18.03 1](http://blog.9tailors.com/uploads/2014-11-10-12.18.03-1.jpg)](http://blog.9tailors.com/uploads/2014-11-10-12.18.03-1.jpg) Our donation boxes packed and ready to go to St. Francis House.\[/caption\] Rules & Restrictions:
+[![treat_main_no2014]({{ site.baseUrl }}/uploads/treat_main_no2014.jpg)]({{ site.baseUrl }}/uploads/treat_main_no2014.jpg)
 
-*   Your donations are subject to inspection. Garments should be in good condition without holes, damage or discoloration.
-*   Discount applies to single purchases of $150.00+.
-*   Discount does not apply to previous purchases and cannot be redeemed for cash or used in combination with any other offer.
-*   Limit one promotion code per order.
-*   Discount and donations starts on November 24 and expires on December 24 at 11:59PM EST.
+"Give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime."  - Maimondes
+
+We are proud to announce our new partnerships with the non-profit organizations, [St. Francis House](http://www.stfrancishouse.org/) in Downtown Boston! One of their most important initiatives is the Sullivan Family Moving Ahead Program (MAP). The program trains poor or homeless individuals who have battled adversity, homelessness, addiction and incarceration with important job and life skills. MAP also helps students find and retain employment as well. Your suit and professional clothing donations will clothe the students in the program for job interviews and work.
+
+We also love that the clothing-drive will help reduce some landfill and clothing waste as millions of tons of clothing and textiles are unnecessarily discarded each year. With your help, your gently-worn suit will get another chance at life.
+
+This year we've already donated 75 unworn suits and 48 shirts to St. Francis House. How can you help? Starting November 24, bring us your gently-worn suits or work attire. You will then receive a 20% discount when you spend $150.00+ on a single purchase. No clothes to donate? No problem! You'll can get 10% off your next purchase over $150+.
+
+Our holiday sale ends on December 24th 11:59PM EST.
+
+\[caption id="attachment\_2319" align="aligncenter" width="400"\][![2014-11-10 12.18.03 1]({{ site.baseUrl }}/uploads/2014-11-10-12.18.03-1.jpg)]({{ site.baseUrl }}/uploads/2014-11-10-12.18.03-1.jpg) Our donation boxes packed and ready to go to St. Francis House.\[/caption\]
+
+Rules & Restrictions:
+
+	*Your donations are subject to inspection. Garments should be in good condition without holes, damage or discoloration.
+	*Discount applies to single purchases of $150.00+.
+	*Discount does not apply to previous purchases and cannot be redeemed for cash or used in combination with any other offer.
+	*Limit one promotion code per order.
+	*Discount and donations starts on November 24 and expires on December 24 at 11:59PM EST.

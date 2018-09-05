@@ -1,17 +1,18 @@
 ---
 path: /2014/03/spring-collection-featuring-her/
 title: Spring Collection featuring Her
+date: '2014-03-27'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - Her
   - fashion inspiration
   - mens fashion
   - menswear
   - menswear inspiration
   - movie inspiration
-featuredImage: 890
+featuredImage: /uploads/2014/10/BlogPost_Her-1.jpg
 ---
 Technology is advancing at a greater pace than we have ever thought was _actually_ possible. Sure, we imagined it and expected to go faster if anything given our predictions for what the year 2010 was supposed to look like from movies made in the 1970's and 1980's. But realistically? We can only expect so much to happen at once or really, we can only expect so much to be released on the open market. Otherwise, I think we're catching up to our fantasies and science fiction stories at an alarming rate.
 
@@ -29,4 +30,4 @@ For the put together guy who finds freedom with technological growth and keeping
 
 A laid back but tailored linen jacket keeps things casual but put together when you're out and about. You may not have to wear a wool suit to the office everyday but you don't want to look like you just rolled out of bed. The colored cotton pants keeps the outfit lively with fun socks to match and play on subtle details, like the purple stripes in your custom shirt. The custom shirt has two chest pockets for your phone (where Theodore keeps his) or business cards, ready for you to connect with anyone at the local coffee shop or wifi bar. The shirt also features a special button down that I have yet to see anywhere else. Photos to follow in a few weeks.
 
-Interested in a casually tailored garment like a blazer or just pants for the warmer seasons? Want to have brighter colors and start exploring away from the ordinary navy's and gray's? Want a different kind of collar like the 'batman' collar or want to even know what a 'batman' collar is and how many different ways we can button down the collar? Contact us at info@9tailors.com!
+Interested in a casually tailored garment like a blazer or just pants for the warmer seasons? Want to have brighter colors and start exploring away from the ordinary navy's and gray's? Want a different kind of collar like the 'batman' collar or want to even know what a 'batman' collar is and how many different ways we can button down the collar? Contact us at {{ site.emails.info }}!

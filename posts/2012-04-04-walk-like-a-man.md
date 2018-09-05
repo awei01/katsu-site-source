@@ -1,10 +1,11 @@
 ---
 path: /2012/04/walk-like-a-man/
 title: Walk Like A Man
+date: '2012-04-04'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -12,13 +13,17 @@ tags:
   - mens fashion
   - menswear
   - style tips
-featuredImage: 1015
+featuredImage: /uploads/2014/10/43.jpg
 ---
-Although there are many unspoken rules with regard to how one should dress, we at [9tailors](http://www.9tailors.com/) endeavor to help you make sense of what looks good with what, where you should wear such-and-such, how to pull it off and why it works with your body. Huh? Exactly. One of the most important things to take note of? Your shoes, man! I believe shoes are conversation-starters and one of the first things people notice as they size you up. Think about it, if someone digs your shoes, they tell you immediately. Or they ask you where you got them. A welcoming and sincere form of flattery! However, there are some men out there who don't know when to wear certain shoes or how to pair their outfits with the right foot-candy. This post highlights Spring and Summer footwear. Learn to walk like a fashionable gentleman.
+Although there are many unspoken rules with regard to how one should dress, we at [9tailors](http://www.9tailors.com/) endeavor to help you make sense of what looks good with what, where you should wear such-and-such, how to pull it off and why it works with your body. Huh? Exactly.
 
-### With shorts: 
+One of the most important things to take note of? Your shoes, man! I believe shoes are conversation-starters and one of the first things people notice as they size you up. Think about it, if someone digs your shoes, they tell you immediately. Or they ask you where you got them. A welcoming and sincere form of flattery! However, there are some men out there who don't know when to wear certain shoes or how to pair their outfits with the right foot-candy. This post highlights Spring and Summer footwear. Learn to walk like a fashionable gentleman.
 
-Sneakerheads, you have unbelievable coordination and great taste in sneaks but you can't wear them all the time, sorry to tell ya. If you're wearing shorts and you're staying casual, rock your kicks! And when I say kicks, I mean street shoes like Nike hightops, Adidas, Converse or Vans...NOT Asics or New Balance running sneakers. Running sneakers are meant for running or the gym!  [![Street Sneakers](http://embed.polyvoreimg.com/cgi/img-set/cid/46523610/id/rsRVzUHCQ-aOu4-KfGXfyQ/size/y.jpg "Street Sneakers")](http://www.polyvore.com/street_sneakers/set?.embedder=3494903&.svc=copypaste&id=46523610) Looking to step it up a little bit? Put on a button-down and wear boat shoes, hush puppies, or loafers. It can give a preppy twist but also keeps that relaxed, leisurely vibe about you.
+###With shorts: 
+
+Sneakerheads, you have unbelievable coordination and great taste in sneaks but you can't wear them all the time, sorry to tell ya. If you're wearing shorts and you're staying casual, rock your kicks! And when I say kicks, I mean street shoes like Nike hightops, Adidas, Converse or Vans...NOT Asics or New Balance running sneakers. Running sneakers are meant for running or the gym! 
+[![Street Sneakers](http://embed.polyvoreimg.com/cgi/img-set/cid/46523610/id/rsRVzUHCQ-aOu4-KfGXfyQ/size/y.jpg "Street Sneakers")](http://www.polyvore.com/street_sneakers/set?.embedder=3494903&.svc=copypaste&id=46523610)
+Looking to step it up a little bit? Put on a button-down and wear boat shoes, hush puppies, or loafers. It can give a preppy twist but also keeps that relaxed, leisurely vibe about you.
 
 [![Boat Shoes & Loafers](http://embed.polyvoreimg.com/cgi/img-set/cid/46524004/id/sFv9JllaSDKfAzjvXKceBg/size/y.jpg "Boat Shoes & Loafers")](http://www.polyvore.com/boat_shoes_loafers/set?.embedder=3494903&.svc=copypaste&id=46524004)
 
@@ -52,4 +57,6 @@ While the higher temps may call for no-socks, keep in mind, this will destroy ho
 
 Courtesy of www.gobros.com
 
-Have a bevy of spring shoes that need outfits to go with? Email a style consultant at [info@9tailors.com](mailto:info@9tailors.com) and book an appointment today to ready your wardrobe for warmer weather. \*All images courtesy of Polyvore
+Have a bevy of spring shoes that need outfits to go with? Email a style consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and book an appointment today to ready your wardrobe for warmer weather.
+
+\*All images courtesy of Polyvore

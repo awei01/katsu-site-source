@@ -1,10 +1,11 @@
 ---
 path: /2014/11/wardrobe-basics-for-the-businessman/
 title: Wardrobe Basics for the Businessman
+date: '2014-11-11'
 author: elizabeth
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - affordable custom clothing
   - bespoke
@@ -15,19 +16,20 @@ tags:
   - mens fashion advice
   - menswear
   - menswear tips
-featuredImage: 1941
+featuredImage: null
 ---
 Do you ever feel like you are wearing the same things to the office? Or, maybe you can't be bothered with matching everything all the time. That's why we are going to go over the minimum wardrobe must-haves for a businessman. With these basics, you _will_ be able to throw anything on and still look put together, with variety.
 
-**SUITS** Solid navy
+**SUITS**
+Solid navy
 
-[![navy_grey_201411](http://blog.9tailors.com/uploads/navy_grey_201411.jpg)](http://blog.9tailors.com/uploads/navy_grey_201411.jpg)
+[![navy_grey_201411]({{ site.baseUrl }}/uploads/navy_grey_201411.jpg)]({{ site.baseUrl }}/uploads/navy_grey_201411.jpg)
 
 These two are your starters for any suit wardrobe. If you are out of school and in the real world, doing an internship or just starting in corporate business, the first two suits you should _always_ get are a solid navy and a charcoal grey. They epitomize the classic business wear. These hues go with shirts and shoes in varying patterns, styles and colors.
 
 Solid black
 
-[![20120414-9tailors-1289](http://blog.9tailors.com/uploads/2014/11/20120414-9tailors-1289.jpg)](http://blog.9tailors.com/uploads/2014/11/20120414-9tailors-1289.jpg)
+[![20120414-9tailors-1289]({{ site.baseUrl }}/uploads/2014/11/20120414-9tailors-1289.jpg)]({{ site.baseUrl }}/uploads/2014/11/20120414-9tailors-1289.jpg)
 
 While not our first choice for the office, a black is a needed suit for formal events and evening events. You can wear one in the office, but it needs to be well fitting and ideally not paired with a white shirt so as to avoid the funeral look.
 
@@ -39,7 +41,8 @@ Subtle pattern
 
 Now that you have your basic suits, you can branch out to a pattern. A Prince of Wales check is a classic, as is a subtle pinstripe. Navy pinstripes are a good work go-to, but avoid a chalk stripe or you'll look like a mobster.
 
-**SHIRTS - the basic array of shirts that will go well with anything** Solids - white, blue, lavender
+**SHIRTS - the basic array of shirts that will go well with anything**
+Solids - white, blue, lavender
 
 ![](http://1.bp.blogspot.com/-DW0l5RHCWQY/VC71md8Hb0I/AAAAAAAAAx4/LKF7L6UQerE/s1600/9TailorsFallShoot-062.jpg)
 

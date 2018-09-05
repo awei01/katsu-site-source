@@ -1,16 +1,17 @@
 ---
 path: /2011/05/deciphering-the-dress-code/
 title: Deciphering the Dress Code
+date: '2011-05-16'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - dress code
   - menswear
-featuredImage: 1795
+featuredImage: /uploads/2014/11/a9.jpg
 ---
 Ranging from formal to casual, wedding attire can be puzzling. Much of the time the only hint guests are given is a tiny phrase at the bottom of the invitation that indicates the dress code. Formal, semi-formal, smart casual, casual, and any other combination of these phrases may be the only guideline given. Clearly, without a firm grip on the definition of these terms they do you no good. So, here is a guide on how to decipher the invitations dress code descriptors.
 
@@ -32,4 +33,4 @@ Smart Casual: The wedding equivalent of business casual. It is on the more casua
 
 Although rare, casual may be the order of the day for the wedding in question. We are all familiar with this type of dress. Most closely resembling your everyday wear although it is fairly rare for a wedding dress code. Jeans are technically acceptable as are shorts but to avoid being under dressed opt for a button down and some cotton slacks such as khakis or chinos.
 
-Let 9tailors know if you need a style consultant to build the perfect outfit for your upcoming weddings. Email us at info@9tailors.com for more information!
+Let 9tailors know if you need a style consultant to build the perfect outfit for your upcoming weddings. Email us at {{ site.emails.info }} for more information!

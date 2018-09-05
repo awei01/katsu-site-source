@@ -1,10 +1,11 @@
 ---
 path: /2014/03/floral-bow-ties-and-floral-pocket-squares-oh-my/
-title: Floral Bow Ties and Floral Pocket Squares, Oh My!
+title: 'Floral Bow Ties and Floral Pocket Squares, Oh My!'
+date: '2014-03-07'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - accessories
   - bow ties
   - floral accessories
@@ -13,7 +14,7 @@ tags:
   - mens florals
   - menswear
   - pocket squares
-featuredImage: 904
+featuredImage: /uploads/2014/10/Floral_0055.jpg
 ---
 The days are finally feeling warmer and the notion of Spring being around the corner is more of a reality than a fantasy.
 
@@ -37,4 +38,4 @@ If you're not quite ready to experiment with bow ties, pocket squares are a safe
 
 [![](http://1.bp.blogspot.com/-3fdkeb6z-_I/UxoRaEJlQjI/AAAAAAAABhU/XQg_hEcsiYo/s1600/Floral_0002.jpg)](http://1.bp.blogspot.com/-3fdkeb6z-_I/UxoRaEJlQjI/AAAAAAAABhU/XQg_hEcsiYo/s1600/Floral_0002.jpg)
 
-Interested in trying on one of our new floral bow ties or pocket squares with your suit? Want help transitioning into spring? Need a lighter suit for warmer days coming? Contact a style consultant at info@9tailors.com
+Interested in trying on one of our new floral bow ties or pocket squares with your suit? Want help transitioning into spring? Need a lighter suit for warmer days coming? Contact a style consultant at {{ site.emails.info }}

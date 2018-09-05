@@ -1,24 +1,25 @@
 ---
 path: /2010/06/9tailors-behind-the-scenes/
 title: 9tailors Behind the Scenes
+date: '2010-06-15'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 2032
+featuredImage: null
 ---
 Recently, CEO Sam Shih went abroad and visited our tailor. Here are some behind-the-scenes photographs from the very place where your shirts are made!
 
-A summery pattern with a white contrast collar makes for a crisp, bright shirt.
+A summery pattern with a white contrast collar makes for a crisp, bright shirt. 
 
 [![](http://4.bp.blogspot.com/_20LDsLnO2rk/TBfqFwJffNI/AAAAAAAAAQk/VVj2eUjUzjA/s320/P1010430.JPG.jpeg)](http://4.bp.blogspot.com/_20LDsLnO2rk/TBfqFwJffNI/AAAAAAAAAQk/VVj2eUjUzjA/s1600/P1010430.JPG.jpeg)Beautiful pinks and peaches...
 
-[![](http://4.bp.blogspot.com/_20LDsLnO2rk/TBfqFRNNK9I/AAAAAAAAAQc/UVAqtg_CZkQ/s320/P1010427.JPG.jpeg)](http://4.bp.blogspot.com/_20LDsLnO2rk/TBfqFRNNK9I/AAAAAAAAAQc/UVAqtg_CZkQ/s1600/P1010427.JPG.jpeg)Bolt after bolt of fabric to choose from.
+[![](http://4.bp.blogspot.com/_20LDsLnO2rk/TBfqFRNNK9I/AAAAAAAAAQc/UVAqtg_CZkQ/s320/P1010427.JPG.jpeg)](http://4.bp.blogspot.com/_20LDsLnO2rk/TBfqFRNNK9I/AAAAAAAAAQc/UVAqtg_CZkQ/s1600/P1010427.JPG.jpeg)Bolt after bolt of fabric to choose from. 
 
 [![](http://1.bp.blogspot.com/_20LDsLnO2rk/TBfpvMn34LI/AAAAAAAAAQU/A1rigmrlCyo/s320/P1010426.JPG)](http://1.bp.blogspot.com/_20LDsLnO2rk/TBfpvMn34LI/AAAAAAAAAQU/A1rigmrlCyo/s1600/P1010426.JPG)A spiffy display with a chocolate colored contrast on the inside of the collar and lapel.
 
@@ -28,4 +29,4 @@ A summery pattern with a white contrast collar makes for a crisp, bright shirt.
 
 [![](http://4.bp.blogspot.com/_20LDsLnO2rk/TBfptLOa8OI/AAAAAAAAAP8/tSfIFgg6ZmE/s320/P1010424.JPG)](http://4.bp.blogspot.com/_20LDsLnO2rk/TBfptLOa8OI/AAAAAAAAAP8/tSfIFgg6ZmE/s1600/P1010424.JPG)
 
-To start designing your very own custom made shirt, click [here](http://beta.9tailors.com/).
+To start designing your very own custom made shirt, click [here](http://9tailors.com/).

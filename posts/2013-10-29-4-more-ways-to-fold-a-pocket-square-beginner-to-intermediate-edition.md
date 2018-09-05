@@ -1,10 +1,11 @@
 ---
 path: /2013/10/4-more-ways-to-fold-a-pocket-square-beginner-to-intermediate-edition/
-title: 4 More Ways to Fold a Pocket Square, Beginner to Intermediate Edition
+title: '4 More Ways to Fold a Pocket Square, Beginner to Intermediate Edition'
+date: '2013-10-29'
 author: michelle
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - dapper
   - how to
   - how to fold a pocket square
@@ -12,13 +13,14 @@ tags:
   - menswear advice
   - pocket square tips
   - pocket squares
-featuredImage: 1143
+featuredImage: /uploads/2014/10/psq.jpg
 ---
 [![](http://sixborn.com/wp-content/uploads/2013/04/justin-timberlake-jayz-suit-and-tie-copy.jpg)](http://sixborn.com/wp-content/uploads/2013/04/justin-timberlake-jayz-suit-and-tie-copy.jpg)
 
-source: sixborn.com Jay-Z is rocking a one peak fold pocket square, Justin Timberlake is rocking a straight fold pocket square
+source: sixborn.com
+Jay-Z is rocking a one peak fold pocket square, Justin Timberlake is rocking a straight fold pocket square
 
-Tonight is the night! Join us for our [Baubles & Bubbles for Boobies Event](http://9tailors.blogspot.com/2013/10/bubbles-baubles-for-boobies.html)!
+Tonight is the night! Join us for our [Baubles & Bubbles for Boobies Event](http://2013/10/bubbles-baubles-for-boobies.html)!
 
 Featuring pink pocket squares in honor of breast cancer awareness month, 10% of pink pocket squares sold tonight with be donated to the [Noreen Fraser Foundation](http://www.noreenfraserfoundation.org/).
 
@@ -30,7 +32,8 @@ For those of you who watch _How I Met Your Mother_, you understand the importanc
 
 [![](http://www.gq.com/images/gq/fashion/040109/GQfashion1v.jpg)](http://www.gq.com/images/gq/fashion/040109/GQfashion1v.jpg)
 
-source: GQ Neil Patrick Harris wears a straight fold
+source: GQ
+Neil Patrick Harris wears a straight fold
 
  THE STRAIGHT FOLD
 
@@ -118,4 +121,4 @@ An evening fold for formal affairs
 
 10\. Place in suit pocket and go
 
-Want to learn more about dressing dapper with accessories? Want to know keep up to date with our promotions? Contact a Style Consultant at info@9tailors.com
+Want to learn more about dressing dapper with accessories? Want to know keep up to date with our promotions? Contact a Style Consultant at {{ site.emails.info }}

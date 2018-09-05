@@ -1,14 +1,15 @@
 ---
 path: /2013/12/new-years-eve-is-just-around-the-corner-with-friendly-reminders/
 title: New Years Eve is Just Around the Corner with Friendly Reminders
+date: '2013-12-26'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - mens fashion
   - menswear
   - new years eve
-featuredImage: 1111
+featuredImage: /uploads/2014/10/slae.jpg
 ---
 Christmas has ended but the holiday season strides on. Put the ugly sweaters and stockings away, now is the time for New Years Eve festivities. Themed parties from the [80s](http://bostoneventguide.com/countdown-to-the-80s) to [James Bond](http://www.bostonnewyearseveparty.com/) are occurring all over Boston and appropriate attire for each place is a must.
 
@@ -20,7 +21,8 @@ No matter what you wear, wear it with pride. New Years Eve is all about stepping
 
 [![](http://2.bp.blogspot.com/-fra4a4EGVdg/Urx-cmvFXMI/AAAAAAAAAnI/vhWQgckRx0w/s640/adam+lambert+silver+3pTux,+source-posh24.jpg)](http://2.bp.blogspot.com/-fra4a4EGVdg/Urx-cmvFXMI/AAAAAAAAAnI/vhWQgckRx0w/s1600/adam+lambert+silver+3pTux,+source-posh24.jpg)
 
-Adam Lambert source: posh24
+Adam Lambert
+source: posh24
 
 **Friendly Reminder:**
 
@@ -36,4 +38,4 @@ Gilt City vouchers expires January 1, 2014 - don't let it go to waste!
 
 Stay up to date with our promotions and sign up for our email list! No spam, we only send it out once or twice a month.
 
-Need to make an appoinment to squeeze in those last minute deals after Christmas? Want to look so fresh and so clean for your up coming date or meeting of the in-laws (it is proposal season)? Contact a style consultant at info@9tailors.com
+Need to make an appoinment to squeeze in those last minute deals after Christmas? Want to look so fresh and so clean for your up coming date or meeting of the in-laws (it is proposal season)? Contact a style consultant at {{ site.emails.info }}

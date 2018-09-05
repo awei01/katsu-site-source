@@ -1,11 +1,15 @@
 ---
-path: /2013/07/meet-justin-custom-made-tailored-clothing-offers-variety-in-form-perfect-fit-and-extra-function/
-title: Meet Justin: \Custom-made, tailored clothing offers variety in form, perfect fit and extra function.\
+path: >-
+  /2013/07/meet-justin-custom-made-tailored-clothing-offers-variety-in-form-perfect-fit-and-extra-function/
+title: >-
+  Meet Justin: "Custom-made, tailored clothing offers variety in form, perfect
+  fit and extra function."
+date: '2013-07-25'
 author: sam
-categories: 
+categories:
   - our-clients
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke suiting
   - custom menswear
@@ -14,7 +18,7 @@ tags:
   - mens fashion
   - menswear
   - real client
-featuredImage: 1168
+featuredImage: /uploads/2014/10/justin.jpg
 ---
 [![](http://1.bp.blogspot.com/-4BJOrc0BxJM/Uc3L-twNAXI/AAAAAAAADMU/MWyTSWO8v_E/s640/JustinWanProfile.jpg)](http://1.bp.blogspot.com/-4BJOrc0BxJM/Uc3L-twNAXI/AAAAAAAADMU/MWyTSWO8v_E/s1000/JustinWanProfile.jpg)
 
@@ -28,11 +32,12 @@ featuredImage: 1168
 
 **Occupation:** MBA Student
 
-**How long have you been a 9tailors client?**  About 2 years
+**How long have you been a 9tailors client?** 
+About 2 years
 
 **Why choose custom?**
 
-Custom-made, tailored clothing offers variety in form, perfect fit and extra function; not easily found off the rack. [9tailors](http://www.9tailors.com/) really speaks to these points by offering customized jacket linings, working buttons, contrast stitching and so much more. It’s not every day I get to look and feel like a million bucks, just the days I put on a piece from [9tailors](http://www.9tailors.com/).
+Custom-made, tailored clothing offers variety in form, perfect fit and extra function; not easily found off the rack. [9tailors](http://www.9tailors.com/) really speaks to these points by offering customized jacket linings, working buttons, contrast stitching and so much more. It's not every day I get to look and feel like a million bucks, just the days I put on a piece from [9tailors](http://www.9tailors.com/).
 
 **What would be your style advice to other men in your professional field? **
 
@@ -44,7 +49,9 @@ Bruce Wayne inspires me. He understands that wearing the right suit can lead to 
 
 **What is your favorite piece from 9tailors? **
 
-My current favorite piece from 9tailors was put together by one their style consultants: double breasted, double vented, peaked lapel, polka-dot lining, purple piping, pink contrast stitching on the bottom jacket button hole, and working buttons. _Word up, Justin! At minimum, one should definitely have two suits: one for thinking **and** one for drinking._ Peruse the pictures below, courtesy of one of Boston's best (and our favorite) photographers, [Channing Johnson](http://www.channingjohnson.com/).
+My current favorite piece from 9tailors was put together by one their style consultants: double breasted, double vented, peaked lapel, polka-dot lining, purple piping, pink contrast stitching on the bottom jacket button hole, and working buttons.
+_Word up, Justin! At minimum, one should definitely have two suits: one for thinking **and** one for drinking._
+Peruse the pictures below, courtesy of one of Boston's best (and our favorite) photographers, [Channing Johnson](http://www.channingjohnson.com/).
 
 [![](http://2.bp.blogspot.com/-2UL0vmVNee8/Uc3JjYO62rI/AAAAAAAADLU/_o4U9JBR7Cc/s400/20120414-9tailors-0729.jpg)](http://2.bp.blogspot.com/-2UL0vmVNee8/Uc3JjYO62rI/AAAAAAAADLU/_o4U9JBR7Cc/s1000/20120414-9tailors-0729.jpg)
 

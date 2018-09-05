@@ -1,10 +1,11 @@
 ---
 path: /2012/06/springsummer-trend-alert-thick-rimmed-glasses/
-title: Spring/Summer Trend Alert: Thick-rimmed Glasses
+title: 'Spring/Summer Trend Alert: Thick-rimmed Glasses'
+date: '2012-06-06'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -15,7 +16,7 @@ tags:
   - menswear
   - summer trend
   - trend alert
-featuredImage: 979
+featuredImage: /uploads/2014/10/52.jpg
 ---
 Do you sport spectacles? Perhaps you fancy yourself donning a [monocle](http://www.warbyparker.com/monocle), a la Mr. Peanut?
 
@@ -23,7 +24,9 @@ Do you sport spectacles? Perhaps you fancy yourself donning a [monocle](http://w
 
 Courtesy of Planter's Peanuts
 
-Whether your vision is slightly impaired and you require glasses or you're just trying to pull off geek chic, snag yourself a pair of thick-rimmed glasses this season. Even [The Today Show ](http://today.msnbc.msn.com/id/26184891/vp/47564064#47564064) recently suggested the accessory as a must-have. An avid glasses-wearer myself (I can't see far away, rendering me hopelessly near-sighted), I fully endorse and support this trend (I'm a Lisa Loeb, cat-eyed or squared glasses gal the past 10+ years). Glasses are an added detail that can _completely_ change a look. Some people may not even recognize you with specs on! A monocle is seemingly all the rage right now, too, believe it or not. Ask [Warby Parker](http://www.warbyparker.com/).
+Whether your vision is slightly impaired and you require glasses or you're just trying to pull off geek chic, snag yourself a pair of thick-rimmed glasses this season. Even [The Today Show ](http://today.msnbc.msn.com/id/26184891/vp/47564064#47564064) recently suggested the accessory as a must-have. An avid glasses-wearer myself (I can't see far away, rendering me hopelessly near-sighted), I fully endorse and support this trend (I'm a Lisa Loeb, cat-eyed or squared glasses gal the past 10+ years).
+
+Glasses are an added detail that can _completely_ change a look. Some people may not even recognize you with specs on! A monocle is seemingly all the rage right now, too, believe it or not. Ask [Warby Parker](http://www.warbyparker.com/).
 
 [![](http://2.bp.blogspot.com/-Qy7zDl_sM7A/T85kd_ErBiI/AAAAAAAAAXI/sKlv0ALM3DA/s320/Whiskey-turtoise-colonel-monocle02.jpg)](http://2.bp.blogspot.com/-Qy7zDl_sM7A/T85kd_ErBiI/AAAAAAAAAXI/sKlv0ALM3DA/s1600/Whiskey-turtoise-colonel-monocle02.jpg)
 
@@ -39,4 +42,4 @@ Courtesy of theberry.com
 
 Courtesy of Getty images
 
-Looking to capture a geek chic look all your own? We have a plethora of fabrics for shirts and suits for you to choose from! Email a style consultant at [info@9tailors.com](mailto:info@9tailors.com) to make an appointment today.
+Looking to capture a geek chic look all your own? We have a plethora of fabrics for shirts and suits for you to choose from! Email a style consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to make an appointment today.

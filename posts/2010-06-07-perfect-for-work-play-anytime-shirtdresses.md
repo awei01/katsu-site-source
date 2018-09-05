@@ -1,16 +1,17 @@
 ---
 path: /2010/06/perfect-for-work-play-anytime-shirtdresses/
-title: Perfect for Work, Play, Anytime- Shirtdresses
+title: 'Perfect for Work, Play, Anytime- Shirtdresses'
+date: '2010-06-07'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 2046
+featuredImage: null
 ---
 You know your favorite 9tailors shirt? Why not make it a bit longer, add some button tabs sleeves and some pockets and transform it into a shirtdress?
 
@@ -24,4 +25,4 @@ Add some elegant jewelry, polished shoes, and a tailored item and you're ready f
 
 [![](http://2.bp.blogspot.com/_20LDsLnO2rk/TA0-bNxC77I/AAAAAAAAAH8/oq0Ufu53amk/s320/BQcDAAAAAwoDanBnAAAABC5vdXQKFkNoRE5LV1J5M3hHeFV5R095SlYzLWcAAAACaWQKAWwAAAAEc2l6ZQ.jpg)](http://2.bp.blogspot.com/_20LDsLnO2rk/TA0-bNxC77I/AAAAAAAAAH8/oq0Ufu53amk/s1600/BQcDAAAAAwoDanBnAAAABC5vdXQKFkNoRE5LV1J5M3hHeFV5R095SlYzLWcAAAACaWQKAWwAAAAEc2l6ZQ.jpg)
 
-Any way you choose to wear it, you'll reach for it again and again. Come to 9tailors to design a shirtdress (or three!) for all of your summer sartorial needs. Make an appointment today [here](http://beta.9tailors.com/).
+Any way you choose to wear it, you'll reach for it again and again. Come to 9tailors to design a shirtdress (or three!) for all of your summer sartorial needs. Make an appointment today [here](http://9tailors.com/).

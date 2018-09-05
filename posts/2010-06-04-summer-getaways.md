@@ -1,18 +1,19 @@
 ---
 path: /2010/06/summer-getaways/
 title: Summer Getaways
+date: '2010-06-04'
 author: sam
-categories: 
+categories:
   - press
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
   - summer
-featuredImage: 2050
+featuredImage: null
 ---
 The summer solstice is upon us- on June 21. And with the new season, where will your packed bags take you? Better yet, with _what_ will you pack your bags?
 
@@ -22,4 +23,4 @@ We're going to do a series of posts on vacation destinations, both near and far,
 
 Can you guess where this is? We'll be posting on this location tomorrow.
 
-And as always, 9tailors can help you bring your perfect shirt to life- for your dream getaway, for work, or for play. Make an appointment today [here](http://beta.9tailors.com/)!
+And as always, 9tailors can help you bring your perfect shirt to life- for your dream getaway, for work, or for play. Make an appointment today [here](http://9tailors.com/)!

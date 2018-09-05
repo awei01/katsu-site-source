@@ -1,10 +1,12 @@
 ---
-path: /2013/04/meet-tavon-you-should-want-to-distinguish-yourself-from-your-competition/
-title: Meet Tavon: \You should want to distinguish yourself from your competition.\
+path: >-
+  /2013/04/meet-tavon-you-should-want-to-distinguish-yourself-from-your-competition/
+title: 'Meet Tavon: "You should want to distinguish yourself from your competition."'
+date: '2013-04-25'
 author: sam
-categories: 
+categories:
   - our-clients
-tags: 
+tags:
   - 9tailors
   - NFL
   - bespoke suiting
@@ -14,7 +16,7 @@ tags:
   - new england patriots
   - real client
   - tavon wilson
-featuredImage: 1185
+featuredImage: /uploads/2014/10/tavon.jpg
 ---
 [![](http://4.bp.blogspot.com/-7pA3JmnuQmM/UXlGiyFkIBI/AAAAAAAACr8/VBJjIdmeo80/s640/Cover_Image.jpg)](http://4.bp.blogspot.com/-7pA3JmnuQmM/UXlGiyFkIBI/AAAAAAAACr8/VBJjIdmeo80/s1600/Cover_Image.jpg)
 
@@ -22,11 +24,24 @@ featuredImage: 1185
 
 **Name****: ******Tavon Wilson****
 
-******Age: **********23**** ********Hometown: ******************Washington D.C.********** ******Current Residence: **************Foxboro, MA******** ******Occupation: **********Professional Athlete for the Patriots**** **How long have you been a 9tailors client?** One year **Why choose custom?** **As an athlete, you want your clothes to fit just right. Since we are normally bigger than the average person, sometimes it is hard to find the best fit for dress clothes, business casual clothes, and suits. That’s why I get most of my clothes custom tailored.   ** ****************What inspires your style? Why?**************** **********I try to stay up on the latest trends featured in popular fashion magazines and websites, but I like to put my own personality into the wardrobe and designs.**********
+******Age: **********23****
+********Hometown: ******************Washington D.C.**********
+******Current Residence: **************Foxboro, MA********
+******Occupation: **********Professional Athlete for the Patriots****
+**How long have you been a 9tailors client?**
+One year
+**Why choose custom?**
+**As an athlete, you want your clothes to fit just right. Since we are normally bigger than the average person, sometimes it is hard to find the best fit for dress clothes, business casual clothes, and suits. That's why I get most of my clothes custom tailored.   **
+****************What inspires your style? Why?****************
+**********I try to stay up on the latest trends featured in popular fashion magazines and websites, but I like to put my own personality into the wardrobe and designs.**********
 
-****************************What is your favorite piece from 9tailors?**************************** **My favorite 9tailors piece has to be my gray suit with lavender shirt and tie. It really stands out in the locker room and is different from all my teammates’ styles. **
+****************************What is your favorite piece from 9tailors?****************************
+**My favorite 9tailors piece has to be my gray suit with lavender shirt and tie. It really stands out in the locker room and is different from all my teammates' styles. **
 
-****What would be your style advice to other men in your professional field?**** **My style advice? Be yourself and do not be afraid to go away from the norm.  You should want to distinguish yourself from your competition in the workplace, as well as in your fashion game.  ** ******_Ya heard? Straying from the norm is excellent style advice, Tavon! Listen up, fellas._****** Check out more pictures of Tavon below and visit our Facebook page [here](https://www.facebook.com/pages/9tailors/49696314250) to see more of this photo shoot and other 9tailors ensembles. Like our page and pass it on!
+****What would be your style advice to other men in your professional field?****
+**My style advice? Be yourself and do not be afraid to go away from the norm.  You should want to distinguish yourself from your competition in the workplace, as well as in your fashion game.  **
+******_Ya heard? Straying from the norm is excellent style advice, Tavon! Listen up, fellas._******
+Check out more pictures of Tavon below and visit our Facebook page [here](https://www.facebook.com/pages/9tailors/49696314250) to see more of this photo shoot and other 9tailors ensembles. Like our page and pass it on!
 
 [![](http://2.bp.blogspot.com/-C33xzcZ2dT4/UXlHWx1mcGI/AAAAAAAACsQ/BaCNKgm3Q9Y/s400/IMG_4392.jpg)](http://2.bp.blogspot.com/-C33xzcZ2dT4/UXlHWx1mcGI/AAAAAAAACsQ/BaCNKgm3Q9Y/s1600/IMG_4392.jpg)
 
@@ -38,11 +53,13 @@ Velvet = smooth.
 
 [![](http://3.bp.blogspot.com/-pC4EMsCBJrs/UXBc8zATxeI/AAAAAAAACp0/6K-AbVthNcY/s400/IMG_4436.jpg)](http://3.bp.blogspot.com/-pC4EMsCBJrs/UXBc8zATxeI/AAAAAAAACp0/6K-AbVthNcY/s1600/IMG_4436.jpg)
 
-Dress up your casual shirts and jeans combo with small accessories like a vest or bow tie. Check the shoes with the tassles! Spring 2013 is here, boys.
+Dress up your casual shirts and jeans combo with small accessories like a vest or bow tie.
+Check the shoes with the tassles! Spring 2013 is here, boys.
 
 [![](http://2.bp.blogspot.com/-S7Ro7UEUVsU/UXBcpkwJ7hI/AAAAAAAACos/V-nHHVitxMw/s640/IMG_4398rt.jpg)](http://2.bp.blogspot.com/-S7Ro7UEUVsU/UXBcpkwJ7hI/AAAAAAAACos/V-nHHVitxMw/s1600/IMG_4398rt.jpg)
 
-Feelin' this? Looking to up the ante on your style? Email a Style Consultant at [info@9tailors.com](mailto:info@9tailors.com)and make an appointment today! **Shoot Details:**
+Feelin' this? Looking to up the ante on your style? Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }})and make an appointment today!
+**Shoot Details:**
 
 **Location:** Downtown Crossing
 

@@ -1,10 +1,11 @@
 ---
 path: /2011/03/wednesdays-get-this-not-your-ordinary-socks/
 title: Wednesday's Get This - Not Your Ordinary Socks
+date: '2011-03-09'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -12,7 +13,7 @@ tags:
   - mens fashion
   - menswear
   - style tips
-featuredImage: 1878
+featuredImage: null
 ---
 Convention tells us that our socks must match our bottoms. While this is a good rule of thumb to avoid the dreaded white, athletic socks with black shoes look, it can be a little dull. Here are some amazing places to liven up your footwear for spring (and they don't have to put a major dent in your wallet....)!
 
@@ -28,6 +29,8 @@ The Joy of Socks also have some terrific, affordable options. These are great if
 
 [![fun socks](http://www.polyvore.com/cgi/img-set/BQcDAAAAAwoDanBnAAAABC5vdXQKFlhGaFNTMVJLNEJHazJhbUk1ZjJEdncAAAACaWQKAWUAAAAEc2l6ZQ.jpg "fun socks")](http://www.polyvore.com/fun_socks/set?.embedder=660366&.mid=embed&id=29137546)
 
- 
+If you are interested in graphic socks, look no further than [Urban Outfitters](http://www.urbanoutfitters.com/urban/index.jsp). They have socks with anchors, wolves and owls. Wear these with your casual footwear. Plus, they're not too expensive; these socks start just at $8.00.
 
-If you are interested in graphic socks, look no further than [Urban Outfitters](http://www.urbanoutfitters.com/urban/index.jsp). They have socks with anchors, wolves and owls. Wear these with your casual footwear. Plus, they're not too expensive; these socks start just at $8.00. If you're going with colorful socks, just remember to choose colors that complement or match with your outfit. Need a great spring shirt to go with your cool socks? E-mail us at [info@9tailors.com](mailto:info@9tailors.com) or go to [9tailors.com](http://9tailors.com/).
+If you're going with colorful socks, just remember to choose colors that complement or match with your outfit.
+
+Need a great spring shirt to go with your cool socks? E-mail us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) or go to [9tailors.com](http://9tailors.com/).

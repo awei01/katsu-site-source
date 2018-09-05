@@ -1,10 +1,11 @@
 ---
 path: /2012/03/to-pop-or-not-to-pop/
 title: To Pop or Not to Pop?
+date: '2012-03-26'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - collar pop
@@ -12,7 +13,7 @@ tags:
   - custom suiting
   - mens fashion
   - menswear
-featuredImage: 1019
+featuredImage: /uploads/2014/10/63.jpg
 ---
 A major point of contention among fashion-savvy gents? The Popped Collar. As commonly seen on frat boys and preppies alike, this is oft done with a Polo shirt...usually a pink one. Some may argue this look is strictly for bro-dawgs who find it cool. Others contend it's a great look that only a certain kind of guy can wear. What do you think? Do you pop your collar? If so, when and why? If not, why wouldn't you/would you ever do it? Check out Esquire's amusing debate [here](http://www.esquire.com/blogs/mens-fashion/popped-collar-cool-071411) between two bloggers with differing opinions.
 
@@ -42,4 +43,4 @@ So, we're somewhat okay with you popping your jacket collars, within reason. Jam
 
 _Rebel Without A Cause_
 
-[9tailors](http://www.9tailors.com/) offers an array of collar styles for your shirts and lapel choices for your jackets! Email us at [info@9tailors.com](mailto:info@9tailors.com) to make an appointment and design yourself some custom pieces!
+[9tailors](http://www.9tailors.com/) offers an array of collar styles for your shirts and lapel choices for your jackets! Email us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to make an appointment and design yourself some custom pieces!

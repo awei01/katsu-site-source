@@ -1,18 +1,23 @@
 ---
 path: /2011/04/top-5-interview-worthy-pieces/
-title: Top 5: Interview Worthy Pieces
+title: 'Top 5: Interview Worthy Pieces'
+date: '2011-04-18'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - menswear
   - tips
-featuredImage: 1823
+featuredImage: null
 ---
-This week is dedicated to the graduates. You made it through those all night cramming sessions, the endless papers and projects, and the less than pleasant professors. Go ahead, pat yourself on the back for a job well done. You did it. Now you need to swap those grungy chucks for some lace ups and those stained university shirts for some proper button downs if you want any hope for landing your dream job. If you skipped a few of those cramming session you're going to need something other than that not-so-stellar GPA to impress your potential employers. 1. A perfectly fitting button down. Keep it classic, whites and blues are well suited for interviews. Nothing too fancy. Avoid french cuffs and button down collars, the first is too formal and the later too casual. A 9tailors style consultant can help you pick out the perfect color for your skin tone.
+This week is dedicated to the graduates. You made it through those all night cramming sessions, the endless papers and projects, and the less than pleasant professors. Go ahead, pat yourself on the back for a job well done. You did it.
+
+Now you need to swap those grungy chucks for some lace ups and those stained university shirts for some proper button downs if you want any hope for landing your dream job. If you skipped a few of those cramming session you're going to need something other than that not-so-stellar GPA to impress your potential employers.
+
+1. A perfectly fitting button down. Keep it classic, whites and blues are well suited for interviews. Nothing too fancy. Avoid french cuffs and button down collars, the first is too formal and the later too casual. A 9tailors style consultant can help you pick out the perfect color for your skin tone.
 
 2\. A suit. While we know 9tailors suits are the best quality, another brand will suffice as long as it properly fits. Don't project the image you just raided your fathers closet on your first meeting. Make it clear you can dress yourself, it projects confidence. Opt for two buttons and a notched lapel for a current yet classic look that can be used for years to come.
 
@@ -25,8 +30,6 @@ Stick with navy or charcoal for your starter suits. Unless you have another stro
 5\. A leather bound folder. A briefcase may be necessary once you actually land the job, for the interview keep things as simple as possible and store your necessary papers in a sleek leather notebook.
 
 [![interview](http://www.polyvore.com/cgi/img-set/BQcDAAAAAwoDanBnAAAABC5vdXQKFlpOamJFODVwNEJHRGdjQmx4c0kwOGcAAAACaWQKAWUAAAAEc2l6ZQ.jpg "interview")](http://www.polyvore.com/interview/set?.embedder=2220185&.mid=embed&id=30544822)
-
- 
 
 A last reminder, it may seem obvious, but if you really want that job, make sure your clothes are cleaned and pressed. If you are debating whether that shirt is too wrinkled- it's too wrinkled. Stay ahead of your schedule and ensure your clothes are ready for your big day.
 

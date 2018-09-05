@@ -1,16 +1,17 @@
 ---
 path: /2010/08/we-heart-your-shirt/
 title: We Heart Your Shirt
+date: '2010-08-20'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 1953
+featuredImage: null
 ---
 Such cute shirts arrived to the studio this week...
 
@@ -22,4 +23,4 @@ Light blue gingham with matching blue stitching inside the buttons.
 
 Crisp white shirt with sailboat accent and navy blue stitching inside the buttons.
 
-As these shirts show us, it's all in the details when you spot a special shirt. Get all the details right at 9tailors by having the ability to customize each and every one of them. Visit our [website](http://beta.9tailors.com/) or call 877.513.1898.
+As these shirts show us, it's all in the details when you spot a special shirt. Get all the details right at 9tailors by having the ability to customize each and every one of them. Visit our [website](http://9tailors.com/) or call 877.513.1898.

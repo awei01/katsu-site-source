@@ -1,11 +1,12 @@
 ---
 path: /2014/02/meet-our-client-santi-of-the-bad-rabbits/
-title: Meet our Client, Santi of The Bad Rabbits
+title: 'Meet our Client, Santi of The Bad Rabbits'
+date: '2014-02-25'
 author: sam
-categories: 
+categories:
   - our-clients
   - style-tips
-tags: 
+tags:
   - bad rabbits
   - bespoke suiting
   - custom shirts
@@ -13,7 +14,7 @@ tags:
   - mens fashion
   - menswear
   - real clients
-featuredImage: 1085
+featuredImage: /uploads/2014/10/BadRabbits-093.jpg
 ---
 We love interacting with our clients past the initial consultation. It's important to us to build relationships with the gentlemen we work with. It's great that you get the suit you're looking for but we want you to walk out with an experience. One of our goals is to not only make you feel excited about your wardrobe but feel great about working with us. We have a [100% satisfaction guarantee policy](http://9tailors.com/pages/#!/pages/customer_service/return_and_alterations_policy) that extends to our [customer service](http://www.yelp.com/biz/9tailors-boston) in addition to your garments.
 
@@ -59,7 +60,7 @@ Allow me to present you with one of our clients, a member of the [Bad Rabbits](h
 
 **What would be your style advice to other men in your professional field? **
 
-"Define your style, embrace it and stay inspired."
+"Define your style, embrace it and stay inspired." 
 
 [![](http://3.bp.blogspot.com/-Wfd34DW1B4I/Uii1yXYaeQI/AAAAAAAADiY/841zcRov6y8/s320/BadRabbits-102.jpg)](http://3.bp.blogspot.com/-Wfd34DW1B4I/Uii1yXYaeQI/AAAAAAAADiY/841zcRov6y8/s1600/BadRabbits-102.jpg)
 
@@ -67,4 +68,4 @@ _We couldn't agree more! _
 
 Check out the pictures below, courtesy of one of Boston's best photographers, [Channing Johnson](http://www.channingjohnson.com/).
 
-Spurred to create your own custom duds? Want to be featured on our blog and facebook? Contact us at info@9tailors.com.
+Spurred to create your own custom duds? Want to be featured on our blog and facebook? Contact us at {{ site.emails.info }}.

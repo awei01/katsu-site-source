@@ -1,10 +1,11 @@
 ---
 path: /2012/07/espy-awards-who-wore-it-best/
-title: ESPY Awards: Who wore it Best?
+title: 'ESPY Awards: Who wore it Best?'
+date: '2012-07-13'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - ESPY awards
   - bespoke
@@ -13,7 +14,7 @@ tags:
   - mens fashion
   - menswear
   - who wore it best
-featuredImage: 963
+featuredImage: /uploads/2014/10/dd.jpg
 ---
 Did you catch the ESPYs on Wednesday night? Athletes should trade in their uniforms for formalwear more often. See how your favorite sportoes suit up. 
 
@@ -41,15 +42,13 @@ Swizz Beatz, whatchoo got goin' on in that holster there?
 
 Nas, this fabric is far from Illmatic.
 
- 
-
 ![](http://4.bp.blogspot.com/-SHpF-syCDa0/UABC6EfVcYI/AAAAAAAAAeM/NjZs3oN2ewk/s320/slide_238274_1216587_free.jpg)
 
 Now, we're talking, gentlemen...
 
 ### Khaki and Light Creams
 
-Perfect suiting for summer. Did you know about our [suit sale](http://9tailors.blogspot.com/2012/07/well-suited20-off-suits.html)? Cotton and Khaki 20% off all July. Seriously loving LT's seersucker jacket.
+Perfect suiting for summer. Did you know about our [suit sale](http://2012/07/well-suited20-off-suits.html)? Cotton and Khaki 20% off all July. Seriously loving LT's seersucker jacket.
 
 [![](http://2.bp.blogspot.com/-XYswqGsjRkM/UABC91lua-I/AAAAAAAAAes/owfZxWZjhaQ/s320/slide_238274_1216627_free.jpg)](http://2.bp.blogspot.com/-XYswqGsjRkM/UABC91lua-I/AAAAAAAAAes/owfZxWZjhaQ/s1600/slide_238274_1216627_free.jpg)
 
@@ -95,4 +94,6 @@ DeMaryius Thomas of the Broncoes went all out! Sure, this getup is kinda loud an
 
 Demaryius Thomas
 
-All photos courtesy of [Associated Press](http://ap.org/) and  [Huffington Post](http://www.huffingtonpost.com/) Have an upcoming formal event? Email [info@9tailors.com](mailto:info@9tailors.com) to make an appointment and create a custom shirt or suit all your own.
+All photos courtesy of [Associated Press](http://ap.org/) and  [Huffington Post](http://www.huffingtonpost.com/)
+
+Have an upcoming formal event? Email [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to make an appointment and create a custom shirt or suit all your own.

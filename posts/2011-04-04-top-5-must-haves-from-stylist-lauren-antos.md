@@ -1,16 +1,17 @@
 ---
 path: /2011/04/top-5-must-haves-from-stylist-lauren-antos/
-title: Top 5:  Must Haves from Stylist Lauren Antos
+title: 'Top 5:  Must Haves from Stylist Lauren Antos'
+date: '2011-04-04'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens style
   - menswear
-featuredImage: 1841
+featuredImage: null
 ---
 There are several different ways I can help men through personal shopping and styling. One way is a complete overhaul; revamping a closet and an entire wardrobe to better fit his likes, needs, lifestyle and physique. Sort of an "out with the old, in with the new" option.[![](http://ak.buy.com/PI/0/250/220288295.jpg)](http://ak.buy.com/PI/0/250/220288295.jpg)Another service offered, is to help put together outfits using what he already owns while possibly adding a few new key pieces or accessories. I also offer to shop specifically for an item or accessory that he knows he needs but isn't sure of what exactly to buy such as, but not limited to, tie, shoe, or jean shopping. Services range from a complete wardrobe makeover to guidance and suggestions to strict shopping.
 

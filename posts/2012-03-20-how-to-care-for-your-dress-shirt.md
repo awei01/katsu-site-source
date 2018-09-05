@@ -1,10 +1,11 @@
 ---
 path: /2012/03/how-to-care-for-your-dress-shirt/
-title: How to: Care for Your Dress Shirt
+title: 'How to: Care for Your Dress Shirt'
+date: '2012-03-20'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -14,7 +15,7 @@ tags:
   - mens fashion
   - menswear
   - shirt care
-featuredImage: 1023
+featuredImage: /uploads/2014/10/81.jpg
 ---
 So, you've buckled down and finally gotten a custom shirt. Bravo! Now, how do you care for it?
 
@@ -68,4 +69,4 @@ When you're out and about, there's a few things that can help remedy a blemish i
 
 **5\. Ammonia or Bleach**. (Tread carefully and do not use on colored shirts).
 
-Can't get a stain out of your favorite shirt? Get a fresh one! Email info@9tailors.com to make an appointment and design yourself a brand spanking new crisp, custom dress shirt.
+Can't get a stain out of your favorite shirt? Get a fresh one! Email {{ site.emails.info }} to make an appointment and design yourself a brand spanking new crisp, custom dress shirt.

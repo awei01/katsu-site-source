@@ -1,28 +1,31 @@
 ---
 path: /2014/02/beer-and-blazers/
 title: Beer and Blazers
+date: '2014-02-28'
 author: sam
-categories: 
+categories:
   - our-clients
-tags: 
+tags:
   - boston beer company
   - cicerone test
   - company blazers
   - custom blazers
   - sam adams
-featuredImage: 1084
+featuredImage: /uploads/2014/10/sam-adams-blazer.jpg
 ---
 Today is Samuel Adam's Cicerone Test.
 
 [![](http://1.bp.blogspot.com/-VRboqzzeRrg/UxDWYPYWN-I/AAAAAAAABSw/3zgwkKb_sQ0/s1600/Sam-Adams-Logo1.jpg)](http://1.bp.blogspot.com/-VRboqzzeRrg/UxDWYPYWN-I/AAAAAAAABSw/3zgwkKb_sQ0/s1600/Sam-Adams-Logo1.jpg)
 
-Samuel Adams Beer source: thedraftlist
+Samuel Adams Beer
+source: thedraftlist
 
 A cicerone is an official beer connoisseur who has been officially certified by the [Cicerone Certification Program](http://cicerone.org/). [Samuel Adams](http://www.samueladams.com/) offers their employees training within the company to pass their cicerone program. As a reward, the company generously gives them a custom made blazer (made by us), commemorating their achievement.
 
 [![](http://2.bp.blogspot.com/-97Z3nyXu90o/UxDoHxK4qCI/AAAAAAAABTU/X7fxjaa-5aI/s1600/sam+adams+blazer.jpg)](http://2.bp.blogspot.com/-97Z3nyXu90o/UxDoHxK4qCI/AAAAAAAABTU/X7fxjaa-5aI/s1600/sam+adams+blazer.jpg)
 
-Custom 9tailors Blazer exclusively for Samuel Adams Cicerones (tie: [Jegman](http://www.jegman.com/))
+Custom 9tailors Blazer exclusively for Samuel Adams Cicerones
+(tie: [Jegman](http://www.jegman.com/))
 
 Just like our other garments, these are custom made to each person. A few days before the exam, our expert style consultants go to the [Boston Beer Company'](http://www.bostonbeer.com/)s Headquarters at the [Design Center](http://bostondesign.com/) to measure each potential cicerone.
 
@@ -36,4 +39,4 @@ When all is said and done, they get a beautiful custom navy blazer with the offi
 
 And for those of you who are curious, there was a healthy amount of woman candidates present, it's not just all men. I'm excited to see how many blazers of the 25 people we measured get made. Best of luck to everyone!
 
-Interested in getting custom blazers for your company? Have a team sport coming up that you need blazers for? Like the [Henley Royal Regatta](http://www.hrr.co.uk/)? Contact us at info@9tailors.com!
+Interested in getting custom blazers for your company? Have a team sport coming up that you need blazers for? Like the [Henley Royal Regatta](http://www.hrr.co.uk/)? Contact us at {{ site.emails.info }}!

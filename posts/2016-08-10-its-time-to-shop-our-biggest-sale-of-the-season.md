@@ -1,10 +1,11 @@
 ---
 path: /2016/08/its-time-to-shop-our-biggest-sale-of-the-season/
 title: It's Time to Shop Our Biggest Sale of The Season
+date: '2016-08-10'
 author: eboni
-categories: 
+categories:
   - events-promotions
-tags: 
+tags:
   - 9tailors
   - 9tailors Boston
   - 9tailors sale
@@ -14,13 +15,13 @@ tags:
   - clothing drive
   - custom menswear
   - sample sale
-featuredImage: 4651
+featuredImage: /uploads/2016/08/samplesale_blog2.jpg
 ---
-[![samplesale_blog](http://blog.9tailors.com/uploads/samplesale_blog2.jpg)](http://blog.9tailors.com/uploads/samplesale_blog2.jpg)    
+[![samplesale_blog]({{ site.baseUrl }}/uploads/samplesale_blog2.jpg)]({{ site.baseUrl }}/uploads/samplesale_blog2.jpg)
 
-It's that time of year again! With items up to 80% off both your wardrobe and wallet will walk out extremely happy. For two weeks only (8/11-8/22) you’ll have the opportunity to shop some of our best samples.
+It's that time of year again! With items up to 80% off both your wardrobe and wallet will walk out extremely happy. For two weeks only (8/11-8/22) you'll have the opportunity to shop some of our best samples.
 
-Here’s the rundown:
+Here's the rundown:
 
 Coats: $100.00
 
@@ -32,23 +33,21 @@ Vests: $45.00
 
 Shirts: $40.00
 
- 
+As always, our sample sales are _by-appointment_ only in our Boston Studio. Contact us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) or at 617.286.6135 to set up an appointment .
 
-As always, our sample sales are _by-appointment_ only in our Boston Studio. Contact us at [info@9tailors.com](mailto:info@9tailors.com) or at 617.286.6135 to set up an appointment .
+This year we are also partnering with the Goodwill for the [Put Your Clothes to Work Drive]({{ site.baseUrl }}/2016/08/9tailors-put-your-clothes-to-work-drive/). When you make a donation you will receive 10% off a new item of your choice.
 
- 
+We'll see you soon!
 
-This year we are also partnering with the Goodwill for the [Put Your Clothes to Work Drive](http://blog.9tailors.com/2016/08/9tailors-put-your-clothes-to-work-drive/). When you make a donation you will receive 10% off a new item of your choice.
+\* Sample Sale Rules and Restrictions:
 
-  We'll see you soon!   \* Sample Sale Rules and Restrictions:
+	*Sample sale items refer to excess inventory and samples currently stocked in the studio.
 
-*   Sample sale items refer to excess inventory and samples currently stocked in the studio.
+	*All items marked as sample sale are final sale and cannot be exchanged or returned for refund.
 
-*   All items marked as sample sale are final sale and cannot be exchanged or returned for refund.
+	*10% discount is valid on full-priced items over $100.00 only. Must be redeemed the same day as sample sale appointment. Cannot be combined with sample sale merchandise, other discounts or promotions we are currently running.
 
-*   10% discount is valid on full-priced items over $100.00 only. Must be redeemed the same day as sample sale appointment. Cannot be combined with sample sale merchandise, other discounts or promotions we are currently running.
+	*Sample sale and 10% discount period: August 11, 2015 to August 22, 2015
 
-*   Sample sale and 10% discount period: August 11, 2015 to August 22, 2015
-
-*   Prices do not include alterations. Alterations will be completed by client’s own alterations tailor.
-*   Other rules and restrictions may apply.
+	*Prices do not include alterations. Alterations will be completed by client's own alterations tailor.
+	*Other rules and restrictions may apply.

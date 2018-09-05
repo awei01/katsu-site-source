@@ -1,22 +1,23 @@
 ---
 path: /2010/07/face-frame/
 title: Face Frame
+date: '2010-07-14'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 1845
+featuredImage: null
 ---
-Ever wonder what "spread" or "tie space" meant? Ok, well here is a plain and simple diagram of a collar with explanations- so you'll never wonder again.
+Ever wonder what "spread" or "tie space" meant? Ok, well here is a plain and simple diagram of a collar with explanations- so you'll never wonder again. 
 
 Check back tomorrow for a guide to picking the right collar for you. After all, it is a "frame for your face," as we like to say.
 
-[![](http://knol.google.com/k/-/-/27cl1pj4s2ovi/lvls02/labled-collar.jpg)](http://knol.google.com/k/-/-/27cl1pj4s2ovi/lvls02/labled-collar.jpg)  
+[![](http://knol.google.com/k/-/-/27cl1pj4s2ovi/lvls02/labled-collar.jpg)](http://knol.google.com/k/-/-/27cl1pj4s2ovi/lvls02/labled-collar.jpg)
 
 **1\. Collar Points** \- The tips of the collar.
 
@@ -28,6 +29,6 @@ Check back tomorrow for a guide to picking the right collar for you. After all, 
 
 **5\. Tie Space** - The distance between the top of the folded collar parts when the shirt is buttoned.
 
-**6\. Spread** - The distance between Collar Points.
+**6\. Spread** - The distance between Collar Points. 
 
 Image courtesy of Antonio Centeno on Knol.

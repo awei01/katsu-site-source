@@ -1,16 +1,17 @@
 ---
 path: /2010/07/collar-selection-guide/
 title: Collar Selection Guide
+date: '2010-07-16'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
-featuredImage: 1987
+featuredImage: null
 ---
 [![](http://www.tailorinstyle.com/wp-content/uploads/2008/04/standard-classic-dress-shirt-collar.jpg)](http://www.tailorinstyle.com/wp-content/uploads/2008/04/standard-classic-dress-shirt-collar.jpg)
 
@@ -44,4 +45,4 @@ Oval face shapes can wear almost any type of collar. Remember, however, that you
 
 And, as always, you can ask a stylist from 9tailors for personal collar advice.
 
-Ready to explore a whole new world of collars? Off-the-rack shirts usually don't have a wide array of collar choices. **Come to 9tailors to find that collar that perfectly suits you!** E-mail us at [info@9tailors.com](mailto:info@9tailors.com) for more information.
+Ready to explore a whole new world of collars? Off-the-rack shirts usually don't have a wide array of collar choices. **Come to 9tailors to find that collar that perfectly suits you!** E-mail us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) for more information.

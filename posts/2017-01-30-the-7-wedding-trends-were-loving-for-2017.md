@@ -1,17 +1,18 @@
 ---
 path: /2017/01/the-7-wedding-trends-were-loving-for-2017/
 title: The 7 Wedding Trends We're Loving for 2017
+date: '2017-01-30'
 author: eboni
-categories: 
+categories:
   - weddings
-tags: 
+tags:
   - 2017 Wedding Trends
   - 9tailors
   - 9tailors weddings
   - Wedding Trends
   - boston wedding
   - wedding planning
-featuredImage: 5196
+featuredImage: /uploads/2017/01/The-Top-7-Wedding-Trends-To-Watch-For-2017-e1485558079677.jpg
 ---
 Planning a 2017 wedding? We've compiled a list of the top wedding trends that will be a big hit this year.
 
@@ -23,7 +24,11 @@ Industrial spaces won't be going out of style anytime soon. We'll be seeing **a 
 
 #### **Warm Colors**
 
-Incorporate **warm tones of yellow, red and golden oranges** into your wedding decor and wardrobe. Amp up your tuxedo with marsala, also known as maroon, as a base for your jacket and pants and add black satin to your lapel. If you can't pick just one, going with multiple colors is another trend for 2017. ![](https://s-media-cache-ak0.pinimg.com/564x/11/6e/2a/116e2a4c44661f777f34d563a8423630.jpg) ![](https://s-media-cache-ak0.pinimg.com/564x/0a/de/7f/0ade7f4bd3f8f113b49d5431956fdf6d.jpg)
+Incorporate **warm tones of yellow, red and golden oranges** into your wedding decor and wardrobe. Amp up your tuxedo with marsala, also known as maroon, as a base for your jacket and pants and add black satin to your lapel. If you can't pick just one, going with multiple colors is another trend for 2017.
+
+![](https://s-media-cache-ak0.pinimg.com/564x/11/6e/2a/116e2a4c44661f777f34d563a8423630.jpg)
+
+![](https://s-media-cache-ak0.pinimg.com/564x/0a/de/7f/0ade7f4bd3f8f113b49d5431956fdf6d.jpg)
 
 #### Small Intimate Ceremonies
 

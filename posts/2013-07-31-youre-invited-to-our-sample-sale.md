@@ -1,16 +1,17 @@
 ---
 path: /2013/07/youre-invited-to-our-sample-sale/
 title: You're invited to our sample sale!
+date: '2013-07-31'
 author: sam
-categories: 
+categories:
   - uncategorized
-tags: 
+tags:
   - 9tailors sample sale
   - mens fashion
   - menswear
   - sale
   - sample sale
-featuredImage: 1166
+featuredImage: /uploads/2014/10/samplesale_main_aug2013.jpg
 ---
 [![](http://4.bp.blogspot.com/-5ORwEItsWvQ/UfqzJ-rUNWI/AAAAAAAAPRs/FPdxSE9m8z8/s640/samplesale_main_aug2013.jpg)](http://4.bp.blogspot.com/-5ORwEItsWvQ/UfqzJ-rUNWI/AAAAAAAAPRs/FPdxSE9m8z8/s1600/samplesale_main_aug2013.jpg)
 
@@ -32,13 +33,13 @@ If you can't find anything at the sample sale that suits, we're offering our cli
 
 \* Sample Sale Rules and Restrictions:
 
-*   Sample sale items refer to excess inventory and samples currently stocked in the studio.
+	*Sample sale items refer to excess inventory and samples currently stocked in the studio.
 
-*   All items marked as sample sale are final sale only and cannot be exchanged or returned for refund.  
+	*All items marked as sample sale are final sale only and cannot be exchanged or returned for refund.  
 
-*   $25.00 discount is valid on full-priced items over $100.00 only. Must be redeemed same day as sample sale appointment. Cannot be combined with sample sale merchandise, other discounts or promotions we are currently running.
+	*$25.00 discount is valid on full-priced items over $100.00 only. Must be redeemed same day as sample sale appointment. Cannot be combined with sample sale merchandise, other discounts or promotions we are currently running.
 
-*   Sample sale and $25.00 discount expires on August 31, 2013
+	*Sample sale and $25.00 discount expires on August 31, 2013
 
-*   Prices do not include alterations. Alterations will be completed by client's own alterations tailor. 
-*   Other rules and restrictions may apply.
+	*Prices do not include alterations. Alterations will be completed by client's own alterations tailor. 
+	*Other rules and restrictions may apply.

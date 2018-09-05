@@ -1,11 +1,12 @@
 ---
 path: /2017/05/how-to-make-a-splash-at-your-beach-wedding/
 title: How to Make a Splash at Your Beach Wedding
+date: '2017-05-16'
 author: irina
-categories: 
+categories:
   - style-tips
   - weddings
-tags: 
+tags:
   - 2017 Wedding Trends
   - 9tailors weddings
   - Groom Wedding Planning
@@ -14,9 +15,11 @@ tags:
   - mens fashion
   - wedding style
   - wedding suit
-featuredImage: 5389
+featuredImage: /uploads/2017/05/undercanopy.jpg
 ---
-A beach wedding stirs up romantic images of a beautiful ocean backdrop, soft golden sands,  and warm, gentle breezes. The idea is something that most couples dream of; after all, _what can be more picturesque? _ As a groom, choosing the appropriate attire for your beach venue, however, can be a bit tricky. First of all, you want to stay cool and avoid sweating under the hot sun (especially if you have a daytime summer wedding). Secondly, you want to achieve the perfect balance between appearing too formal and too casual. Below, we have assembled several fashion tips for the beach bound groom-to-be.
+A beach wedding stirs up romantic images of a beautiful ocean backdrop, soft golden sands,  and warm, gentle breezes. The idea is something that most couples dream of; after all, _what can be more picturesque? _ As a groom, choosing the appropriate attire for your beach venue, however, can be a bit tricky.
+
+First of all, you want to stay cool and avoid sweating under the hot sun (especially if you have a daytime summer wedding). Secondly, you want to achieve the perfect balance between appearing too formal and too casual. Below, we have assembled several fashion tips for the beach bound groom-to-be.
 
 ### Choose Light-Weight Fabrics
 
@@ -40,10 +43,14 @@ A beach wedding is ideal for those who hate to be constricted by a two-button ja
 
 ### Substitute Dress Shoes For Loafers
 
-Socks are definitely not at home at the beach. We cannot imagine anything more uncomfortable than stepping out on the sand in traditional dress shoes and socks. If you are a true nature lover, you would ideally be strutting to the alter barefoot. In most cases, however, a wedding dictates some level of formality, so perhaps you could save the barefoot look for the wedding photos, and select sensible loafers for the ceremony.  Canvas covered loafers or a soft leather boat shoes (preferably with rubber soles) are practical, comfortable, and stylish options that pair well with linen or seersucker suits. We would avoid wearing sandals, particularly flip-flops, unless your wedding is ultra casual and you choose to wear simply a dress shirt and pants. [![](https://s-media-cache-ak0.pinimg.com/564x/6d/2b/22/6d2b22336c877dc66aee90bac91ced3f.jpg)](https://s-media-cache-ak0.pinimg.com/564x/6d/2b/22/6d2b22336c877dc66aee90bac91ced3f.jpg)  
+Socks are definitely not at home at the beach. We cannot imagine anything more uncomfortable than stepping out on the sand in traditional dress shoes and socks. If you are a true nature lover, you would ideally be strutting to the alter barefoot. In most cases, however, a wedding dictates some level of formality, so perhaps you could save the barefoot look for the wedding photos, and select sensible loafers for the ceremony.  Canvas covered loafers or a soft leather boat shoes (preferably with rubber soles) are practical, comfortable, and stylish options that pair well with linen or seersucker suits. We would avoid wearing sandals, particularly flip-flops, unless your wedding is ultra casual and you choose to wear simply a dress shirt and pants.
+
+[![](https://s-media-cache-ak0.pinimg.com/564x/6d/2b/22/6d2b22336c877dc66aee90bac91ced3f.jpg)](https://s-media-cache-ak0.pinimg.com/564x/6d/2b/22/6d2b22336c877dc66aee90bac91ced3f.jpg)
 
 ### Match Your Bride
 
-While it may be taboo to see your bride's wedding gown before the big day, you should know a few key pieces of information about her dress. Find out what fabric her dress is made out of, its color, length, and level of formality. These cues should help guide you in your suit selection journey. If your fiancee has chosen an elaborate, lace embellished, champagne toned floor-length satin gown, you will appear far too casual in merely a white linen dress shirt and seersucker pants. On the other hand, if she opts for an informal, strapless cotton maxi dress, you will "upstage" her in a three piece wool tuxedo.  Make sure that you and your partner are on the same page in terms of your desired comfort level and wedding formality. ![](https://s-media-cache-ak0.pinimg.com/564x/a6/e7/9b/a6e79bde2fd8b910cbfa8c2ea5fd7f7f.jpg)  
+While it may be taboo to see your bride's wedding gown before the big day, you should know a few key pieces of information about her dress. Find out what fabric her dress is made out of, its color, length, and level of formality. These cues should help guide you in your suit selection journey. If your fiancee has chosen an elaborate, lace embellished, champagne toned floor-length satin gown, you will appear far too casual in merely a white linen dress shirt and seersucker pants. On the other hand, if she opts for an informal, strapless cotton maxi dress, you will "upstage" her in a three piece wool tuxedo.  Make sure that you and your partner are on the same page in terms of your desired comfort level and wedding formality.
+
+![](https://s-media-cache-ak0.pinimg.com/564x/a6/e7/9b/a6e79bde2fd8b910cbfa8c2ea5fd7f7f.jpg)
 
 ###### Comfort lovers rejoice as a beach wedding allows you to look and feel more relaxed. Skip the tuxedo, unbutton an extra shirt button, lose the tie if you would like, and let yourself succumb to the beauty of your serene destination.

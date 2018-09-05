@@ -1,23 +1,22 @@
 ---
 path: /2014/01/spring-2014-trends-to-avoid/
 title: Spring 2014 Trends to Avoid
+date: '2014-01-28'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - mens fashion
   - menswear
   - spring trends
   - what not to wear
-featuredImage: 1096
+featuredImage: /uploads/2014/10/camo.jpg
 ---
 Now that you have the gist of what's coming when the days begin to warm up without plummeting two days later, here's what you should avoid.
 
 [![](http://1.bp.blogspot.com/-mDQRTF-R14M/UufTc8P2spI/AAAAAAAABAk/LpZlXdGRba4/s1600/MEGGINGS,+source+-+chaos.png)](http://1.bp.blogspot.com/-mDQRTF-R14M/UufTc8P2spI/AAAAAAAABAk/LpZlXdGRba4/s1600/MEGGINGS,+source+-+chaos.png)
 
 Meggings, source: chaos-mag
-
- 
 
 Meggings, Men's Leggings.
 
@@ -43,7 +42,9 @@ This does not at all meant that camouflage should not be worn fashionably, just 
 
 Raf Simons Spring 2014, source:style
 
-Tunics The slightest difference in length can change the type of shirt you are wearing - cropped, normal, long/tunic -- and then there's dress. What is shown above becomes a dress and not so much a tunic. Now, don't get me wrong - I love my androgynous friends and drag queens. But, this is not for every day street wear unless it fits your lifestyle. In which case, this would not be a trend for you but already part of your wardrobe as a staple. Those who would like to look at this for a trend, I would advise against it. This is not a tunic, this is a dress. If you would like to try the tunic trend anyways, be sure the length falls below the butt but not so far as mid-thigh.
+Tunics
+
+The slightest difference in length can change the type of shirt you are wearing - cropped, normal, long/tunic -- and then there's dress. What is shown above becomes a dress and not so much a tunic. Now, don't get me wrong - I love my androgynous friends and drag queens. But, this is not for every day street wear unless it fits your lifestyle. In which case, this would not be a trend for you but already part of your wardrobe as a staple. Those who would like to look at this for a trend, I would advise against it. This is not a tunic, this is a dress. If you would like to try the tunic trend anyways, be sure the length falls below the butt but not so far as mid-thigh.
 
 [![](http://4.bp.blogspot.com/-BJDCuKQxg5M/Uuffa9uZfcI/AAAAAAAABBE/vM6BqjUCLUc/s1600/loose+suits,+source+-+arizonafoothilsmag.png)](http://4.bp.blogspot.com/-BJDCuKQxg5M/Uuffa9uZfcI/AAAAAAAABBE/vM6BqjUCLUc/s1600/loose+suits,+source+-+arizonafoothilsmag.png)
 
@@ -55,4 +56,4 @@ Just as men were finally getting comfortable with the idea of a form fitting sui
 
 And remember, nothing says a grown man like looking as though you're a toddler dressing up in your father's suits. ;-)
 
-Interested to become more fashion forward but need some guidance to keep an appropriate balance for work? Want your suits to be a little bit more playful without going over the top? Feeling adventurous with your wardrobe and want to step it up a bit? Contact a style consultant at info@9tailors.com
+Interested to become more fashion forward but need some guidance to keep an appropriate balance for work? Want your suits to be a little bit more playful without going over the top? Feeling adventurous with your wardrobe and want to step it up a bit? Contact a style consultant at {{ site.emails.info }}

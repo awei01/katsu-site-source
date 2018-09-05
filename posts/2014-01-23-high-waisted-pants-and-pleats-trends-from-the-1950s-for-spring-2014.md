@@ -1,13 +1,14 @@
 ---
 path: /2014/01/high-waisted-pants-and-pleats-trends-from-the-1950s-for-spring-2014/
 title: High-Waisted Pants and Pleats? Trends from the 1950s for Spring 2014
+date: '2014-01-23'
 author: michelle
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - Trends
   - menswear
-featuredImage: 1097
+featuredImage: /uploads/2014/10/old.jpg
 ---
 [![](http://3.bp.blogspot.com/-Nd8yjSz7pJ0/UuFD3Exp4EI/AAAAAAAAA-E/_VJmMCh0nQ4/s1600/Mens-fashion-1950s,+source-static3.wikia.nocookie.jpg)](http://3.bp.blogspot.com/-Nd8yjSz7pJ0/UuFD3Exp4EI/AAAAAAAAA-E/_VJmMCh0nQ4/s1600/Mens-fashion-1950s,+source-static3.wikia.nocookie.jpg)
 
@@ -17,7 +18,8 @@ Fashion trends always repeat themselves. We've seen double breasted suits come a
 
 [![](http://3.bp.blogspot.com/-nqI2jw6S5Dk/UuFXuxNlz4I/AAAAAAAAA-U/VIn9PARlwzM/s1600/BLOG-1950S.png)](http://3.bp.blogspot.com/-nqI2jw6S5Dk/UuFXuxNlz4I/AAAAAAAAA-U/VIn9PARlwzM/s1600/BLOG-1950S.png)
 
-Missoni/Joaquin Pheonix in 'Her'/Bottega Veneta/Chris Pratt in 'Her' source: pinterest/vulture/pinterest/vulture
+Missoni/Joaquin Pheonix in 'Her'/Bottega Veneta/Chris Pratt in 'Her'
+source: pinterest/vulture/pinterest/vulture
 
 Designers sent models down the runway for their Spring 2014 collections reminiscent of the 1950s casual wear, much like Spike Jonez's costumes in his movie. I'm glad the trend for men's pants are back on the rise (har-har, I apologize for the pun, kind of) and have graciously moved past the low-riding pants from the 90's, just don't go for the pleats unless your legs really need the extra space. Even Spike Jonze didn't incorporate them in his high-waisted comeback.
 
@@ -25,4 +27,4 @@ Little Bonus: Spike Jonez explains why he put his men in high-waisted pants. Tak
 
 http://www.vulture.com/2013/12/her-movie-high-waisted-pants-spike-jonze.html
 
-Interested in getting pants that fit your lower half properly? Want to brush up your look with a little bit of class and add a touch of dapper? Contact a style consultant at info@9tailors.com
+Interested in getting pants that fit your lower half properly? Want to brush up your look with a little bit of class and add a touch of dapper? Contact a style consultant at {{ site.emails.info }}

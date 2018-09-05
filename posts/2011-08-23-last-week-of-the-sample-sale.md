@@ -1,18 +1,19 @@
 ---
 path: /2011/08/last-week-of-the-sample-sale/
 title: Last Week of the Sample Sale!
+date: '2011-08-23'
 author: sam
-categories: 
+categories:
   - press
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - menswear
   - sale
   - sample sale
-featuredImage: 1698
+featuredImage: /uploads/2014/11/h1.jpg
 ---
 First, thank you to all of our clients who did their duty to clean out our studio. We appreciate your dedication to 9tailors by taking the extra inventory off our hands. Now, this goes out to the rest of the Boston population that is in need of suits and shirts to make the trek to the studio to refresh their wardrobe.
 

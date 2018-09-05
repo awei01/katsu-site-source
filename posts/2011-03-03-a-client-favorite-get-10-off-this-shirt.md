@@ -1,10 +1,11 @@
 ---
 path: /2011/03/a-client-favorite-get-10-off-this-shirt/
 title: A client favorite - Get 10% off this shirt
+date: '2011-03-03'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -13,7 +14,7 @@ tags:
   - mens fashion
   - menswear
   - menswear sale
-featuredImage: 1886
+featuredImage: null
 ---
 Want to know what our clients have been designing lately? Here's one of our favorites.
 
@@ -29,4 +30,8 @@ Contrast under the collar
 
 Contrast fabric on the pocket
 
-Want to design this shirt? Get a 10% Off on this shirt. Regularly priced at $155.00. Refer to this blog post and e-mail us at [info@9tailors.com](mailto:info@9tailors.com) before March 11, 2011. Fine Print:  This offer applies to this shirt design only (total price of shirt before discount is $155.00. Offer cannot be combined with any other offers or promotions.  To be eligible, please e-mail us before Friday, March 11, 2011.
+Want to design this shirt? Get a 10% Off on this shirt. Regularly priced at $155.00. Refer to this blog post and e-mail us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) before March 11, 2011.
+
+Fine Print: 
+
+This offer applies to this shirt design only (total price of shirt before discount is $155.00. Offer cannot be combined with any other offers or promotions.  To be eligible, please e-mail us before Friday, March 11, 2011.

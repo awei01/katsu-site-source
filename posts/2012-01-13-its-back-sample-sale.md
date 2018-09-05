@@ -1,10 +1,11 @@
 ---
 path: /2012/01/its-back-sample-sale/
-title: It's Back: Sample Sale!
+title: 'It''s Back: Sample Sale!'
+date: '2012-01-13'
 author: sam
-categories: 
+categories:
   - uncategorized
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -12,7 +13,7 @@ tags:
   - mens fashion
   - menswear
   - sample sale
-featuredImage: 1067
+featuredImage: /uploads/2014/10/s2.jpg
 ---
 We're cleaning out our closet in Boston and our loss is your gain.  We need to unload tons of blazers, pants, shirts, and even a few skirts to make some more room.  To make things move we're pricing our clothes to rival Walmart's prices, with the quality you have come to expect from [9tailors](http://9tailors.com/).
 
@@ -34,7 +35,7 @@ Vests: 30.00
 
 Ties: 15.00
 
-The sale starts January 21st and runs through February 5th.  Make an appointment now, before all the good stuff is gone! Email [customerservice@9tailors.com](mailto:customerservice@9tailors.com) to setup an appointment. As always you will be guided through the forest of samples by a Style Consultant who will help you find flattering pieces that fit you properly. **Due to the popularity of our sales appointments are necessary.**
+The sale starts January 21st and runs through February 5th.  Make an appointment now, before all the good stuff is gone! Email [{{ site.emails.customerservice }}](mailto:{{ site.emails.customerservice }}) to setup an appointment. As always you will be guided through the forest of samples by a Style Consultant who will help you find flattering pieces that fit you properly. **Due to the popularity of our sales appointments are necessary.**
 
 \*\*Please note that the sample sale is going on for our Boston location\*\*
 

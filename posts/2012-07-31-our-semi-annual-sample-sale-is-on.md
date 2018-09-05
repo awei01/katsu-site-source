@@ -1,10 +1,11 @@
 ---
 path: /2012/07/our-semi-annual-sample-sale-is-on/
 title: Our Semi-Annual Sample Sale is ON!
+date: '2012-07-31'
 author: sam
-categories: 
+categories:
   - uncategorized
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom clothing
@@ -12,7 +13,7 @@ tags:
   - mens fashion
   - menswear
   - sample sale
-featuredImage: 957
+featuredImage: /uploads/2014/10/a2.jpg
 ---
 We're making room for new arrivals for fall, so we're cleaning house! Starting August 2, we will be off-loading are sample blazers, pants, skirts, and shirts. 
 
@@ -32,20 +33,20 @@ Vests: $35.00
 
 This is an _exclusive_, _**by-appointment**_ sale only. We will only be offering the sample sale **_Thursday through Saturday_**.
 
-Book a fitting now with a Style Consultant if you want to score the best deal in town! E-mail [customerservice@9tailors.com](mailto:customerservice@9tailors.com). 
+Book a fitting now with a Style Consultant if you want to score the best deal in town! E-mail [{{ site.emails.customerservice }}](mailto:{{ site.emails.customerservice }}). 
 
 Can't find anything at the sample sale? Don't worry. We're offering clients 10% off on all certain full-priced merchandise.\*
 
 **\*\*Please note that the sample sale is going on for our Boston location\*\***
 
-All items are sold as they are. While we would love to alter our sample sale garments, we will not be offering alterations on site. Instead we will refer you to our favorite local, Downtown Crossing, alterations tailors for any adjustments. They are around the corner from our location. See you at the sale!\* Sample Sale Rules and Restrictions: 
+All items are sold as they are. While we would love to alter our sample sale garments, we will not be offering alterations on site. Instead we will refer you to our favorite local, Downtown Crossing, alterations tailors for any adjustments. They are around the corner from our location.
 
-*   Sample sale items refer to excess inventory and samples currently stocked in the studio.
-*   All items marked as sample sale are final sale only and cannot be exchanged or returned for refund.  
+See you at the sale!\* Sample Sale Rules and Restrictions: 
 
-*   10% discount is valid on full-priced items only. Cannot be combined with other discounts or promotions we are currently running.
+	*Sample sale items refer to excess inventory and samples currently stocked in the studio.
+	*All items marked as sample sale are final sale only and cannot be exchanged or returned for refund.  
 
- 
+	*10% discount is valid on full-priced items only. Cannot be combined with other discounts or promotions we are currently running. 
 
-*   Sample sale and 10% discount expires on August 31, 2012.
-*   Other rules and restrictions may apply.
+	*Sample sale and 10% discount expires on August 31, 2012. 
+	*Other rules and restrictions may apply.

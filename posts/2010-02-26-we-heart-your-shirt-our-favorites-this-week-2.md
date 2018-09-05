@@ -1,19 +1,24 @@
 ---
 path: /2010/02/we-heart-your-shirt-our-favorites-this-week-2/
 title: We Heart Your Shirt - Our favorites this week
+date: '2010-02-26'
 author: sam
-categories: 
+categories:
   - style-tips
-tags: 
+tags:
   - 9tailors
   - bespoke
   - custom suit
   - mens fashion
   - menswear
   - menswear tips
-featuredImage: 2122
+featuredImage: null
 ---
-Recently, we received some really amazing shirts in the studio. I just wanted to share some of our favorites with you. All fabrics are available [online](http://www.blogger.com/beta.9tailors.com) now. Click on the images to inspect the fabric...
+Recently, we received some really amazing shirts in the studio. I just wanted to share some of our favorites with you.
+
+All fabrics are available [online](http://9tailors.com) now.
+
+Click on the images to inspect the fabric...
 
 [![](http://3.bp.blogspot.com/_RlJ3L7W6dBw/S4g9fGOUmMI/AAAAAAAAIHo/YU81fFLEmCw/s320/P1010070.JPG)](http://3.bp.blogspot.com/_RlJ3L7W6dBw/S4g9fGOUmMI/AAAAAAAAIHo/YU81fFLEmCw/s1600-h/P1010070.JPG)Twill Stripes in Blue
 

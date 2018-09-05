@@ -1,17 +1,18 @@
 ---
 path: /2013/03/pick-up-boston-spirit/
 title: Pick up Boston Spirit!
+date: '2013-03-22'
 author: sam
-categories: 
+categories:
   - press
-tags: 
+tags:
   - 9tailors
   - Boston Spirit
   - custom menswear
   - dinner jacket
   - mens fashion
   - press
-featuredImage: 1197
+featuredImage: /uploads/2014/10/BostonSpiritCover.jpeg
 ---
 We would like to send a huge thanks to stylist extraordinaire, Jeff Lahens of [Dresscode Boston](http://dresscodeboston.com/),  who featured some [9tailors](http://9tailors.com/) jackets in the latest shoot for [Boston Spirit](http://www.bostonspiritmagazine.com/)! We couldn't be more thrilled to have one of our pieces make the cover! White dinner jacket? Don't mind if we do!
 
@@ -23,4 +24,4 @@ Check out more photos below of another of our favorite jackets in blue linen, wo
 
 [![](http://3.bp.blogspot.com/-Ymegx_sUCd0/UUy_0rershI/AAAAAAAACh8/_kgIe_eN618/s640/Excerpt20130304_Seasonal_Weddings-Fashion-4.jpg)](http://3.bp.blogspot.com/-Ymegx_sUCd0/UUy_0rershI/AAAAAAAACh8/_kgIe_eN618/s1600/Excerpt20130304_Seasonal_Weddings-Fashion-4.jpg)
 
-See something you like? We have thousands of fabrics for you to peruse. Select your favorite and design every little detail yourself. Intrigued? Email a Style Consultant at [info@9tailors.com](mailto:info@9tailors.com) to schedule a consultation today!
+See something you like? We have thousands of fabrics for you to peruse. Select your favorite and design every little detail yourself. Intrigued? Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to schedule a consultation today!

@@ -1,14 +1,15 @@
 ---
 path: /2015/12/winter-holiday-hours/
 title: Winter Holiday Hours
+date: '2015-12-23'
 author: eboni
-categories: 
+categories:
   - uncategorized
-tags: 
+tags:
   - 9tailors
   - 9tailors Boston
   - Holiday Hours
-featuredImage: 3903
+featuredImage: /uploads/2015/12/happy-holidays.jpg
 ---
 ![](https://s-media-cache-ak0.pinimg.com/736x/6f/15/80/6f1580158bde66bb7f63bb1604b930f3.jpg)
 

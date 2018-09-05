@@ -1,11 +1,12 @@
 ---
 path: /2012/01/weddings-vivi-and-bayan/
-title: Weddings: Vivi and Bayan
+title: 'Weddings: Vivi and Bayan'
+date: '2012-01-16'
 author: sam
-categories: 
+categories:
   - our-clients
   - weddings
-tags: 
+tags:
   - 9tailors
   - 9tailors wedding
   - bespoke
@@ -16,7 +17,7 @@ tags:
   - mens fashion
   - menswear
   - wedding
-featuredImage: 1063
+featuredImage: /uploads/2014/10/92.jpg
 ---
 Congratulations to Vivi and Bayan! The groom and his groomsmen were outfitted in custom suits from 9tailors that captured the sophisticated elegance of their fall wedding.  Black suits with subtle pinstripes for added sheen were just formal enough while allowing the guys to get more use from them after the wedding.
 
@@ -32,4 +33,4 @@ Bryan, Bayan, and Eiji in their 9tailors suits.  [KCPhoto](http://kcphoto.com/)
 
 The beautiful bride, Vivi, and groom, Bayan. [KCPhoto](http://kcphoto.com/)
 
-Contact a 9tailors style consultant for an appointment to discuss what you need to outfit your wedding party at [info@9tailors.com](mailto:info@9tailors.com).
+Contact a 9tailors style consultant for an appointment to discuss what you need to outfit your wedding party at [{{ site.emails.info }}](mailto:{{ site.emails.info }}).

@@ -10,9 +10,9 @@ $topnav-height: 5rem;
 
 .site-topnav {
   height: $topnav-height;
-  background: rgba(255, 255, 255, 0.75);
+  background: rgba(255, 255, 255, 0.95);
   position: fixed;
-  z-index: 1;
+  z-index: 100;
   top: 0;
   width: 100%;
   padding: 0 2rem;
@@ -36,7 +36,7 @@ $topnav-height: 5rem;
   }
 
   .site-topnav-link {
-    font-family: $font-league-gothic, helvetica;
+    font-family: $font-league-gothic;
     font-size: 2rem;
     text-transform: uppercase;
     padding: 0.5rem 1rem;

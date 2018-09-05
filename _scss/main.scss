@@ -14,7 +14,7 @@ body {
 
   // body
   background: #fff;
-  font-family: $font-pt-sans, arial, helvetica, sans-serif;
+  font-family: $font-pt-sans;
   font-size: 16px;
   height: 100%;
 }
@@ -22,7 +22,11 @@ body {
 
 @import './_exports';
 @import './_colors';
+
 @import './layout';
 @import './objects';
+
+@import './post';
+
 @import './topnav';
 @import './footer';

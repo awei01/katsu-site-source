@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans');
-$font-pt-sans: "PT Sans";
+$font-pt-sans: "PT Sans", arial, helvetica, sans-serif;
 
 @font-face {
   font-family: "League Gothic";
   src: url(inline-image('./assets/League_Gothic.otf'));
 }
-$font-league-gothic: "League Gothic";
+$font-league-gothic: "League Gothic", impact, "trebuchet ms", helvetica, sans-serif;

@@ -1,6 +1,25 @@
 {% extends '@template.njk' %}
 
 {% block contents %}
-  <h1>POST</h1>
-  {{ contents }}
+  <div class="site-post">
+    {% if featuredImage %}
+      <div class="site-post-hero">
+        <div class="site-post-hero-image" style="background-image: url('{{ featuredImage }}')"></div>
+        <div class="site-post-hero-content">
+          <div class="site-post-meta">
+            <h1 class="site-post-title">{{ title }}</h1>
+            <div class="site-post-date">{{ date }}</div>
+          </div>
+        </div>
+      </div>
+    {% else %}
+      <div class="site-post-meta">
+        <h1 class="site-post-title">{{ title }}</h1>
+        <div class="site-post-date">{{ date }}</div>
+      </div>
+    {% endif %}
+      <div class="site-post-content">
+        {{ contents }}
+      </div>
+  </div>
 {% endblock %}

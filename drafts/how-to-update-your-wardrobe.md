@@ -1,8 +1,9 @@
 ---
-path: /?p=5700
+path: /?p=5700/
 title: How to update your wardrobe
+date: '0000-00-00'
 author: eboni
-categories: 
+categories:
   - uncategorized
 tags: []
 featuredImage: null

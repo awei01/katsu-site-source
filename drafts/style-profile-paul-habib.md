@@ -1,8 +1,9 @@
 ---
-path: /?p=4532
-title: Style Profile: Paul Habib
+path: /?p=4532/
+title: 'Style Profile: Paul Habib'
+date: '0000-00-00'
 author: jessica
-categories: 
+categories:
   - uncategorized
 tags: []
 featuredImage: null

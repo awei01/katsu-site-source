@@ -1,8 +1,9 @@
 ---
-path: /?p=4523
-title: Style Profile: Vambah Sillah
+path: /?p=4523/
+title: 'Style Profile: Vambah Sillah'
+date: '0000-00-00'
 author: jessica
-categories: 
+categories:
   - uncategorized
 tags: []
 featuredImage: null

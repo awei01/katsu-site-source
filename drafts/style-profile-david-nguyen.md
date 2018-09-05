@@ -1,8 +1,9 @@
 ---
-path: /?p=4529
-title: Style Profile: David Nguyen
+path: /?p=4529/
+title: 'Style Profile: David Nguyen'
+date: '0000-00-00'
 author: jessica
-categories: 
+categories:
   - uncategorized
 tags: []
 featuredImage: null

@@ -1,8 +1,9 @@
 ---
-path: /?p=5414
+path: /?p=5414/
 title: Grand Slam Fashion at The US Open
+date: '0000-00-00'
 author: irina
-categories: 
+categories:
   - uncategorized
 tags: []
 featuredImage: null

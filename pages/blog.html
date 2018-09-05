@@ -1,5 +1,17 @@
 <ul>
 {% for post in collections.posts %}
-  <li>{{ post.path }}: {{ post.key }}</li>
+  <li><a href="{{ post.path }}">{{ post.title }}</a>: {{ post.date }}</li>
+{% endfor %}
+</ul>
+
+<ul>
+{% for post in collections.weddings %}
+  <li><a href="{{ post.path }}">{{ post.title }}</a>: {{ post.date }}</li>
+{% endfor %}
+</ul>
+
+<ul>
+{% for post in collections['behind-the-seams'] %}
+  <li><a href="{{ post.path }}">{{ post.title }}</a>: {{ post.date }}</li>
 {% endfor %}
 </ul>

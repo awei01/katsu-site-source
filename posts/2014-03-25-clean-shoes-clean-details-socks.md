@@ -12,7 +12,7 @@ tags:
   - menswear how to
 featuredImage: /uploads/2014/10/shoe-detail-4.jpg
 ---
-Now that your shoes are shined and ready for Spring, don't forget the details. Socks and colored shoelaces have become surprisingly important in menswear fashion in the past few years. People are paying more attention to the pattern and colors of your socks and how they match up with your tie or pocket square. The sock is one of the few places that you can have some fun with while at work. 
+Now that your shoes are shined and ready for Spring, don't forget the details. Socks and colored shoelaces have become surprisingly important in menswear fashion in the past few years. People are paying more attention to the pattern and colors of your socks and how they match up with your tie or pocket square. The sock is one of the few places that you can have some fun with while at work. 
 
 [![](http://3.bp.blogspot.com/-SvmVKXDPvBI/UzGn8GE80DI/AAAAAAAABvY/erf272LoDac/s1600/ryan+gosling,+socks+-+source,+mensfashionmagazine.jpg)](http://3.bp.blogspot.com/-SvmVKXDPvBI/UzGn8GE80DI/AAAAAAAABvY/erf272LoDac/s1600/ryan+gosling,+socks+-+source,+mensfashionmagazine.jpg)
 
@@ -31,7 +31,7 @@ Actual Client, Dan, showing off playful black and white polka dotted socks with 
 
 If you really want to jump into the trend but not get overwhelmed by too many options off a wall, Happy Socks makes gift sets for men with a perfect balance! The argyles keep it classic but the colors make it more playful. Blue is always a safe color and also is the most favored color among men, so you can't go wrong. The gray is a safe color that matches just about anything but keeps it alive with the pink edge and blue toes. The polka dots stay playful but not too outrageously so with it's navy background. This gift set has the conservative sets for work and bolder sets for weekends.
 
-[Happy Sock](http://www.happysocks.com/us/giftbox-for-him-5.html)s gift set for Men, $45.00
+[Happy Sock](http://www.happysocks.com/us/giftbox-for-him-5.html)s gift set for Men, $45.00
 
 [![](http://1.bp.blogspot.com/-PG1inyB3oN8/UzG4taqbFSI/AAAAAAAABwc/Zq0h8S_Z2hk/s1600/happy+sock,+paisley.png)](http://1.bp.blogspot.com/-PG1inyB3oN8/UzG4taqbFSI/AAAAAAAABwc/Zq0h8S_Z2hk/s1600/happy+sock,+paisley.png)
 
@@ -42,26 +42,26 @@ Want to be a little more playful than argyle's and polka dots but still be able 
 [![](http://3.bp.blogspot.com/-14QoEQcwuIw/UzG6K_vEWBI/AAAAAAAABwo/nXOIOid6D6k/s1600/ted+baker,+hounds+tooth.jpg)](http://3.bp.blogspot.com/-14QoEQcwuIw/UzG6K_vEWBI/AAAAAAAABwo/nXOIOid6D6k/s1600/ted+baker,+hounds+tooth.jpg)
 
 If you couldn't tell, I'm a fan of black and white socks in fun patterns. The pops of color on the heel, toe and band are always hidden surprises that allow you to wear these socks in conservative settings. You get to have fun without looking inappropriately dressed.
-[Ted Baker](http://www.tedbaker.com/uk/Mens/Accessories/Socks/TOODOG-Hounds-tooth-pattern-sock-Blue/p/108908-14-BLUE) Hounds Tooth Socks, $24.75
+[Ted Baker](http://www.tedbaker.com/uk/Mens/Accessories/Socks/TOODOG-Hounds-tooth-pattern-sock-Blue/p/108908-14-BLUE) Hounds Tooth Socks, $24.75
 
 **Getting Playful and Bold**,
 
 [![](http://4.bp.blogspot.com/-KG4Ac7VHDeM/UzG7Pd8iedI/AAAAAAAABww/LSZ_76f-cbQ/s1600/ted+baker,+banofie.jpg)](http://4.bp.blogspot.com/-KG4Ac7VHDeM/UzG7Pd8iedI/AAAAAAAABww/LSZ_76f-cbQ/s1600/ted+baker,+banofie.jpg)
 
 The geometric pattern and bolder color makes this sock better suited for play and a casual or bolder suit. This would look fantastic with the bluer suits our clients have been ordering! Very seasonally appropriate.
-[Ted Baker](http://www.tedbaker.com/uk/Mens/Accessories/Socks/BANOFIE-Geo-pattern-socks-Purple/p/108917-65-PURPLE) Banofie Sock, $14.03
+[Ted Baker](http://www.tedbaker.com/uk/Mens/Accessories/Socks/BANOFIE-Geo-pattern-socks-Purple/p/108917-65-PURPLE) Banofie Sock, $14.03
 
 [![](http://1.bp.blogspot.com/-5Lf1lfhVWwA/UzG8td7SYoI/AAAAAAAABw8/BRlQKWZ4GjM/s1600/ted+baker,+madera.jpg)](http://1.bp.blogspot.com/-5Lf1lfhVWwA/UzG8td7SYoI/AAAAAAAABw8/BRlQKWZ4GjM/s1600/ted+baker,+madera.jpg)
 
 Super playful and absolutely for weekend wear. Whenever a sock is covered in an all-out print such as parrots, you can't resist buying them but you have to make certain you're showing them off with the right outfit.
-[Ted Baker](http://www.tedbaker.com/uk/Mens/Accessories/Socks/MADERA-Parrot-pattern-sock-Mustard/p/108916-70-MUSTARD) Madera Sock, $14.03
+[Ted Baker](http://www.tedbaker.com/uk/Mens/Accessories/Socks/MADERA-Parrot-pattern-sock-Mustard/p/108916-70-MUSTARD) Madera Sock, $14.03
 
 [![](http://2.bp.blogspot.com/-fdFfRjSFl7Q/UzG9oFp0FVI/AAAAAAAABxE/dm5rQaYPiU4/s1600/happy+sock,+rose+sock.png)](http://2.bp.blogspot.com/-fdFfRjSFl7Q/UzG9oFp0FVI/AAAAAAAABxE/dm5rQaYPiU4/s1600/happy+sock,+rose+sock.png)
 
 Floral, floral everywhere! It can't be Spring without roses blooming and gardens getting replanted and freshened for the long sunny Summer days to come.
-[Happy Socks](http://www.happysocks.com/us/rose-sock.html) Rose Sock, $12.00
+[Happy Socks](http://www.happysocks.com/us/rose-sock.html) Rose Sock, $12.00
 
-[Boston Magazine](http://www.bostonmagazine.com/) employed local illustrator, [Nick Sullivan](https://www.facebook.com/NickSullivanArt) to show wearers how to show off their socks on weekends by rolling up their pants.
+[Boston Magazine](http://www.bostonmagazine.com/) employed local illustrator, [Nick Sullivan](https://www.facebook.com/NickSullivanArt) to show wearers how to show off their socks on weekends by rolling up their pants.
 
 [![](http://4.bp.blogspot.com/-hNYoPr36GCA/UzG-6dYVnWI/AAAAAAAABxQ/wihYKmcbWqs/s1600/boston+mag-sock+1.jpg)](http://4.bp.blogspot.com/-hNYoPr36GCA/UzG-6dYVnWI/AAAAAAAABxQ/wihYKmcbWqs/s1600/boston+mag-sock+1.jpg)
 

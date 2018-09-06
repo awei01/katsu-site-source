@@ -15,7 +15,7 @@ featuredImage: null
 ---
 [![Affordable Men's Summer 2010](http://www.polyvore.com/cgi/img-set/BQcDAAAAAwoDanBnAAAABC5vdXQKFjhBVmlMZnhfM3hHTWNOeENtQkNUUEEAAAACaWQKAXgAAAAEc2l6ZQ.jpg "Affordable Men's Summer 2010")](http://www.polyvore.com/affordable_mens_summer_2010/set?.embedder=1536106&.mid=embed&id=19991060)[![Fashion Trends & Styles - Polyvore](http://www.polyvorecdn.com/rsrc/img/logo_embed_alt_63x21.png "Fashion Trends & Styles - Polyvore")](http://www.polyvore.com/)
 
-[Affordable Men's Summer 2010](http://www.polyvore.com/affordable_mens_summer_2010/set?.embedder=1536106&.mid=embed&id=19991060) by [makikoharris](http://www.polyvore.com/cgi/profile?.embedder=1536106&.mid=embed&id=1536106) on [Polyvore.com](http://www.polyvore.com/)
+ [Affordable Men's Summer 2010](http://www.polyvore.com/affordable_mens_summer_2010/set?.embedder=1536106&.mid=embed&id=19991060) by [makikoharris](http://www.polyvore.com/cgi/profile?.embedder=1536106&.mid=embed&id=1536106) on [Polyvore.com](http://www.polyvore.com/)
 
  Ok, buttons not your thing? Here are some more easy and affordable tips for updating your look. 
 

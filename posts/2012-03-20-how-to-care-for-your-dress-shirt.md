@@ -21,9 +21,9 @@ So, you've buckled down and finally gotten a custom shirt. Bravo! Now, how do yo
 
 **DIY**
 
-**1**. If  you have a colored shirt, machine wash cold. If it's white, machine wash warm. The setting depends on the quality of your fabric. Cotton is fine with a normal setting, more refined fabrics deserve a delicate cycle. And please, don't mix your whites with your colors. Duh.
+**1**. If you have a colored shirt, machine wash cold. If it's white, machine wash warm. The setting depends on the quality of your fabric. Cotton is fine with a normal setting, more refined fabrics deserve a delicate cycle. And please, don't mix your whites with your colors. Duh.
 
-  \*All 9tailors shirts have removable collar stays, unless otherwise specified. Please make sure you take your stays out prior to throwing laundry in the washer--the stays could fall out during the cycle.
+ \*All 9tailors shirts have removable collar stays, unless otherwise specified. Please make sure you take your stays out prior to throwing laundry in the washer--the stays could fall out during the cycle.
 
 [![](http://3.bp.blogspot.com/-XHtAE28yfmk/T2TBU79WyMI/AAAAAAAAAC4/OaxvaZv4iVg/s320/washing-machine-dial-thumb5254814.jpg)](http://3.bp.blogspot.com/-XHtAE28yfmk/T2TBU79WyMI/AAAAAAAAAC4/OaxvaZv4iVg/s1600/washing-machine-dial-thumb5254814.jpg)
 
@@ -31,9 +31,9 @@ Courtesy of www.dreamstime.com
 
 **2.** **DO NOT PUT YOUR DRESS SHIRT IN THE DRYER! REPEAT, DO NOT PUT YOUR DRESS SHIRT IN THE DRYER!** You had it custom-made for a reason and if you throw it in the dryer, shrinkage will occur. Remove your shirt from the washer and hang it to dry. However, it will dry with wrinkles so you'll have to take an iron to it, see the next step.
 
-**3**. Ironing. Okay, fellas, it's really not that hard. It's a useful skill to know how to do yourself, rather than relying on Mom Dukes or your lady to do it for you. Check out the Art of Manliness [article](http://artofmanliness.com/2011/04/06/how-to-iron-shirt/) on how to iron properly.
+**3**. Ironing. Okay, fellas, it's really not that hard. It's a useful skill to know how to do yourself, rather than relying on Mom Dukes or your lady to do it for you. Check out the Art of Manliness [article](http://artofmanliness.com/2011/04/06/how-to-iron-shirt/) on how to iron properly.
 
-    \*Again, 9tailors shirts have removable collar stays. These are plastic and should definitely not remain in your collar whilst you iron your shirt. Once you have completed ironing, place them back in their allocated collar slots.
+ \*Again, 9tailors shirts have removable collar stays. These are plastic and should definitely not remain in your collar whilst you iron your shirt. Once you have completed ironing, place them back in their allocated collar slots.
 
 [![](http://1.bp.blogspot.com/-wEQtGdHVjKI/T2S_UF_kPOI/AAAAAAAAACw/oTdqEwEWK30/s320/hpm_0000_0006_0_img0033.jpg)](http://1.bp.blogspot.com/-wEQtGdHVjKI/T2S_UF_kPOI/AAAAAAAAACw/oTdqEwEWK30/s1600/hpm_0000_0006_0_img0033.jpg)
 
@@ -47,17 +47,17 @@ Credit: www.madehow.com
 
 **SPOT CLEANING STAINS**
 
-Stains happen, humans are not foolproof. You should blot a stain as soon as possible to preserve the quality of your shirt. NEVER RUB. When you rub, you run the risk of ruining the fabric.
+Stains happen, humans are not foolproof. You should blot a stain as soon as possible to preserve the quality of your shirt. NEVER RUB. When you rub, you run the risk of ruining the fabric.
 
-**1.** Oil-based stains are best treated by dry-side cleaning agents such as Ajax powder.
+**1.** Oil-based stains are best treated by dry-side cleaning agents such as Ajax powder.
 
-**2.** Water-based stains, like beer or soda, require wet-side attention, like water or Woolite.
+**2.** Water-based stains, like beer or soda, require wet-side attention, like water or Woolite.
 
-**3.** Some stains, like lipstick, have a waxy component and a colored dye component and need both wet-side and dry-side treatment.
+**3.** Some stains, like lipstick, have a waxy component and a colored dye component and need both wet-side and dry-side treatment.
 
 _Some horrible stains will need professional attention, so best seek out your dry cleaner if it's a biggie and water-based or powder-based stain removers aren't doing the trick._
 
-When you're out and about, there's a few things that can help remedy a blemish in a jiffy. I've listed my go-tos below:
+When you're out and about, there's a few things that can help remedy a blemish in a jiffy. I've listed my go-tos below:
 
 **1\. Tide Stick**. (love it!!!)
 

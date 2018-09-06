@@ -34,10 +34,10 @@ restrictions apply
 \*Must be redeemed in the same appointment
 \*Applies for Super 150 suiting and above only
 
-\*cannot be redeemed for cash or cash equivalent 
+\*cannot be redeemed for cash or cash equivalent 
 
 \*expires 4/30/2014
 
 Book an appointment with a style consultant at {{ site.emails.info }}!
 
-Photograph by [Channing Johnson](http://www.channingjohnson.com/)
+Photograph by [Channing Johnson](http://www.channingjohnson.com/)

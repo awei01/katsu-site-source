@@ -28,6 +28,6 @@ Here are some images:
 
 Details of the shoot:
 
-Location: [Montage](http://www.montageweb.com/index.html)Photographer: [Keven Suttle](http://kevensuttlephotography.com/)
+Location: [Montage](http://www.montageweb.com/index.html) Photographer: [Keven Suttle](http://kevensuttlephotography.com/)
 Stylist: Lauren Kacyvenski
 Organizer: Enrique Florendo & Carmelo Zammitto

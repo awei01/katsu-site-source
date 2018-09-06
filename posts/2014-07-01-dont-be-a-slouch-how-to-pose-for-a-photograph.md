@@ -25,13 +25,13 @@ Here's what not to do:
 
 ...are you entering a small doorway?
 
- [](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fmedia-cache-ec0.pinimg.com%2F736x%2F17%2Fc5%2Fc1%2F17c5c139875fe6bdd7665eebee0ac010.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)                                                       ![Z Zenga $1,295 brown mens suit. As seen in GQ, worn by Dave Franco](http://media-cache-ec0.pinimg.com/736x/62/58/da/6258da40d67767936ea4a2247cdc9746.jpg)
+ [](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2Fmedia-cache-ec0.pinimg.com%2F736x%2F17%2Fc5%2Fc1%2F17c5c139875fe6bdd7665eebee0ac010.jpg&container=blogger&gadget=a&rewriteMime=image%2F*) ![Z Zenga $1,295 brown mens suit. As seen in GQ, worn by Dave Franco](http://media-cache-ec0.pinimg.com/736x/62/58/da/6258da40d67767936ea4a2247cdc9746.jpg)
 
 "The I-don't-know-what-to-do-so-I'll-act-like-I'm-doing-something"
 
 ......C'mon Cristiano. No one eats grapes like that.
 
-                  ![](http://img.thesun.co.uk/aidemitlum/archive/00960/SNN0625B_280_960307a.jpg)
+ ![](http://img.thesun.co.uk/aidemitlum/archive/00960/SNN0625B_280_960307a.jpg)
 
 "The-Zoolander-Face"
 
@@ -39,21 +39,21 @@ Here's what not to do:
 
 [![](http://www.sfgate.com/blogs/images/sfgate/parenting/2006/08/01/zoolander_blog240x303.jpg)](http://www.sfgate.com/blogs/images/sfgate/parenting/2006/08/01/zoolander_blog240x303.jpg)
 
-Don't fret, guys. We know some of you are guilty of doing a few or all of the above-mentioned poses. But now, it's time to the _right_ way to pose in photos.
+Don't fret, guys. We know some of you are guilty of doing a few or all of the above-mentioned poses. But now, it's time to the _right_ way to pose in photos.
 
 **Tip #1: Breathe.** Taking a deep breath and letting it out relaxes the muscles in your face and body. As you exhale, have your friend snap the photo.
 
 [![](http://3.bp.blogspot.com/-MOJYvgWqeK8/U63vlXQ3vcI/AAAAAAAAYak/baEYOJTSb8Y/s1600/tip1.jpg)](http://3.bp.blogspot.com/-MOJYvgWqeK8/U63vlXQ3vcI/AAAAAAAAYak/baEYOJTSb8Y/s1600/tip1.jpg)
 
-**Tip #2: Create some angles.** Stand with your feet slightly apart (one forward and the other back is the best). Then, angle your body to the camera. Face can be slightly tilted. Or, if you're a pro, walk towards or across the view of the camera. As an added benefit of creating angles? You'll look slimmer. 
+**Tip #2: Create some angles.** Stand with your feet slightly apart (one forward and the other back is the best). Then, angle your body to the camera. Face can be slightly tilted. Or, if you're a pro, walk towards or across the view of the camera. As an added benefit of creating angles? You'll look slimmer. 
 
 [![](http://3.bp.blogspot.com/-AFnzymnF8Qk/U63wH2eOY3I/AAAAAAAAYas/c9Y66j4t3Rk/s1600/tip2.jpg)](http://3.bp.blogspot.com/-AFnzymnF8Qk/U63wH2eOY3I/AAAAAAAAYas/c9Y66j4t3Rk/s1600/tip2.jpg)
 
-**Tip #3: Keep yourself occupied.** Photos do more than capture your mug, they capture a moment in time. While your getting your photo taken, have a lighthearted conversation with your photographer. A laugh or a smile will seem more genuine on camera when you actually mean it! Not a conversationalist? Do something with your hands. Button your top jacket. Put one hand in your pocket. If you put both hands in your pocket, stand at an angle.
+ **Tip #3: Keep yourself occupied.** Photos do more than capture your mug, they capture a moment in time. While your getting your photo taken, have a lighthearted conversation with your photographer. A laugh or a smile will seem more genuine on camera when you actually mean it! Not a conversationalist? Do something with your hands. Button your top jacket. Put one hand in your pocket. If you put both hands in your pocket, stand at an angle.
 
 [![](http://1.bp.blogspot.com/-HNS2aMq87V0/U630uZtILxI/AAAAAAAAYbA/HLyfcrEyC34/s1600/tip3.jpg)](http://1.bp.blogspot.com/-HNS2aMq87V0/U630uZtILxI/AAAAAAAAYbA/HLyfcrEyC34/s1600/tip3.jpg)
 
-**Tip #4: Know your best look.** For some it's a smoldering stare, for others is an ear-to-ear smile. Know how you look best and work it. Even if it takes a tiny bit of narcissism.
+**Tip #4: Know your best look.** For some it's a smoldering stare, for others is an ear-to-ear smile. Know how you look best and work it. Even if it takes a tiny bit of narcissism. 
 
 [![](http://1.bp.blogspot.com/-p_gNh-wy8_o/U7G6jX2FoYI/AAAAAAAAAiY/sJrjzRbx9yc/s1600/tipstwinimage.jpg)](http://1.bp.blogspot.com/-p_gNh-wy8_o/U7G6jX2FoYI/AAAAAAAAAiY/sJrjzRbx9yc/s1600/tipstwinimage.jpg)
 

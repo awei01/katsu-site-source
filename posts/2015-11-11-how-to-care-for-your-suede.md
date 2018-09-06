@@ -26,11 +26,11 @@ It's extremely important to waterproof your suede (shoes especially) during the 
 
 [![sprayset]({{ site.baseUrl }}/uploads/sprayset.jpg)]({{ site.baseUrl }}/uploads/sprayset.jpg)
 
-	1.[UGG Australia Water & Stain Repellent for Sheepskin & Suede](http://shop.nordstrom.com/s/ugg-australia-water-stain-repellent-for-sheepskin-suede/2895645?cm_mmc=Google_Product_Ads_pla_online-_-datafeed-_-unisex%3Ashoe_care%3Apolish-_-37180&amp%3Bcountry=US&amp%3Bcurrency=USD&mr%3AreferralID=738191de-88b0-11e5-a824-0050569406b5&gclid=CMW4zIGXickCFcUlgQodMNoDkw)
-	2.[Collonil Waterstop Classic](http://www.collonil.com/en/waterstop-classic-2189.html)
-	3.[Allen Edmonds Spray Waterproofer for Suede, Nubuck, and Fabric Shoes](http://www.allenedmonds.com/gifts/gifts-by-price/gifts-under-50/spray-waterproofer-for-suede-nubuck-and-fabric-shoes/SF644.html)
+	1. [UGG Australia Water & Stain Repellent for Sheepskin & Suede](http://shop.nordstrom.com/s/ugg-australia-water-stain-repellent-for-sheepskin-suede/2895645?cm_mmc=Google_Product_Ads_pla_online-_-datafeed-_-unisex%3Ashoe_care%3Apolish-_-37180&amp%3Bcountry=US&amp%3Bcurrency=USD&mr%3AreferralID=738191de-88b0-11e5-a824-0050569406b5&gclid=CMW4zIGXickCFcUlgQodMNoDkw)
+	2. [Collonil Waterstop Classic](http://www.collonil.com/en/waterstop-classic-2189.html)
+	3. [Allen Edmonds Spray Waterproofer for Suede, Nubuck, and Fabric Shoes](http://www.allenedmonds.com/gifts/gifts-by-price/gifts-under-50/spray-waterproofer-for-suede-nubuck-and-fabric-shoes/SF644.html)
 
-** **If You Ever Get Soaked****
+ ****If You Ever Get Soaked****
 
 If your suede jacket or shoes get soaked in a surprise rainstorm, allow them to dry completely before doing anything. Do not use heat to make them dry faster because it will destroy the suede's soft finish. While they are drying, be sure to keep shoe forms or some newspaper in your shoes so they don't lose their shape
 

@@ -36,14 +36,14 @@ You don't want the polish to add color to your shoes, try to match it closely. G
 [![](http://2.bp.blogspot.com/-gJ9ihtUvxf8/UysZoz50K-I/AAAAAAAABjs/tQUpo9r09Tc/s1600/allenedmonds_shoe-care_horsehair-shine-brush_l.jpg)](http://2.bp.blogspot.com/-gJ9ihtUvxf8/UysZoz50K-I/AAAAAAAABjs/tQUpo9r09Tc/s1600/allenedmonds_shoe-care_horsehair-shine-brush_l.jpg)
 
 Allen Edmonds Horesehair Brush, $10.00
-source: [Allen Edmonds](http://www.allenedmonds.com/aeonline/producti_SF587_1_40000000001_-1)
+source: [Allen Edmonds](http://www.allenedmonds.com/aeonline/producti_SF587_1_40000000001_-1)
 
 **Horsehair Brush**
 
 [![](http://3.bp.blogspot.com/-vWpnV6J7QsY/Uysc8f3xmWI/AAAAAAAABj4/aFZXxpFHHCg/s1600/allenedmonds_shoe-care_horsehair-dauber_l.jpg)](http://3.bp.blogspot.com/-vWpnV6J7QsY/Uysc8f3xmWI/AAAAAAAABj4/aFZXxpFHHCg/s1600/allenedmonds_shoe-care_horsehair-dauber_l.jpg)
 
 Allen Edmonds Horsehair Dauber (Polish Applicator), $5.00
-source: [Allen Edmonds](http://www.allenedmonds.com/aeonline/producti_SF589_1_40000000001_-1_)
+source: [Allen Edmonds](http://www.allenedmonds.com/aeonline/producti_SF589_1_40000000001_-1_)
 
 **Polish Dauber (Polish Applicator)**
 
@@ -51,7 +51,7 @@ source: [Allen Edmonds](http://www.allenedmonds.com/aeonline/producti_SF589_1_4
 
 Saphir Cotton Polishing Cloth, $11.00
 source: Pinterest
-purchase: [Amazon](http://www.amazon.com/Saphir-Polishing-Cloth-Chamois-Cotton/dp/B00FMWAKHO)
+purchase: [Amazon](http://www.amazon.com/Saphir-Polishing-Cloth-Chamois-Cotton/dp/B00FMWAKHO)
 
 ****Cotton Polishing Cloth****
 
@@ -74,15 +74,15 @@ source: thegomoveproject.files.wordpress
 
 The first thing you will want to do is clean your shoe. Use the welt brush to get rid of any dirt or grime built up in the welt (space where the shoe meets the sole). Use a damp cloth or the horsehair brush to get any excess dirt off the upper shoe. Your shoe must be dry before you polish it.
 
-**Step Two: **
+**Step Two:** 
 
 Apply a generous amount of shoe polish with the dauber (applicator). Try to make it even all over the shoe and do not forget the seams and edges. Depending on how generous you are, you may need to wait 15 minutes for the polish to dry.
 
-**Step Three: **
+**Step Three:** 
 
 Use the horsehair brush to get rid of any excess polish and create a smooth thin layer onto your shoe. Be sure to brush robustly and all over the shoe. Again, pay attention to the edges and seams.
 
-**Step Four: **
+**Step Four:** 
 
 Wet a cotton ball and squeeze out any excess water. Dab the damp cotton ball into the shoe polish and use that to focus on extra shine for the toe of your shoe and the heel. Use circular motions. Repeat as needed to obtain desired level of shine. Use a new cotton ball each turn and remove excess polish before repeating.
 

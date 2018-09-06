@@ -18,9 +18,9 @@ featuredImage: /uploads/2014/11/55.jpg
 ---
 I always have trouble buying gifts for the guys in my life, from brothers to fathers to really, good guy friends. It can be very daunting! So, we've created a [9tailors](http://9tailors.com/) gift giving guide.
 
-**Want a gift for under $100? **
+**Want a gift for under $100?** 
 
-This is great for your brother, who's a college senior and needs a better fitting shirt for job interviews and recruiting events. It's time to steer him away from "vintage" [graphic tees](http://www.buyabercrombiefitch.org/bmz_cache/7/2011-new-abercrombie-and-fitch-men-graphic-tees-595.image.130x130.jpg) and help him get one step closer to landing that first job. Not only that, many of our fabrics under $100 are wrinkle resistant. Just another fantastic reason, this shirt would be perfect for your easy-going, younger brother.
+This is great for your brother, who's a college senior and needs a better fitting shirt for job interviews and recruiting events. It's time to steer him away from "vintage" [graphic tees](http://www.buyabercrombiefitch.org/bmz_cache/7/2011-new-abercrombie-and-fitch-men-graphic-tees-595.image.130x130.jpg) and help him get one step closer to landing that first job. Not only that, many of our fabrics under $100 are wrinkle resistant. Just another fantastic reason, this shirt would be perfect for your easy-going, younger brother.
 
 [![](http://4.bp.blogspot.com/-mifkm8XiIOw/Tt_h7ZTM7oI/AAAAAAAAKeU/TMDOAAJZNSQ/s400/seafoam_1.jpg)](http://4.bp.blogspot.com/-mifkm8XiIOw/Tt_h7ZTM7oI/AAAAAAAAKeU/TMDOAAJZNSQ/s1600/seafoam_1.jpg)
 
@@ -40,7 +40,7 @@ Winter white. White piqued fabric with a rounded, [spread collar](http://knol.go
 
 [![](http://1.bp.blogspot.com/-pi5-htu_dmw/TuDxo_ggwiI/AAAAAAAAKek/LSAh0obWuwk/s400/shirtofweek_2b.jpg)](http://1.bp.blogspot.com/-pi5-htu_dmw/TuDxo_ggwiI/AAAAAAAAKek/LSAh0obWuwk/s1600/shirtofweek_2b.jpg)
 
-A fantastic duo: pink and navy. Pink [chambra](http://en.wikipedia.org/wiki/Cambric)y, contrast navy gingham and matching buttons for  $155.
+A fantastic duo: pink and navy. Pink [chambra](http://en.wikipedia.org/wiki/Cambric)y, contrast navy gingham and matching buttons for $155.
 
 [![](http://3.bp.blogspot.com/-sCCj-Q-3fGA/TuD1OTryslI/AAAAAAAAKew/9d7KD0AJGuI/s400/gingham1.jpg)](http://3.bp.blogspot.com/-sCCj-Q-3fGA/TuD1OTryslI/AAAAAAAAKew/9d7KD0AJGuI/s1600/gingham1.jpg)
 

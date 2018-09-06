@@ -22,7 +22,7 @@ As style consultants, we are always asked about color choice for suits. This is 
 
 ### GRAY
 
-From the Pee Wee Herman light gray to the darker charcoal grays, if you don't own a gray suit yet and you're a frequent suit-wearing fella, you need to get yourself one pronto! Gray is the most versatile color for a suit as it pairs with nearly every color on the spectrum.  You can wear both blacks and browns (shoes, belts) with gray and it's also acceptable in both formal and casual settings.
+From the Pee Wee Herman light gray to the darker charcoal grays, if you don't own a gray suit yet and you're a frequent suit-wearing fella, you need to get yourself one pronto! Gray is the most versatile color for a suit as it pairs with nearly every color on the spectrum. You can wear both blacks and browns (shoes, belts) with gray and it's also acceptable in both formal and casual settings.
 
 [![](http://4.bp.blogspot.com/-oAK70jRLxPo/T6VLIa4WyFI/AAAAAAAAAO4/pV45kbApRis/s320/Shades.jpg)](http://4.bp.blogspot.com/-oAK70jRLxPo/T6VLIa4WyFI/AAAAAAAAAO4/pV45kbApRis/s1600/Shades.jpg)
 With gray, you have warmer tones and cooler tones. The warmer tones have a bit of a taupe-ish hue to them, whereas the cooler tones exude a blue-ish tint. It's really up to you which way to go here, but it's very helpful to compare the two against each other to help you narrow down your decision.

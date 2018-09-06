@@ -16,7 +16,7 @@ tags:
   - silk knot cufflinks
 featuredImage: /uploads/2014/10/14.jpg
 ---
-Change things up with a dash of color.  Charcoal and navy suits have become wardrobe staples, and for good reason.  But, it can be refreshing to see some color that isn't mistaken for black in low lighting.  Grab a pair of silk knotted cufflinks the next time you stop by to pick up your custom tailored shirts and that new navy suit.  It's the easiest way to add a punch of color and texture without making people think your took your color inspiration from Carmen Miranda.
+Change things up with a dash of color. Charcoal and navy suits have become wardrobe staples, and for good reason. But, it can be refreshing to see some color that isn't mistaken for black in low lighting. Grab a pair of silk knotted cufflinks the next time you stop by to pick up your custom tailored shirts and that new navy suit. It's the easiest way to add a punch of color and texture without making people think your took your color inspiration from Carmen Miranda.
 
 [![](http://2.bp.blogspot.com/-eoy8pOWjH1g/TzrczTqwzVI/AAAAAAAABJ8/1kMlv99Lag0/s400/P1030563.JPG)](http://2.bp.blogspot.com/-eoy8pOWjH1g/TzrczTqwzVI/AAAAAAAABJ8/1kMlv99Lag0/s1600/P1030563.JPG)
 

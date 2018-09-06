@@ -15,6 +15,7 @@ tags:
 featuredImage: /uploads/2014/10/3-peak.jpg
 ---
 
+
 _Fashion Fades, Style is Eternal - Yves Saint Laurent_
 
 The pocket square has steadily made appearances as it pleases, always leaving its wearer with unmatched sophistication. If your breast pocket is empty, your suit is naked.
@@ -25,7 +26,7 @@ In Ancient Greece and Rome, wealthy citizens displayed their prominence by carry
 
 The modern-day pocket square is unscented and used to wipe the sweat from a man's brow on warm days and catch sniffles during the cold seasons. True gentlemen would carry a square in his chest for style and a square in his pocket for use. However, once Kleenex was invented, the pocket square fell out of favor.
 
- Popular culture's influence has made the pocket square in fashionable once again. In 2007, AMC premiered [Mad Men](http://www.amctv.com/shows/mad-men), and reinvigorated the notion of the dapper gent.
+ Popular culture's influence has made the pocket square in fashionable once again. In 2007, AMC premiered [Mad Men](http://www.amctv.com/shows/mad-men), and reinvigorated the notion of the dapper gent.
 
 [![](http://images.amcnetworks.com/amctv.com/wp-content/uploads/2013/03/MMS6-Bert-590x375.jpg)](http://images.amcnetworks.com/amctv.com/wp-content/uploads/2013/03/MMS6-Bert-590x375.jpg)
 
@@ -39,15 +40,15 @@ Roger Sterling is donning a 3 Point Fold.
 
 source: AMCTV Mad Men
 
-Pink Pocket Squares for Breast Cancer Awareness Month! 
+Pink Pocket Squares for Breast Cancer Awareness Month! 
 
 Don't forget to join us for our [fundraising event](http://2013/10/bubbles-baubles-for-boobies.html) on Tuesday, October 29th @5:00 - 7:00 PM
 
 Featuring [Stella & Dot](http://www.stelladot.com/shop/en_us/featured-shops/breast-cancer-awareness-noreen-fraser-foundation) Jewelry and [VienneMilano](https://www.viennemilano.com/pages.php?pageid=28) Hosiery
 
-\*Event Special - Buy 3 Shirts, Get 1 FREE restrictions apply
+ \*Event Special - Buy 3 Shirts, Get 1 FREE restrictions apply
 
-\*A portions of the proceeds will be donated to [The Noreen Fraser Foundation](http://www.noreenfraserfoundation.org/) and [The Susan G. Komen Foundation](http://ww5.komen.org/)
+\*A portions of the proceeds will be donated to [The Noreen Fraser Foundation](http://www.noreenfraserfoundation.org/) and [The Susan G. Komen Foundation](http://ww5.komen.org/)
 
 **1 Peak Fold**
 

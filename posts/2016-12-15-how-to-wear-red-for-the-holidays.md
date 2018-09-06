@@ -16,15 +16,15 @@ tags:
   - menswear how to
 featuredImage: /uploads/2016/12/how-to-wear-red-for-the-holidays-1-e1481823492819.jpg
 ---
-When the holidays come around there are droves of red clothing items that hit the rack in stores everywhere. Red is one of those colors that can be a bit overwhelming if you are unsure of how to wear it.We've compiled a list of our favorite ways to incorporate red into your wardrobe.
+When the holidays come around there are droves of red clothing items that hit the rack in stores everywhere. Red is one of those colors that can be a bit overwhelming if you are unsure of how to wear it.We've compiled a list of our favorite ways to incorporate red into your wardrobe.
 
 #### **Red Sweater**
 
-A super easy go to especially during this time of year. Fair isle sweaters are everywhere! Everyone loves a good fair isle sweater. Who doesn't love snowflakes and polka dots? Great for the weekend paired with jeans or casual Friday at the office with chinos.
+A super easy go to especially during this time of year. Fair isle sweaters are everywhere! Everyone loves a good fair isle sweater. Who doesn't love snowflakes and polka dots? Great for the weekend paired with jeans or casual Friday at the office with chinos.
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/5d/03/1b/5d031bb31f197a7f24dba075474e9c8c.jpg)
 
-If you want to keep it subtle we'd suggest a maroon sweater and tie. The great thing about this time of year are the tones of red that emerge. You don't always have to reach for the brightest red item you can find. Maroon and gray is a color combination that will always work for the winter.
+If you want to keep it subtle we'd suggest a maroon sweater and tie. The great thing about this time of year are the tones of red that emerge. You don't always have to reach for the brightest red item you can find. Maroon and gray is a color combination that will always work for the winter.
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/dd/c9/d5/ddc9d58d685f31e5e24ccf1778b5e488.jpg)
 
@@ -56,4 +56,4 @@ Socks and shoelaces are two fun ways to incorporate red into your holiday wardro
 
 ###### What is your favorite way to add red into your wardrobe for the holidays?
 
-_Tag us in your photos on Instagram @9tailors._
+_Tag us in your photos on Instagram @9tailors._

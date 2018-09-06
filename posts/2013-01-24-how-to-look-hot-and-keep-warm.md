@@ -31,7 +31,7 @@ Courtesy of StyleBistro.com
 
 [![](http://3.bp.blogspot.com/-Kw6Vve3Xb1M/UQGn76RFnGI/AAAAAAAAB3A/gXVa0RH7oH4/s400/beard-tie-jacket-sweater-cardigan-men-style-e1356521724313.jpeg)](http://3.bp.blogspot.com/-Kw6Vve3Xb1M/UQGn76RFnGI/AAAAAAAAB3A/gXVa0RH7oH4/s1600/beard-tie-jacket-sweater-cardigan-men-style-e1356521724313.jpeg)
 
-Courtesy of  trashness.com
+Courtesy of trashness.com
 
 INVEST IN A SCARF. I know, some of you think scarves are lame or unnecessary. And if you aren't from New England or have never experienced a winter in MA, you may not understand the benefits of scarves. They work well at keeping your neck and ears warm, say, if you don't want to mess with your 'do, yo. Hats will ruin a nice hair cut, so why not wrap a scarf around yourself and protect your ears from the harsh winds? Or, get some ear muffs. If you are into scarves, we applaud you for being stylish and smart. Looks hot and keeps you warm.
 

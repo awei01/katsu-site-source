@@ -26,11 +26,11 @@ As an added bonus, we're bringing back our famous **Buy 3 Get 1 Free Package**. 
 
 Details:
 
-	*3 shirts that are at least $90.00 each
-	*1 **_free_** shirt equal to or less than $90.00
-	*OR, 1 gift card (if you are giving this to a friend or family member) and free shipping on the gift card
-	*Free design advice and fit consultation
+	* 3 shirts that are at least $90.00 each
+	* 1 **_free_** shirt equal to or less than $90.00
+	* OR, 1 gift card (if you are giving this to a friend or family member) and free shipping on the gift card
+	* Free design advice and fit consultation
 
 To RSVP or to purchase, click [here](mailto:{{ site.emails.info }}).
 
-Here are the rules and restrictions.The Buy 3 Get 1 Free Package includes 4 shirts and free design and fit consultation. The first three shirts must be at least $90.00; the fourth shirt must be equal to or less than $90.00. This package does not include shipping and a la carte design features, such as, monogramming, special buttons, contrast/accent fabrics, or other custom design options, etc. The Buy 3 Get 1 Free Package must be purchased and redeemed in person at the 9tailors Studio or through a 9tailors Customer Service Representative ONLY. In order to qualify for this promotion, full payment must be made at the time of purchase. The Buy 3 Get 1 Free Package must be purchased before June 21, 2010 at 11:59 PM EDT. Shirts may be redeemed separately or together. Gift cards cannot be redeemed for cash. Gift cards may not be returned or refunded. The Buy 3 Get 1 Free Package and shirts may not be combined with any other discounts or promotions. 9tailors's standard return policy and other rules and restrictions may apply.
+Here are the rules and restrictions. The Buy 3 Get 1 Free Package includes 4 shirts and free design and fit consultation. The first three shirts must be at least $90.00; the fourth shirt must be equal to or less than $90.00. This package does not include shipping and a la carte design features, such as, monogramming, special buttons, contrast/accent fabrics, or other custom design options, etc. The Buy 3 Get 1 Free Package must be purchased and redeemed in person at the 9tailors Studio or through a 9tailors Customer Service Representative ONLY. In order to qualify for this promotion, full payment must be made at the time of purchase. The Buy 3 Get 1 Free Package must be purchased before June 21, 2010 at 11:59 PM EDT. Shirts may be redeemed separately or together. Gift cards cannot be redeemed for cash. Gift cards may not be returned or refunded. The Buy 3 Get 1 Free Package and shirts may not be combined with any other discounts or promotions. 9tailors's standard return policy and other rules and restrictions may apply.

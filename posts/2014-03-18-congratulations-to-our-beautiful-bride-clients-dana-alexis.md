@@ -24,17 +24,17 @@ Meet our Beautiful Brides, Dana Lyford & Alexis Schuette
 
 Dana Lyford in her custom wedding vest and custom pants.
 
-**Name:** Dana Lyford
+**Name:** Dana Lyford
 
-**Age:** 27
+**Age:** 27
 
-**Wedding Date:** October 5, 2013
+**Wedding Date:** October 5, 2013
 
-**Current Residence:** Newton, MA
+**Current Residence:** Newton, MA
 
-**Occupation:** Non-Profit Operations
+**Occupation:** Non-Profit Operations
 
-**How Long Have You Been a 9tailors Client?** 8 Months
+**How Long Have You Been a 9tailors Client?** 8 Months
 
 **Why Choose Custom?**
 

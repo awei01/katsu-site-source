@@ -47,9 +47,9 @@ Styling the ultimate fall accessory might seem unnecessary, but how you wear it 
 
 #### **Sunglasses**
 
-This year round essential is just that. Essential.  The key to getting that cool mysterious look is getting frames that fit your face shape. Most face shapes, however, can get away with a classic aviator.  Also, again, it's better to invest in one or two classic styles (and take care of them) than to have a lot of trendy ones that might only last a month.
+This year round essential is just that. Essential. The key to getting that cool mysterious look is getting frames that fit your face shape. Most face shapes, however, can get away with a classic aviator. Also, again, it's better to invest in one or two classic styles (and take care of them) than to have a lot of trendy ones that might only last a month.
 
-**** [![aviators]({{ site.baseUrl }}/uploads/aviators.jpg)]({{ site.baseUrl }}/uploads/aviators.jpg)****
+ ****[![aviators]({{ site.baseUrl }}/uploads/aviators.jpg)]({{ site.baseUrl }}/uploads/aviators.jpg)**** 
 
 #### **A Handy Handkerchief**
 

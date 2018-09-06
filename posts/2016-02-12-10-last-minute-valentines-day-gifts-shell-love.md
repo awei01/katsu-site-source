@@ -12,7 +12,7 @@ tags:
   - valentines day
 featuredImage: /uploads/2016/02/vday.jpg
 ---
-Love is definitely in the air this time of year. With only a few more hours left to shop for your special lady our style consultants Eboni and Ivana have picked a few items they've had their eyes on. From eye catching sunglasses to zodiac necklaces there is something here for every lady.
+Love is definitely in the air this time of year. With only a few more hours left to shop for your special lady our style consultants Eboni and Ivana have picked a few items they've had their eyes on. From eye catching sunglasses to zodiac necklaces there is something here for every lady.
 
 ![](https://ci3.googleusercontent.com/proxy/B-dRsNm42sBTAejJdcF8Un48_iUtn9kdrV2RekibB4PIXAGPJ4JWBNdXB9KRiWfo_T7CxuurFjz5al-GxrWSrNbcOmyHZuYBnIr_nJ6u3tyTRmS0GlRnAOsJlc8lXLYcuZ2GLqxEsB4LbZD3Rfhw=s0-d-e1-ft#http://ak2.polyvoreimg.com/cgi/img-set/cid/190605244/id/4uenscjR5RG5tdCOtfvecw/size/y.jpg)
 

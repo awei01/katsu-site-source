@@ -48,7 +48,7 @@ More on the conservative side? Tip #4: A bright navy suit will give you that war
 
 [http://tinyurl.com/jwygyfe](http://tinyurl.com/jwygyfe)
 
-Tip #5: If a full suit of blue is too much for you, try some fun accessories with a pop of color
+ Tip #5: If a full suit of blue is too much for you, try some fun accessories with a pop of color
 
 [![](http://1.bp.blogspot.com/-4liadhe63a8/U2PvGvrpsoI/AAAAAAAAAcI/Fv9hslUhMtQ/s1600/accessories.JPG)](http://1.bp.blogspot.com/-4liadhe63a8/U2PvGvrpsoI/AAAAAAAAAcI/Fv9hslUhMtQ/s1600/accessories.JPG)
 

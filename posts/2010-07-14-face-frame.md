@@ -17,7 +17,7 @@ Ever wonder what "spread" or "tie space" meant? Ok, well here is a plain and sim
 
 Check back tomorrow for a guide to picking the right collar for you. After all, it is a "frame for your face," as we like to say.
 
-[![](http://knol.google.com/k/-/-/27cl1pj4s2ovi/lvls02/labled-collar.jpg)](http://knol.google.com/k/-/-/27cl1pj4s2ovi/lvls02/labled-collar.jpg)
+[![](http://knol.google.com/k/-/-/27cl1pj4s2ovi/lvls02/labled-collar.jpg)](http://knol.google.com/k/-/-/27cl1pj4s2ovi/lvls02/labled-collar.jpg) 
 
 **1\. Collar Points** \- The tips of the collar.
 

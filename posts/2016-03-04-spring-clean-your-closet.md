@@ -43,7 +43,7 @@ Go-to dress shirts, like classic whites and blues (pinks and lavenders fit into 
 
 [![20151112-9tailors-1130]({{ site.baseUrl }}/uploads/20151112-9tailors-1130-300x200.jpg)]({{ site.baseUrl }}/uploads/2016/03/20151112-9tailors-1130.jpg)
 
- A classic peacoat. There will always be cold days, and peacoats will always be in style.
+ A classic peacoat. There will always be cold days, and peacoats will always be in style.
 
 [![peacoat]({{ site.baseUrl }}/uploads/peacoat-199x300.jpg)]({{ site.baseUrl }}/uploads/peacoat.jpg)
 

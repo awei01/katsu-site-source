@@ -27,4 +27,4 @@ For the corporate gentleman, our three piece navy pinstripe suit
 
 We can't wait to see the rest of the photos! We're sure that you'll be pleased as well.
 
-Looking for a custom made and designed suit? E-mail us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) or request an appointment [here](https://spreadsheets.google.com/viewform?key=0Arw_UaSrhyAecEZBaHJUN2dWbXJDSmw5UHVIUWlUVkE&hl=en&pli=1#gid=0).
+Looking for a custom made and designed suit? E-mail us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) or request an appointment [here](https://spreadsheets.google.com/viewform?key=0Arw_UaSrhyAecEZBaHJUN2dWbXJDSmw5UHVIUWlUVkE&hl=en&pli=1#gid=0).

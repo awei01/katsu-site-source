@@ -28,11 +28,11 @@ Let us know if you feel like making a bold statement with your next suit at {{ s
 
 I would wear this suit:
 
-	*As often as possible, I love standing out!
-	*Only on special occasions, it's too bold for everyday use.
-	*Once a year, just to make a statement.
-	*Only for Halloween.
-	*Never! I only wear black and navy suits.
+	* As often as possible, I love standing out!
+	* Only on special occasions, it's too bold for everyday use.
+	* Once a year, just to make a statement.
+	* Only for Halloween.
+	* Never! I only wear black and navy suits.
 
 **[**view results**](http://www.addpoll.com/results?62622)**
 [Free vote poll](http://www.addpoll.com/)

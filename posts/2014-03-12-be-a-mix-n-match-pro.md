@@ -19,7 +19,7 @@ How _do_ you match your shirt with the right tie?
 
 We hear this concern over and over again in the [9tailors](http://www.9tailors.com/) studio. One client sighed wearily, "I can't buy any more checked shirts because I don't know what ties to match with it." Another felt defeated, claiming, "When in doubt, I just go with a solid white."
 
-What makes matching ties and shirts together a cause for anxiety for some is that it's seemingly more an art, rather than a science. However, we're here to show you a few guidelines to help you mix-n-match like a pro. (Psst...we had our graphic design whiz, [Karly](http://2014/02/mystery-married-style-consultant.html), put together this little cheat-sheet for you.) 
+What makes matching ties and shirts together a cause for anxiety for some is that it's seemingly more an art, rather than a science. However, we're here to show you a few guidelines to help you mix-n-match like a pro. (Psst...we had our graphic design whiz, [Karly](http://2014/02/mystery-married-style-consultant.html), put together this little cheat-sheet for you.) 
 
 [![](http://2.bp.blogspot.com/-nGKrn-3hFA4/Ux9jEWoAVBI/AAAAAAAAUSM/j0wnv2D_S80/s1600/bowtie-matching-correct2.jpg)](http://2.bp.blogspot.com/-nGKrn-3hFA4/Ux9jEWoAVBI/AAAAAAAAUSM/j0wnv2D_S80/s1600/bowtie-matching-correct2.jpg)
 

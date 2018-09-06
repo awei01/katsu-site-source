@@ -16,9 +16,9 @@ tags:
   - winter weather tips
 featuredImage: /uploads/2014/12/snow.jpg
 ---
-If you're from around here, you know winters can be rough. With the snow, rain, salt, sand and varying temperatures, an expensive pair of shoes can get ruined fast. Here are some do's and don'ts on making your shoes weather resistant.
+If you're from around here, you know winters can be rough. With the snow, rain, salt, sand and varying temperatures, an expensive pair of shoes can get ruined fast. Here are some do's and don'ts on making your shoes weather resistant.
 
-**Wax-based polish **
+**Wax-based polish** 
 
 \[caption id="attachment\_2375" align="alignnone" width="400"\][![Kiwi-Shoe-Polish-300x200]({{ site.baseUrl }}/uploads/2014/12/Kiwi-Shoe-Polish-300x200.jpg)]({{ site.baseUrl }}/uploads/2014/12/Kiwi-Shoe-Polish-300x200.jpg) kiwicare.com\[/caption\]
 

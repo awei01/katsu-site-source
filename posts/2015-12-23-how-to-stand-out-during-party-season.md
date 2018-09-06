@@ -20,7 +20,7 @@ Dress codes tend to mean that everyone in the room will be dressed exactly the s
 
 ![](https://ci3.googleusercontent.com/proxy/14-4kOSxmqIyINKbFBzPAqfNxIM-xQuwUQNFA_a_iPx7kokD0r0VQg2y1P272l6mGuesiMnK80auEZBykZqgJJkNmNgAX_WbsQMoyb_kXSYvEQoPfk11uoyekc1tiybpbzCjs8POmWXZXsOtDtGu=s0-d-e1-ft#http://ak1.polyvoreimg.com/cgi/img-set/cid/180858235/id/HkMGc4Cp5RGS_ouEzX_htA/size/y.jpg)
 
-The tuxedo is formal wear tradition. Tweak your outfit a bit by swapping out your tuxedo jacket for a velvet one. Everyone will be in traditional black tuxedo, which is fine but we aren't going for fine are we? Opt for a burgundy or plum velvet blazer with a slim shawl lapel, tapered black pants and velvet loafers. Now is the perfect time to allow your blazer to do all the talking. Keep the rest of your outfit sleek and traditional with a wing tip collared white shirt, cuff links and a satin bow tie. Not a bow tie kind of guy? A slim necktie will work as well.
+The tuxedo is formal wear tradition. Tweak your outfit a bit by swapping out your tuxedo jacket for a velvet one. Everyone will be in traditional black tuxedo, which is fine but we aren't going for fine are we? Opt for a burgundy or plum velvet blazer with a slim shawl lapel, tapered black pants and velvet loafers. Now is the perfect time to allow your blazer to do all the talking. Keep the rest of your outfit sleek and traditional with a wing tip collared white shirt, cuff links and a satin bow tie. Not a bow tie kind of guy? A slim necktie will work as well.
 
 \*9tailors tip: your necktie should not be wider than the width of your lapel. Slim lapel = slim tie.
 

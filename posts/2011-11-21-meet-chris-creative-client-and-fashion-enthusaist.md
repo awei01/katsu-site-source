@@ -61,7 +61,7 @@ Less is more. It's not about owning 25 dress shirts that sort of fit. It's about
 
 It's about taking it to that next level. Remain from getting bored with your style by throwing a pair of [bright blue dress shoe laces](http://www.benjos.com/) on your dark brown wingtips, for example.
 
-Details, details, details.It's what gets you noticed in all the right ways.On a recent flight to Vegas I was heavily complimented by the flight attendants on my pocket square and again by strangers at the roulette table.Something as simple as a $20 pocket square can make the difference between looking awesome and looking just okay.
+Details, details, details. It's what gets you noticed in all the right ways. On a recent flight to Vegas I was heavily complimented by the flight attendants on my pocket square and again by strangers at the roulette table. Something as simple as a $20 pocket square can make the difference between looking awesome and looking just okay.
 
 Color. Do not fear color. Black is for funerals and formal events. So many guys reach for blues, whites, and black because that's what's safe. I'm not saying that guys need to wear fuscia colored shirts, start off with muted pinks to ease yourself into new colors.
 
@@ -79,12 +79,12 @@ My new 3 piece tweed suit. Inspired by the [September 2011](http://www.gq.com/st
 
 The versatile options of a 3 piece tweed suit are plentiful. There are 7, I repeat, SEVEN ways to wear it:
 
-	1.Pantswith a sweater.
-	2.Pants with a shirt, tie, and vest only.
-	3.Jeans with a shirt and vest.
-	4.Pantswith a shirt, tie, and jacket.
-	5.Jacket with shirt and jeans.
-	6.Jeans, shirt, tie, vest, and jacket.
-	7.Pants, shirt, tie, vest, and jacket.
+	1. Pants with a sweater.
+	2. Pants with a shirt, tie, and vest only.
+	3. Jeans with a shirt and vest.
+	4. Pants with a shirt, tie, and jacket.
+	5. Jacket with shirt and jeans.
+	6. Jeans, shirt, tie, vest, and jacket.
+	7. Pants, shirt, tie, vest, and jacket.
 
 Need help building your perfect 3 piece tweed suit? Contact us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}).

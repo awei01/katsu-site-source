@@ -23,7 +23,7 @@ Their wide variety of designs makes them easy to wear casually or in the office.
 
 [![](http://3.bp.blogspot.com/-cc1Cnk6qexY/U8ArkvqbEaI/AAAAAAAACw0/cVsfjvT8VVE/s1600/jord_watch_production.jpg)](http://3.bp.blogspot.com/-cc1Cnk6qexY/U8ArkvqbEaI/AAAAAAAACw0/cVsfjvT8VVE/s1600/jord_watch_production.jpg)
 
-source: [instagram](http://instagram.com/), [@woodwatches\_co](http://instagram.com/woodwatches_com)m
+source: [instagram](http://instagram.com/), [@woodwatches\_co](http://instagram.com/woodwatches_com)m
 
 The company was started by 3 brothers and group of close childhood friends, based in St. Louis. The gentleman wanted to build something that not only would leave an impression on people but combine form and design. Today's technology makes everything overly accessible to the point where we are left with a feeling of nostalgia. Our generation (those of us in our mid to late 20s) grew up when technology was just beginning to grow. Touch screens and automatic vacuums were still considered science fiction.
 
@@ -39,7 +39,7 @@ The nostalgic hunger for simpler items like the typewriters has lead the masses 
 [Driftwood Dock by Docksmith](https://www.etsy.com/listing/195957769/driftwood-dock-for-a-combination-of?ref=related-2)
 source: [etsy](http://www.etsy.com/)
 
-Merging nature with contemporary design and function is a growing market that is difficult to achieve well. With the brother's father and grandfather as avid watch collectors, it was the perfect to be inspired by their passions and continue the family tradition; only they get to create their own collection. JORD watches are able to create a beautiful harmony between nostalgia, nature, function and contemporary design.
+Merging nature with contemporary design and function is a growing market that is difficult to achieve well. With the brother's father and grandfather as avid watch collectors, it was the perfect to be inspired by their passions and continue the family tradition; only they get to create their own collection. JORD watches are able to create a beautiful harmony between nostalgia, nature, function and contemporary design.
 
 [![](http://1.bp.blogspot.com/-V4tzdAKDC9A/U8ApTJ-ETpI/AAAAAAAACws/ljIbMqQ_M40/s1600/JORD_01.jpg)](http://1.bp.blogspot.com/-V4tzdAKDC9A/U8ApTJ-ETpI/AAAAAAAACws/ljIbMqQ_M40/s1600/JORD_01.jpg)
 

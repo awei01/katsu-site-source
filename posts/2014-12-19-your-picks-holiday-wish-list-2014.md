@@ -25,12 +25,12 @@ and smoking slippers ([Del Toro](http://www.deltoroshoes.com/))
 
 [![slips]({{ site.baseUrl }}/uploads/slips1-1024x949.jpg)]({{ site.baseUrl }}/uploads/slips1.jpg)
 
-Matthew Simko (follow him at [@SoTacky33](https://twitter.com/SoTacky33)) a New England blogger suggests [Randolph Eyewear sunglasses](http://www.randolphusa.com/product-categories/sunglasses/),
+Matthew Simko (follow him at [@SoTacky33](https://twitter.com/SoTacky33)) a New England blogger suggests [Randolph Eyewear sunglasses](http://www.randolphusa.com/product-categories/sunglasses/),
 
 [![glasses]({{ site.baseUrl }}/uploads/glasses.jpg)]({{ site.baseUrl }}/uploads/glasses.jpg)
 
-Seth Hardy (follow him at [@**ItsTheSeff**](https://twitter.com/ItsTheSeff)) of Bostinno suggests [Alden shell longwings](https://www.jcrew.com/mens_category/shoes/oxfords/PRDOVR~26508/26508.jsp),
+Seth Hardy (follow him at [@**ItsTheSeff**](https://twitter.com/ItsTheSeff)) of Bostinno suggests [Alden shell longwings](https://www.jcrew.com/mens_category/shoes/oxfords/PRDOVR~26508/26508.jsp),
 
 [![ALDEN]({{ site.baseUrl }}/uploads/ALDEN-300x262.jpg)]({{ site.baseUrl }}/uploads/ALDEN.jpg)
 
-If you're having trouble picking just the right gift, play it safe with a 9tailors [gift card](https://9tailors.punchey.com/giftcards). If you purchase a gift card between now and Monday, December 22nd, we will add an additional 15% onto the total of the gift card!
+If you're having trouble picking just the right gift, play it safe with a 9tailors [gift card](https://9tailors.punchey.com/giftcards). If you purchase a gift card between now and Monday, December 22nd, we will add an additional 15% onto the total of the gift card!

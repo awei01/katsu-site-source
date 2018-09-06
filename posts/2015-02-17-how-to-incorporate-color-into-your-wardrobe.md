@@ -18,6 +18,7 @@ tags:
 featuredImage: /uploads/2015/02/lining1.jpg
 ---
 
+
 When your work attire is more on the conservative side, navies, greys and whites can start to get boring. Here are a few tips on how to incorporate some color into a dull outfit:
 
 [![shirts-patterns]({{ site.baseUrl }}/uploads/shirts-patterns2.jpg)]({{ site.baseUrl }}/uploads/shirts-patterns2.jpg)

@@ -28,25 +28,25 @@ Opening the doors of 9Tailors today is like stepping into an old-school Seville 
 
 Prior to 9Tailors, the space was occupied by a local dental office; and after cleaning out a few leftover dental instruments, Sam and Austin found themselves with the biggest, but most exciting project of their lives. The determined duo had explored a number of listings in Boston, but this charming loft space had potential that spoke volumes—so in June of 2014, they grabbed the opportunity by the lapel, and put a ring on it.
 
-##### Vices and Visions 
+##### Vices and Visions
 
 Starting with a blank slate is always a challenge; but, as Sam and Austin put it, it also gives you the chance to bring a vision to life, exactly as you dreamt it. When asked about the inspiration behind the style and vibe of the studio, Sam says there was no single motivating influence behind the project: "We were primarily driven by our desire to create a space and environment that is warm and welcoming to our clients, while showcasing our passion for menswear and custom-suiting".
 
-One of the biggest challenges of designing the space, was finding a way to incorporate the loft's built-in quirks into Sam and Austin's classic, contemporary vision for the studio. But, as is true with the custom clothier experience, no final piece is complete without character—and this is exactly what these perfect imperfections proved to be: defining characteristics that 9Tailors wouldn't be itself without. 
+One of the biggest challenges of designing the space, was finding a way to incorporate the loft's built-in quirks into Sam and Austin's classic, contemporary vision for the studio. But, as is true with the custom clothier experience, no final piece is complete without character—and this is exactly what these perfect imperfections proved to be: defining characteristics that 9Tailors wouldn't be itself without.
 
 ![studio-pic-1-1]({{ site.baseUrl }}/uploads/2018/07/studio-pic-1-1-768x1024.jpg)
 
-_(pictured: overhead pipes and ventilation painted bright orange—a statement piece that never knew its potential)_ 
+_(pictured: overhead pipes and ventilation painted bright orange—a statement piece that never knew its potential)_
 
-##### DIY Detailing & Client Contributions 
+##### DIY Detailing & Client Contributions
 
-It's no surprise to any of us that much of the studio's details are custom-made by, and for 9Tailors. You'll find that several of the studio's well-loved, eye-catching statement pieces were handcrafted by Austin himself. What you won't know without inquiry however, is that our clients also had a hand in crafting some of our showroom pieces. 
+It's no surprise to any of us that much of the studio's details are custom-made by, and for 9Tailors. You'll find that several of the studio's well-loved, eye-catching statement pieces were handcrafted by Austin himself. What you won't know without inquiry however, is that our clients also had a hand in crafting some of our showroom pieces.
 
 All around the studio, you'll find personal touches that are not only unique to the brand, but also complementary to a one-of-a-kind experience. As is true with custom-suiting, the details tell the story; and 9Tailors has written a beautiful one.
 
 ![]({{ site.baseUrl }}/uploads/2018/07/IMG_3118-768x1024.jpg)
 
-Above our bar area, you'll see bowler hat light fixtures that were conceptualized and realized by Austin, and [Joe The Architect](http://joethearchitect.com/). (These are _real_ bowler hats Austin found on [Amazon](https://www.amazon.com) and transformed into one of the studio's coolest personality points.)
+Above our bar area, you'll see bowler hat light fixtures that were conceptualized and realized by Austin, and [Joe The Architect](http://joethearchitect.com/). (These are _real_ bowler hats Austin found on [Amazon](https://www.amazon.com) and transformed into one of the studio's coolest personality points.)
 
 ![]({{ site.baseUrl }}/uploads/2018/07/big-spool--768x1024.jpg)
 

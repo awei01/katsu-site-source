@@ -33,11 +33,11 @@ With the start of football comes the beginning of fall. Yay for Autumn! We're he
 
 Courtesy of fashionsnoopblog.com
 
-[Milan's runways](http://www.focusonstyle.com/fashion-shows/top-trends-from-milan-fallwinter-2012-menswear/) lent themselves to slim double-breasted suits and animal-print sweaters. Yes, gentlemen, double-breasted is making a major comeback. Single-breasted remains a stiff contender, however.
+[Milan's runways](http://www.focusonstyle.com/fashion-shows/top-trends-from-milan-fallwinter-2012-menswear/) lent themselves to slim double-breasted suits and animal-print sweaters. Yes, gentlemen, double-breasted is making a major comeback. Single-breasted remains a stiff contender, however.
 
 ### The Three-Piece Suit.
 
-If you haven't visited  [9tailors](http://www.9tailors.com/) before, you know not of our love for the three-piece. [GQ](http://www.gq.com/style/wear-it-now/201208/joseph-gordon-levitt-suits-gq-august-2012#slide=5) calls this out as the Fall must-have. And why not? It looks great with all three pieces showing and when you take your jacket off to showcase that sharp vest. And to reiterate, gray is the best versatile color out there. Seen below on Jermaine—wicked shahhhhp.
+If you haven't visited [9tailors](http://www.9tailors.com/) before, you know not of our love for the three-piece. [GQ](http://www.gq.com/style/wear-it-now/201208/joseph-gordon-levitt-suits-gq-august-2012#slide=5) calls this out as the Fall must-have. And why not? It looks great with all three pieces showing and when you take your jacket off to showcase that sharp vest. And to reiterate, gray is the best versatile color out there. Seen below on Jermaine—wicked shahhhhp.
 
 [![](http://3.bp.blogspot.com/-EZmyMBruIhM/UBRKyyykzvI/AAAAAAAAAqw/x1tYEo9QECY/s400/20120414-9tailors-1100.jpg)](http://3.bp.blogspot.com/-EZmyMBruIhM/UBRKyyykzvI/AAAAAAAAAqw/x1tYEo9QECY/s1600/20120414-9tailors-1100.jpg)
 
@@ -45,7 +45,7 @@ If you haven't visited  [9tailors](http://www.9tailors.com/) before, you know
 
 [![](http://2.bp.blogspot.com/-HMg13A8xKCs/UBRLKjN4q5I/AAAAAAAAAq4/onqHzOYJZaI/s400/20120414-9tailors-1006.jpg)](http://2.bp.blogspot.com/-HMg13A8xKCs/UBRLKjN4q5I/AAAAAAAAAq4/onqHzOYJZaI/s1600/20120414-9tailors-1006.jpg)
 
-If you already have enough suits in your closet but need that vest for a finishing touch, you can always opt to get one in a complementary color. Gray suit? Go for a navy vest. Brown suit? Try a tan vest. Or if you're feeling frisky, try a checked or pin-stripe pattern to give some oomph to your ensemble. 
+If you already have enough suits in your closet but need that vest for a finishing touch, you can always opt to get one in a complementary color. Gray suit? Go for a navy vest. Brown suit? Try a tan vest. Or if you're feeling frisky, try a checked or pin-stripe pattern to give some oomph to your ensemble. 
 
 ### Conversation-Starting Shoes
 
@@ -68,9 +68,9 @@ courtesy of Esquire.com
 
 [![](http://4.bp.blogspot.com/-DaBiLvkSrQQ/UBQlG6TBFkI/AAAAAAAAApU/sRFSmrYQrXY/s400/img_9013_the-dark-knight-rises-bane-a-style-icon.jpg)](http://4.bp.blogspot.com/-DaBiLvkSrQQ/UBQlG6TBFkI/AAAAAAAAApU/sRFSmrYQrXY/s1600/img_9013_the-dark-knight-rises-bane-a-style-icon.jpg)
 
-Courtesy of  burningdvds.com
+Courtesy of burningdvds.com
 
-### Patterns! Knit ties! 
+### Patterns! Knit ties! 
 
 Autumn is the best time of year to play with textures and patterns. Remember our post on [knit ties](http://2012/03/try-this-accessory-knit-ties.html) a few months back? You'll be seeing more of these around as well.
 
@@ -80,7 +80,7 @@ Autumn is the best time of year to play with textures and patterns. Remember our
 
 [![](http://4.bp.blogspot.com/-46ep_BjbhKA/UBRL5aRXA5I/AAAAAAAAArg/F97q52TwNXM/s400/00220m.jpg)](http://4.bp.blogspot.com/-46ep_BjbhKA/UBRL5aRXA5I/AAAAAAAAArg/F97q52TwNXM/s1600/00220m.jpg)
 
-What does [Esquire](http://www.esquire.com/style/fall-fashion-designer-preview-0812#slide-1) have to say? Echoing the sentiments above, they've highlighted nine **top designer** collections in this wonderful slideshow. See how your wardrobe stacks up.
+What does [Esquire](http://www.esquire.com/style/fall-fashion-designer-preview-0812#slide-1) have to say? Echoing the sentiments above, they've highlighted nine **top designer** collections in this wonderful slideshow. See how your wardrobe stacks up.
 
 See more of Jermaine Cunningham's photo shoot on our [facebook](https://www.facebook.com/9tailors) page, photos courtesy of the talent-bursting photographer, [Channing Johnson](http://www.channingjohnson.com/).
 

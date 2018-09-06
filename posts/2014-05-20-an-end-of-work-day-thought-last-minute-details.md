@@ -17,8 +17,8 @@ You're day is almost over and you're thinking about going home or getting food. 
 
 Possible solutions to having to wear the same suit 2 days in a row
 
-	*Wear a \*noticeably different shirt. If you wore white, wear color. If you wore color, wear a pattern or white.
-	*Add, subtract or change accessories  (throw in a pocket square, wear a bow tie instead of a tie)
+	* Wear a \*noticeably different shirt. If you wore white, wear color. If you wore color, wear a pattern or white.
+	* Add, subtract or change accessories (throw in a pocket square, wear a bow tie instead of a tie)
 
 Ultimately, your goal is to put together a last minute outfit that no one will notice is the main pieces are the same as the previous day - it's all about drawing attention to the details instead of the whole generic suit.
 
@@ -29,7 +29,7 @@ Ultimately, your goal is to put together a last minute outfit that no one will n
 1 Suit, 3 Outfits
 Source: GQ
 
-This Spring season is all about blue. We have seen a decent amount of blue suits come in with more on the way but if you're not ready for a full blue suit (not navy - blue), then use a pocket square or tie to stay up to date and keep your suits from looking stale. 
+This Spring season is all about blue. We have seen a decent amount of blue suits come in with more on the way but if you're not ready for a full blue suit (not navy - blue), then use a pocket square or tie to stay up to date and keep your suits from looking stale. 
 
 [![](http://4.bp.blogspot.com/-fdaEhb6OfXQ/U3utYapzV1I/AAAAAAAAB_8/6NuZwjLJ7c4/s1600/blue+pocket+squares.jpg)](http://4.bp.blogspot.com/-fdaEhb6OfXQ/U3utYapzV1I/AAAAAAAAB_8/6NuZwjLJ7c4/s1600/blue+pocket+squares.jpg)
 

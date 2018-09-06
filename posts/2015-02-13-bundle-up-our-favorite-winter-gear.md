@@ -23,7 +23,7 @@ With the weather we've been getting (over, and over, and over...), we thought we
 
 First off, puffer vests. Outerwear vests are great for the not-too-cold days, or for layering up on those single digit days.
 
-You can't really go wrong with a [Patagonia](http://www.patagonia.com/us/search/bivy%20vest) down vest. They'll keep you warm and have standard solids as well as some fun two-toned color options. We love the M's Bivy down vest.
+You can't really go wrong with a [Patagonia](http://www.patagonia.com/us/search/bivy%20vest) down vest. They'll keep you warm and have standard solids as well as some fun two-toned color options. We love the M's Bivy down vest.
 
 [![patagonia vest]({{ site.baseUrl }}/uploads/patagonia-vest-211x300.jpg)]({{ site.baseUrl }}/uploads/patagonia-vest.jpg)
 
@@ -31,9 +31,9 @@ Looking for a steal? This [Uniqlo](http://www.uniqlo.com/us/product/men-ultra-li
 
 [![Uniqlo vest]({{ site.baseUrl }}/uploads/Uniqlo-vest.jpg)]({{ site.baseUrl }}/uploads/Uniqlo-vest.jpg)
 
-Next up, coats. Here are a few reliable coats for the often times harsh New England weather:
+Next up, coats. Here are a few reliable coats for the often times harsh New England weather:
 
-We love this [Steven Alan](http://www.stevenalan.com/F14_PFM111026W14015.html?dwvar_F14__PFM111026W14015_color=601#cgid=mens-clothing-jackets-and-outerwear&start=12&sz=12&frmt=ajax&start=12&hitcount=31) coat - especially in this bright red. You'll be warm and never be un-findable, even in a minimal visibility blizzard!
+We love this [Steven Alan](http://www.stevenalan.com/F14_PFM111026W14015.html?dwvar_F14__PFM111026W14015_color=601#cgid=mens-clothing-jackets-and-outerwear&start=12&sz=12&frmt=ajax&start=12&hitcount=31) coat - especially in this bright red. You'll be warm and never be un-findable, even in a minimal visibility blizzard!
 
 [![steven alan coat]({{ site.baseUrl }}/uploads/steven-alan-coat.jpg)]({{ site.baseUrl }}/uploads/steven-alan-coat.jpg)
 
@@ -41,7 +41,7 @@ Okay so before you jump to saying that, "Everyone has a [Canada Goose](http://ww
 
 [![Canada Goose jacket]({{ site.baseUrl }}/uploads/Canada-Goose-jacket-682x1024.jpg)]({{ site.baseUrl }}/uploads/Canada-Goose-jacket.jpg)
 
-Another perfect-for-this-weather coat we love? [Fjällräven](http://www.fjallraven.us/collections/jackets/products/yupik-parka) is a Swedish company and builds their outerwear for the harshest conditions (maybe something like we've been experiencing? Okay it's not _that_ bad).
+Another perfect-for-this-weather coat we love? [Fjällräven](http://www.fjallraven.us/collections/jackets/products/yupik-parka) is a Swedish company and builds their outerwear for the harshest conditions (maybe something like we've been experiencing? Okay it's not _that_ bad).
 
 [![fjallraven]({{ site.baseUrl }}/uploads/fjallraven-300x300.jpg)]({{ site.baseUrl }}/uploads/fjallraven.jpg)
 
@@ -55,7 +55,7 @@ An all around workman's boot that will keep you warm and dry, these [Timberlands
 
 [![timbs]({{ site.baseUrl }}/uploads/timbs.jpg)]({{ site.baseUrl }}/uploads/timbs.jpg)
 
-These boots by [Sorel](http://www.sorel.com/on/demandware.store/Sites-Sorel_US-Site/en_US/Default-Start) are appropriately named...they are the [Sorel Men's Conquest Boot](http://www.zappos.com/sorel-conquest~2). Enough said.
+These boots by [Sorel](http://www.sorel.com/on/demandware.store/Sites-Sorel_US-Site/en_US/Default-Start) are appropriately named...they are the [Sorel Men's Conquest Boot](http://www.zappos.com/sorel-conquest~2). Enough said.
 
 [![sorels]({{ site.baseUrl }}/uploads/sorels.jpg)]({{ site.baseUrl }}/uploads/sorels.jpg)
 

@@ -15,7 +15,7 @@ tags:
   - wardrobe essentials
 featuredImage: /uploads/2016/07/dress-shirts-e1468529724627.jpg
 ---
-Have you ever wondered which shirts you should add to your wardrobe? If so we've got you covered! We've compiled a list of nine dress shirts every guy should have in his closet. From solid blues to gingham and fun bold patterns they all deserve their rightful spot in your wardrobe.
+Have you ever wondered which shirts you should add to your wardrobe? If so we've got you covered! We've compiled a list of nine dress shirts every guy should have in his closet. From solid blues to gingham and fun bold patterns they all deserve their rightful spot in your wardrobe.
 
 #### 1\. White Twill/ White Poplin
 
@@ -33,7 +33,7 @@ This is the same as the first shirt. The only difference is that it is in a pale
 
 [![windowpane]({{ site.baseUrl }}/uploads/windowpane-247x300.jpg)]({{ site.baseUrl }}/uploads/windowpane.jpg)
 
-If you default to stripes or solid blue shirts a windowpane is  great addition to your collection. it is a very subtle pattern that will not be too overwhelming for a day at work. If you work in a more conservative office opt for a navy or a light blue windowpane. If you want to have a bit more fun with it pink and lavender are two colors we would suggest adding to your closet.
+If you default to stripes or solid blue shirts a windowpane is great addition to your collection. it is a very subtle pattern that will not be too overwhelming for a day at work. If you work in a more conservative office opt for a navy or a light blue windowpane. If you want to have a bit more fun with it pink and lavender are two colors we would suggest adding to your closet.
 
 #### 4\. Gingham
 
@@ -43,19 +43,19 @@ For this one the color is up to you. Blue, lavender, red, green the options are 
 
 #### 5\. Chambray or Denim
 
-[![denim]({{ site.baseUrl }}/uploads/denim.jpg)]({{ site.baseUrl }}/uploads/denim.jpg)Everyone has a causal denim shirt. Think of this one as a slightly dressier version of your casual one. Personally we here at 9tailors love a darker blue chambray shirt. The best thing about chambray is that although it looks like denim it isn't as heavy as denim, which is great for the summer. You can pair it with chinos for a casual look or wear it with jeans of a darker denim rinse.
+[![denim]({{ site.baseUrl }}/uploads/denim.jpg)]({{ site.baseUrl }}/uploads/denim.jpg)Everyone has a causal denim shirt. Think of this one as a slightly dressier version of your casual one. Personally we here at 9tailors love a darker blue chambray shirt. The best thing about chambray is that although it looks like denim it isn't as heavy as denim, which is great for the summer. You can pair it with chinos for a casual look or wear it with jeans of a darker denim rinse.
 
 #### 6\. Short Sleeve Shirt
 
 ![](http://www.flatsevenshop.com/797-flatseven_cloudzoom_big/mens-slim-fit-basic-dress-shirts-short-sleeve-sh401.jpg)
 
-It's summer. Everyone needs a short sleeve shirt. They are more casual than your standard dress shirt so they should be worn for after work settings. Think drinks at the bar with friends or date night. You can choose any color you'd like. Since it is more casual try a pattern or a color that you normally wouldn't gravitate towards.
+It's summer. Everyone needs a short sleeve shirt. They are more casual than your standard dress shirt so they should be worn for after work settings. Think drinks at the bar with friends or date night. You can choose any color you'd like. Since it is more casual try a pattern or a color that you normally wouldn't gravitate towards.
 
 #### 7\. A Bold Pattern
 
 ![](http://static.zara.net/photos///2016/V/0/2/p/6175/215/250/2/w/1024/6175215250_6_1_1.jpg?ts=1462531616876)
 
-Have a little bit of fun and step outside of your comfort zone a bit with a bolder patter. We love paisley or floral patterns. Floral is a great [trend for summer 2016]({{ site.baseUrl }}/2016/07/menswear-2016-summer-trends/).
+Have a little bit of fun and step outside of your comfort zone a bit with a bolder patter. We love paisley or floral patterns. Floral is a great [trend for summer 2016]({{ site.baseUrl }}/2016/07/menswear-2016-summer-trends/).
 
 #### 8\. Pink or Subtle Pink Pattern
 

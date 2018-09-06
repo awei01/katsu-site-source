@@ -29,7 +29,7 @@ After either a lazy morning in (or maybe a nice walk if you want to venture into
 
 [![milk and honey]({{ site.baseUrl }}/uploads/milk-and-honey.jpg)]({{ site.baseUrl }}/uploads/milk-and-honey.jpg)
 
-Need ideas for dinner out? Head over to [Craigie on Main](http://www.craigieonmain.com/) for a fantastic Valentine's meal. If you wait too long and can't get a reservation, make one for Sunday night! They're making Valentine's a weekend affair.
+Need ideas for dinner out? Head over to [Craigie on Main](http://www.craigieonmain.com/) for a fantastic Valentine's meal. If you wait too long and can't get a reservation, make one for Sunday night! They're making Valentine's a weekend affair.
 
 Another option is to whisk your loved one away to a faux Paris at [Petit Robert](http://petitrobertbistro.com/happy-new-year-2015/). They are offering a lovely prix fixe three course meal menu for $65.
 

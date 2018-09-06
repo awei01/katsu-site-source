@@ -57,7 +57,7 @@ Take a peak at some other shots of Nick's photo shoot, courtesy of our wonderful
 
 [![](http://1.bp.blogspot.com/-9G3QJV6WU-I/T-SI2ok4TfI/AAAAAAAAAZY/H7tP0q7MJWs/s320/20120328-9tailors-0241.jpg)](http://1.bp.blogspot.com/-9G3QJV6WU-I/T-SI2ok4TfI/AAAAAAAAAZY/H7tP0q7MJWs/s1600/20120328-9tailors-0241.jpg)
 
-       [![](http://2.bp.blogspot.com/-GZB9QUYN-B0/T-STmwYWw6I/AAAAAAAAAa0/Y46NRt9HIMI/s320/20120328-9tailors-0165.jpg)](http://2.bp.blogspot.com/-GZB9QUYN-B0/T-STmwYWw6I/AAAAAAAAAa0/Y46NRt9HIMI/s1600/20120328-9tailors-0165.jpg)
+ [![](http://2.bp.blogspot.com/-GZB9QUYN-B0/T-STmwYWw6I/AAAAAAAAAa0/Y46NRt9HIMI/s320/20120328-9tailors-0165.jpg)](http://2.bp.blogspot.com/-GZB9QUYN-B0/T-STmwYWw6I/AAAAAAAAAa0/Y46NRt9HIMI/s1600/20120328-9tailors-0165.jpg)
 
 [![](http://4.bp.blogspot.com/-aJY9siY9j6k/T-SI4nY5WAI/AAAAAAAAAZo/iGONulzH-sM/s320/20120328-9tailors-0246.jpg)](http://4.bp.blogspot.com/-aJY9siY9j6k/T-SI4nY5WAI/AAAAAAAAAZo/iGONulzH-sM/s1600/20120328-9tailors-0246.jpg)
 

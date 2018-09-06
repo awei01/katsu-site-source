@@ -60,7 +60,7 @@ Ellen's favorite pick is the paid peacoat. The plaid pattern catches her heart a
 
 Want to be "that certain kind of special man" who knows how to tie a bow tie?
 
-Join us at our Style Workshop with [oOoTie](http://www.oootie.com/), the makers of that snazzy [pig bow tie](http://www.oootie.com/product/white-pigs-on-red-bow-tie).
+Join us at our Style Workshop with [oOoTie](http://www.oootie.com/), the makers of that snazzy [pig bow tie](http://www.oootie.com/product/white-pigs-on-red-bow-tie).
 
 _\*2 attendees will win a FREE Bow Tie of their choosing_
 

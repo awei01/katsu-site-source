@@ -20,13 +20,13 @@ tags:
   - menswear
 featuredImage: /uploads/2017/02/green-tan-combo.jpg
 ---
-There are a ton of rules when it comes to color mixing. Wear colors that are opposite on the color wheel. Wear colors that are in the same color family. All that is great, but sometimes you have to throw all of that out of the window.
+There are a ton of rules when it comes to color mixing. Wear colors that are opposite on the color wheel. Wear colors that are in the same color family. All that is great, but sometimes you have to throw all of that out of the window.
 
 We have three go-to color combos that will work for spring 2017 as well as for the rest of the year. Dress them up for work or dress them down casually. Either way, they'll always work.
 
 #### **Grey + Pink**
 
-Pink can be a very hit or miss color. There are those who love pink and there are others who think that they'll never look good in pink. We're here to tell you that pink is not the enemy. No matter what your skin tone there is a shade for you. One that we're loving is light pastel pink paired with light grey. Pastels are right on trend for spring/summer 2017.
+Pink can be a very hit or miss color. There are those who love pink and there are others who think that they'll never look good in pink. We're here to tell you that pink is not the enemy. No matter what your skin tone there is a shade for you. One that we're loving is light pastel pink paired with light grey. Pastels are right on trend for spring/summer 2017.
 
 Grey and pink work well together because the two tones are very similar. They are both easy on the eyes and do not overpower one another.
 

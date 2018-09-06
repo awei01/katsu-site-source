@@ -28,6 +28,6 @@ Live in NYC? We'll be hosting our custom dress shirt event on 6/18-6/19! Details
 
 Rules & Regulations of "Win a free shirt" Raffle:
 
-	*Participants of raffle must RSVP prior to June 25, 11:59 AM 
-	*Winner must be present at the event 
-	*Winner will be announced on the day of June 25
+	* Participants of raffle must RSVP prior to June 25, 11:59 AM 
+	* Winner must be present at the event 
+	* Winner will be announced on the day of June 25

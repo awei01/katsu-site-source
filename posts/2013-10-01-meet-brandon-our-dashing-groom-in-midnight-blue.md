@@ -20,9 +20,9 @@ featuredImage: /uploads/2014/10/Brandon-9.jpg
 ---
 [![](http://1.bp.blogspot.com/-BxhfywECs40/Ukl1ba9oR9I/AAAAAAAAQrE/jUYWpNM4U3s/s640/Brandon+(4).jpg)](http://1.bp.blogspot.com/-BxhfywECs40/Ukl1ba9oR9I/AAAAAAAAQrE/jUYWpNM4U3s/s1600/Brandon+(4).jpg)
 
-Meet Brandon. Brandon recently got married earlier this year and we wanted to share his beautiful photos with you! 
-Name: Brandon
-Age: 30 
+Meet Brandon. Brandon recently got married earlier this year and we wanted to share his beautiful photos with you! 
+ Name: Brandon
+Age: 30 
 Hometown: Stoughton, MA
 Current Residence: Boston, MA
 Occupation: Financial Analyst
@@ -51,8 +51,8 @@ For my wedding, the inspiration to my custom tuxedo was certainly [James Bond](h
 The midnight blue tuxedo is phenomenal. I had a vision in my head and it came out even better than I could have imagined. For everyday use though, I have a gray herringbone tweed sport coat that is my go to jacket in the fall. The fit is great and there is lavender accenting under the lapel.
  **How difficult is it to find garments that targets your specific needs and style?**
 Very. The reality is everyone's body is different so trying to find something fits your personal style AND fits your body is nearly impossible. Truly like trying to find a needle in a haystack.
-Location: [Artist for Humanity](http://afhboston.org/)
+ Location: [Artist for Humanity](http://afhboston.org/)
 Photograher: [Abby Lorenz Photography](http://abbylorenzphotography.com/)
 
-If you're contemplating a tuxedo (renting or buying), check out [Style Girlfriend's](http://stylegirlfriend.com/) response [here](http://stylegirlfriend.com/say-yes-to-the-suit/) and [here](http://stylegirlfriend.com/reader-question-tux-and-roll/). If you don't read Megan's blog already, we encourage you to do so. 
-Need a midnight blue tuxedo or traditionalblack tuxedo for your next black tie event? Email us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}).
+If you're contemplating a tuxedo (renting or buying), check out [Style Girlfriend's](http://stylegirlfriend.com/) response [here](http://stylegirlfriend.com/say-yes-to-the-suit/) and [here](http://stylegirlfriend.com/reader-question-tux-and-roll/). If you don't read Megan's blog already, we encourage you to do so. 
+ Need a midnight blue tuxedo or traditional black tuxedo for your next black tie event? Email us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}).

@@ -17,19 +17,19 @@ featuredImage: /uploads/2016/06/1-SHIRT_3WAYS.jpg
 ---
 Hello summer! Now is the time to break out your Ray-Bans and pack your winter coat away for good. The early spring to summer transition can be a bit tough. Some days you'll need to layer up and others you'll be left wanting to wear shorts and a tank.
 
-With the constant weather changes figuring out what to wear can be a bit of a hassle. You have your favorite shirts in rotation, however the only problem is you've run out of ways to wear them. That's where we come in. We'll show your three ways to wear one of summer's most popular shirts: the floral short sleeve.
+With the constant weather changes figuring out what to wear can be a bit of a hassle. You have your favorite shirts in rotation, however the only problem is you've run out of ways to wear them. That's where we come in. We'll show your three ways to wear one of summer's most popular shirts: the floral short sleeve.
 
 ### **Short Sleeve Shirt Over Shorts**
 
-Who doesn't love a short sleeve shirt? Now we aren't talking about the ill fitting Hawaiian shirts that you dad may sport at every family bbq. We're talking about a well tailored short sleeve shirt with just the right amount of taper and one that doesn't show too much arm. This approach to hot weather dressing is fool proof. The key to this look is focusing on the fit of both items. You don't want one to be looser than the other. If your shirt is slim and tapered opt for a more slim cut pair of shorts as well. Think slim but not tight and constricting.
+Who doesn't love a short sleeve shirt? Now we aren't talking about the ill fitting Hawaiian shirts that you dad may sport at every family bbq. We're talking about a well tailored short sleeve shirt with just the right amount of taper and one that doesn't show too much arm. This approach to hot weather dressing is fool proof. The key to this look is focusing on the fit of both items. You don't want one to be looser than the other. If your shirt is slim and tapered opt for a more slim cut pair of shorts as well. Think slim but not tight and constricting.
 
-As a general rule of thumb, shorts should end just above your knee and can fall straight or have a slight taper. No one's really wearing teeny-tiny shorts anymore. Unless you're on the beach and about to plunge into the ocean.
+As a general rule of thumb, shorts should end just above your knee and can fall straight or have a slight taper. No one's really wearing teeny-tiny shorts anymore. Unless you're on the beach and about to plunge into the ocean.
 
 [![outfit_combos]({{ site.baseUrl }}/uploads/outfit_combos-1024x682.jpg)]({{ site.baseUrl }}/uploads/outfit_combos.jpg)
 
 ### **Short Sleeve Shirt Over Trousers**
 
-Summer is the perfect time to break out all your fun patterned shirts. If pattern isn't your thing start with a pattern on a smaller scale. Take this as an opportunity to step outside of your comfort zone with a floral shirt. We know, floral shirts have a pretty bad reputation. Some are too bright and the patterns can easily become overwhelming. No one wants to look like their grandparents wallpaper.
+Summer is the perfect time to break out all your fun patterned shirts. If pattern isn't your thing start with a pattern on a smaller scale. Take this as an opportunity to step outside of your comfort zone with a floral shirt. We know, floral shirts have a pretty bad reputation. Some are too bright and the patterns can easily become overwhelming. No one wants to look like their grandparents wallpaper.
 
 If you're new to wearing floral keep the print in your shirt and your pants in the same color family. Creating a monochromatic look makes everything a breeze. If you have a navy pattern in your shirt opt for navy or light blue pants. Light grey pattern in your shirt? Wear darker grey pants. The slight difference in color will give your outfit depth. It will also make it a bit more visually interesting.
 

@@ -17,7 +17,7 @@ You may have noticed some fresh faces at 9tailors. Here's a proper introduction 
 
 [![](http://farm3.static.flickr.com/2499/4076176569_c01880ee0d.jpg)](http://farm3.static.flickr.com/2499/4076176569_c01880ee0d.jpg)
 
-Caroline, Victor, and Celia • Photo by Patrick Ryan of [Lens CAP Productions](http://www.lenscapproductions.com/index2.php)
+Caroline, Victor, and Celia • Photo by Patrick Ryan of [Lens CAP Productions](http://www.lenscapproductions.com/index2.php) 
 
  [CAROLINE](mailto:caroline@9tailors.com), Intern 
 ..........Hello! My name is Caroline and I hail from the Fiji Islands. I currently study advertising at Boston University. As 9tailors's intern, I write for the company blog and am involved with the sales process. Presently, I am also the newsletter editor and marketing assistant for a non-profit organization. ..........Because I'm studying communications and because I have an interest in fashion, I jumped at the chance to intern for 9tailors. I wanted to work more with online media outlets while learning about the custom clothing market. At 9tailors, I love helping clients to pick out fabrics and design options. I like to recommend more classic colors, such as royal blue or dark grey. For more adventurous shirts, purple or patterned shirts look great! I also suggest getting contrast fabrics in the collar and cuffs to accent the shirt for a polished sexy look! ..........You can get in touch with me at [caroline@9tailors.com](mailto:caroline@9tailors.com). I look forward to meeting you at the upcoming trunk shows!

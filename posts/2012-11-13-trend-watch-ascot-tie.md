@@ -23,7 +23,7 @@ Take for example, the movie _Seven Psychopaths_, Christopher Walken's character,
 
 Courtesy of cinema-way.com
 
-As you know, the ascot tie has been around for centuries. Widely popular in the early 19th century, its [history](http://en.wikipedia.org/wiki/Ascot_tie) is deeply rooted in formal wear, while some Englishman in the 1880's deferred to a more casual, loosely tied, daytime cravat.
+As you know, the ascot tie has been around for centuries. Widely popular in the early 19th century, its [history](http://en.wikipedia.org/wiki/Ascot_tie) is deeply rooted in formal wear, while some Englishman in the 1880's deferred to a more casual, loosely tied, daytime cravat.
 
 [![](http://4.bp.blogspot.com/-3aJUDz-lFLk/UJ6UdekspYI/AAAAAAAABbc/SZ8-k87aqI8/s1600/article-page-main_ehow_images_a07_l6_l6_make-ascot-tie-800x800.jpg)](http://4.bp.blogspot.com/-3aJUDz-lFLk/UJ6UdekspYI/AAAAAAAABbc/SZ8-k87aqI8/s1600/article-page-main_ehow_images_a07_l6_l6_make-ascot-tie-800x800.jpg)
 

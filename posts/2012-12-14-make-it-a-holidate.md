@@ -20,7 +20,7 @@ Schedule a fitting in advance with a 9tailors Style Consultant. Bring your speci
 
 The holidate brings you two together and gets him or her a personal and special gift out of the process.
 
-Our custom shirts start at $79 and suits start at $500 ([suits are 20% off the month of December](http://2012/12/holidazzle-in-your-suit-get-20-off.html)). Best of all? No matter your budget, you'll both enjoy the same concierge-style shopping experience.
+Our custom shirts start at $79 and suits start at $500 ([suits are 20% off the month of December](http://2012/12/holidazzle-in-your-suit-get-20-off.html)). Best of all? No matter your budget, you'll both enjoy the same concierge-style shopping experience.
 
 In case you didn't want to read the above, we've are some good visuals of the 9tailors holidate.
 

@@ -15,7 +15,7 @@ featuredImage: null
 ---
 Here's what a few of you had said about 9tailors:
 
-"I wanted to thank you personally for the excellent experience. The shirt is simply full of awesome. The softness of the collar and the cuffs are is what I had hoped for, the texture and color look classy, and the fit is fantastic. Absolutely no complaints. " - K. Mo, Boston
+"I wanted to thank you personally for the excellent experience. The shirt is simply full of awesome. The softness of the collar and the cuffs are is what I had hoped for, the texture and color look classy, and the fit is fantastic. Absolutely no complaints. " - K. Mo, Boston 
 "They are amazing." - Michael, Boston
 
 "I just would like to say I was quite impressed by the 9tailors's operation. From the beginning with the customized measurements to the numerous options on the website which was very professionally done; I felt as though I was getting a worthy product and I did. The shirt was great it fit well and looked fantastic which I figured since I received many comments from the ladies." - Jarrod, Boston

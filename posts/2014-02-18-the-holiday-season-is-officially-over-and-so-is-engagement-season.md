@@ -21,7 +21,7 @@ I love working with wedding parties. It is exciting to see what everyone is doin
 
 The most common reactions are drinking a bottle of wine before logging onto facebook or just deleting facebook all together. In contrast, some brides prefer not to have their engagement occur during the holidays. It sets up failure for next year's holiday gift, what can be better than getting engaged?
 
-Unless the date or time of year is actually special to you and your significant other, there should not be additional pressure to put a ring on it. Propose because it's the right time, not just because it's 'that time of year'. 
+Unless the date or time of year is actually special to you and your significant other, there should not be additional pressure to put a ring on it. Propose because it's the right time, not just because it's 'that time of year'. 
 
 If you participated in engagement season, then you should keep in mind that a lot of other people did, too. Meaning, you have to start looking at venues, photographers and wedding planners sooner than later. Let the catch up game, begin!
 

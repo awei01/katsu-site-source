@@ -24,18 +24,18 @@ featuredImage: /uploads/2015/11/FullSizeRender.jpg
 ---
 ![malebox_main_nov2015]({{ site.baseUrl }}/uploads/malebox_main_nov2015.jpg)
 
-We're bringing back the holiday **Male Box**! The **Male Box** is a curated gift box, chock full of goodies for that special someone. The **Male Box** includes: two cuff links, two pocket squares and one pair of socks from our favorite men's socks purveyor, [A Man Among Socks](https://amanamongsocks.com/).
+We're bringing back the holiday **Male Box**! The **Male Box** is a curated gift box, chock full of goodies for that special someone. The **Male Box** includes: two cuff links, two pocket squares and one pair of socks from our favorite men's socks purveyor, [A Man Among Socks](https://amanamongsocks.com/).
 
-We chose our favorite accessories and combined colors and patterns into stylish ensembles. Each piece can be worn on its own or with other items from The **Male Box**. It's a perfectly coordinated capsule that is great as a stocking stuffer or under the tree.
+We chose our favorite accessories and combined colors and patterns into stylish ensembles. Each piece can be worn on its own or with other items from The **Male Box**. It's a perfectly coordinated capsule that is great as a stocking stuffer or under the tree.
 
-All of these accessories together in one gift for $35.00 (including tax). Shipping is available for $3.00.  As an option, you can give your **Male Box** an extra boost by adding a physical gift card for a custom dress shirt or custom suit. Contact us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) or at 617.286.6135 for more information.
+All of these accessories together in one gift for $35.00 (including tax). Shipping is available for $3.00. As an option, you can give your **Male Box** an extra boost by adding a physical gift card for a custom dress shirt or custom suit. Contact us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) or at 617.286.6135 for more information.
 
 Rules and Restrictions:
 
-	*Packages cannot be shared. Full payment is required upon order.
-	*Does not apply to past purchases.
-	*All accessories are final sale.
-	*Shipping and handling charges apply to all promoted items.
-	*Gift card cannot be redeemed for cash or cash equivalent.
-	*Void where prohibited.
-	*Other rules and restrictions may apply.
+	* Packages cannot be shared. Full payment is required upon order.
+	* Does not apply to past purchases.
+	* All accessories are final sale.
+	* Shipping and handling charges apply to all promoted items.
+	* Gift card cannot be redeemed for cash or cash equivalent.
+	* Void where prohibited.
+	* Other rules and restrictions may apply.

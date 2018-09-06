@@ -17,7 +17,7 @@ featuredImage: /uploads/2014/10/dddddddddd.jpg
 ---
 [![](http://3.bp.blogspot.com/-Evq2G-sw25E/TzrmpmBfXiI/AAAAAAAABKM/i1ouhKkcOx0/s640/kenneth_profile.jpg)](http://3.bp.blogspot.com/-Evq2G-sw25E/TzrmpmBfXiI/AAAAAAAABKM/i1ouhKkcOx0/s1600/kenneth_profile.jpg)
 
-Meet our clean cut client, Kenneth. Kenneth is a big fan of dressing to impress despite the fact that the majority of men in his profession tend to stick to khakis.  He regularly bucks the norm with daring lining options and colorful ties. Read more about our favorite scientist below.  
+Meet our clean cut client, Kenneth. Kenneth is a big fan of dressing to impress despite the fact that the majority of men in his profession tend to stick to khakis. He regularly bucks the norm with daring lining options and colorful ties. Read more about our favorite scientist below. 
 
 **Name**: Kenneth Lawrence
 **Age**: do I really have to? 46
@@ -33,7 +33,7 @@ Meet our clean cut client, Kenneth. Kenneth is a big fan of dressing to impress 
 
 **What/who inspires your style?** Myself and my dad. I would honestly rather help a women choose a dress or accessory (what does that say about me?) than worry about being inspired by anyone else. That said, I like a classic look which includes a pressed 9tailors shirt, wool slacks and a colorful tie to match. As for looks, I like the "Mad Men" style without the skinny ties. A tailored, well fitting, well groomed man looks intelligent, feels confident and gives you a leg up on the next guy…… sometimes.
 
-**What is your favorite piece from 9tailors?** All of them. But probably my suit with the custom zebra lining; no one can top that. Sam, Alex, and Kathryn, make the fitting and all aspect of getting custom made clothes a great experience.
+**What is your favorite piece from 9tailors?** All of them. But probably my suit with the custom zebra lining; no one can top that. Sam, Alex, and Kathryn, make the fitting and all aspect of getting custom made clothes a great experience.
 
 [![](http://1.bp.blogspot.com/-jRmW1IvgtSA/Tz2HqbUhbwI/AAAAAAAABKU/Spwx6ozvccI/s400/9TailorsFallShoot-110.jpg)](http://1.bp.blogspot.com/-jRmW1IvgtSA/Tz2HqbUhbwI/AAAAAAAABKU/Spwx6ozvccI/s1600/9TailorsFallShoot-110.jpg)
 
@@ -49,10 +49,10 @@ Location: Beacon Hill
 
 Trench Coat: [9tailors](http://www.9tailors.com/)
 
-Shirt: [9tailors ](http://www.9tailors.com/)
+Shirt: [9tailors](http://www.9tailors.com/) 
 
 Hat: [Salmagundi](http://www.salmagundiboston.com/)
 
 We're currently offering 3 jacket styles for spring 2012. All are priced at $400. However, for a limited time (until March 16, 2012) we will be offering each style for $50 off. Get them now! It's going to be perfect trench coat weather in no time!
 
-All photos were taken by Channing Johnson.  You can check out more of his work, [here](http://www.channingjohnson.com/). Want to design a custom trench coat for spring?  Send us an email today at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to set up an appointment.
+All photos were taken by Channing Johnson. You can check out more of his work, [here](http://www.channingjohnson.com/). Want to design a custom trench coat for spring? Send us an email today at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to set up an appointment.

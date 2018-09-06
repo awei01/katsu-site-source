@@ -14,7 +14,7 @@ tags:
   - menswear
 featuredImage: /uploads/2014/10/1.jpeg
 ---
-Sundays are for football...how about 'dem Patriots last night?! Talibbbbbbbbbb! But, the [40th American Music Awards](http://beta.abc.go.com/shows/american-music-awards) aired on ABC last night, did you have a chance to watch? Aside from the actual award giving/receiving and performances, what did you think about some of the outrageous outfits? From twists on classic tuxedoes to all sorts of flashy details on jackets and pants, this year's show had a lot of um... pizazz. We're still not sure how we feel about some of the wardrobe choices or even the winners and artists themselves (_I will never understand Bieber Fever or agree to listen to some of these new bands, ugh_). But hey, those funky movers and shakers who wanted to make statements succeeded in that, right? Like we always recommend, changing up your style refreshes your look, but you should feel comfortable in what you wear. From wacky to classy, check out some gentlemanly highlights below from the [Red Carpet. ](http://beta.abc.go.com/shows/american-music-awards/photos)
+Sundays are for football...how about 'dem Patriots last night?! Talibbbbbbbbbb! But, the [40th American Music Awards](http://beta.abc.go.com/shows/american-music-awards) aired on ABC last night, did you have a chance to watch? Aside from the actual award giving/receiving and performances, what did you think about some of the outrageous outfits? From twists on classic tuxedoes to all sorts of flashy details on jackets and pants, this year's show had a lot of um... pizazz. We're still not sure how we feel about some of the wardrobe choices or even the winners and artists themselves (_I will never understand Bieber Fever or agree to listen to some of these new bands, ugh_). But hey, those funky movers and shakers who wanted to make statements succeeded in that, right? Like we always recommend, changing up your style refreshes your look, but you should feel comfortable in what you wear. From wacky to classy, check out some gentlemanly highlights below from the [Red Carpet.](http://beta.abc.go.com/shows/american-music-awards/photos) 
 
 \*All photos courtesy of [abc.com](http://beta.abc.go.com/shows/american-music-awards)
 
@@ -28,7 +28,7 @@ The Wanted.
 
 Backstreet Boys
 
-###  Color Schemes
+### Color Schemes
 
 [![](http://3.bp.blogspot.com/-6KEIPxBInAA/UKpY2DStDXI/AAAAAAAABhs/UxMiq1eGge4/s320/x700-14.jpeg)](http://3.bp.blogspot.com/-6KEIPxBInAA/UKpY2DStDXI/AAAAAAAABhs/UxMiq1eGge4/s1600/x700-14.jpeg)
 

@@ -16,7 +16,7 @@ tags:
   - top fashion
 featuredImage: /uploads/2018/03/index.jpg
 ---
-For many of us fashion lovers, The Oscars is an annual parade of magazine editorial looks that we use to reflect on for years on end. Here at 9Tailors, we relish the opportunity to inform our clients about what's "new and noteworthy" in men's fashion. If we learned anything from this year's Oscars it's that **velvet is in**, **plain** **black tuxedos are out**, and **matching is so _blasé_**.
+For many of us fashion lovers, The Oscars is an annual parade of magazine editorial looks that we use to reflect on for years on end. Here at 9Tailors, we relish the opportunity to inform our clients about what's "new and noteworthy" in men's fashion. If we learned anything from this year's Oscars it's that **velvet is in**, **plain** **black tuxedos are out**, and **matching is so _blasé_**.
 
 Take a cue from our top picks for Best Dressed Men and dare to stand out like these fashion A'listers:
 
@@ -34,7 +34,7 @@ We give major props to Mr. Boseman for bringing on the glam factor and daring to
 
 ###### Lakeith Stanfield in Ermenegildo Zegna Couture
 
-Upon first glance, one would never guess that Lakeith's suit is produced from sustainable silk, but this eco-friendly number proves that fashion can be green _and _non-hipster looking. Lakeith rocks his steel blue suit impeccably well, adding a silver broach on his lapel for extra pizzazz.
+Upon first glance, one would never guess that Lakeith's suit is produced from sustainable silk, but this eco-friendly number proves that fashion can be green _and_ non-hipster looking. Lakeith rocks his steel blue suit impeccably well, adding a silver broach on his lapel for extra pizzazz.
 
 ![lakeith-stanfield]({{ site.baseUrl }}/uploads/2018/03/lakeith-stanfield.jpg)
 

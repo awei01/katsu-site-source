@@ -26,7 +26,7 @@ Are you having trouble figuring out where to get your next style inspiration for
 
 Eliezar Infante of [North of Man](http://www.northofman.com) is the epitome of class. He runs a visually stimulating style blog for men "from all different walks of life." Eliezar's signature look is a suit outfit that he treats like a canvas, exploring a plethora of ways to style it. From different colors and prints to jewelry and accessories, Eliezar knows how to cater to those who want to experiment with new looks of masculinity.
 
-### 2. Off the Cuff
+### 2\. Off the Cuff
 
 [![off-the-cuff]({{ site.baseUrl }}/uploads/off-the-cuff-215x300.jpg)]({{ site.baseUrl }}/uploads/off-the-cuff.jpg)
 
@@ -36,7 +36,7 @@ Are you someone who is on the borders between a look that is classic and another
 
 [![streetwearetiquette]({{ site.baseUrl }}/uploads/streetwearetiquette-300x200.jpg)]({{ site.baseUrl }}/uploads/streetwearetiquette.jpg)Founded by two brothers Joshua Kissi and Travis Gumbs, [Street Etiquette](http://streetetiquette.com/) explores men's style through an urban perspective. There is a colorful story for every eye-catching photo captured in their photo. Street Etiquette encourages readers to think about the backstory, the inspiration, behind what we choose to wear on a daily basis.
 
-### 4. The Hobbyists
+### 4\. The Hobbyists
 
 [![sudarsobros]({{ site.baseUrl }}/uploads/sudarsobros-300x199.jpg)]({{ site.baseUrl }}/uploads/sudarsobros.jpg)Here is another pair of brothers to look out for on the style scene. The Sudarso brothers founded [The Hobbyists](http://sudarsobros.blogspot.com/) with a goal to inspire their fellow readers to take fashion risks. What we love about them? Their knack at [layering shirts and suits for modern day, casual wear.]({{ site.baseUrl }}/2016/06/how-to-wear-1-shirt-3-ways/)
 

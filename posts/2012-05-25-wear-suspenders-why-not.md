@@ -18,7 +18,7 @@ featuredImage: /uploads/2014/10/9.png
 ---
 Suspenders, or Braces as they're known to our friends across the pond, were designed to keep trousers around your waist. They've been around for over [300 years](http://en.wikipedia.org/wiki/Suspenders) and haven't gone away yet!
 
-First hard and fast rule: Do not wear suspenders and a belt, it's either one or the other, never the twain shall meet! Suspenders are both functional and fashionable and are best paired with a bow tie, but generally any tie will do. Check out this very informative [article](http://www.atailoredsuit.com/suspenders-how-to-wear-braces.html) how to wear suspenders and [another](http://ebower.hubpages.com/hub/Suspenders) one discussing the history in fashion.
+First hard and fast rule: Do not wear suspenders and a belt, it's either one or the other, never the twain shall meet! Suspenders are both functional and fashionable and are best paired with a bow tie, but generally any tie will do. Check out this very informative [article](http://www.atailoredsuit.com/suspenders-how-to-wear-braces.html) how to wear suspenders and [another](http://ebower.hubpages.com/hub/Suspenders) one discussing the history in fashion.
 
 [![](http://1.bp.blogspot.com/-CqAAGqoaV-U/T7-hcby6HLI/AAAAAAAAAUk/lfFkhi1FqZA/s320/thumbs_jon%2520hamm%2520sucker%2520punch%2520suspenders%2520glasses.png)](http://1.bp.blogspot.com/-CqAAGqoaV-U/T7-hcby6HLI/AAAAAAAAAUk/lfFkhi1FqZA/s1600/thumbs_jon%2520hamm%2520sucker%2520punch%2520suspenders%2520glasses.png)
 
@@ -26,7 +26,7 @@ Courtesy of theberry.com
 
 [![](http://2.bp.blogspot.com/-j5Xp2opd4AI/T7-hdIODpfI/AAAAAAAAAUs/n515KByID3I/s320/tumblr_lpvvpvaqGs1qitigdo1_400.jpg)](http://2.bp.blogspot.com/-j5Xp2opd4AI/T7-hdIODpfI/AAAAAAAAAUs/n515KByID3I/s1600/tumblr_lpvvpvaqGs1qitigdo1_400.jpg)
 
-Courtesy of  attractivebeardedmen.tumblr.com
+Courtesy of attractivebeardedmen.tumblr.com
 
 [![](http://4.bp.blogspot.com/-WwJiOb8QCOY/T7-hdw-rH9I/AAAAAAAAAU8/un1iFgSPTYY/s320/5350043_f260.jpg)](http://4.bp.blogspot.com/-WwJiOb8QCOY/T7-hdw-rH9I/AAAAAAAAAU8/un1iFgSPTYY/s1600/5350043_f260.jpg)
 

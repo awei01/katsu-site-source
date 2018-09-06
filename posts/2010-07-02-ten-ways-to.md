@@ -20,11 +20,11 @@ As promised, here are 5 more easy ways to wear a white dress shirt.
 
 1\. With a light grey suit. Light grey is a perfect summer suit shade, and is extremely versatile. Wear with a white shirt for a fresh summer look!
 
-2\. With a linen suit. Linen is a casual, lightweight fabric that is breathable for those hot summer days. 
+ 2\. With a linen suit. Linen is a casual, lightweight fabric that is breathable for those hot summer days. 
 
 3\. With khaki shorts. Dress down a breathable white shirt with khaki shorts; a great combination for a day at the Cape.
 
-4\. With a bow tie. Create a funky, fun look by wearing a bow tie with a white shirt; it can be a casual look-not just for a tuxedo!
+ 4\. With a bow tie. Create a funky, fun look by wearing a bow tie with a white shirt; it can be a casual look-not just for a tuxedo!
 
 5\. With a sweater (for fall!). Finally, a white shirt can look great under a sweater. This of course is best left for fall and winter, but keep it in mind when you pull out your sweaters in a few months! It can add a lot to an outfit, and can be dressed up or down. 
 

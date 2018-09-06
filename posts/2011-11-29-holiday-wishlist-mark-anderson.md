@@ -31,9 +31,9 @@ How long have you been a 9tailors client: less than one year
 
 I recently worked with [Mark Anderson](http://www.patriots.com/team/roster/Mark-Anderson/6744de75-e9f8-4a1e-b3a9-6088f1aa5007) of the [Patriots](http://www.patriots.com/) designing a suit and shirt for his upcoming events. While he was mostly easy going and open to suggestions, there were a few stipulations:
 
-	*the suit must look good with brown shoes
-	*the shirt and suit should be coordinated but not matching
-	*on trend but not over-done
+	* the suit must look good with brown shoes
+	* the shirt and suit should be coordinated but not matching
+	* on trend but not over-done
 
 Most guys are operating on a limited selection of accessories. This means ties, pocket squares (if any), and shoes. With that in mind we set to work designing an inspired outfit to give an air of effortless cool.
 

@@ -15,7 +15,7 @@ featuredImage: /uploads/2014/11/o1.jpg
 ---
 [![](http://inaparisstateofmind.files.wordpress.com/2011/06/diner-en-blanc.jpg?w=609&h=403)](http://inaparisstateofmind.wordpress.com/2011/06/21/now-thats-a-picnic/)
 
- Photo from blog: [In a Paris State of Mind](http://inaparisstateofmind.wordpress.com/)
+ Photo from blog: [In a Paris State of Mind](http://inaparisstateofmind.wordpress.com/)
 
 [Le](http://goog_1853747082) [Dî](http://goog_1853747082)[ner en Blanc](http://dinerenblanc.info/) \- the outdoor picnic started in Paris about 20 years ago is making its way across the Atlantic! Dressed in their best whites, d[î](http://goog_1853747082)ner-en-blanc goers will enjoy a lovely summer meal evening under the stars...Looks amazing, right? New Yorkers will get their chance on August 25th. Details [here](https://www.facebook.com/DinerEnBlanc.newyork?sk=info) on Facebook. Maybe we should hold one in Boston? Thoughts? I think so...
 

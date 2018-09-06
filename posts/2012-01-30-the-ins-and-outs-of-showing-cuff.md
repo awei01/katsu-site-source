@@ -37,4 +37,4 @@ Following with the trend some men, usually with a skinny cut suit, show up to 1"
 
 One inch of cuff exposed.
 
-How much cuff do you show?  Want a second opinion?  Make an appointment with a style consultant today who can help you navigate the tricky world of suit sleeves.  Send us an email at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to have your conundrum settled once and for all!
+How much cuff do you show? Want a second opinion? Make an appointment with a style consultant today who can help you navigate the tricky world of suit sleeves. Send us an email at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to have your conundrum settled once and for all!

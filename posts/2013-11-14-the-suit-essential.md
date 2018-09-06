@@ -19,11 +19,12 @@ tags:
 featuredImage: /uploads/2014/10/umb.jpg
 ---
 
+
 Rental suits are awful. You pay money to borrow something that you will wear for a few hours without any guarantee you will find the suit you're looking for or that it will fit your unique body shape. One of our clients has pointed out; "the worst part is having to return it the next day while nursing a hang over". Thankfully, [9tailors](http://www.9tailors.com/) is giving away a custom tuxedo for the holiday season, up to a $550 value!
 
 [![](http://2.bp.blogspot.com/-tuglz9MXJSI/Un6depO81CI/AAAAAAAAAIE/G3yRGhSYocA/s400/1464649_10152352794794251_1322704149_n.jpg)](http://2.bp.blogspot.com/-tuglz9MXJSI/Un6depO81CI/AAAAAAAAAIE/G3yRGhSYocA/s1600/1464649_10152352794794251_1322704149_n.jpg)
 
-To enter, Like us on [Facebook](https://www.facebook.com/9tailors) and [Intsagram](http://instagram.com/9tailors). Leave a comment on our pages when you're done. We will be choosing the winner on 11/30/2013.
+To enter, Like us on [Facebook](https://www.facebook.com/9tailors) and [Intsagram](http://instagram.com/9tailors). Leave a comment on our pages when you're done. We will be choosing the winner on 11/30/2013.
 
 Although not every man needs a tuxedo, every man does need to own a suit. It is a staple that says, "I am a grown adult". If you haven't already seen the time-lapse transformation video of Jim Wolf, a homeless veteran, on [YouTube](http://www.youtube.com/watch?v=6a6VVncgHcY) or [Gawker](http://gawker.com/search?q=homeless+veteran), you must. Not only does a suit give you confidence, it gives off smart impression. You never know when an opportunity may arise. I cannot tell you how many times someone has called 9tailors in a panic seeking out a suit for an interview the next day. Our guest bartender for our [Bourbon Tasting Event](http://2013/11/bourbon-tasting-event.html), Brother Cleve, has 8 suits. He wears them for everything and explains it best,
 
@@ -45,7 +46,7 @@ Still from Macklemore and Ryan Lewis' "Thrift Shop" music video featuring Wanz
 
 My least favorite trend, for a couple of decades now, is the continued use of brand names on clothes – I really don't care what store you bought that t-shirt at and I don't need to see everyone as a walking advertisement for mass market stores at shopping centers. It's a fake status symbol that means nothing. It's all part of the dumbing down of society. We've been reduced to being walking billboards, and paying to be so!"
 
-You do not need 8 suits in your wardrobe, but you can absolutely build up to it. Start off with grey suit and a navy blazer.  President Obama sticks with the basics, "You'll see I wear only gray or blue suits", he tells [Vanity Fair](http://www.vanityfair.com/politics/2012/10/michael-lewis-profile-barack-obama). They are the most versatile to swing for every occasion and you automatically look like a sophisticated gentleman who knows what they're doing. The darker the grey suit is, the more formal it is.
+You do not need 8 suits in your wardrobe, but you can absolutely build up to it. Start off with grey suit and a navy blazer. President Obama sticks with the basics, "You'll see I wear only gray or blue suits", he tells [Vanity Fair](http://www.vanityfair.com/politics/2012/10/michael-lewis-profile-barack-obama). They are the most versatile to swing for every occasion and you automatically look like a sophisticated gentleman who knows what they're doing. The darker the grey suit is, the more formal it is.
 
 [![](http://2.bp.blogspot.com/-pCzsuUUBHWw/UoPvt9xF_OI/AAAAAAAAAIs/II-37jSpLcY/s400/classic.png)](http://2.bp.blogspot.com/-pCzsuUUBHWw/UoPvt9xF_OI/AAAAAAAAAIs/II-37jSpLcY/s1600/classic.png)
 

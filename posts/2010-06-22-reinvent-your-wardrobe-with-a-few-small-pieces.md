@@ -21,9 +21,9 @@ Most clothing comes with cheap plastic buttons. Replacing these buttons (think o
 
 [![](http://2.bp.blogspot.com/_20LDsLnO2rk/TCD1vHQbl0I/AAAAAAAAAYw/kPBbv6JNeBw/s320/il_430xN.153207619.jpg)](http://2.bp.blogspot.com/_20LDsLnO2rk/TCD1vHQbl0I/AAAAAAAAAYw/kPBbv6JNeBw/s1600/il_430xN.153207619.jpg)Rhinestone and freshwater pearl buttons from lacemonster816's store on [Etsy](http://www.etsy.com/listing/49970299/a-spoon-full-of-joy-vintage-pearls?ref=sr_gallery_1&ga_search_query=buttons&ga_search_type=vintage&ga_page=&order=&includes%5B%5D=tags&includes%5B%5D=title).
 
-[![](http://3.bp.blogspot.com/_20LDsLnO2rk/TCD1u3y1yuI/AAAAAAAAAYo/ZV5dKHmsmGE/s320/il_430xN.153204632.jpg)](http://3.bp.blogspot.com/_20LDsLnO2rk/TCD1u3y1yuI/AAAAAAAAAYo/ZV5dKHmsmGE/s1600/il_430xN.153204632.jpg)Amber-gold vintage buttons from treasurebooth's store on Etsy. Check it out [here](http://www.etsy.com/listing/49969563/antique-ornate-amber-gold-glass-button?ref=sr_gallery_4&ga_search_query=glass+buttons&ga_search_type=all&ga_page=&order=&includes%5B%5D=tags&includes%5B%5D=title). 
+ [![](http://3.bp.blogspot.com/_20LDsLnO2rk/TCD1u3y1yuI/AAAAAAAAAYo/ZV5dKHmsmGE/s320/il_430xN.153204632.jpg)](http://3.bp.blogspot.com/_20LDsLnO2rk/TCD1u3y1yuI/AAAAAAAAAYo/ZV5dKHmsmGE/s1600/il_430xN.153204632.jpg)Amber-gold vintage buttons from treasurebooth's store on Etsy. Check it out [here](http://www.etsy.com/listing/49969563/antique-ornate-amber-gold-glass-button?ref=sr_gallery_4&ga_search_query=glass+buttons&ga_search_type=all&ga_page=&order=&includes%5B%5D=tags&includes%5B%5D=title). 
 
-[![](http://4.bp.blogspot.com/_20LDsLnO2rk/TCD1pK9NxjI/AAAAAAAAAYg/nvNTQuMhLqM/s320/il_430xN.153201844.jpg)](http://4.bp.blogspot.com/_20LDsLnO2rk/TCD1pK9NxjI/AAAAAAAAAYg/nvNTQuMhLqM/s1600/il_430xN.153201844.jpg)
+ [![](http://4.bp.blogspot.com/_20LDsLnO2rk/TCD1pK9NxjI/AAAAAAAAAYg/nvNTQuMhLqM/s320/il_430xN.153201844.jpg)](http://4.bp.blogspot.com/_20LDsLnO2rk/TCD1pK9NxjI/AAAAAAAAAYg/nvNTQuMhLqM/s1600/il_430xN.153201844.jpg)
 
 Vintage cabochon white buttons also from [Etsy](http://www.etsy.com). 
 

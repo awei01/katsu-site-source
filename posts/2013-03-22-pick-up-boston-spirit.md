@@ -14,11 +14,11 @@ tags:
   - press
 featuredImage: /uploads/2014/10/BostonSpiritCover.jpeg
 ---
-We would like to send a huge thanks to stylist extraordinaire, Jeff Lahens of [Dresscode Boston](http://dresscodeboston.com/),  who featured some [9tailors](http://9tailors.com/) jackets in the latest shoot for [Boston Spirit](http://www.bostonspiritmagazine.com/)! We couldn't be more thrilled to have one of our pieces make the cover! White dinner jacket? Don't mind if we do!
+We would like to send a huge thanks to stylist extraordinaire, Jeff Lahens of [Dresscode Boston](http://dresscodeboston.com/), who featured some [9tailors](http://9tailors.com/) jackets in the latest shoot for [Boston Spirit](http://www.bostonspiritmagazine.com/)! We couldn't be more thrilled to have one of our pieces make the cover! White dinner jacket? Don't mind if we do!
 
 [![](http://1.bp.blogspot.com/-0d6dN3Y0t9U/UUy9vXB2ZzI/AAAAAAAAChk/uBUkE7MRzSE/s640/BostonSpiritCover.jpeg)](http://1.bp.blogspot.com/-0d6dN3Y0t9U/UUy9vXB2ZzI/AAAAAAAAChk/uBUkE7MRzSE/s1600/BostonSpiritCover.jpeg)
 
-Check out more photos below of another of our favorite jackets in blue linen, wonderful for the impending warmer weather (we can only hope the snow stops soon!) All photos courtesy of [Boston Spirit](http://www.bostonspiritmagazine.com/) and the talented photographer, [Joel Benjamin](http://www.joelbenjamin.com/).
+Check out more photos below of another of our favorite jackets in blue linen, wonderful for the impending warmer weather (we can only hope the snow stops soon!) All photos courtesy of [Boston Spirit](http://www.bostonspiritmagazine.com/) and the talented photographer, [Joel Benjamin](http://www.joelbenjamin.com/).
 
 [![](http://2.bp.blogspot.com/-acnjFQZ7kRw/UUy_eN7dJxI/AAAAAAAAChs/rGl9X7z0gE4/s640/Excerpt20130304_Seasonal_Weddings-Fashion-3.jpg)](http://2.bp.blogspot.com/-acnjFQZ7kRw/UUy_eN7dJxI/AAAAAAAAChs/rGl9X7z0gE4/s1600/Excerpt20130304_Seasonal_Weddings-Fashion-3.jpg)
 

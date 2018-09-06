@@ -17,38 +17,38 @@ tags:
   - real client
 featuredImage: /uploads/2014/10/dua.jpg
 ---
-**************Meet Dua, an incredibly talented singer and the front man for [Bad Rabbits](https://www.facebook.com/BadRabbits). We met Dua awhile back and wanted to capture his individual style, while also playing up his fun side. We ultimately settled on a double breasted jacket in a gray and purple check, then accented the pockets and lapel trim in black, accompanied with black buttons, black pants, and a light grey shirt with black buttons. The sheer joy he expressed upon trying on the jacket for the first time was priceless. Once he put the entire outfit on, we were floored. Paired with his thick black-rimmed glasses, Dua looked the epitome of geek chic. **************
+**************Meet Dua, an incredibly talented singer and the front man for [Bad Rabbits](https://www.facebook.com/BadRabbits). We met Dua awhile back and wanted to capture his individual style, while also playing up his fun side. We ultimately settled on a double breasted jacket in a gray and purple check, then accented the pockets and lapel trim in black, accompanied with black buttons, black pants, and a light grey shirt with black buttons. The sheer joy he expressed upon trying on the jacket for the first time was priceless. Once he put the entire outfit on, we were floored. Paired with his thick black-rimmed glasses, Dua looked the epitome of geek chic.************** 
 
-**Age:** 31
+**Age:** 31
 
 **Hometown: Weymouth, MA**
 
 **Current residence**: Weymouth, MA
 
-**Occupation:** Singer
+**Occupation:** Singer
 
- **How long have you been a 9tailors client?**
+ **How long have you been a 9tailors client?** 
 "Less than one year."
 
 **Why choose custom?**
 
 "I choose custom because it makes me feel important."
 
-**What/who inspires your style? Why? **
+**What/who inspires your style? Why?** 
 
 "Yasiin Bey, Don Cheadle, Sly Stone and Kofi Annan." 
 
-**What is your favorite piece from 9tailors? **
+**What is your favorite piece from 9tailors?** 
 
 "My jacket." 
 
-**What would be your style advice to other men in your professional field? **
+**What would be your style advice to other men in your professional field?** 
 
 "Always. Turn. Heads."
 
 _Sage advice, Dua. One should approach their closet with this mantra every day!_
  Peep the pictures of Dua below, provided by our favorite photographer, [Channing Johnson](http://www.channingjohnson.com/).
-Do you like the double breasted look or do you prefer a two-button jacket? Email a Style Consultant any of your style ideas at [{{ site.emails.info }}.](http://{{ site.emails.info }}./)
+ Do you like the double breasted look or do you prefer a two-button jacket? Email a Style Consultant any of your style ideas at [{{ site.emails.info }}.](http://{{ site.emails.info }}./)
 
 [![](http://4.bp.blogspot.com/-uOIgyIc2I9w/Uii3WeB5pdI/AAAAAAAADi8/0t6u6qXJHSM/s400/BadRabbits-115.jpg)](http://4.bp.blogspot.com/-uOIgyIc2I9w/Uii3WeB5pdI/AAAAAAAADi8/0t6u6qXJHSM/s1600/BadRabbits-115.jpg)
 

@@ -20,10 +20,10 @@ Make an appointment with a Style Consultant now. Email us at [{{ site.emails.inf
 
 Some more info about how the discount works.
 
-	***20% on trousers in the cotton, linen tweed, B or C collection fabrics .** 
-	***All extras are NOT eligible for 20% discounts.** 
-	***The promotion is valid from April 8 to April 30th 2013 at 11:59PM EST.**
-	***If you do not purchase the qualifying items when the promotion is in effect, the discount will not apply.**
-	***Tax, shipping and handling charges apply to all promoted items.**
-	***Cannot be combined with other discounts or promotions.** 
-	***Void where prohibited.**
+	* **20% on trousers in the cotton, linen tweed, B or C collection fabrics .** 
+	* **All extras are NOT eligible for 20% discounts.** 
+	* **The promotion is valid from April 8 to April 30th 2013 at 11:59PM EST.**
+	* **If you do not purchase the qualifying items when the promotion is in effect, the discount will not apply.**
+	* **Tax, shipping and handling charges apply to all promoted items.**
+	* **Cannot be combined with other discounts or promotions.** 
+	* **Void where prohibited.**

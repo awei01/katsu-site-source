@@ -37,7 +37,7 @@ If he already owns a shaving set an engraved razor is the next best thing. Help 
 
 A cardholder is the perfect gift or those who need help keeping all of their essentials in one place. With four card slots and a central compartment for receipts or additional cards he'll be able to keep track of everything. It's also slim enough to slip right into your pocket.
 
-#### [AirPods - $159](https://www.apple.com/shop/product/MMEF2AM/A/airpods?fnode=4a)
+#### [AirPods - $159](https://www.apple.com/shop/product/MMEF2AM/A/airpods?fnode=4a)
 
 ![](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5577/5577872_rd.jpg;maxHeight=640;maxWidth=550)
 
@@ -47,7 +47,7 @@ Who doesn't love wireless headphones? They are super convenient and make everyda
 
 ![daniel-wellington-watch]({{ site.baseUrl }}/uploads/2017/12/Screen-Shot-2017-12-18-at-11.25.55-AM-e1513614461156.png)
 
-Every guy should have a nice watch. The best part about this bundle, from [Daniel Wellington](https://www.danielwellington.com/us/), is that the straps are interchangeable. He can wear the brown leather strap to work and switch it for the nylon on the weekends.
+Every guy should have a nice watch. The best part about this bundle, from [Daniel Wellington](https://www.danielwellington.com/us/), is that the straps are interchangeable. He can wear the brown leather strap to work and switch it for the nylon on the weekends.
 
 #### [All White Trainers $120](https://www.footlocker.com/product/model:255509/sku:8187100/nike-air-presto-mens/white/black/)
 
@@ -55,4 +55,4 @@ Every guy should have a nice watch. The best part about this bundle, from [Danie
 
 All white trainers have been making major waves in the fashion world for the past couple of years. We love these because 1. they are super comfortable and 2. white goes with any and everything.
 
-### Let us know what's on your holiday gift list!
+### Let us know what's on your holiday gift list!

@@ -28,10 +28,10 @@ Sale period runs from October 25, 2017 to November 6, 2017.
 
 Here are some rules and restrictions:
 
-*Blazer sale applies to our B level (super 120s) blazers and up. Our A level blazers (super 110s) do not apply.
-*For each blazer purchase that you make, you will receive $50.00 in store credit with a maximum credit of $150.00.
-*Store credit must be used the day of purchase
-*Sale does not apply to past purchases and discounted merchandise
-*Cannot be combined with other sales or promotions, including Gilt City promotions
-*Cannot be redeemed for cash or cash equivalent
-*Sale period: 10/26/2017 to 11/6/2017.
+ * Blazer sale applies to our B level (super 120s) blazers and up. Our A level blazers (super 110s) do not apply.
+ * For each blazer purchase that you make, you will receive $50.00 in store credit with a maximum credit of $150.00.
+ * Store credit must be used the day of purchase
+ * Sale does not apply to past purchases and discounted merchandise
+ * Cannot be combined with other sales or promotions, including Gilt City promotions
+ * Cannot be redeemed for cash or cash equivalent
+ * Sale period: 10/26/2017 to 11/6/2017.

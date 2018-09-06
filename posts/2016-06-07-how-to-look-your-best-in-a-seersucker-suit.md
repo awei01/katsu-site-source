@@ -17,7 +17,7 @@ tags:
   - seersucker
 featuredImage: /uploads/2016/06/southern-wedding-succulent-boutonniere.jpg
 ---
-Now is the time to set yourself apart in a seersucker suit. Before you make your purchase we've covered a few basics so that you'll look your very best this summer. Not sure what color to get or how to properly care for your suit? That's where we come in. We'll let you know what to pair with your suit when it comes to shoes and accessories as well as what colors you should choose.
+Now is the time to set yourself apart in a seersucker suit. Before you make your purchase we've covered a few basics so that you'll look your very best this summer. Not sure what color to get or how to properly care for your suit? That's where we come in. We'll let you know what to pair with your suit when it comes to shoes and accessories as well as what colors you should choose.
 
 #### **What is seersucker?**
 
@@ -31,11 +31,11 @@ The puckering in the fabric allows for more of the fabric to be held away from t
 
 #### **What color should I wear?**
 
-If you'd like to keep your seersucker suit more traditional opt for a wider stripe. A thin stripe is more of a modern take on the seersucker suit. Blue and white are traditional seersucker colors. However, if you're planning on getting married we'd suggest steering clear of these colors. Branch out a bit and enjoy the many color combinations seersucker has to offer. Grey and white as well as brown and white both look great with one another.
+If you'd like to keep your seersucker suit more traditional opt for a wider stripe. A thin stripe is more of a modern take on the seersucker suit. Blue and white are traditional seersucker colors. However, if you're planning on getting married we'd suggest steering clear of these colors. Branch out a bit and enjoy the many color combinations seersucker has to offer. Grey and white as well as brown and white both look great with one another.
 
 [![seersucker]({{ site.baseUrl }}/uploads/seersucker1-e1465319724514.jpg)]({{ site.baseUrl }}/uploads/seersucker1-e1465319724514.jpg)
 
-White shirts are a great go to when it comes to wearing seersucker. Keep your shirt either solid or with very little texture. This will help when pairing your tie and pocket square. Other shirting options would be a light blue, pastel pink and lavender.
+White shirts are a great go to when it comes to wearing seersucker. Keep your shirt either solid or with very little texture. This will help when pairing your tie and pocket square. Other shirting options would be a light blue, pastel pink and lavender.
 
 #### **What kind of shoes should I wear?**
 
@@ -55,4 +55,4 @@ Yes seersucker is cotton but you do not want to make the mistake of washing it a
 
 When wearing seersucker remember that your pants should be lined. If they aren't lined make sure your boxers are neutral and not a bright color. You'll want to make a statement with your outfit and see through pants is the wrong one.
 
-Ready to purchase your new suit? For a few more days we'll be having a [15% sale on all our linen and seersucker fabrics]({{ site.baseUrl }}/2016/05/lighten-up-15-linen-suit-sale/)! Email us at {{ site.emails.info }} for an appointment.
+Ready to purchase your new suit? For a few more days we'll be having a [15% sale on all our linen and seersucker fabrics]({{ site.baseUrl }}/2016/05/lighten-up-15-linen-suit-sale/)! Email us at {{ site.emails.info }} for an appointment.

@@ -44,8 +44,8 @@ Gucci
 
 \*All images courtesy of [Esquire.com](http://esquire.com/)
 
-Not sure how to wear this look? Click [here](http://www.gq.com/style/wear-it-now/201105/how-wear-double-breasted-suit-jacket-best-db-simon-spurr?slide=3#slide=1) for GQ's four ways to rock the double. Our favorite tip: 
+Not sure how to wear this look? Click [here](http://www.gq.com/style/wear-it-now/201105/how-wear-double-breasted-suit-jacket-best-db-simon-spurr?slide=3#slide=1) for GQ's four ways to rock the double. Our favorite tip: 
 
 > "With a DB, it's all about structure and lines, like a car," says Spurr. "Keep the colors minimal so you can see the jacket's silhouette."
 
-Have a hankering to round out your suit collection? Thinking about a sports coat, blazer, trench, full suit, or vest in the double breasted variety? Tell us your ideas—we will try our best to make it happen! Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to schedule an appointment!
+ Have a hankering to round out your suit collection? Thinking about a sports coat, blazer, trench, full suit, or vest in the double breasted variety? Tell us your ideas—we will try our best to make it happen! Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to schedule an appointment!

@@ -25,7 +25,7 @@ Starting with...a dress shirt sale! Starting January 1, select basic level dress
 
 [![ss201501]({{ site.baseUrl }}/uploads/ss201501-1024x681.jpg)]({{ site.baseUrl }}/uploads/ss201501.jpg)
 
-For those of you who need a starter wardrobe, the Kellet Package is a great option. We'll help you make perfect dress shirt choices, so you can mix and match without a style misstep. You'll be an effortless gent in no time.
+For those of you who need a starter wardrobe, the Kellet Package is a great option. We'll help you make perfect dress shirt choices, so you can mix and match without a style misstep. You'll be an effortless gent in no time.
 
 [![kp201501]({{ site.baseUrl }}/uploads/kp201501-1024x938.jpg)]({{ site.baseUrl }}/uploads/kp201501.jpg)
 
@@ -33,21 +33,21 @@ Don't need a professional wardrobe? No need to fret. We can help you update your
 
 [![bp201501]({{ site.baseUrl }}/uploads/bp201501-1024x938.jpg)]({{ site.baseUrl }}/uploads/pp201501.jpg)
 
-For those seeking to start 2015 with a fresh look, the Phillips Package might suit you. Sometimes you just need to toss the old and ragged, and start completely anew. We'll even help you build a cohesive closet that makes sense, so you can maximize what you have.
+For those seeking to start 2015 with a fresh look, the Phillips Package might suit you. Sometimes you just need to toss the old and ragged, and start completely anew. We'll even help you build a cohesive closet that makes sense, so you can maximize what you have.
 
 [![pp201501]({{ site.baseUrl }}/uploads/pp201501-1024x938.jpg)]({{ site.baseUrl }}/uploads/pp201501.jpg)
 
-Our Style Consultants are here to help you be the most stylish you. Please email us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) or at 617.286.6135 for details and appointments.
+Our Style Consultants are here to help you be the most stylish you. Please email us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) or at 617.286.6135 for details and appointments.
 
 There are some rules and restrictions we'd like you to know about:
 
-	*Dress shirt sale applies to select fabrics. Extras (e.g., monogram, special buttons, etc.) are not included. Limit one per customer. All dress shirt sale orders will be submitted on February 1. Sale ends on January 31.
-	*Full payment is required upon order.
-	*Package deals and credits are non-transferable.
-	*Pocket square credits cannot be exchanged for custom garments.
-	*Free shirt or trouser credits may be used towards other custom garments.
-	*Does not apply to past purchases.
-	*Shipping and handling charges apply to all promoted items.
-	*Package deal sale ends on January 31.
-	*Other rules and restrictions may apply.
-	*Void where prohibited.
+	* Dress shirt sale applies to select fabrics. Extras (e.g., monogram, special buttons, etc.) are not included. Limit one per customer. All dress shirt sale orders will be submitted on February 1. Sale ends on January 31.
+	* Full payment is required upon order.
+	* Package deals and credits are non-transferable.
+	* Pocket square credits cannot be exchanged for custom garments.
+	* Free shirt or trouser credits may be used towards other custom garments.
+	* Does not apply to past purchases.
+	* Shipping and handling charges apply to all promoted items.
+	* Package deal sale ends on January 31.
+	* Other rules and restrictions may apply.
+	* Void where prohibited.

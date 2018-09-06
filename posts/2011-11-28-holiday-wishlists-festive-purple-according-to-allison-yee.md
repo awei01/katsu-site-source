@@ -20,11 +20,11 @@ Meet Allison, co-founder of [Polished Wardrobe Advising](http://polishedadvising
 
 Last week we sat down to create a way to ease men into purple. Why purple? Well according to [Allison](http://polishedadvising.com/company.html) it possess all the greatest qualities including:
 
-	*Versatile- looks good with dark jeans, grey slacks, black slacks, tweed
-	*Flattering- with an array of shades it is flattering on every skin tone
-	*Gateway- since it is though of more masculine than pink it provides a stepping stone to other colors
-	*Easy- Pairs with any color shoe
-	*Appropriate- still work appropriate for more conservative industries like banking and consulting
+	* Versatile- looks good with dark jeans, grey slacks, black slacks, tweed
+	* Flattering- with an array of shades it is flattering on every skin tone
+	* Gateway- since it is though of more masculine than pink it provides a stepping stone to other colors
+	* Easy- Pairs with any color shoe
+	* Appropriate- still work appropriate for more conservative industries like banking and consulting
 
 With all these perks wrapped up in one color its clearly a great choice as a gift for your loved ones or for yourself.
 

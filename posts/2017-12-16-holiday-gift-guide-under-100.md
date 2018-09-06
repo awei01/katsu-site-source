@@ -15,7 +15,7 @@ tags:
   - mens fashion
 featuredImage: /uploads/2017/12/Gifts-under-100.png
 ---
-Tis the season for gift giving! Whether he enjoys traveling or needs a little help sprucing up his wardrobe there's surely something here for that special guy on your list.
+Tis the season for gift giving! Whether he enjoys traveling or needs a little help sprucing up his wardrobe there's surely something here for that special guy on your list.
 
 ##### [Apple Watch Band $49](https://www.apple.com/shop/product/MQW52AM/A/38mm-midnight-blue-sport-loop?fnode=b43408ee880c4eda3792313fb32836375dfb6998dd206efac27e01db5d137d2d612b44f9191501e1d343bca97689af04d23f25b54985d33dea67f6d0e312516d372600125bfb678bf5a1aba90d0da7ff)
 
@@ -35,7 +35,7 @@ These glasses are perfect for the guy who loves whiskey. You can also add a mono
 
 Always on the go? Travel in style with a leather passport case and luggage tag.
 
-##### [A Wool Tie $19 ](https://www.thetiebar.com/product/32035sk?ResultCount=2)
+##### [A Wool Tie $19](https://www.thetiebar.com/product/32035sk?ResultCount=2) 
 
 ![wool-tie]({{ site.baseUrl }}/uploads/2017/12/Screen-Shot-2017-12-15-at-2.55.30-PM-e1513367768716.png)
 

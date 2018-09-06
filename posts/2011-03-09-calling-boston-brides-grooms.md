@@ -17,7 +17,7 @@ tags:
   - wedding
 featuredImage: null
 ---
-We are happy to announce that we are now a member of the [Boston Bridal Lounge](http://www.bostonbridallounge.com/). The BBL is run by two wedding industry veterens, Kerri Esposito-Bruneau and Eleni Granas.  The ladies provide concierge services to brides and grooms looking to get married in the area. So, whether the couple is looking for a good linen vendor or calligrapher, the BBL will be able to provide referrals to _trusted_ resources in the area. They've signed some of the most respected names in the wedding industry, including [Rafanelli Events](http://www.rafanellievents.com/) (Chelsea Clinton's planner) and [Grettacole](http://grettacole.com/).
+We are happy to announce that we are now a member of the [Boston Bridal Lounge](http://www.bostonbridallounge.com/). The BBL is run by two wedding industry veterens, Kerri Esposito-Bruneau and Eleni Granas. The ladies provide concierge services to brides and grooms looking to get married in the area. So, whether the couple is looking for a good linen vendor or calligrapher, the BBL will be able to provide referrals to _trusted_ resources in the area. They've signed some of the most respected names in the wedding industry, including [Rafanelli Events](http://www.rafanellievents.com/) (Chelsea Clinton's planner) and [Grettacole](http://grettacole.com/).
 
 This is a fantastic service especially if the couple is just starting their wedding research process and want a one-stop-shop for all things wedding related. And, get this..._It's free_.
 

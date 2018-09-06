@@ -23,12 +23,12 @@ tags:
   - tuxedo styles
 featuredImage: /uploads/2014/10/jamesbond.jpg
 ---
-**This is the last week you can enter our [Facebook](http://) Custom Tuxedo Giveaway. **
+**This is the last week you can enter our [Facebook](http://) Custom Tuxedo Giveaway.** 
 
-**Like our page and like any post mentioning the giveaway. **
+**Like our page and like any post mentioning the giveaway.** 
 
-**The more you like, the more chances you have of winning. **
-Not many people know the general rules of wearing a tuxedo to a black tie affair. With the Holiday season officially here and black tie events beginning, it's good to know some guidelines to dressing appropriately to your occasion.
+**The more you like, the more chances you have of winning.** 
+ Not many people know the general rules of wearing a tuxedo to a black tie affair. With the Holiday season officially here and black tie events beginning, it's good to know some guidelines to dressing appropriately to your occasion.
 
 [![](http://4.bp.blogspot.com/-gh6_kEwCCJU/UpTkl3nB9-I/AAAAAAAAALo/ZJZ98fmPQv0/s1600/Blog-Tuxedo+Rules.jpg)](http://4.bp.blogspot.com/-gh6_kEwCCJU/UpTkl3nB9-I/AAAAAAAAALo/ZJZ98fmPQv0/s1600/Blog-Tuxedo+Rules.jpg)
 

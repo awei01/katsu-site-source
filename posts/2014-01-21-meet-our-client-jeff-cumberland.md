@@ -22,37 +22,37 @@ featuredImage: /uploads/2014/10/Jeff-Cumberland_03.jpg
 Jeff Cumberland #87 - Jets vs Steelers, October 13, 2013
 source: fansided
 
-Jeff Cumberland is the [New York Jet'](http://www.newyorkjets.com/team/roster/jeff-cumberland/57e1c15d-f0a0-4dc2-a2b2-0a2cc6a78c11/)s tight end player, #87. He signed as an un-drafted free agent in 2010 after graduating from the University of Illinois. He is fierce on the field and was voted in the [Top 5 Tight End Pickups](http://fansided.com/2013/10/16/fantasy-football-week-7-waiver-wire-top-5-tight-end-pickups/) for this season's fantasy football. 
+Jeff Cumberland is the [New York Jet'](http://www.newyorkjets.com/team/roster/jeff-cumberland/57e1c15d-f0a0-4dc2-a2b2-0a2cc6a78c11/)s tight end player, #87. He signed as an un-drafted free agent in 2010 after graduating from the University of Illinois. He is fierce on the field and was voted in the [Top 5 Tight End Pickups](http://fansided.com/2013/10/16/fantasy-football-week-7-waiver-wire-top-5-tight-end-pickups/) for this season's fantasy football. 
 
-Off the field, I got to meet the Jeff Cumberland dappered-up in his [9tailors](http://www.9tailors.com/) suits. This was my first time meeting him and was told he is shy. As a photographer, shy is a huge challenge. The images can come out stiff and no matter how often you change scenery, clothes or poses even, they can all end up looking the same. At first Jeff was a little bit more reserved but as the day went on, his energy began to pick up. He was sassy and having fun with the shoot and is ready to go after a [GQ](http://www.gq.com/) cover. Needless to say, I was relieved and excited to see the outcome. 
+Off the field, I got to meet the Jeff Cumberland dappered-up in his [9tailors](http://www.9tailors.com/) suits. This was my first time meeting him and was told he is shy. As a photographer, shy is a huge challenge. The images can come out stiff and no matter how often you change scenery, clothes or poses even, they can all end up looking the same. At first Jeff was a little bit more reserved but as the day went on, his energy began to pick up. He was sassy and having fun with the shoot and is ready to go after a [GQ](http://www.gq.com/) cover. Needless to say, I was relieved and excited to see the outcome. 
 
-I am eager to introduce you to our client, Jeff Cumberland. See what he has to say about men's wear and his 9tailors experience. 
+I am eager to introduce you to our client, Jeff Cumberland. See what he has to say about men's wear and his 9tailors experience. 
 
 [![](http://2.bp.blogspot.com/-kHE4SEAIdJQ/Ut6kl6NCOOI/AAAAAAAAA6w/yNfAmVmiKYs/s1600/Jeff+Cumberland_03.jpg)](http://2.bp.blogspot.com/-kHE4SEAIdJQ/Ut6kl6NCOOI/AAAAAAAAA6w/yNfAmVmiKYs/s1600/Jeff+Cumberland_03.jpg)
 
 **Name**: Jeff Cumberland
-**Age**: 26
-**Hometown**: Columbus, OH
-**Current Residence**: Florham Park, NJ
-**How Long Have You Been a 9tailors Client?**
+ **Age**: 26
+ **Hometown**: Columbus, OH
+ **Current Residence**: Florham Park, NJ
+ **How Long Have You Been a 9tailors Client?**
 8 Months
-**Why Choose Custom?**
+ **Why Choose Custom?**
 I choose custom because that is the way of the world nowadays and I need to be looking my best at all times. The trend is to have perfect form-fitting outfits that show who you really are as a professional.
 
 [![](http://3.bp.blogspot.com/-L1fPN2ZjXns/Ut6oMtC7-GI/AAAAAAAAA7Q/W8I5-7Ka_ww/s1600/Jeff+Cumberland_02.jpg)](http://3.bp.blogspot.com/-L1fPN2ZjXns/Ut6oMtC7-GI/AAAAAAAAA7Q/W8I5-7Ka_ww/s1600/Jeff+Cumberland_02.jpg)
 
-**What Would Be Your Style Advice for Men in Your Career?**
+ **What Would Be Your Style Advice for Men in Your Career?**
 Be who you really are! Fashion is what YOU make it - not following the norm, what others are wearing, and even what is in magazines and on the runways. It is OK to get creative and stylish as long as you aren't going overboard.
-**Who or What Inspires Your Style?**
+ **Who or What Inspires Your Style?**
 I inspire my own style and fashion. Although, I do look at some of the latest trends, I like to put my own spin and touch into it. I like to be different than everyone else especially my teammates in the locker room.
 
 [![](http://2.bp.blogspot.com/-S25Et_YCGMI/Ut6oYFE-cEI/AAAAAAAAA7Y/pH9tTmp-Gk8/s1600/Jeff+Cumberland_04.jpg)](http://2.bp.blogspot.com/-S25Et_YCGMI/Ut6oYFE-cEI/AAAAAAAAA7Y/pH9tTmp-Gk8/s1600/Jeff+Cumberland_04.jpg)
 
 Jeff keeps everything personal and to his unique style by monogramming the cuffs of his shirts with his initials, "JC" - sitting beautifully over his diamond, gold watch.
 
-**What is Your Favorite Piece from 9tailors?**
+ **What is Your Favorite Piece from 9tailors?**
 My favorite 9tailors piece has to be my grey suit jacket paired with my black pants. I think the mismatched colors complement each other well and is definitely in-style for 2014.
-**How Difficult is it to Find Garments that Targets Your Specific Needs and Style?**
+ **How Difficult is it to Find Garments that Targets Your Specific Needs and Style?**
 It is sometimes difficult to find garments that are tailored to my specific needs and styles because of physique. Being 6'5" and a tall athlete, I almost always have to custom order a special wardrobe or have it tailored to my fitting.
 
 [![](http://2.bp.blogspot.com/-TmT_TVcvN9A/Ut6om_o8ScI/AAAAAAAAA7w/4LtbWaMIsuY/s1600/Jeff+Cumberland_07.jpg)](http://2.bp.blogspot.com/-TmT_TVcvN9A/Ut6om_o8ScI/AAAAAAAAA7w/4LtbWaMIsuY/s1600/Jeff+Cumberland_07.jpg)
@@ -74,7 +74,7 @@ On the field in his jersey or off the field in his suit, you can't help but be a
 source: newsday
 
 9tailors' photographs taken by style consultant, [Michelle Chan](http://michellemchan.com/).
-Featured glasses and sunglasses by [Eyespot](http://www.eyespot.com/) in Chestnut Hill
+Featured glasses and sunglasses by [Eyespot](http://www.eyespot.com/) in Chestnut Hill
 Shoe Polishing by [Yanza Shoe Repair](http://www.yelp.com/biz/yanza-shoe-repair-manhattan) in New York City
 
-Interested in adapting Jeff's style? Want custom shirts monogrammed with your name or nickname? Want to build your unique look? Contact us at {{ site.emails.info }}
+ Interested in adapting Jeff's style? Want custom shirts monogrammed with your name or nickname? Want to build your unique look? Contact us at {{ site.emails.info }}

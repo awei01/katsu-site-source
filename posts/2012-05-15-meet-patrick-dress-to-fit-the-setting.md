@@ -64,13 +64,13 @@ Take a gander at some other shots of Patrick's photo shoot, courtesy of our wond
 
 Shoot Details:
 
-**Location:** Boston Common**Shirt: **[9tailors](http://www.9tailors.com/) 
+**Location:** Boston Common **Shirt:** [9tailors](http://www.9tailors.com/) 
 **Linen Blazer:** [9tailors](http://www.9tailors.com/)
-**Cotton Pants:** [9tailors](http://www.9tailors.com/)  **Bow Tie:** [OoOTie](http://www.oootie.com/)
+**Cotton Pants:** [9tailors](http://www.9tailors.com/) **Bow Tie:** [OoOTie](http://www.oootie.com/)
 **Accessories:** [SnapLnx.com](http://snaplnx.com/)
 **Shoes:** [Generic Man](http://thegenericman.com/)
-**Credit Card Case:** [Sterling Kane](http://www.sterlingkane.com/) 
+**Credit Card Case:** [Sterling Kane](http://www.sterlingkane.com/) 
 
-"Like" us on [Facebook](https://www.facebook.com/pages/9tailors/49696314250). You know you want to!
+ "Like" us on [Facebook](https://www.facebook.com/pages/9tailors/49696314250). You know you want to!
 
 Loving linen? Craving cotton? Email [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to book your appointment to design some Spring/Summer outfits with us!

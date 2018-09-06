@@ -20,7 +20,7 @@ The days are finally feeling warmer and the notion of Spring being around the co
 
 Transitioning your winter wardrobe to a spring wardrobe can be daunting for some, especially for those who don't have an extensive one. A simple way to start is with accessories, pocket squares and bow ties. Bow ties are more playful and evokes a lighter spirit than neck ties do. Neck ties can weigh an outfit down because it automatically draws attention downward. Bow ties draw attention upwards to your sparkling smile, ready and waiting to charm.
 
-Splashes of color and/or pattern brings darker winter solid colors to life without staying in dark colors or jumping head first into brighter colors before the weather is right. Start with the classics before you venture to bolder colors and patterns. Florals will always in fashion during the warmer seasons, it's how you wear it that will keep you in vogue.
+Splashes of color and/or pattern brings darker winter solid colors to life without staying in dark colors or jumping head first into brighter colors before the weather is right. Start with the classics before you venture to bolder colors and patterns. Florals will always in fashion during the warmer seasons, it's how you wear it that will keep you in vogue.
 
 Our studio is getting ready for Spring with the help of new furniture and our little garden is blossoming...
 

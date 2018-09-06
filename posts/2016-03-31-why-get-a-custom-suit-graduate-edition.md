@@ -30,7 +30,7 @@ For someone purchasing their first custom suit, as a grad school applicant or gr
 
 [![gradblog5]({{ site.baseUrl }}/uploads/gradblog5.jpg)]({{ site.baseUrl }}/uploads/gradblog5.jpg)
 
-A navy or grey suit is a solid choice if you don't have either and this is your first custom suit. They are versatile and will never go out of style. Here are a few examples of  how to wear the perfect grey or navy suit.
+A navy or grey suit is a solid choice if you don't have either and this is your first custom suit. They are versatile and will never go out of style. Here are a few examples of how to wear the perfect grey or navy suit.
 
 [![gradblog1]({{ site.baseUrl }}/uploads/gradblog1.jpg)]({{ site.baseUrl }}/uploads/gradblog1.jpg)
 

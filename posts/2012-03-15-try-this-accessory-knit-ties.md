@@ -33,7 +33,7 @@ Courtesy of Swagwire
 
 Courtesy of J. Crew
 
-Knit ties are lightweight (okay for warmer temps), squared on the bottom, and can be twisted into a small tie-knot, whether you prefer a full windsor or a four-in-hand. Paired with a lightweight cardigan or sports coat, it's an accessory that will surely perk up an ordinary outfit with preppy panache. A great addition to your wardrobe if you're looking to do something subtle and different with your look. [GQ](http://www.gq.com/style/wear-it-now/201203/jim-moore-spring-trend-report-photos#slide=15) heralds the striped knit tie as a must-have this spring.
+Knit ties are lightweight (okay for warmer temps), squared on the bottom, and can be twisted into a small tie-knot, whether you prefer a full windsor or a four-in-hand. Paired with a lightweight cardigan or sports coat, it's an accessory that will surely perk up an ordinary outfit with preppy panache. A great addition to your wardrobe if you're looking to do something subtle and different with your look. [GQ](http://www.gq.com/style/wear-it-now/201203/jim-moore-spring-trend-report-photos#slide=15) heralds the striped knit tie as a must-have this spring.
 
 [![](http://4.bp.blogspot.com/-ZDQBdRX6FjI/T2EjYraZOlI/AAAAAAAAABg/-CVgPUs5xBE/s320/knit-pack-bandofoutsiders.jpg)](http://4.bp.blogspot.com/-ZDQBdRX6FjI/T2EjYraZOlI/AAAAAAAAABg/-CVgPUs5xBE/s1600/knit-pack-bandofoutsiders.jpg)
 
@@ -41,4 +41,4 @@ Courtesy of GQ
 
 Check out [H&M](http://www.hm.com/us/product/98480?article=98480-C#article=98480-C) as well as [J. Crew](http://www.jcrew.com/mens_category/tiesandpocketsquares.jsp?FOLDER%3C%3Efolder_id=2534374302023683&bmUID=1331766740149) to see their limited selections. And if you know a good knitter, why not see if she can take a stab at one of these bad boys with her knitting needles? After all, choosing a cool pattern for a one-of-a-kind tie will punctuate your custom style.
 
-Have a look in mind that you can't find off-the-rack or need some pointers on how to accessorize an ensemble? Email a style consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and we'll help guide you through our custom designing process.
+Have a look in mind that you can't find off-the-rack or need some pointers on how to accessorize an ensemble? Email a style consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and we'll help guide you through our custom designing process.

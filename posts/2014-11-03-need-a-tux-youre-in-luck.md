@@ -30,11 +30,11 @@ In need of a tuxedo that fits just right for the holidays or New Years gathering
 
 \*Rules and restrictions:
 
-	*Sale applies to super 150s level fabrics or above
-	*Sale applies to jackets, two or three piece suits only
-	*Discount does not apply to any extras
-	*Sales tax will apply
-	*Alterations included
-	*Begins 11/3/2014
-	*Expires: 11/22/2014
-	*Discount cannot be combined with other promotions or sales
+	* Sale applies to super 150s level fabrics or above
+	* Sale applies to jackets, two or three piece suits only
+	* Discount does not apply to any extras
+	* Sales tax will apply
+	* Alterations included
+	* Begins 11/3/2014
+	* Expires: 11/22/2014
+	* Discount cannot be combined with other promotions or sales

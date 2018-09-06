@@ -23,15 +23,15 @@ If you have a mostly desk job, work a ton of hours, just don't want to eat right
 
 [![](http://spnx.imageg.net/cms_widgets/31/82/318245_assets/091010_Man_Spanx_Home_FNL.jpg)](http://spnx.imageg.net/cms_widgets/31/82/318245_assets/091010_Man_Spanx_Home_FNL.jpg)
 
-[![](http://spnx.imageg.net/graphics/product_images/pSPNX1-7158081t207x260.jpg)](http://spnx.imageg.net/graphics/product_images/pSPNX1-7158081t207x260.jpg)
+[![](http://spnx.imageg.net/graphics/product_images/pSPNX1-7158081t207x260.jpg)](http://spnx.imageg.net/graphics/product_images/pSPNX1-7158081t207x260.jpg) 
 
 What we like about SFM...
 
-	***It really does slim.** It eliminates man boobs, narrows the waist, and reduces unsightly button pulling (don't be like [this guy](http://www.fashioncentral.pk/images/health-sports/fat_belly_t.jpg)). It's been tested by real people...Read the review on the SFM from connoisseur of under garments, [The Undershirt Guy](http://www.undershirtguy.com/undershirt-review-spanx-for-men-cotton-compression-undershirt/).
-	***It looks just like an undershirt.** This is important as you don't want your undershirt to confused with a man girdle.
-	***It feels amazing!** Without a doubt, Sara Blakely has developed a high quality product. Her women's version does the job, yet are very comfortable to wear. The undershirts are made in Egyptian Cotton for maximum softness and breath-ability. It also has Spandex/Elastene to hold everything in place without making you look like an over-stuffed sausage.
-	***We** **like the style options.** It comes in round and v-neck (we like the v-neck option). It also comes in white, black and heather gray too. For men looking for a sleeveless option, Spanx has got you covered.
-	***And...it comes with [matching boxers](http://www.spanx.com/product/index.jsp?productId=4410078&cp=4017325.4427303&parentPage=family)!** The boxers have an innovative 3D pouch allowing for proper air circulation. The fabric reduces irritation as well. Lastly, there is a comfortable compression around the legs (again, no sausage legs here) for a contoured look.
+	* **It really does slim.** It eliminates man boobs, narrows the waist, and reduces unsightly button pulling (don't be like [this guy](http://www.fashioncentral.pk/images/health-sports/fat_belly_t.jpg)). It's been tested by real people...Read the review on the SFM from connoisseur of under garments, [The Undershirt Guy](http://www.undershirtguy.com/undershirt-review-spanx-for-men-cotton-compression-undershirt/).
+	* **It looks just like an undershirt.** This is important as you don't want your undershirt to confused with a man girdle.
+	* **It feels amazing!** Without a doubt, Sara Blakely has developed a high quality product. Her women's version does the job, yet are very comfortable to wear. The undershirts are made in Egyptian Cotton for maximum softness and breath-ability. It also has Spandex/Elastene to hold everything in place without making you look like an over-stuffed sausage.
+	* **We** **like the style options.** It comes in round and v-neck (we like the v-neck option). It also comes in white, black and heather gray too. For men looking for a sleeveless option, Spanx has got you covered.
+	* **And...it comes with [matching boxers](http://www.spanx.com/product/index.jsp?productId=4410078&cp=4017325.4427303&parentPage=family)!** The boxers have an innovative 3D pouch allowing for proper air circulation. The fabric reduces irritation as well. Lastly, there is a comfortable compression around the legs (again, no sausage legs here) for a contoured look.
 
 [![](http://spnx.imageg.net/graphics/product_images/pSPNX1-8515287t207x260.jpg)](http://spnx.imageg.net/graphics/product_images/pSPNX1-8515287t207x260.jpg)
 

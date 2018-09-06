@@ -15,13 +15,13 @@ tags:
 featuredImage: null
 ---
 How should you add a little something extra to your wardrobe before heading to your favorite evening spot this summer?
-We have a few tips for you:
+We have a few tips for you: 
 
-	*A cotton suit jacket or sport coat paired with a clean, dark denim. Or even go preppy with white straight-leg jeans or chinos.
+	* A cotton suit jacket or sport coat paired with a clean, dark denim. Or even go preppy with white straight-leg jeans or chinos.
 
-	*A cotton skinny tie to look trim and stylish yet casual.
+	* A cotton skinny tie to look trim and stylish yet casual.
 
-	*A cotton pocket square for a dressed-up look with summer charm!
+	* A cotton pocket square for a dressed-up look with summer charm!
 
 See the design board below for ideas: 
 

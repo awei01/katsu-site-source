@@ -22,17 +22,17 @@ Allow me to present you with one of our clients, a member of the [Bad Rabbits](h
 
 [![](http://2.bp.blogspot.com/-FEPSCe80x2U/UiizWc8PQKI/AAAAAAAADhs/wrh9uUYYWwU/s320/BadRabbits-090.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F2.bp.blogspot.com%2F-FEPSCe80x2U%2FUiizWc8PQKI%2FAAAAAAAADhs%2Fwrh9uUYYWwU%2Fs320%2FBadRabbits-090.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
 
-**************Meet Santi, a slick guitarist with a classic, clean sense of style. When we met Santi, we discussed his fashion and fit preferences**************to assess how best to integrate his individual taste into his [9tailors](http://www.9tailors.com/) items. The result? We based the design off the svelte suits of Don Draper, and edged up the classic slim fit with a new pant pocket style and the jacket's velvet bottom lapel. Seen above, this guy pulls off "gentleman" flawlessly.
+**************Meet Santi, a slick guitarist with a classic, clean sense of style. When we met Santi, we discussed his fashion and fit preferences************** to assess how best to integrate his individual taste into his [9tailors](http://www.9tailors.com/) items. The result? We based the design off the svelte suits of Don Draper, and edged up the classic slim fit with a new pant pocket style and the jacket's velvet bottom lapel. Seen above, this guy pulls off "gentleman" flawlessly.
 
-**Age:** 30
+**Age:** 30
 
 **Hometown:** Philadelphia, PA
 
-**Current residence**: New York, NY 
+**Current residence**: New York, NY 
 
-**Occupation:** Musician
+**Occupation:** Musician
 
-**How long have you been a 9tailors client?** 
+**How long have you been a 9tailors client?** 
 
 "Five months."
 
@@ -42,29 +42,29 @@ Allow me to present you with one of our clients, a member of the [Bad Rabbits](h
 
 [![](http://2.bp.blogspot.com/-KN-G-GcoSfg/Uii1yBItH9I/AAAAAAAADiU/49O4cBY-v6A/s320/BadRabbits-093.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F2.bp.blogspot.com%2F-KN-G-GcoSfg%2FUii1yBItH9I%2FAAAAAAAADiU%2F49O4cBY-v6A%2Fs320%2FBadRabbits-093.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
 
-**What/who inspires your style? Why? **
+**What/who inspires your style? Why?** 
 
 "Classic, classy and well fitting. I like to find garments that fit your own unique body form and highlight the strong attributes you have. You don't want to bite someone else's style because they are not you and things don't fit on them the same as you."
 
 [![](http://2.bp.blogspot.com/-nK1GKMg6A3o/UiizjEF4khI/AAAAAAAADh0/xhHLDKr5_-o/s320/BadRabbits-091.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F2.bp.blogspot.com%2F-nK1GKMg6A3o%2FUiizjEF4khI%2FAAAAAAAADh0%2FxhHLDKr5_-o%2Fs320%2FBadRabbits-091.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
 
-**What is your favorite piece from 9tailors? **
+**What is your favorite piece from 9tailors?** 
 
-"My custom suit jacket is my favorite piece. The velvet lapels add a great touch and make it a unique jacket. The fit is great and the material just works with the whole thing." 
+"My custom suit jacket is my favorite piece. The velvet lapels add a great touch and make it a unique jacket. The fit is great and the material just works with the whole thing." 
 
 [![](http://4.bp.blogspot.com/-yiOsU7qJZoo/UiizwCSDR0I/AAAAAAAADh8/rf3C0ChmzF4/s320/BadRabbits-092.jpg)](https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F4.bp.blogspot.com%2F-yiOsU7qJZoo%2FUiizwCSDR0I%2FAAAAAAAADh8%2Frf3C0ChmzF4%2Fs320%2FBadRabbits-092.jpg&container=blogger&gadget=a&rewriteMime=image%2F*)
 
 **How difficult is it to find garments that targets your specific needs and style?**
 
-"I find it difficult to get something that is specifically you, simply because garments aren't designed with your own style in mind. You may find a lot of things out there that you like, but nothing that is specific to you." 
+"I find it difficult to get something that is specifically you, simply because garments aren't designed with your own style in mind. You may find a lot of things out there that you like, but nothing that is specific to you." 
 
-**What would be your style advice to other men in your professional field? **
+**What would be your style advice to other men in your professional field?** 
 
 "Define your style, embrace it and stay inspired." 
 
 [![](http://3.bp.blogspot.com/-Wfd34DW1B4I/Uii1yXYaeQI/AAAAAAAADiY/841zcRov6y8/s320/BadRabbits-102.jpg)](http://3.bp.blogspot.com/-Wfd34DW1B4I/Uii1yXYaeQI/AAAAAAAADiY/841zcRov6y8/s1600/BadRabbits-102.jpg)
 
-_We couldn't agree more! _
+_We couldn't agree more!_ 
 
 Check out the pictures below, courtesy of one of Boston's best photographers, [Channing Johnson](http://www.channingjohnson.com/).
 

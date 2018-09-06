@@ -36,12 +36,12 @@ Choose lavender for your working buttonholes.
 
 Add a paisley lining and contrast piping.
 
-Rules and Restrictions: 
+Rules and Restrictions: 
 
-	*The promotion is valid now until July  31tst, 2012 at 11:59PM EST.
+	* The promotion is valid now until July 31tst, 2012 at 11:59PM EST.
 
-	*If you do not purchase the qualifying items when the promotion is in effect, the discount will not apply.
-	*The promotion applies only to qualifying custom suits in the cotton-khaki, B and C categories.
-	*Shipping and handling charges apply to all promoted items.
-	*Cannot be combined with other discounts or promotions. 
-	*Void where prohibited.
+	* If you do not purchase the qualifying items when the promotion is in effect, the discount will not apply.
+	* The promotion applies only to qualifying custom suits in the cotton-khaki, B and C categories.
+	* Shipping and handling charges apply to all promoted items.
+	* Cannot be combined with other discounts or promotions. 
+	* Void where prohibited.

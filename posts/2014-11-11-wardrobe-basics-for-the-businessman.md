@@ -18,14 +18,14 @@ tags:
   - menswear tips
 featuredImage: null
 ---
-Do you ever feel like you are wearing the same things to the office? Or, maybe you can't be bothered with matching everything all the time. That's why we are going to go over the minimum wardrobe must-haves for a businessman. With these basics, you _will_ be able to throw anything on and still look put together, with variety.
+Do you ever feel like you are wearing the same things to the office? Or, maybe you can't be bothered with matching everything all the time. That's why we are going to go over the minimum wardrobe must-haves for a businessman. With these basics, you _will_ be able to throw anything on and still look put together, with variety.
 
 **SUITS**
-Solid navy
+ Solid navy
 
 [![navy_grey_201411]({{ site.baseUrl }}/uploads/navy_grey_201411.jpg)]({{ site.baseUrl }}/uploads/navy_grey_201411.jpg)
 
-These two are your starters for any suit wardrobe. If you are out of school and in the real world, doing an internship or just starting in corporate business, the first two suits you should _always_ get are a solid navy and a charcoal grey. They epitomize the classic business wear. These hues go with shirts and shoes in varying patterns, styles and colors.
+These two are your starters for any suit wardrobe. If you are out of school and in the real world, doing an internship or just starting in corporate business, the first two suits you should _always_ get are a solid navy and a charcoal grey. They epitomize the classic business wear. These hues go with shirts and shoes in varying patterns, styles and colors.
 
 Solid black
 
@@ -42,7 +42,7 @@ Subtle pattern
 Now that you have your basic suits, you can branch out to a pattern. A Prince of Wales check is a classic, as is a subtle pinstripe. Navy pinstripes are a good work go-to, but avoid a chalk stripe or you'll look like a mobster.
 
 **SHIRTS - the basic array of shirts that will go well with anything**
-Solids - white, blue, lavender
+ Solids - white, blue, lavender
 
 ![](http://1.bp.blogspot.com/-DW0l5RHCWQY/VC71md8Hb0I/AAAAAAAAAx4/LKF7L6UQerE/s1600/9TailorsFallShoot-062.jpg)
 

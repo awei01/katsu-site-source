@@ -12,9 +12,10 @@ tags:
 featuredImage: /uploads/2014/10/brocleve.jpg
 ---
 
+
 [![](http://4.bp.blogspot.com/-3b3v6t6S4Ro/UnWPkWPcrCI/AAAAAAAAAGo/6nDnVt5Cx8s/s400/Cleve-drink.jpg)](http://4.bp.blogspot.com/-3b3v6t6S4Ro/UnWPkWPcrCI/AAAAAAAAAGo/6nDnVt5Cx8s/s1600/Cleve-drink.jpg)
 
-source: copyright Michael Young,  2013
+source: copyright Michael Young, 2013
 
 For those of you who don't already know him, Brother Cleve is responsible for building and reinvigorating Boston's cocktail scene. This is not an exaggeration. He has been doing this for over 30 years and generously so. He has trained some of the greatest bartenders around the city from Jackson Cannon of [Eastern Standard](http://www.easternstandardboston.com/), [Island Creek Oyster Bar](http://islandcreekoysterbar.com/mobile.html) and [The Hawthorne](http://www.thehawthornebar.com/) to [Misty Kalkofen](https://twitter.com/hankyp) formally of [Drink](http://drinkfortpoint.com/) the list goes on. When he's not bartending, he's making music. He's also a well known DJ and for creating lounge music as a member of the musical group, [Combustible Edison](http://www.subpop.com/artists/combustible_edison).
 
@@ -57,7 +58,7 @@ source: GQ, December 1996 by Dewey Nicks
 **Where can my customers buy more of your products?**
 
 "Currently, I have a menu of cocktails at First Printer in Harvard Sq, Cambridge, and at Rovezzi's, an award-winning Italian restaurant out in Sturbridge, in Central Massachusetts. I've had cocktails on menus at places like Eastern Standard, Legal Seafoods, Back Bar, Drink (well they don't really have a menu…), Brick & Mortar, Noir and many others"**What is your favorite drink? Why?**
-"The Manhattan has been my favorite cocktail for almost 40 years. I've even done lectures/seminars on its history at cocktail conventions and at universities. It's a simple drink to make, but also very simple to make incorrectly, so that's why it's my litmus test for bartenders. A well made one has the perfect balance between sweet, bitter and bracing, which is probably why  its retained its popularity since the first one was poured back in 1873. I prefer mine made with American Rye whiskey, the spirit used when it was first mixed"
+ "The Manhattan has been my favorite cocktail for almost 40 years. I've even done lectures/seminars on its history at cocktail conventions and at universities. It's a simple drink to make, but also very simple to make incorrectly, so that's why it's my litmus test for bartenders. A well made one has the perfect balance between sweet, bitter and bracing, which is probably why its retained its popularity since the first one was poured back in 1873. I prefer mine made with American Rye whiskey, the spirit used when it was first mixed"
 
 **Anything else you would like to include?**
 

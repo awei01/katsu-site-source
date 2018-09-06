@@ -16,17 +16,17 @@ tags:
   - the Tie Thing
 featuredImage: /uploads/2014/10/24.jpg
 ---
-I'm about to introduce a game changer.  This little accessory will transform your life. Let me illustrate with a story about Henrique.
+I'm about to introduce a game changer. This little accessory will transform your life. Let me illustrate with a story about Henrique.
 
-Henrique is a well dressed gentleman, some of you may have met him in the studio.  He wears nice suits and ties and always looks polished when stepping out.  Well, sometimes he needs to run around to make it to meetings and catch his flights. This can result in a sloppy look. Disheveled chic does not go over well in Henrique's line of work.
+Henrique is a well dressed gentleman, some of you may have met him in the studio. He wears nice suits and ties and always looks polished when stepping out. Well, sometimes he needs to run around to make it to meetings and catch his flights. This can result in a sloppy look. Disheveled chic does not go over well in Henrique's line of work.
 
 [![](http://1.bp.blogspot.com/-1SWuhctKx7E/TzqfU9NdlNI/AAAAAAAABJ0/4qjZLsnxexk/s400/henrique_4.jpg)](http://1.bp.blogspot.com/-1SWuhctKx7E/TzqfU9NdlNI/AAAAAAAABJ0/4qjZLsnxexk/s1600/henrique_4.jpg)
 
 Here is Henrique with his tie after running for a cab.
 
-Sometimes it's windy and he ends up struggling with his tie.  It will fly and flop all over the place, hitting his face, falling in his soup. Once again he has to grasp and grapple to get his tie back under control.
+Sometimes it's windy and he ends up struggling with his tie. It will fly and flop all over the place, hitting his face, falling in his soup. Once again he has to grasp and grapple to get his tie back under control.
 
-To put an end to this drama, we are now offering The Tie Thing.  In three simple steps you can prevent floppy tie syndrome and maintain your polished always-put-together look.  This guy will stand up to
+To put an end to this drama, we are now offering The Tie Thing. In three simple steps you can prevent floppy tie syndrome and maintain your polished always-put-together look. This guy will stand up to
 
 1\. Slip The Tie Thing through the self loop.
 

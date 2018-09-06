@@ -14,7 +14,7 @@ tags:
   - style tips
 featuredImage: /uploads/2014/11/b3.jpg
 ---
-[![](http://4.bp.blogspot.com/-9f-8TBfZDAU/TekLQ4t7U_I/AAAAAAAAJYw/3AyTCf_x204/s400/nyc_jun2011.jpg) ](http://4.bp.blogspot.com/-9f-8TBfZDAU/TekLQ4t7U_I/AAAAAAAAJYw/3AyTCf_x204/s1600/nyc_jun2011.jpg)
+ [![](http://4.bp.blogspot.com/-9f-8TBfZDAU/TekLQ4t7U_I/AAAAAAAAJYw/3AyTCf_x204/s400/nyc_jun2011.jpg)](http://4.bp.blogspot.com/-9f-8TBfZDAU/TekLQ4t7U_I/AAAAAAAAJYw/3AyTCf_x204/s1600/nyc_jun2011.jpg) 
 
 We're back in NYC for client fittings, June 23 - 24.
 

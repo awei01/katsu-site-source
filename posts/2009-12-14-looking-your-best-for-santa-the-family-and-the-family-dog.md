@@ -40,7 +40,7 @@ Dylan Relaxed Fit Ombre Stripe Pants (www.calvinklein.com) $39; Paul Smith Scarf
 
 I hope these outfit ideas have lessened some of your wardrobe jitters. What's more is that 9tailors has just received a new batch of 100% premium and luxury fabrics in time for the holidays. We have every fabric and design you need to complete an immaculate outfit. An appointment with a 9tailors style consultant can help you on your way to looking great by Christmas! Please e-mail {{ site.emails.customerservice }}.
 
-Important Dates:
+ Important Dates:
 
 **Order Deadline for Christmas: Tuesday, December 15** **Order Deadline for New Years: Tuesday, December 22**
 

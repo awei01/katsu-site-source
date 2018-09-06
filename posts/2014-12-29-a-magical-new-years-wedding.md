@@ -17,7 +17,7 @@ tags:
   - winter winters
 featuredImage: /uploads/2014/12/fireworks.jpg
 ---
-Last year 9tailors client, Josh Klimkiewicz got married to his beautiful bride on New Years Eve. What a great way to start the new year! He and his wedding party were looking extremely dapper, clad in 9tailors custom suits and shirts. Photography by Bailly Photo.
+Last year 9tailors client, Josh Klimkiewicz got married to his beautiful bride on New Years Eve. What a great way to start the new year! He and his wedding party were looking extremely dapper, clad in 9tailors custom suits and shirts. Photography by Bailly Photo.
 
 [![Sitting no jacket]({{ site.baseUrl }}/uploads/Sitting-no-jacket.jpg)]({{ site.baseUrl }}/uploads/Sitting-no-jacket.jpg)
 
@@ -31,7 +31,7 @@ The groomsmen, looking proper...
 
 [![brideandgroom]({{ site.baseUrl }}/uploads/brideandgroom.jpg)]({{ site.baseUrl }}/uploads/bandgoutside.jpg)
 
-A heartwarming shot of the bride and groom
+A heartwarming shot of the bride and groom
 
 [![best]({{ site.baseUrl }}/uploads/best.jpg)]({{ site.baseUrl }}/uploads/best.jpg)
 

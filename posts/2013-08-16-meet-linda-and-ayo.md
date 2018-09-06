@@ -21,17 +21,17 @@ featuredImage: /uploads/2014/10/cute.jpg
 ---
 [![](http://1.bp.blogspot.com/-a4IJ9UvpD4M/Ug6DqlEb8SI/AAAAAAAADcM/r5iPrg7bATg/s640/LinAyC280.jpg)](http://1.bp.blogspot.com/-a4IJ9UvpD4M/Ug6DqlEb8SI/AAAAAAAADcM/r5iPrg7bATg/s1600/LinAyC280.jpg)
 
-**How was the weather? Was your wedding indoors/outdoors?**
-"We were married in Danvers, MA, on June 2nd, 2013. It was a HOT summer day and the wedding was outdoors."
-**Why did you decide to go with** [**9tailors**](http://www.9tailors.com/) **on your own custom design?**
-"I was recommended to 9tailors by a co-worker."
-**Describe your 9tailors experience and items.**
-"It was great. Every one treated us very well and with respect, but Kim made the difference. She went above and beyond and I will do business with 9tailors in the future and probably would only work exclusively with Kim if I can. She was wonderful and it felt like a personal relationship rather than a business one."
-**What was the best part of your wedding day?**
-"The reception. It was such a great day, but celebrating with family and friends was very beautiful and touching. It was also gratifying to see all our hard work come to fruition."
-**What is your advice to other wedding couples thinking about designing custom suits or shirts?**
+ **How was the weather? Was your wedding indoors/outdoors?** 
+"We were married in Danvers, MA, on June 2nd, 2013. It was a HOT summer day and the wedding was outdoors." 
+ **Why did you decide to go with** [**9tailors**](http://www.9tailors.com/) **on your own custom design?** 
+"I was recommended to 9tailors by a co-worker." 
+ **Describe your 9tailors experience and items.** 
+"It was great. Every one treated us very well and with respect, but Kim made the difference. She went above and beyond and I will do business with 9tailors in the future and probably would only work exclusively with Kim if I can. She was wonderful and it felt like a personal relationship rather than a business one." 
+ **What was the best part of your wedding day?** 
+"The reception. It was such a great day, but celebrating with family and friends was very beautiful and touching. It was also gratifying to see all our hard work come to fruition." 
+ **What is your advice to other wedding couples thinking about designing custom suits or shirts?**
 "Go with 9tailors and plan ahead. You can never plan too early."
- **What is your favorite picture and why?**
+ **What is your favorite picture and why?** 
 "I love them ALL!"
 
 [![](http://4.bp.blogspot.com/-cvyi66uwOFc/Ug6DlhQQHbI/AAAAAAAADbY/8Xst_6snQ40/s320/LinAyC091.jpg)](http://4.bp.blogspot.com/-cvyi66uwOFc/Ug6DlhQQHbI/AAAAAAAADbY/8Xst_6snQ40/s1600/LinAyC091.jpg)

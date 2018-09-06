@@ -23,6 +23,6 @@ Here is an example of what a design board might look like:
 
 [![spring wedding in boston](http://www.polyvore.com/cgi/img-set/BQcDAAAAAwoDanBnAAAABC5vdXQKFllIR2pHS0lTM3hHQUxZRktjNThVSXcAAAACaWQKAWUAAAAEc2l6ZQ.jpg "spring wedding in boston")](http://www.polyvore.com/spring_wedding_in_boston/set?.embedder=1536106&.mid=embed&id=15756293)[![Fashion Trends & Styles - Polyvore](http://cdn.polyvore.com/rsrc/img/logo_embed_alt_63x21.png "Fashion Trends & Styles - Polyvore")](http://www.polyvore.com/)
 
-[spring wedding in boston](http://www.polyvore.com/spring_wedding_in_boston/set?.embedder=1536106&.mid=embed&id=15756293) by [sshih](http://www.polyvore.com/cgi/profile?.embedder=1536106&.mid=embed&id=660366) on [Polyvore.com](http://www.polyvore.com/)
+ [spring wedding in boston](http://www.polyvore.com/spring_wedding_in_boston/set?.embedder=1536106&.mid=embed&id=15756293) by [sshih](http://www.polyvore.com/cgi/profile?.embedder=1536106&.mid=embed&id=660366) on [Polyvore.com](http://www.polyvore.com/)
 
 Sound like fun? If you want to submit any photos, please feel free to email makiko@9tailors.com, and get some free design advice!

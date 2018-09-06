@@ -14,7 +14,7 @@ tags:
   - menswear
 featuredImage: null
 ---
-[![](http://4.bp.blogspot.com/_20LDsLnO2rk/TEGvVmgW-DI/AAAAAAAAAqE/JyiG0IWDY3A/s400/bespoke_budget_clothes.jpg)](http://4.bp.blogspot.com/_20LDsLnO2rk/TEGvVmgW-DI/AAAAAAAAAqE/JyiG0IWDY3A/s1600/bespoke_budget_clothes.jpg)
+[![](http://4.bp.blogspot.com/_20LDsLnO2rk/TEGvVmgW-DI/AAAAAAAAAqE/JyiG0IWDY3A/s400/bespoke_budget_clothes.jpg)](http://4.bp.blogspot.com/_20LDsLnO2rk/TEGvVmgW-DI/AAAAAAAAAqE/JyiG0IWDY3A/s1600/bespoke_budget_clothes.jpg) 
 
 Shoestring Magazine, an online publication devoted to "resourcefulness, the look for less, and attainable, affordable luxuries," recently featured 9tailors in their article on budget-friendly custom clothing. 
 

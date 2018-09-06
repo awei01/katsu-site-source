@@ -24,7 +24,7 @@ Embrace elegance this upcoming season and mix it with structured clothes to keep
 
 [![](http://2.bp.blogspot.com/-dPhtTfZqWXY/UsWuID4Df3I/AAAAAAAAAs8/VbOa8-x2GIA/s640/SP2014-FLORAL.jpg)](http://2.bp.blogspot.com/-dPhtTfZqWXY/UsWuID4Df3I/AAAAAAAAAs8/VbOa8-x2GIA/s1600/SP2014-FLORAL.jpg)
 
-** ARMY PRINT**
+ **ARMY PRINT**
 This trend has come and gone and at this point, is becoming a classic, just be sure not to go too crazy with the camouflage like in the 90s. Use this more of an accent or a single piece, don't cover yourself from head to toe in pink, purple, blue, green and brown army print.
 
 [![](http://1.bp.blogspot.com/-j9r18PjG8uQ/UsWuJ2HhUFI/AAAAAAAAAtM/DvgwplMif6s/s640/SP2014-CAMO.jpg)](http://1.bp.blogspot.com/-j9r18PjG8uQ/UsWuJ2HhUFI/AAAAAAAAAtM/DvgwplMif6s/s1600/SP2014-CAMO.jpg)

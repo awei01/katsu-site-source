@@ -21,7 +21,7 @@ tags:
   - trenchcoat
 featuredImage: /uploads/2015/03/COVER-PHOTO.jpg
 ---
-April showers give us mixed feelings. One one hand, it means plants are growing, flowers are blooming, summer is near. On the other hand, it's raining all the time. For your poor shoes, see our earlier blog post on [keeping your shoes in shape]({{ site.baseUrl }}/2014/12/keeping-your-shoes-in-shape-for-winter/). There are some cool galoshes that don't look ridiculous in there. As for the rest of your outfit, what better than a custom trench?!
+April showers give us mixed feelings. One one hand, it means plants are growing, flowers are blooming, summer is near. On the other hand, it's raining all the time. For your poor shoes, see our earlier blog post on [keeping your shoes in shape]({{ site.baseUrl }}/2014/12/keeping-your-shoes-in-shape-for-winter/). There are some cool galoshes that don't look ridiculous in there. As for the rest of your outfit, what better than a custom trench?!
 
 [![KENNETH]({{ site.baseUrl }}/uploads/KENNETH.jpg)]({{ site.baseUrl }}/uploads/KENNETH.jpg)
 

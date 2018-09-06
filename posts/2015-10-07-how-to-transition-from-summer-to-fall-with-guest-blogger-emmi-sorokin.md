@@ -26,9 +26,9 @@ Breaking out the fall wardrobe can feel like the final nail in summer's coffin. 
 
 #### **Tip #1:**
 
-Think textures. Summer linens pair handsomely with fall tweeds. Wear a tweed or rich camel color blazer over a bright button-down, or over a summer sweater.
+Think textures. Summer linens pair handsomely with fall tweeds. Wear a tweed or rich camel color blazer over a bright button-down, or over a summer sweater.
 
- ![](https://s-media-cache-ak0.pinimg.com/736x/58/39/25/5839252965071656927ff351aa94d987.jpg) []({{ site.baseUrl }}/uploads/2015/10/20150526-9tailors-1466.jpg) 
+ ![](https://s-media-cache-ak0.pinimg.com/736x/58/39/25/5839252965071656927ff351aa94d987.jpg) []({{ site.baseUrl }}/uploads/2015/10/20150526-9tailors-1466.jpg) 
 
 #### **Tip #2:**
 
@@ -66,4 +66,4 @@ Emmi Sorokin is a nationally-renowned men's fashion stylist and author of [_The 
 
 **Emmi has been featured on NPR, as well as in publications such as Men's Health, Details, and Bloomberg News.**
 
-Thinking of going custom for the upcoming winter months? Contact us at {{ site.emails.info }} and we'll help make the transition a smooth one!
+Thinking of going custom for the upcoming winter months? Contact us at {{ site.emails.info }} and we'll help make the transition a smooth one!

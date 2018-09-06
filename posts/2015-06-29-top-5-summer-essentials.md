@@ -29,7 +29,7 @@ Need a jacket to top off your look but want something light? If so, say hello to
 
 [![linen shorts]({{ site.baseUrl }}/uploads/linen-shorts.png)]({{ site.baseUrl }}/uploads/linen-shorts.png)
 
- Linen does not have to be just for your upper half as shorts are another great way to wear the fabric. Just like with jackets, colors can range from traditional to funky and patterns from basic to bold.
+ Linen does not have to be just for your upper half as shorts are another great way to wear the fabric. Just like with jackets, colors can range from traditional to funky and patterns from basic to bold.
 
 ### 3\. White T-Shirt
 
@@ -43,7 +43,7 @@ Next time you're about to reach for your tried and true white button-down, think
 
 ![](http://res.cloudinary.com/l9tl/image/upload/t_watermark/v1435164362/20150526-9tailors-0449_m8fgzb.jpg)
 
-If the temperature where you live is pushing into the high double digits or even breaking 100, a pair of sunglasses and a hat is key to beating the heat.  While this duo might seem like a no-brainer, make sure that your shades and chapeau not only keep you cool but make you look cool. Mirrored lenses and round frames are popular this year, while straw fedoras add a classic touch and caps bring some streetwear inspiration to your look.
+If the temperature where you live is pushing into the high double digits or even breaking 100, a pair of sunglasses and a hat is key to beating the heat. While this duo might seem like a no-brainer, make sure that your shades and chapeau not only keep you cool but make you look cool. Mirrored lenses and round frames are popular this year, while straw fedoras add a classic touch and caps bring some streetwear inspiration to your look.
 
 [![menswear-updated-suit]({{ site.baseUrl }}/uploads/menswear-updated-suit.jpg)]({{ site.baseUrl }}/uploads/menswear-updated-suit.jpg)
 

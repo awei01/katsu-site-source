@@ -25,9 +25,9 @@ You've got your pocket square, tie, tie bar, and watch coordinated with your sui
 
 Once your pair has passed the above inspection, make sure you have the right sock length for your needs.
 
-	***Above the calf** adds lots of extra warmth, which is ideal for winter months.
-	***Mid-calf** is best for warmer weather, or those men that don't want to worry about having to pull their long socks up all day.
-	***Ankle** length gives your ankles some sun with a no-socks look.
+	* **Above the calf** adds lots of extra warmth, which is ideal for winter months.
+	* **Mid-calf** is best for warmer weather, or those men that don't want to worry about having to pull their long socks up all day.
+	* **Ankle** length gives your ankles some sun with a no-socks look.
 
 [![socks-heightgraphic]({{ site.baseUrl }}/uploads/socks-heightgraphic.jpg)]({{ site.baseUrl }}/uploads/socks-heightgraphic.jpg)
 

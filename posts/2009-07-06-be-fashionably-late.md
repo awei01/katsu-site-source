@@ -22,8 +22,8 @@ We're gearing up for another amazing event! The [Liberty Hotel](http://www.liber
 [![](http://4.bp.blogspot.com/_RlJ3L7W6dBw/SlIddjsRtqI/AAAAAAAAHrE/8_q65iWJGA4/s400/FASHJULY16.jpg)](http://4.bp.blogspot.com/_RlJ3L7W6dBw/SlIddjsRtqI/AAAAAAAAHrE/8_q65iWJGA4/s1600-h/FASHJULY16.jpg)
 Details:
 
-	*Fashion show will be on **Thursday, July 16, 2009**
-	*Doors will open at 8pm, Show starts at 10pm
-	*Show MCed by former WWE wrestler, "The Scholar," Chris Nowinksi
+	* Fashion show will be on **Thursday, July 16, 2009**
+	* Doors will open at 8pm, Show starts at 10pm
+	* Show MCed by former WWE wrestler, "The Scholar," Chris Nowinksi
 
 To get onto the list, please RSVP at fashion@libertyhotel.com.

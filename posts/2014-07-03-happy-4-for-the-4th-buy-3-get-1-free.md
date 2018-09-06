@@ -18,8 +18,8 @@ Time to celebrate! From now through the end of July, our Buy 3, Get 1 shirt deal
 
 For those of you who haven't purchased this package in the past...here's how is works:
 
-	1.Purchase 3 Shirts (starting price $145.00, 100% cotton). 
-	2.Then, you receive one free shirt that is of equal or lesser value to the other three shirts.
+	1. Purchase 3 Shirts (starting price $145.00, 100% cotton). 
+	2. Then, you receive one free shirt that is of equal or lesser value to the other three shirts.
 
 Pretty simple, right?
 
@@ -31,14 +31,14 @@ Branch out with a loud pattern, get something other than your usual shirt design
 
 **Terms & Conditions**
 
-	*The promotion is valid now until July 31, 2014 at 11:59PM EST.
-	*If you do not purchase the qualifying items when the promotion is in effect, the discount will not apply.
-	*The promotion applies only to qualifying custom shirts in the C, D, E, and F categories.
+	* The promotion is valid now until July 31, 2014 at 11:59PM EST.
+	* If you do not purchase the qualifying items when the promotion is in effect, the discount will not apply.
+	* The promotion applies only to qualifying custom shirts in the C, D, E, and F categories.
 
-	*Unless the promotion indicates otherwise, it applies to the lowest-priced qualifying item and may not be combined with other offers.
-	*All qualifying items must be purchased in one order for a single client.
-	*If you return any of the promotion items, we will subtract your discount from your return credit.
-	*Shipping and handling charges apply to all promoted items.
-	*Void where prohibited.
+	* Unless the promotion indicates otherwise, it applies to the lowest-priced qualifying item and may not be combined with other offers.
+	* All qualifying items must be purchased in one order for a single client.
+	* If you return any of the promotion items, we will subtract your discount from your return credit.
+	* Shipping and handling charges apply to all promoted items.
+	* Void where prohibited.
 
 Not Sure where to start? Contact us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to schedule your consultation.

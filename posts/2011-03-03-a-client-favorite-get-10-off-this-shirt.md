@@ -20,7 +20,7 @@ Want to know what our clients have been designing lately? Here's one of our favo
 
 [![](https://lh3.googleusercontent.com/_fofq40cSnvI/TW_EJFxr65I/AAAAAAAAFys/s4XtUevqCYY/s320/shirt_2.jpg)](https://lh3.googleusercontent.com/_fofq40cSnvI/TW_EJFxr65I/AAAAAAAAFys/s4XtUevqCYY/s576/shirt_2.jpg)
 
-heather gray (ask for: 03495-C) and red houndstooth
+heather gray (ask for: 03495-C) and red houndstooth
 
 [![](https://lh6.googleusercontent.com/_fofq40cSnvI/TW_D9fedHBI/AAAAAAAAFyg/lwnD5UO9hGA/s320/shirt_2-1.jpg)](https://lh6.googleusercontent.com/_fofq40cSnvI/TW_D9fedHBI/AAAAAAAAFyg/lwnD5UO9hGA/s800/shirt_2-1.jpg)
 
@@ -32,6 +32,6 @@ Contrast fabric on the pocket
 
 Want to design this shirt? Get a 10% Off on this shirt. Regularly priced at $155.00. Refer to this blog post and e-mail us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) before March 11, 2011.
 
-Fine Print: 
+Fine Print: 
 
-This offer applies to this shirt design only (total price of shirt before discount is $155.00. Offer cannot be combined with any other offers or promotions.  To be eligible, please e-mail us before Friday, March 11, 2011.
+This offer applies to this shirt design only (total price of shirt before discount is $155.00. Offer cannot be combined with any other offers or promotions. To be eligible, please e-mail us before Friday, March 11, 2011.

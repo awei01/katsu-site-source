@@ -28,7 +28,7 @@ Courtesy of JCPenney.com
 1. **Overabundance of pockets.** Do you really need all of those pockets? What for? You carry a wallet, a phone and keys. Beers are kept colder in a cooler anyway.
 
 2. **Always looks unkempt**. When you wash and dry cargo shorts, does it not bother you that the pockets will always stick out and bunch in all the wrong places? And even when you button the pockets down or iron them, the fabric still pokes out weirdly and can make hips and waists look unflattering.
-_A) Sidebar: if you still think wearing your pants below your butt looks good, I have no words. _
+_A) Sidebar: if you still think wearing your pants below your butt looks good, I have no words._ 
 
 3. **The draw-string waist and short openings.** Let me ask you, how often do you lose that little string in your waistband and opt for a belt instead? And why would you cinch the openings on your pants? So you look like you're wearing a pair of bulky capris?
 
@@ -38,13 +38,13 @@ Take for example, the [Nike Golf shorts](http://www.dickssportinggoods.com/famil
 
 [![](http://1.bp.blogspot.com/-zg_IZp4OY0c/UAWeMOfxR3I/AAAAAAAAAgA/uvehUPxjKf8/s320/TOURPLEATSHORTNIKEGOLF.jpg)](http://1.bp.blogspot.com/-zg_IZp4OY0c/UAWeMOfxR3I/AAAAAAAAAgA/uvehUPxjKf8/s1600/TOURPLEATSHORTNIKEGOLF.jpg)
 
-        [![](http://3.bp.blogspot.com/-8CDNYAzEYpw/UAWeKzxzybI/AAAAAAAAAf4/1Lyj1ANOW2c/s320/nikegolfshorts.jpg)](http://3.bp.blogspot.com/-8CDNYAzEYpw/UAWeKzxzybI/AAAAAAAAAf4/1Lyj1ANOW2c/s1600/nikegolfshorts.jpg)
+ [![](http://3.bp.blogspot.com/-8CDNYAzEYpw/UAWeKzxzybI/AAAAAAAAAf4/1Lyj1ANOW2c/s320/nikegolfshorts.jpg)](http://3.bp.blogspot.com/-8CDNYAzEYpw/UAWeKzxzybI/AAAAAAAAAf4/1Lyj1ANOW2c/s1600/nikegolfshorts.jpg)
 
 [![](http://3.bp.blogspot.com/-AxwV2PP7fUg/UAWeO5cNPsI/AAAAAAAAAgI/ZSAUYHvz5Nw/s320/COREPLAIDSHORTNIKEGOLF.jpg)](http://3.bp.blogspot.com/-AxwV2PP7fUg/UAWeO5cNPsI/AAAAAAAAAgI/ZSAUYHvz5Nw/s1600/COREPLAIDSHORTNIKEGOLF.jpg)
 
 All images courtesy of [Nike.com](http://nike.com/)
 
-Or just go for a nice pair of Dockers! What's wrong with $30 [Dockers](http://us.dockers.com/family/index.jsp?categoryId=12359153&cp=2271557)? Nothing. Nothing at all. Crisp and clean, flattering, they come in a variety of colors and front styles with [ pleats or flat fronts](http://2012/07/pleated-fronts-versus-flat-fronts.html), cuffed and uncuffed openings. For the record, we guide you towards flat fronts, rather than pleats.
+Or just go for a nice pair of Dockers! What's wrong with $30 [Dockers](http://us.dockers.com/family/index.jsp?categoryId=12359153&cp=2271557)? Nothing. Nothing at all. Crisp and clean, flattering, they come in a variety of colors and front styles with [ pleats or flat fronts](http://2012/07/pleated-fronts-versus-flat-fronts.html), cuffed and uncuffed openings. For the record, we guide you towards flat fronts, rather than pleats.
 
 [![](http://2.bp.blogspot.com/-KBb2jmJlnBQ/UAWfUfh-zUI/AAAAAAAAAgQ/0hsz4cupwTE/s320/Dockers.jpg)](http://2.bp.blogspot.com/-KBb2jmJlnBQ/UAWfUfh-zUI/AAAAAAAAAgQ/0hsz4cupwTE/s1600/Dockers.jpg)
 

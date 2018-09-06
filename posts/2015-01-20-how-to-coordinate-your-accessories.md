@@ -18,15 +18,15 @@ featuredImage: /uploads/2014/11/velvet1.jpg
 In the past, you may or may not have had the problem of wondering what goes with what on your outfit. While matching suits and shirts isn't too difficult, ties, belts and shoes can become a little overbearing if you aren't learned on the subject. Here are a few simple tips for coordinating accessories.
 
 ****TIES****
-**Patterned ties -** These can be paired with a solid shirt or depending on how loud the pattern is, a shirt that has a different pattern. Avoid matching the same pattern in different colors as it can be rough on the eyes.
+ **Patterned ties -** These can be paired with a solid shirt or depending on how loud the pattern is, a shirt that has a different pattern. Avoid matching the same pattern in different colors as it can be rough on the eyes.
 
 [![](http://1.bp.blogspot.com/-sh62DUEnTDU/VCrNx7gtiyI/AAAAAAAAAvs/VFSmPNtnDVE/s1600/patterns.jpg)](http://1.bp.blogspot.com/-sh62DUEnTDU/VCrNx7gtiyI/AAAAAAAAAvs/VFSmPNtnDVE/s1600/patterns.jpg)
 
-**Silk knit tie** - more of a spring item, these ties can be worn with brighter colors as well as your standard solids.
+**Silk knit tie** - more of a spring item, these ties can be worn with brighter colors as well as your standard solids.
 
 [![](http://2.bp.blogspot.com/-Fuhl3JK8ihU/VCrOYLcHpKI/AAAAAAAAAv8/50KGTfclhZM/s1600/silkknit.jpg)](http://2.bp.blogspot.com/-Fuhl3JK8ihU/VCrOYLcHpKI/AAAAAAAAAv8/50KGTfclhZM/s1600/silkknit.jpg)
 
-**Wool tie -** a must for winter, it is important to know how to wear it. Pair it with a solid white, subtle stripes or a bold plaid.
+ **Wool tie -** a must for winter, it is important to know how to wear it. Pair it with a solid white, subtle stripes or a bold plaid.
 
 [![](http://3.bp.blogspot.com/-MNb-uIWqUYg/VCrNzmTbxmI/AAAAAAAAAv0/__IRMi7JXK8/s1600/woolandplaid.jpg)](http://3.bp.blogspot.com/-MNb-uIWqUYg/VCrNzmTbxmI/AAAAAAAAAv0/__IRMi7JXK8/s1600/woolandplaid.jpg)
 
@@ -46,7 +46,7 @@ In the past, you may or may not have had the problem of wondering what goes with
 
 9tailors.com
 
-****POCKET SQUARES****
+ ****POCKET SQUARES****
 
 A pocket square should compliment your suit and shirt color, not match it. If you are wearing a patterned tie, choose a subtle color in it to bring out and do so with a pocket square. For example, if you had a plaid tie with thin red lines, you could wear a pocket square with red piping.
 

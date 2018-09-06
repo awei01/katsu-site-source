@@ -15,7 +15,7 @@ tags:
   - menswear
 featuredImage: /uploads/2014/10/63.jpg
 ---
-A major point of contention among fashion-savvy gents? The Popped Collar. As commonly seen on frat boys and preppies alike, this is oft done with a Polo shirt...usually a pink one. Some may argue this look is strictly for bro-dawgs who find it cool. Others contend it's a great look that only a certain kind of guy can wear. What do you think? Do you pop your collar? If so, when and why? If not, why wouldn't you/would you ever do it? Check out Esquire's amusing debate [here](http://www.esquire.com/blogs/mens-fashion/popped-collar-cool-071411) between two bloggers with differing opinions.
+A major point of contention among fashion-savvy gents? The Popped Collar. As commonly seen on frat boys and preppies alike, this is oft done with a Polo shirt...usually a pink one. Some may argue this look is strictly for bro-dawgs who find it cool. Others contend it's a great look that only a certain kind of guy can wear. What do you think? Do you pop your collar? If so, when and why? If not, why wouldn't you/would you ever do it? Check out Esquire's amusing debate [here](http://www.esquire.com/blogs/mens-fashion/popped-collar-cool-071411) between two bloggers with differing opinions.
 
 [![](http://4.bp.blogspot.com/-WW3yvwtkL2c/T235Nyycg5I/AAAAAAAAAHA/EHq8fVSHzSI/s320/popped-collar-2.jpg)](http://4.bp.blogspot.com/-WW3yvwtkL2c/T235Nyycg5I/AAAAAAAAAHA/EHq8fVSHzSI/s1600/popped-collar-2.jpg)
 

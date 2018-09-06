@@ -24,7 +24,7 @@ Our main goal here at [9tailors](http://www.9tailors.com/) is to capture the ess
 Spring Trends in 2013 that we think anyone can pull off. Keep in mind, maybe it's just one garment or accent you add to complete your whole outfit.
 
 **Military Style**
-This does not mean [cargo shorts](http://2012/07/cargo-shortsenough-is-enough.html)! However, go for jackets with a nicely snug fit, clean lines, and buttons. Also, camouflage is okay, only in the brown, army green, beige varieties; not blue, not black, not orange or any other crazy color. Bomber military jackets? Check. See styles from [Hentsch Man](http://www.hentschman.com/)  and [Tom Ford](http://thefashionisto.com/label/tom-ford-label/) below:
+This does not mean [cargo shorts](http://2012/07/cargo-shortsenough-is-enough.html)! However, go for jackets with a nicely snug fit, clean lines, and buttons. Also, camouflage is okay, only in the brown, army green, beige varieties; not blue, not black, not orange or any other crazy color. Bomber military jackets? Check. See styles from [Hentsch Man ](http://www.hentschman.com/) and [Tom Ford](http://thefashionisto.com/label/tom-ford-label/) below:
 
 [![](http://1.bp.blogspot.com/-z-59DilKyiQ/UQLJCqpo4zI/AAAAAAAAB5A/aQQNuuBBUTs/s400/182192_10151171073434739_351842667_n.jpg)](http://1.bp.blogspot.com/-z-59DilKyiQ/UQLJCqpo4zI/AAAAAAAAB5A/aQQNuuBBUTs/s1600/182192_10151171073434739_351842667_n.jpg)
 

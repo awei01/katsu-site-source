@@ -47,7 +47,7 @@ awinestain.wordpress.com
 
 bananarepublic.com
 
--Short Sleeve Shirt.  If it's hot out, go for a short sleeve shirt, preferably cotton. Consider patterns and colors.
+-Short Sleeve Shirt. If it's hot out, go for a short sleeve shirt, preferably cotton. Consider patterns and colors.
 
 [![](http://3.bp.blogspot.com/-2xugfgQF6RA/UFSjTb2eNmI/AAAAAAAAA_A/UTmRgXWzvS4/s1600/t-shirt.jpg)](http://3.bp.blogspot.com/-2xugfgQF6RA/UFSjTb2eNmI/AAAAAAAAA_A/UTmRgXWzvS4/s1600/t-shirt.jpg)
 

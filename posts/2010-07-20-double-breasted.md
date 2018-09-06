@@ -13,7 +13,7 @@ tags:
   - menswear
 featuredImage: null
 ---
-[![](http://3.bp.blogspot.com/_20LDsLnO2rk/TEXZuIZf8XI/AAAAAAAAAqM/F4SETrYiq1A/s400/71810BWdb_7956Web.jpg)](http://3.bp.blogspot.com/_20LDsLnO2rk/TEXZuIZf8XI/AAAAAAAAAqM/F4SETrYiq1A/s1600/71810BWdb_7956Web.jpg)
+[![](http://3.bp.blogspot.com/_20LDsLnO2rk/TEXZuIZf8XI/AAAAAAAAAqM/F4SETrYiq1A/s400/71810BWdb_7956Web.jpg)](http://3.bp.blogspot.com/_20LDsLnO2rk/TEXZuIZf8XI/AAAAAAAAAqM/F4SETrYiq1A/s1600/71810BWdb_7956Web.jpg) 
 
 Fall is fast approaching. Are you ready to wear something double breasted? 
 

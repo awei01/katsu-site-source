@@ -15,7 +15,7 @@ tags:
 featuredImage: null
 ---
 Yesterday we explored suit options beyond black and charcoal. So the next logical step would be how to incorporate this new look into your wardrobe. Many of these options may be too wild for the workplace so keep in mind your professions feelings towards your attire before donning an electric blue blazer in the morning before that presentation.
-[SimonSpurr](http://www.spurr.tv/simonspurr) 
+[SimonSpurr](http://www.spurr.tv/simonspurr) 
 
 [![](http://1.bp.blogspot.com/-hF1T6MiqzKQ/TbbaXWA3FwI/AAAAAAAAAQg/I_8277Yc8LU/s320/00140m.jpg)](http://1.bp.blogspot.com/-hF1T6MiqzKQ/TbbaXWA3FwI/AAAAAAAAAQg/I_8277Yc8LU/s1600/00140m.jpg)[![](http://4.bp.blogspot.com/-3Q89sEMSpOI/Tbbana6eeHI/AAAAAAAAARA/LUYqguXq9Kw/s320/00400m.jpg)](http://4.bp.blogspot.com/-3Q89sEMSpOI/Tbbana6eeHI/AAAAAAAAARA/LUYqguXq9Kw/s1600/00400m.jpg)
 
@@ -33,7 +33,7 @@ These two suits are great for the summer months when the thought of dark wool su
 
 **Points to Remember:**
 
-	*Impeccable fit- if your suit fits poorly, colors will call up images of the circus. Avoid this with custom made suits from 9tailors.
-	*Lighter colors work better for work. If you are still uncomfortable with a pink suit, try working in some pink pinstripes on a light grey suit.
-	*Break up bright pieces with textured neutral pieces.
-	*Love the looks above? They do carry designer price-tags- to avoid taking out another loan rivaling a mortgage, make an appointment [here](http://www.9tailors.com) for any suit you can dream up.
+	* Impeccable fit- if your suit fits poorly, colors will call up images of the circus. Avoid this with custom made suits from 9tailors.
+	* Lighter colors work better for work. If you are still uncomfortable with a pink suit, try working in some pink pinstripes on a light grey suit.
+	* Break up bright pieces with textured neutral pieces.
+	* Love the looks above? They do carry designer price-tags- to avoid taking out another loan rivaling a mortgage, make an appointment [here](http://www.9tailors.com) for any suit you can dream up.

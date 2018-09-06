@@ -28,6 +28,6 @@ featuredImage: /uploads/2017/11/GiveThanks-Desktop-e1511041422115.jpg
 
 ###### Saturday 11/25: 11 am - 5 pm
 
-In order to ensure a timely delivery for all Christmas and New Years orders **appointments must be made before November 24th**. Orders placed after 11/24, **will include a rush fee** and appointments must be made before December 1st.
+In order to ensure a timely delivery for all Christmas and New Years orders **appointments must be made before November 24th**. Orders placed after 11/24, **will include a rush fee** and appointments must be made before December 1st.
 
 To schedule an appointment feel free to call us at 617-286-6135 or email us at {{ site.emails.info }}.

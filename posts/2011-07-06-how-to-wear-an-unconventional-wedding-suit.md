@@ -22,7 +22,7 @@ featuredImage: /uploads/2014/11/ww.jpg
 ---
 Supermodel, [Kate Moss](http://en.wikipedia.org/wiki/Kate_Moss), and rocker, Jamie Hince of [The Kills](http://en.wikipedia.org/wiki/The_Kills) were wed late last week. While we were loving the model's beautifully beaded gown, we couldn't help notice the awesome suit the groom was wearing! A double-breasted, gray-blue suit can be difficult to wear if you're not a slim guy like Jamie. But, here are some tips to make his look more wearable!
 
-[![](http://styleshub.com/wp-content/uploads/2011/07/Kate-Moss-Wedding-Dress-by-John-Galliano-01.jpg) ](http://styleshub.com/wp-content/uploads/2011/07/Kate-Moss-Wedding-Dress-by-John-Galliano-01.jpg)
+ [![](http://styleshub.com/wp-content/uploads/2011/07/Kate-Moss-Wedding-Dress-by-John-Galliano-01.jpg)](http://styleshub.com/wp-content/uploads/2011/07/Kate-Moss-Wedding-Dress-by-John-Galliano-01.jpg) 
 
 1\. If you choose to do a unconventional color (like black, charcoal, navy, etc.), keep the hues subdued and subtle. You don't want to look like you're going to an 80s prom.
 

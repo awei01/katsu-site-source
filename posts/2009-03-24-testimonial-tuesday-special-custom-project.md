@@ -11,7 +11,7 @@ featuredImage: null
 ---
 The following testimonial is from a very special client of mine, Louise. Louise's daughter, Elizabeth, got married mid-last year. She searched high and low for a store to buy a mother-of-the-bride dress, but couldn't find anything that met her budget, style, color preferences or time frame. Then, her son suggested that she contact us.
 
-We were very happy to receive Louise's request. After listening to her needs, we designed a few draft dresses for her. And, she finally chose a beautiful apple green, floor length gown with a beaded trim. She was so happy with her dress and our service that she has currently commissioned us to make another mother-of-the-bride dress to wear at her other daughter's wedding.
+We were very happy to receive Louise's request. After listening to her needs, we designed a few draft dresses for her. And, she finally chose a beautiful apple green, floor length gown with a beaded trim. She was so happy with her dress and our service that she has currently commissioned us to make another mother-of-the-bride dress to wear at her other daughter's wedding.
 
 [![](http://1.bp.blogspot.com/_RlJ3L7W6dBw/SclBU0XatuI/AAAAAAAAHY4/OYy1yz3yeuk/s400/ldavis_evening_option8.1_FINAL+copy.gif)](http://1.bp.blogspot.com/_RlJ3L7W6dBw/SclBU0XatuI/AAAAAAAAHY4/OYy1yz3yeuk/s1600-h/ldavis_evening_option8.1_FINAL+copy.gif)
 Hear what Louise has to say about 9tailors...

@@ -38,9 +38,9 @@ Don't want to wait? Set up an appointment with a style consultant today at [{{ s
 
 Rules and Restrictions:
 
-	*Cannot be redeemed for cash
-	*If cost of shirt exceeds $100.00 client will need to pay the difference
-	*Store credit is transferable
-	*Cannot be combined with other promotions or discounts
-	*Participants must "Like" the 9tailors Facebook page by October 31, 2011. 
-	*Winner will be chosen at random October 31, 2011 at 12:00PM.
+	* Cannot be redeemed for cash
+	* If cost of shirt exceeds $100.00 client will need to pay the difference
+	* Store credit is transferable
+	* Cannot be combined with other promotions or discounts
+	* Participants must "Like" the 9tailors Facebook page by October 31, 2011. 
+	* Winner will be chosen at random October 31, 2011 at 12:00PM.

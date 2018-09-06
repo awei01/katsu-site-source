@@ -25,9 +25,9 @@ Now that we've had our first bit of snow here in Boston it's time to break out t
 
 ![jcrew-classic-duffle]({{ site.baseUrl }}/uploads/2017/12/Screen-Shot-2017-12-14-at-3.23.53-PM.png)
 
-_**9T Says:**_ The name says it all. This jacket is a classic piece that will look great dressed up or dressed down.  Layer it over a sweater and jeans or your favorite suit.
+_**9T Says:**_ The name says it all. This jacket is a classic piece that will look great dressed up or dressed down. Layer it over a sweater and jeans or your favorite suit.
 
-###### [Brooks Brothers Golden Fleece Car Coat - $1698](http://www.brooksbrothers.com/Golden-Fleece%C2%AE-Blue-Camel-Hair-Car-Coat/ML00528,default,pd.html?dwvar_ML00528_Color=BLUE&contentpos=93&cgid=0222)
+###### [Brooks Brothers Golden Fleece Car Coat - $1698](http://www.brooksbrothers.com/Golden-Fleece%C2%AE-Blue-Camel-Hair-Car-Coat/ML00528,default,pd.html?dwvar_ML00528_Color=BLUE&contentpos=93&cgid=0222)
 
 ![brooks-brothers-carcoat]({{ site.baseUrl }}/uploads/2017/12/Screen-Shot-2017-12-12-at-3.30.58-PM.png)
 
@@ -37,19 +37,19 @@ _**9T Says:**_ Who says your coat has to be black, navy, or grey. Break a few ru
 
 ![michael-kors-peacoat]({{ site.baseUrl }}/uploads/2017/12/Screen-Shot-2017-12-14-at-11.37.12-AM.png)
 
-**_9T Says:_ **You can't go wrong with a double breasted peacoat. It's the one item every guy should own. Trends come and go but a tan peacoat is timeless and will last you for years.
+**_9T Says:_** You can't go wrong with a double breasted peacoat. It's the one item every guy should own. Trends come and go but a tan peacoat is timeless and will last you for years.
 
 ###### [Northface Bedford Down Bomber $249](https://www.thenorthface.com/shop/mens-bedford-down-bomber-nf0a33rj?variationId=7D6)
 
 ![northface-bedford-bomber]({{ site.baseUrl }}/uploads/2017/12/Screen-Shot-2017-12-14-at-4.55.52-PM.png)
 
-_**9T Says:  **_Swap out your fall bomber for one that is a little more weather appropriate for this time of year. We love the olive green, but this style is also available in navy and black.
+_**9T Says:**_ Swap out your fall bomber for one that is a little more weather appropriate for this time of year. We love the olive green, but this style is also available in navy and black.
 
 ###### [Club Monaco Funnel-Neck Topcoat $299](http://www.clubmonaco.com/product/index.jsp?productId=138154096)
 
 ![club-monaco-funnel-neck]({{ site.baseUrl }}/uploads/2017/12/Screen-Shot-2017-12-14-at-3.37.22-PM.png)
 
-**_9T Says:_** Another unconventional color choice that is a little bit easier to digest. Maroon pairs well with grey, like above, as well as navy and tan.
+**_9T Says:_** Another unconventional color choice that is a little bit easier to digest. Maroon pairs well with grey, like above, as well as navy and tan.
 
 ###### [J. Crew Ludlow Topcoat - $450](https://www.jcrew.com/p/mens_feature/newarrivals/coatsandjackets/ludlow-topcoat-in-italian-woolcashmere/H2255)
 
@@ -67,6 +67,6 @@ _**9T Says:**_ One of Canada Goose's favorites this bomber is perfect for Boston
 
 ![club-monaco-check]({{ site.baseUrl }}/uploads/2017/12/Screen-Shot-2017-12-14-at-10.52.44-AM.png)
 
-**_9T Says:_ **If you're looking for a more subtle approach to color check is a great alternative to a bright red or blue coat. It makes a statement without being too bold.
+**_9T Says:_** If you're looking for a more subtle approach to color check is a great alternative to a bright red or blue coat. It makes a statement without being too bold.
 
 #### Tell us. Which one is your favorite?

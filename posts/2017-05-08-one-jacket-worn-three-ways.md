@@ -22,7 +22,7 @@ Often times, when we think about buying a suit, we struggle to lay down the big 
 
 [![](https://s-media-cache-ak0.pinimg.com/564x/4b/53/29/4b53297bbf9f79050d98c592a9389399.jpg)](https://s-media-cache-ak0.pinimg.com/564x/4b/53/29/4b53297bbf9f79050d98c592a9389399.jpg)
 
-The matchy-matchy look gets tiresome, so opt for mixing your navy jacket with grey pants for a more interesting look. Keep your look basic with a light blue striped shirt or jazz it up with a bolder pattern. When it comes to your tie and pocket square, you can stay safe with neutral tones or bring more personality with brighter colors. Since you are sporting a business casual look, you can go sockless with your loafers. 
+The matchy-matchy look gets tiresome, so opt for mixing your navy jacket with grey pants for a more interesting look. Keep your look basic with a light blue striped shirt or jazz it up with a bolder pattern. When it comes to your tie and pocket square, you can stay safe with neutral tones or bring more personality with brighter colors. Since you are sporting a business casual look, you can go sockless with your loafers. 
 
 ### Scenario 2: Date Night
 
@@ -30,7 +30,7 @@ The matchy-matchy look gets tiresome, so opt for mixing your navy jacket with g
 
 There is something super sexy about a man who can pair a suit jacket with jeans and sneakers. This looks screams "urban sophistication," and it is a perfect example of how to look cool without trying too hard. Keep your shirt untucked, but make sure it is well ironed and crisp to avoid looking sloppy. Slimmer fitting jeans are also necessary to keep your outfit sleek. We guarantee you that your date will find you irresistible. 
 
-### Scenario 3:  Weekend Brunch
+### Scenario 3: Weekend Brunch
 
 [![](https://ashleyweston.com/wp-content/uploads/2015/08/Sport-coat-321x620.jpg)](https://ashleyweston.com/wp-content/uploads/2015/08/Sport-coat-321x620.jpg)
 

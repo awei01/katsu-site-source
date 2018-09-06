@@ -45,7 +45,7 @@ Here's how we recommend you wear it:
 
 \[caption id="attachment\_2428" align="alignnone" width="300"\][![gievesandhawkes corduroy shirt]({{ site.baseUrl }}/uploads/2014/12/gievesandhawkes-corduroy-shirt.jpg)]({{ site.baseUrl }}/uploads/2014/12/gievesandhawkes-corduroy-shirt.jpg) gievesandhawkes.com\[/caption\]
 
-**Shoes** - sneak the color of the year into your shoe repertoire. They'll pair great with navy, tans and other earthy colors.
+**Shoes** - sneak the color of the year into your shoe repertoire. They'll pair great with navy, tans and other earthy colors.
 
 [![shoes]({{ site.baseUrl }}/uploads/shoes.jpg)]({{ site.baseUrl }}/uploads/shoes.jpg)
 

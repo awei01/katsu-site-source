@@ -25,10 +25,10 @@ Men and women welcome.
 
 Trunk show highlights:
 
-	*Dress shirts for men and women
-	*Sample dress shirts marked down 30% to 50%
-	*Accessories for men and women from CinSummer and Jenni Won
-	*10% discounts given to the first 10 customers who RSVP for an appointment\*
+	* Dress shirts for men and women
+	* Sample dress shirts marked down 30% to 50%
+	* Accessories for men and women from CinSummer and Jenni Won
+	* 10% discounts given to the first 10 customers who RSVP for an appointment\*
 
 To secure a one-on-one style consultation, please **RSVP at {{ site.emails.info }}.**
 
@@ -41,8 +41,8 @@ Please e-mail us at **{{ site.emails.info }}** for more information.
 
 Discount Rules and Restrictions:
 
-	*Discount given to first 10 clients who RSVP for an appointment;
-	*Discount applies to full-priced 9tailors custom dress shirts only;
-	*Discount applies to merchandise purchased or ordered at the event on April 25, 2009;
-	*Discount cannot be applied to men's and women's accessories, sample sale items or shipping;
-	*Discount cannot be combined with other offers or promotions.
+	* Discount given to first 10 clients who RSVP for an appointment;
+	* Discount applies to full-priced 9tailors custom dress shirts only;
+	* Discount applies to merchandise purchased or ordered at the event on April 25, 2009;
+	* Discount cannot be applied to men's and women's accessories, sample sale items or shipping;
+	* Discount cannot be combined with other offers or promotions.

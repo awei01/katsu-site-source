@@ -26,7 +26,7 @@ In an attempt to take the guesswork out of dressing yourself for a night out wit
 
 [![](http://3.bp.blogspot.com/-4-1NwOtbneI/T32zMpK9urI/AAAAAAAAAKI/5wdzUatoX7c/s320/dinnermovie.png)](http://3.bp.blogspot.com/-4-1NwOtbneI/T32zMpK9urI/AAAAAAAAAKI/5wdzUatoX7c/s1600/dinnermovie.png)
 
-Courtesy of [http://unmiserablecleveland.com](http://unmiserablecleveland.com/)
+Courtesy of [http://unmiserablecleveland.com](http://unmiserablecleveland.com/)
 
 ### Dinner:
 
@@ -44,7 +44,7 @@ If you're just taking your girl to [Anna's Taqueria](http://annastaqueria.com/),
 
 ### Movie:
 
-Okay, it's dark in there--you're really dressing for dinner and whatever happens after the movie. Only going to the cinema? Casual dress is absolutely fine here, just make sure you're wearing clean clothes. Be creative and look nice for your pretty lass. 
+Okay, it's dark in there--you're really dressing for dinner and whatever happens after the movie. Only going to the cinema? Casual dress is absolutely fine here, just make sure you're wearing clean clothes. Be creative and look nice for your pretty lass. 
 
 [![](http://1.bp.blogspot.com/-Na7inImVGWg/T33Fdu9q5cI/AAAAAAAAAK4/8Qs7CZBiSe4/s320/_MG_9676.JPG)](http://1.bp.blogspot.com/-Na7inImVGWg/T33Fdu9q5cI/AAAAAAAAAK4/8Qs7CZBiSe4/s1600/_MG_9676.JPG)
 

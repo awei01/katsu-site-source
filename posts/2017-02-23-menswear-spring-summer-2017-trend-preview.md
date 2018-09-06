@@ -16,7 +16,7 @@ tags:
   - menswear
 featuredImage: /uploads/2017/02/spring_summer_2017_trends.jpg
 ---
-With fashion constantly evolving it can be a bit hard to keep up with all the trends.  Not to mention the countless trends that you may think would be tough to incorporate into your everyday wardrobe. Trust us when we say finding new trends to try should be fun not an overwhelming process.
+With fashion constantly evolving it can be a bit hard to keep up with all the trends. Not to mention the countless trends that you may think would be tough to incorporate into your everyday wardrobe. Trust us when we say finding new trends to try should be fun not an overwhelming process.
 
 Here are a few of our favorites that we're looking forward to this season.
 

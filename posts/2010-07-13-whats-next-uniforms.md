@@ -13,7 +13,7 @@ tags:
   - menswear
 featuredImage: null
 ---
-[![](http://www.thesartorialist.com/photos/62310Biffi_5734Web.jpg)](http://www.thesartorialist.com/photos/62310Biffi_5734Web.jpg)
+[![](http://www.thesartorialist.com/photos/62310Biffi_5734Web.jpg)](http://www.thesartorialist.com/photos/62310Biffi_5734Web.jpg) 
 
 The Sartorialist recently posted about this bartender in his uniform. It's true, very few companies really pay attention to their uniforms these days. As Scott from the Sartorialist states, "I would love to see a return of pride in wearing a uniform, not only from the people wearing the uniforms, but also from the companies providing the uniforms. " 
 

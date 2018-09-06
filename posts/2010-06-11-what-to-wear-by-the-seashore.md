@@ -28,4 +28,4 @@ Or, even try a single piece, such as a necklace or sunglasses, in a bold color t
 
 [![Women's Beach Weekend](http://www.polyvore.com/cgi/img-set/BQcDAAAAAwoDanBnAAAABC5vdXQKFkV2ekdNWk4xM3hHbjBnbFB3RW5mR0EAAAACaWQKAWUAAAAEc2l6ZQ.jpg "Women's Beach Weekend")](http://www.polyvore.com/womens_beach_weekend/set?.embedder=1591450&.mid=embed&id=19593462)[![Fashion Trends & Styles - Polyvore](http://cdn.polyvore.com/rsrc/img/logo_embed_alt_63x21.png "Fashion Trends & Styles - Polyvore")](http://www.polyvore.com/)
 
-Find your perfect shirt with us at 9tailors. Start designing [here.](http://9tailors.com/)
+ Find your perfect shirt with us at 9tailors. Start designing [here.](http://9tailors.com/)

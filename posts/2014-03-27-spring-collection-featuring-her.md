@@ -22,11 +22,11 @@ Generations are being raised on i-pads and smart phones. We live on our phones. 
 
 source: 2.bp.blogpsot
 
-[Her](http://www.herthemovie.com/#/everything-about-everything) is a beautiful movie by Spike Jonze about socially reconnecting ... with an IOS system. But nonetheless, [Joaquin Pheonix'](http://www.imdb.com/name/nm0001618/?ref_=tt_cl_t1)s character, [Theodore](http://www.imdb.com/title/tt1798709/), learns how to love again and how to emotionally reconnect, eventually, with another person and how to get himself out of his own funk.
+[Her](http://www.herthemovie.com/#/everything-about-everything) is a beautiful movie by Spike Jonze about socially reconnecting ... with an IOS system. But nonetheless, [Joaquin Pheonix'](http://www.imdb.com/name/nm0001618/?ref_=tt_cl_t1)s character, [Theodore](http://www.imdb.com/title/tt1798709/), learns how to love again and how to emotionally reconnect, eventually, with another person and how to get himself out of his own funk.
 
 [![](http://4.bp.blogspot.com/-3KtevNi5BCQ/UzXLStK6j4I/AAAAAAAABy0/73gNTDSi3q4/s1600/BlogPost_Her+(1).jpg)](http://4.bp.blogspot.com/-3KtevNi5BCQ/UzXLStK6j4I/AAAAAAAABy0/73gNTDSi3q4/s1600/BlogPost_Her+(1).jpg)
 
-For the put together guy who finds freedom with technological growth and keeping up to date with the latest gadgets, we give you, ouroutfit inspired by Theodore from _Her_.
+For the put together guy who finds freedom with technological growth and keeping up to date with the latest gadgets, we give you, our outfit inspired by Theodore from _Her_.
 
 A laid back but tailored linen jacket keeps things casual but put together when you're out and about. You may not have to wear a wool suit to the office everyday but you don't want to look like you just rolled out of bed. The colored cotton pants keeps the outfit lively with fun socks to match and play on subtle details, like the purple stripes in your custom shirt. The custom shirt has two chest pockets for your phone (where Theodore keeps his) or business cards, ready for you to connect with anyone at the local coffee shop or wifi bar. The shirt also features a special button down that I have yet to see anywhere else. Photos to follow in a few weeks.
 

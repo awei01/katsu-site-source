@@ -19,18 +19,18 @@ July 4th is right around the corner. Are you struggling to figure out what you'r
 
 [![july 4th]({{ site.baseUrl }}/uploads/july-4th.jpg)]({{ site.baseUrl }}/uploads/july-4th.jpg)
 
-**Your Shirt:** 100% cotton is your best bet. Cotton will keep you cool especially if you'll be manning the grille or spending the day at the beach. Opt for denim or a red gingham. Both are classic colors and red is right on trend for the 4th.
+**Your Shirt:** 100% cotton is your best bet. Cotton will keep you cool especially if you'll be manning the grille or spending the day at the beach. Opt for denim or a red gingham. Both are classic colors and red is right on trend for the 4th.
 
-**Your Outer Layer:** Depending on where you'll be spending the holiday the night time air can get a bit chilly. Keep it in the trunk of your car or carry it with you. There's no need to unpack your bulky knits from the winter, a cardigan will do the trick. Keep the color neutral so you aren't adding another color into the mix.
+**Your Outer Layer:** Depending on where you'll be spending the holiday the night time air can get a bit chilly. Keep it in the trunk of your car or carry it with you. There's no need to unpack your bulky knits from the winter, a cardigan will do the trick. Keep the color neutral so you aren't adding another color into the mix.
 
-**Your Shorts:** Denim pairs well with anything. It is a bit heavier than a linen short, but who really wants to be a wrinkled mess all day long? A medium wash will work great with a light blue chambray or your festive red white and blue shirt.
+**Your Shorts:** Denim pairs well with anything. It is a bit heavier than a linen short, but who really wants to be a wrinkled mess all day long? A medium wash will work great with a light blue chambray or your festive red white and blue shirt.
 
 **Your Shoes:** Going for a more casual look? Trainers are a great choice in either navy or black. If you want to go for a slightly dressier look suede oxfords are a good choice. Grey, tan or brown will pair well with the denim. Remember no one likes it when their socks are visible with their oxfords. No show socks are a great investment especially for the summer.
 
-**Your Watch: **Keep it classic with black or brown or choose a fun pop of color. We prefer a leather band but metal is also a good choice.
+**Your Watch:** Keep it classic with black or brown or choose a fun pop of color. We prefer a leather band but metal is also a good choice.
 
 **Your Belt:** Keep the color neutral. Choose between black or brown. Super bright colors can read a bit too childish.
 
-**Your Sunglasses:** Have some fun with your accessories. A pop of red in a classic shape will pull your look together perfectly without seeming gimmicky. Think an aviator in a bright red or a darker maroon color.
+**Your Sunglasses:** Have some fun with your accessories. A pop of red in a classic shape will pull your look together perfectly without seeming gimmicky. Think an aviator in a bright red or a darker maroon color.
 
 Tag us in your [9tailors](https://www.instagram.com/9tailors/) gear this holiday weekend. We can't wait to see it!

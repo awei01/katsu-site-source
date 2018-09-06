@@ -19,7 +19,7 @@ featuredImage: /uploads/2016/09/20160913-9-tailors-0603.jpg
 ---
 Although the weather may be constantly changing one thing remains constant: fall trends. Each season we round up a list of trends that you should incorporate into your wardrobe. Some may be a bit out of your comfort zone but adding a new trend into your wardrobe is easier than you think. We will admit some trends are here today and gone tomorrow but there are a few that we think will stick around.
 
-#### Trend 1:  Check Mate
+#### Trend 1: Check Mate
 
 Move over stripes it's all about checks this season. The larger the check the bigger the impact and when it comes to menswear standing out isn't always a bad thing. Our personal fave is checked outerwear. Everyone has a classic brown or black peacoat so why not take a stab at a statement piece like below. A tip from our style consultants: keep the base color neutral and let the checks do all the talking. 
 
@@ -31,7 +31,7 @@ Another great look is a classic windowpane in gray or blue. When it comes to a w
 
 #### Trend #2: Copper
 
-Think of this trend as a refreshing break from navy and gray. A rich  reddish-brown copper is the perfect autumn hue. Copper works well for blazers, trousers, and overcoats. You name it there's a way to incorporate it into your daily wardrobe. If you'd like to start small think accessories. A hat or scarf are perfect for a subtle touch. If you're ready to jump right in we'd recommend an overcoat. It is more of a statement piece so keep the silhouette classic and streamlined.
+Think of this trend as a refreshing break from navy and gray. A rich reddish-brown copper is the perfect autumn hue. Copper works well for blazers, trousers, and overcoats. You name it there's a way to incorporate it into your daily wardrobe. If you'd like to start small think accessories. A hat or scarf are perfect for a subtle touch. If you're ready to jump right in we'd recommend an overcoat. It is more of a statement piece so keep the silhouette classic and streamlined.
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/48/52/14/485214cc02d7b5a1cf99c6fea38d19a3.jpg)
 
@@ -49,7 +49,7 @@ If you're not sure where to start shades of green and brown work great together.
 
 #### Trend #4: Duffle Coat
 
-The duffle coat may not be a staple in every guy's wardrobe, but it has been making a huge comeback this season. Now we aren't telling you to trade in your peacoat because nothing can take the place of such a classic piece. But we will say it is definitely a piece to keep on your radar. Slightly more rugged in it's nature with a hood and toggles it appears more casual. If you'd like to go against the grain the best advice we can give is to take your duffle coat out of its comfort zone. Pair it with a blazer or suit. Classic colors like black or brown are great for longevity. If you want a bit more fun opt for a check pattern or bold color such as red or emerald green.
+The duffle coat may not be a staple in every guy's wardrobe, but it has been making a huge comeback this season. Now we aren't telling you to trade in your peacoat because nothing can take the place of such a classic piece. But we will say it is definitely a piece to keep on your radar. Slightly more rugged in it's nature with a hood and toggles it appears more casual. If you'd like to go against the grain the best advice we can give is to take your duffle coat out of its comfort zone. Pair it with a blazer or suit. Classic colors like black or brown are great for longevity. If you want a bit more fun opt for a check pattern or bold color such as red or emerald green.
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/ab/a6/c2/aba6c2bb5f3ba22fce994c4a9545e409.jpg)
 

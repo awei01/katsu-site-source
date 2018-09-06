@@ -16,7 +16,7 @@ tags:
   - menswear
 featuredImage: null
 ---
-[![](http://4.bp.blogspot.com/_20LDsLnO2rk/TFGsZF1EmwI/AAAAAAAAAwQ/bFM_cw65n9o/s400/deal_Healthworks_Fitness_Centers_Discount_Boston.jpg)](http://4.bp.blogspot.com/_20LDsLnO2rk/TFGsZF1EmwI/AAAAAAAAAwQ/bFM_cw65n9o/s1600/deal_Healthworks_Fitness_Centers_Discount_Boston.jpg)
+[![](http://4.bp.blogspot.com/_20LDsLnO2rk/TFGsZF1EmwI/AAAAAAAAAwQ/bFM_cw65n9o/s400/deal_Healthworks_Fitness_Centers_Discount_Boston.jpg)](http://4.bp.blogspot.com/_20LDsLnO2rk/TFGsZF1EmwI/AAAAAAAAAwQ/bFM_cw65n9o/s1600/deal_Healthworks_Fitness_Centers_Discount_Boston.jpg) 
 
 Attention 9tailors customers! [Healthworks](http://www.healthworksfitness.com/), Boston's premiere women's fitness club, is offering 9tailors customers a FREE 7-day pass to try out their gym. 
 

@@ -24,7 +24,7 @@ Tonight is the night! Join us for our [Baubles & Bubbles for Boobies Event](http
 
 Featuring pink pocket squares in honor of breast cancer awareness month, 10% of pink pocket squares sold tonight with be donated to the [Noreen Fraser Foundation](http://www.noreenfraserfoundation.org/).
 
-\*Today Only, **Buy 3 Shirts, Get 1 FREE **restrictions apply
+\*Today Only, **Buy 3 Shirts, Get 1 FREE** restrictions apply
 
 The importance of the pocket square is often underestimated and unappreciated. Suits became appreciated with the rise of Mad Men but alas, the pocket square is not always in its company. Justin Timberlake aided the revitalization of being a dapper gentleman with his vests over button downs as casual wear and fedora hats. With the glimpse of dressing dapper, his style has evolved into a sleek sophistication with bow ties and pocket squares.
 
@@ -35,7 +35,7 @@ For those of you who watch _How I Met Your Mother_, you understand the importanc
 source: GQ
 Neil Patrick Harris wears a straight fold
 
- THE STRAIGHT FOLD
+ THE STRAIGHT FOLD
 
 Sleek and sophisticated, an understated fold
 
@@ -79,7 +79,7 @@ A conservative fold without the peaks, suitable for work and play
 
 [![](http://3.bp.blogspot.com/-t-DaW8SIOMo/Um_06i5McsI/AAAAAAAAAFI/fxCcxJfE6qY/s640/winged+puff+post.jpg)](http://3.bp.blogspot.com/-t-DaW8SIOMo/Um_06i5McsI/AAAAAAAAAFI/fxCcxJfE6qY/s1600/winged+puff+post.jpg)
 
- 1. Lay square out as a diamond
+ 1. Lay square out as a diamond
 
 2\. Fold the top tip to meet the bottom tip
 
@@ -101,7 +101,7 @@ An evening fold for formal affairs
 
 [![](http://4.bp.blogspot.com/-nHOo8ZiHe7Y/Um_0uWvfgNI/AAAAAAAAAEc/edWougIM164/s640/staircase+fold+post.jpg)](http://4.bp.blogspot.com/-nHOo8ZiHe7Y/Um_0uWvfgNI/AAAAAAAAAEc/edWougIM164/s1600/staircase+fold+post.jpg)
 
- 1. Start from a diamond shape
+ 1. Start from a diamond shape
 
 2\. Fold bottom point up to the top point
 

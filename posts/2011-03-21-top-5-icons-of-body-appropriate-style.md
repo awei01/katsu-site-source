@@ -15,7 +15,7 @@ tags:
   - menswear tips
 featuredImage: null
 ---
-Perfection is a rarity, imperfection the norm. With that said, it does not mean we should stop striving for our best, our version of perfection. When it comes to dressing yourself work what you have while down playing the rest. A few trusted techniques can hide your trouble spots and accentuate your assets. The result will be astounding. 
+Perfection is a rarity, imperfection the norm. With that said, it does not mean we should stop striving for our best, our version of perfection. When it comes to dressing yourself work what you have while down playing the rest. A few trusted techniques can hide your trouble spots and accentuate your assets. The result will be astounding. 
 
 Robert Di Niro
 

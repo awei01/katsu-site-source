@@ -13,7 +13,7 @@ tags:
   - sale
 featuredImage: /uploads/2014/10/accessories_sale_20140501.jpg
 ---
-Jack Nicholson once said, "With my sunglasses on, I'm Jack Nicholson. Without them, I'm fat and 60." This gives you an idea of how accessories can transform your look. With that in mind, [9tailors](http://www.9tailors.com/) is throwing an accessories sale!
+Jack Nicholson once said, "With my sunglasses on, I'm Jack Nicholson. Without them, I'm fat and 60." This gives you an idea of how accessories can transform your look. With that in mind, [9tailors](http://www.9tailors.com/) is throwing an accessories sale!
 
 [![](http://3.bp.blogspot.com/-unS_D62RtqU/U2JbAjerM_I/AAAAAAAAV8E/14bzt1vM1Rw/s1600/accessories_sale_20140501.jpg)](http://3.bp.blogspot.com/-unS_D62RtqU/U2JbAjerM_I/AAAAAAAAV8E/14bzt1vM1Rw/s1600/accessories_sale_20140501.jpg)
 

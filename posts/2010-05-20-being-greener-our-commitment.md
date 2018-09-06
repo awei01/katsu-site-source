@@ -25,9 +25,9 @@ While we do recycle the plastic and try to re-use it as much as possible. It's a
 
 So, in an effort to lessen our own plastic waste and other disposable packaging, we agree to do the following:
 
-	1.In our bulk shipments, we will stop individually packaging shirts in plastic. Instead we will place all shirts in one larger reusable bag.
-	2.In our client shipments, we will no longer send paper receipts. We will e-mail each receipt to each client. It is up to each client to print (or not print) the receipt.
-	3.For client pick-ups, we will no longer wrap our products in tissue paper and will transition away from paper bags and move towards reusable bags.
+	1. In our bulk shipments, we will stop individually packaging shirts in plastic. Instead we will place all shirts in one larger reusable bag.
+	2. In our client shipments, we will no longer send paper receipts. We will e-mail each receipt to each client. It is up to each client to print (or not print) the receipt.
+	3. For client pick-ups, we will no longer wrap our products in tissue paper and will transition away from paper bags and move towards reusable bags.
 
 It's a small yet, meaningful step for us in the right direction.
 

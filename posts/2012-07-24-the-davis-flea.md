@@ -15,9 +15,9 @@ tags:
   - menswear
 featuredImage: /uploads/2014/10/s.jpg
 ---
-Looking for some keepsake accessories? Have a thing for vintage finds? Then, stroll (or bike, or take the T, or drive) on over to Davis Square in Somerville this Sunday and have a looksy at the vendors in [The Davis Flea](http://www.thedavisflea.com/Home.html)!
+Looking for some keepsake accessories? Have a thing for vintage finds? Then, stroll (or bike, or take the T, or drive) on over to Davis Square in Somerville this Sunday and have a looksy at the vendors in [The Davis Flea](http://www.thedavisflea.com/Home.html)!
 
-We're often asked where to find hip accessories here at  [9tailors](http://www.9tailors.com/), so I've begun the hunt. Vintage stores are thriving with lovely, individual, and funky pieces, whether you're looking for something trendy, quirky, novelty, or just want a plain old conversation-starter. Of course, you can go online and find brand-new accessories, but second-hand items will usually be easier on the wallet and one-of-a-kind, sorta like a custom suit from [9tailors.](http://www.9tailors.com/)
+We're often asked where to find hip accessories here at [9tailors](http://www.9tailors.com/), so I've begun the hunt. Vintage stores are thriving with lovely, individual, and funky pieces, whether you're looking for something trendy, quirky, novelty, or just want a plain old conversation-starter. Of course, you can go online and find brand-new accessories, but second-hand items will usually be easier on the wallet and one-of-a-kind, sorta like a custom suit from [9tailors.](http://www.9tailors.com/)
 
 At the Davis Flea, I perused some tables to find a bevy of cuff links and tie pins, great for gifts or for an additional spiffy detail to your suit! One thing to keep in mind: you don't have to go all out and get cuff links of the bejeweled variety if it's not your style. But it's worth it to pore over the selections you see and find the hidden gems—it's amazing what you can find.
 

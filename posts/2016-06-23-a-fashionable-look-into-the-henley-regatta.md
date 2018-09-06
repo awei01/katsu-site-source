@@ -12,7 +12,7 @@ tags:
   - royal henley regatta
 featuredImage: /uploads/2016/06/regatta.jpg
 ---
-**The Henley Regatta is a fine British tradition honoring the greatest crew teams, bringing in teams from different countries to compete on the water, and on land.  Dating back to 1839, high society has flocked to the event, eager to show off their fashions in their very specific dress code. Women flaunt full-length dress, only daring to go as high as below the knee, with straw hats, and gentlemen show up in very festive blazers, becoming the icons of Henley Regatta fashion.** 
+**The Henley Regatta is a fine British tradition honoring the greatest crew teams, bringing in teams from different countries to compete on the water, and on land. Dating back to 1839, high society has flocked to the event, eager to show off their fashions in their very specific dress code. Women flaunt full-length dress, only daring to go as high as below the knee, with straw hats, and gentlemen show up in very festive blazers, becoming the icons of Henley Regatta fashion.** 
 
 ![](https://s-media-cache-ak0.pinimg.com/736x/33/b3/35/33b335c2073677a14535d01901ef8719.jpg)
 

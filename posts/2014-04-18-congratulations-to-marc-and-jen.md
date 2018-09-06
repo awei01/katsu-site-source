@@ -20,7 +20,7 @@ tags:
   - wedding suit
 featuredImage: /uploads/2014/10/marc-fucarile-wedding-love-runs_0007.jpg
 ---
-You've been following our journey to help Boston Marathon tragedy survivor, Marc Fucarile, and his wife, Jennifer Regan, in their wedding planning for the last few weeks. We met Marc and Jen back in February and designed gorgeous suits for Marc and their son, Gavin. Last night, the couple were married at [Fenway Park](http://boston.redsox.mlb.com/bos/ballpark/) and celebrated their special day at the elegant, [Hotel Commonwealth](http://www.hotelcommonwealth.com/index.cfm). While temperatures hovered around 40_°_, their story of love, courage and endurance warmed our hearts.
+You've been following our journey to help Boston Marathon tragedy survivor, Marc Fucarile, and his wife, Jennifer Regan, in their wedding planning for the last few weeks. We met Marc and Jen back in February and designed gorgeous suits for Marc and their son, Gavin. Last night, the couple were married at [Fenway Park](http://boston.redsox.mlb.com/bos/ballpark/) and celebrated their special day at the elegant, [Hotel Commonwealth](http://www.hotelcommonwealth.com/index.cfm). While temperatures hovered around 40_°_, their story of love, courage and endurance warmed our hearts.
 
 Here's a sneak peak of the festivities last night! Congratulations to our beautiful couple!
 
@@ -48,7 +48,7 @@ Also, we wanted to express our gratitude to the incredible [Love Runs Through Bo
 
 [Bella Bridesmaid](http://www.bellabridesmaids.com/)
 
-Boston Uplights  
+Boston Uplights 
 
 Cakes for Occasions
 

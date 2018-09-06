@@ -29,7 +29,7 @@ Custom measurements ensure it fits you just right.
 
 [![togglecoatGREY]({{ site.baseUrl }}/uploads/togglecoatGREY-736x1024.jpg)]({{ site.baseUrl }}/uploads/togglecoatGREY.jpg)
 
- Pick your fabric, color, design and create the perfect coat for you.
+ Pick your fabric, color, design and create the perfect coat for you.
 
 [![CAMCOAT]({{ site.baseUrl }}/uploads/CAMCOAT-499x1024.jpg)]({{ site.baseUrl }}/uploads/CAMCOAT.jpg)
 

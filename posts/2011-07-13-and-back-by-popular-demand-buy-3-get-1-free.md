@@ -22,11 +22,11 @@ Go ahead and stock up so you don't have to worry about having the right shirt wh
 
 **Terms & Conditions** 
 
-	*The promotion is valid now until July 31, 2011 at 11:59PM EST. 
-	*If you do not purchase the qualifying items when the promotion is in effect, the discount will not apply. 
-	*The promotion applies only to qualifying custom shirts in the C, D, E, and F categories. 
-	*Unless the promotion indicates otherwise, it applies to the lowest-priced qualifying item and may not be combined with other offers. 
-	*All qualifying items must be purchased in one order for a single client. 
-	*If you return any of the promotion items, we will subtract your discount from your return credit. 
-	*Shipping and handling charges apply to all promoted items. 
-	*Void where prohibited.
+	* The promotion is valid now until July 31, 2011 at 11:59PM EST. 
+	* If you do not purchase the qualifying items when the promotion is in effect, the discount will not apply. 
+	* The promotion applies only to qualifying custom shirts in the C, D, E, and F categories. 
+	* Unless the promotion indicates otherwise, it applies to the lowest-priced qualifying item and may not be combined with other offers. 
+	* All qualifying items must be purchased in one order for a single client. 
+	* If you return any of the promotion items, we will subtract your discount from your return credit. 
+	* Shipping and handling charges apply to all promoted items. 
+	* Void where prohibited.

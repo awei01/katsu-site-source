@@ -19,15 +19,15 @@ featuredImage: /uploads/2016/11/laundry.jpeg
 ---
 I
 
-f you are anything like us you'll be carving out a bit of time this weekend to finally get some laundry done. Now that fall is upon us here in Boston and layers are in full effect now is a great time to brush up on your laundry knowledge.
+f you are anything like us you'll be carving out a bit of time this weekend to finally get some laundry done. Now that fall is upon us here in Boston and layers are in full effect now is a great time to brush up on your laundry knowledge.
 
-We've compiled a list of everyday items and when you should give them the extra TLC they deserve. That way there won't be any more second-guessing.
+We've compiled a list of everyday items and when you should give them the extra TLC they deserve. That way there won't be any more second-guessing.
 
 ##### **Suits**
 
 ![20160913-9-tailors-0922]({{ site.baseUrl }}/uploads/2016/11/20160913-9-tailors-0922.jpg)
 
-There is **no hard and fast rule** about how often you should be dry cleaning your suits. It goes without saying that the more you wear your suit the more you'll need to have it cleaned. A good rule of thumb is once the spot cleaning stops removing the odor or stains it's a good idea to take it to the cleaners.
+There is **no hard and fast rule** about how often you should be dry cleaning your suits. It goes without saying that the more you wear your suit the more you'll need to have it cleaned. A good rule of thumb is once the spot cleaning stops removing the odor or stains it's a good idea to take it to the cleaners.
 
 You'll want to have a few suits in rotation so that they each get a chance to air out. Even if you haven't worn your jacket as often as your pants you'll want to send them to the dry cleaner at the **together.** wwThis will ensure that everything wears at the same time.
 
@@ -41,7 +41,7 @@ Dress shirts can survive ****three or four wears**** especially if you're an und
 
 If you must send them to the dry cleaner ask that they ****be hand-ironed****. This will cut down on all the harsh chemicals and extend the lifespan of your shirts.
 
-A few things to always keep in mind are: wash with like colors, cold or warm wash, and **never put them into the dryer**. Drying your shirts will cause them to shrink which is no fun for your wallet.
+A few things to always keep in mind are: wash with like colors, cold or warm wash, and **never put them into the dryer**. Drying your shirts will cause them to shrink which is no fun for your wallet.
 
 ##### **Sweaters**
 
@@ -53,6 +53,6 @@ Similar to dress shirts your **sweaters can withstand a few wears** before they 
 
 ![](http://68.media.tumblr.com/181627ec214e2ffaf47c59a53c13b7d7/tumblr_niwatnzcdJ1s3cfylo1_1280.jpg)
 
-Most jackets and coats should be washed **once a season**. We'd recommend laundering your coats before the snow starts. That way it'll be clean and ready to go for the winter season. If you live in a city like Boston or spend a ton of time outdoors we'd recommend freshening up your outerwear mid-season.
+Most jackets and coats should be washed **once a season**. We'd recommend laundering your coats before the snow starts. That way it'll be clean and ready to go for the winter season. If you live in a city like Boston or spend a ton of time outdoors we'd recommend freshening up your outerwear mid-season.
 
 Remember to wash scarves, hats and gloves at least **once a month** during the colder months. Once you think about how many places you've laid them down you'll understand the need.

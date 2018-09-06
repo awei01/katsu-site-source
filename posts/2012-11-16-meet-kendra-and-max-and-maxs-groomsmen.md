@@ -22,25 +22,25 @@ featuredImage: /uploads/2014/10/2.jpg
 
 Center: Max, left to right: Kirbey Barthelemy, Dan Omelio, Richard Dorval, Pierre Thelusma
 
-**What are your names?**
-Max Joseph
-Pierre Thelusma
-Dan Omelio
-Richard Dorval
+ **What are your names?**
+Max Joseph 
+Pierre Thelusma 
+Dan Omelio 
+Richard Dorval 
 Kirbey Barthelemy
-**Where and when was the big day?**
+ **Where and when was the big day?**
 09/22/2012, Middletown, RI
-**How was the weather? Was your wedding indoors/outdoors?**
+ **How was the weather? Was your wedding indoors/outdoors?**
 Weather was perfect. Ceremony was indoors and the reception was partially outdoors.
-Why did you decide to go with [9tailors](http://www.9tailors.com/) on your own custom design?
+ Why did you decide to go with [9tailors](http://www.9tailors.com/) on your own custom design?
 Because I think it's more important to invest in something you will have forever, instead of renting. Once I decided to go in that direction, 9tailors was the only option.
-**Describe your 9tailors experience and items.**
+ **Describe your 9tailors experience and items.**
 It was great—Kim, Sam and Alex treated us like kings.They kept us very informed, answering every strange question we had about the process. They were also very accommodating, they even went to my groomsmen in CT and NY to do their fittings. No other company will go that far for their clients, no one.
-**What was the best part of your wedding day?**
+ **What was the best part of your wedding day?**
 Besides getting married? It was just a perfect day, end to end.
-**What is your advice to other wedding couples thinking about designing custom suits or shirts?**
+ **What is your advice to other wedding couples thinking about designing custom suits or shirts?**
 Custom is the best option. Don't worry about the price. The groomsmen will thank you for it later.
-**Choose your favorite photo and tell us why.**
+ **Choose your favorite photo and tell us why.**
 My favorite photo is the one of use with the jackets inside-out and we are all laughing. It shows how much fun we had that entire day.
 
 [![](http://1.bp.blogspot.com/-HGuC6nuRwfU/UJwwMmyyCBI/AAAAAAAABUg/ha77LfDTjtA/s400/20120922-JL-043.jpg)](http://1.bp.blogspot.com/-HGuC6nuRwfU/UJwwMmyyCBI/AAAAAAAABUg/ha77LfDTjtA/s1600/20120922-JL-043.jpg)
@@ -68,5 +68,5 @@ The beautiful couple, Max and Kendra
 Accessorize!
 
 \*All of these wonderful photos are courtesy of [Jaclyn L. Photography](http://www.jaclynlphotography.com/)
-Gettin' hitched? Make the special day that much more special with custom-designed apparel, just for you! We recommend our engaged couples begin the process about two months before the wedding date. Unsure? Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and come in for a complimentary consultation to discuss what you're looking for...chances are, we can help. 
-Have you liked us on [facebook](https://www.facebook.com/9tailors) yet? Do it!
+ Gettin' hitched? Make the special day that much more special with custom-designed apparel, just for you! We recommend our engaged couples begin the process about two months before the wedding date. Unsure? Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and come in for a complimentary consultation to discuss what you're looking for...chances are, we can help. 
+ Have you liked us on [facebook](https://www.facebook.com/9tailors) yet? Do it!

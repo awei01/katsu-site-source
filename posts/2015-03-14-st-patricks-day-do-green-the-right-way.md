@@ -19,7 +19,7 @@ tags:
   - style tips
 featuredImage: /uploads/2015/03/coverphoto.jpg
 ---
-This city is known for it's spirited antics on March 17th. It's where the Charles turns green and the city becomes a whirlwind of green beer, corned beef and cabbage and some very tipsy (nicely put) locals. If you don't get into it, we understand. If you do, we thought we'd give you 3 ways to wear green without looking like...well, these guys...
+This city is known for it's spirited antics on March 17th. It's where the Charles turns green and the city becomes a whirlwind of green beer, corned beef and cabbage and some very tipsy (nicely put) locals. If you don't get into it, we understand. If you do, we thought we'd give you 3 ways to wear green without looking like...well, these guys...
 
 [![CRAZYGREEN]({{ site.baseUrl }}/uploads/CRAZYGREEN.jpg)]({{ site.baseUrl }}/uploads/CRAZYGREEN.jpg)
 

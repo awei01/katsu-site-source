@@ -14,7 +14,7 @@ tags:
   - wedding planning
 featuredImage: /uploads/2017/01/wedding-e1484262803513.jpg
 ---
-For some couples wedding planning is a breeze, however, for others it can seem like one daunting task after the other. Grooms, there will be tons of things to think about. Your fiance will have a ton of questions for you and even if you think she'll figure it out on her own it's always nice to give a little input. Wedding planning is all about picking your battles and picking them wisely.
+For some couples wedding planning is a breeze, however, for others it can seem like one daunting task after the other. Grooms, there will be tons of things to think about. Your fiance will have a ton of questions for you and even if you think she'll figure it out on her own it's always nice to give a little input. Wedding planning is all about picking your battles and picking them wisely.
 
 We've compiled a list of 7 tasks that any groom will be able to handle. So take notes and be ready for the next time she wants a little input.
 
@@ -38,7 +38,7 @@ Brides always have an idea of how they want their groom and his groomsmen to loo
 
 #### **Groomsmen Gifts**
 
-This goes without saying guys. **Skip the flasks.** They probably own a ton from the other weddings they were in earlier this year. Think about what sports they enjoy. Get them golf clubs or tickets to a game. Another great gift is a weekender bag. They will always come in handy for vacations, weddings etc. 
+This goes without saying guys. **Skip the flasks.** They probably own a ton from the other weddings they were in earlier this year. Think about what sports they enjoy. Get them golf clubs or tickets to a game. Another great gift is a weekender bag. They will always come in handy for vacations, weddings etc. 
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/74/73/1f/74731f813410c9410da87a53c79d2a76.jpg)
 
@@ -50,12 +50,12 @@ Whether you choose to have a live band or a DJ music is one thing the groom can 
 
 #### **Transportation**
 
-How are you getting to the venue? What's going to happen after the reception? Groom, take over this task. It's pretty straight forward and it's one less thing she'll have to worry about.
+How are you getting to the venue? What's going to happen after the reception? Groom, take over this task. It's pretty straight forward and it's one less thing she'll have to worry about.
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/42/78/9c/42789cb69a7b7209f3f4fef484295317.jpg)
 
 #### **Writing Wedding Vows**
 
-This is one item on the list that **cannot** be delegated to anyone else. This is especially true if you're going to write your own vows. They should be emotional and sentimental. No one can capture this except for you. 
+This is one item on the list that **cannot** be delegated to anyone else. This is especially true if you're going to write your own vows. They should be emotional and sentimental. No one can capture this except for you. 
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/97/56/ae/9756ae1ead108bac6256caa1d9dfd622.jpg)

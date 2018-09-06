@@ -26,23 +26,23 @@ We'll select one winner from the bunch.
 
 Steps to Entering:
 
-	1.Fan us on the [9tailors Facebook](http://tinyurl.com/4uxnbj9) page. Leave a brief comment on why he should win. If you already a fan, thanks in advance!
-	2.Then, submit a short essay (about 200-500 words) OR video (about 2-5 minutes) on why he deserves a free custom outfit to kathryn@9tailors with the subject heading: "Valentine's Day Giveaway". Your e-mail should contain the following:
+	1. Fan us on the [9tailors Facebook](http://tinyurl.com/4uxnbj9) page. Leave a brief comment on why he should win. If you already a fan, thanks in advance!
+	2. Then, submit a short essay (about 200-500 words) OR video (about 2-5 minutes) on why he deserves a free custom outfit to kathryn@9tailors with the subject heading: "Valentine's Day Giveaway". Your e-mail should contain the following:
 
-	*Full Name of nominator and nominee (you can nominate yourself)
-	*Photo of the nominee
-	*Contact e-mail of nominator and nominee
-	*Winner will be notified by e-mail
+	* Full Name of nominator and nominee (you can nominate yourself)
+	* Photo of the nominee
+	* Contact e-mail of nominator and nominee
+	* Winner will be notified by e-mail
 
 The Fine Print:
 
-	*Must submit before February 11, 2011 11:59 PM EST
-	*Winner will be notified before February 14, 2011
-	*Limit to one submission and nomination per person.
-	*Winner must consent to having their story published online. We may post entries on our blog.
-	*Participants must be 18 years or older to participate.
-	*Prize valued at $600 ($500 for the suit and $100 for the dress shirt). Winner may also opt to order a suit, but must pay the difference.
-	*Must be able to come to the 9tailors studio in downtown Boston for fitting/appointment(s).
-	*No other compensation will be given.
-	*Prize is non-refundable for cash or cash equivalent and cannot be combined with other 9tailors sales or promotions.
-	*Other program rules and restrictions may apply.
+	* Must submit before February 11, 2011 11:59 PM EST
+	* Winner will be notified before February 14, 2011
+	* Limit to one submission and nomination per person.
+	* Winner must consent to having their story published online. We may post entries on our blog.
+	* Participants must be 18 years or older to participate.
+	* Prize valued at $600 ($500 for the suit and $100 for the dress shirt). Winner may also opt to order a suit, but must pay the difference.
+	* Must be able to come to the 9tailors studio in downtown Boston for fitting/appointment(s).
+	* No other compensation will be given.
+	* Prize is non-refundable for cash or cash equivalent and cannot be combined with other 9tailors sales or promotions.
+	* Other program rules and restrictions may apply.

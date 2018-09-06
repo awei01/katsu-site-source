@@ -19,9 +19,9 @@ featuredImage: /uploads/2014/10/toby.jpg
 ---
 [![](http://4.bp.blogspot.com/-F2ID3shGBzw/UJKyGOyxmhI/AAAAAAAABQk/ymoYgan6Oog/s640/TobySnedecorProfile.jpg)](http://4.bp.blogspot.com/-F2ID3shGBzw/UJKyGOyxmhI/AAAAAAAABQk/ymoYgan6Oog/s1600/TobySnedecorProfile.jpg)
 
-Meet Toby Snedecor, an inquisitive, playful [9tailors](http://www.9tailors.com/) client who always has an open and curious mind when approaching his design appointments with us. This young French teacher loves to update his look and try new things, constantly changing it up, as we highly recommend everyone do from time to time.  Pictured above in a [9tailors](http://www.9tailors.com/) suit, Toby opted for a shawl collar on his suit jacket, a subtle twist on tradition but otherwise quite a cool and collected style we don't see very often. Kudos, Toby! 
+Meet Toby Snedecor, an inquisitive, playful [9tailors](http://www.9tailors.com/) client who always has an open and curious mind when approaching his design appointments with us. This young French teacher loves to update his look and try new things, constantly changing it up, as we highly recommend everyone do from time to time. Pictured above in a [9tailors](http://www.9tailors.com/) suit, Toby opted for a shawl collar on his suit jacket, a subtle twist on tradition but otherwise quite a cool and collected style we don't see very often. Kudos, Toby! 
 
-**Name:**
+ **Name:**
 Toby Snedecor
 
 **Age:**
@@ -31,33 +31,33 @@ Toby Snedecor
 
 Where the heart is.
 
-**Current Residence:**
+ **Current Residence:**
 
 Somerville, MA
 
 **Occupation:**
 French Teacher
-**How long have you been a 9tailors client?**
+ **How long have you been a 9tailors client?**
 
 Two years
-**Why choose custom?**
+ **Why choose custom?**
 
 First and foremost, because of the fit. I'm not sure who off-the-rack clothes are meant to fit, but I know it's not me. Most of the name brand "slim-fit" shirts that are sized for my neck and shoulders have billows of excess fabric at my sides, and I'm not a very slim man. Custom clothing fits like a glove from day one, because it was literally made for you. It wears better, it feels better, and it looks better.
-Secondly, choosing custom lets me have my ideas put into every thing I order. I can add in subtle accents and fresh details to old standards, choose interesting textures and fabrics for more unique pieces, and make each and every item an expression of my personal style.
+ Secondly, choosing custom lets me have my ideas put into every thing I order. I can add in subtle accents and fresh details to old standards, choose interesting textures and fabrics for more unique pieces, and make each and every item an expression of my personal style.
 
  **What inspires your style? Why?**
 As a French teacher, I feel obligated to represent Francophone culture to my students, and the French have a particular reputation for being fashionable. Fortunately for my wallet, most American teenagers don't actually know what the cutting-edge Paris haute couture looks like, so I can get away with doing my own thing.
-My style revolves around the classic, traditional foundations of menswear, to which I add dashes of the modern and the bold to make it my own. I'm building a repertoire of suits and blazers that have clean, flattering lines and unique touches of color and flair: a vibrant paisley lining in a charcoal gray jacket, some bright blue piping for a classic navy three-piece, or a bit of accent stitching on the buttonholes and boutonniere of a sport coat.
-I draw inspiration from anywhere and everywhere I can find it: mens' style blogs, local menswear stores, [9tailors](http://www.9tailors.com/) sample sales, people I see on the street, even individual pieces in a stranger's otherwise boring outfit. I only started paying attention to these things two or three years ago, and now I notice interesting fabrics and cuts everywhere. It's made walking through cities a more interesting experience.
+ My style revolves around the classic, traditional foundations of menswear, to which I add dashes of the modern and the bold to make it my own. I'm building a repertoire of suits and blazers that have clean, flattering lines and unique touches of color and flair: a vibrant paisley lining in a charcoal gray jacket, some bright blue piping for a classic navy three-piece, or a bit of accent stitching on the buttonholes and boutonniere of a sport coat.
+ I draw inspiration from anywhere and everywhere I can find it: mens' style blogs, local menswear stores, [9tailors](http://www.9tailors.com/) sample sales, people I see on the street, even individual pieces in a stranger's otherwise boring outfit. I only started paying attention to these things two or three years ago, and now I notice interesting fabrics and cuts everywhere. It's made walking through cities a more interesting experience.
 
 **What is your favorite piece from 9tailors?**
 As much as I love the dapper blue three-piece that was my first piece from [9tailors](http://www.9tailors.com/), I think this new suit might be taking the crown with its clean profile and flashy lining… but I'm also looking forward to the wedding suit you'll be making me this spring.
 
  **What would be your style advice to other men in your professional field?**
 My first piece of style advice to any man who asks is this: look at a picture from the fifties or sixties, find the guy in the picture who looks good, and get what he's wearing. That's the Cliff Notes version of timeless style. There's much more to it, obviously, but those classic looks are always a good starting point, especially in the academic world.
-Teachers and professors are not renowned for their dapper attire, but that's actually an advantage to the educator who wants to raise his sartorial game. Unlike professions where a certain kind of suit and tie are expected, educators have an incredible amount of freedom in what they can choose to wear, and we can get away with color and fabric combinations that wouldn't fly in a "business formal" setting.
-Most teachers will never have to wear anything more than a coat and tie to work, so putting in a bit of thought to build a flexible arsenal of blazers, shirts, and slacks will pay off handsomely in the long run. And so many options are in play! Herringbones and subtle plaids? No problem. Brown or green suits? No problem. Corduroys and tweeds? They're practically the hallmarks of professorial style.
-To the teacher who's just started building his professional wardrobe, look at those classics and choose the foundations of your collection with flexibility and longevity in mind. Don't get \*too\* crazy right off the bat. To the teacher who already has a solid base of classic ensembles, start thinking outside the box with colors and fabrics and cuts. Recently, I've been mulling over the idea of taking the classic business formal cut and combining it with a less-formal fabric, like a three-piece suit in a green herringbone or tweed. Oh, and never button the bottom button of your jacket.
+ Teachers and professors are not renowned for their dapper attire, but that's actually an advantage to the educator who wants to raise his sartorial game. Unlike professions where a certain kind of suit and tie are expected, educators have an incredible amount of freedom in what they can choose to wear, and we can get away with color and fabric combinations that wouldn't fly in a "business formal" setting. 
+ Most teachers will never have to wear anything more than a coat and tie to work, so putting in a bit of thought to build a flexible arsenal of blazers, shirts, and slacks will pay off handsomely in the long run. And so many options are in play! Herringbones and subtle plaids? No problem. Brown or green suits? No problem. Corduroys and tweeds? They're practically the hallmarks of professorial style. 
+ To the teacher who's just started building his professional wardrobe, look at those classics and choose the foundations of your collection with flexibility and longevity in mind. Don't get \*too\* crazy right off the bat. To the teacher who already has a solid base of classic ensembles, start thinking outside the box with colors and fabrics and cuts. Recently, I've been mulling over the idea of taking the classic business formal cut and combining it with a less-formal fabric, like a three-piece suit in a green herringbone or tweed. Oh, and never button the bottom button of your jacket.
 
 _Couldn't agree with you more, Toby. Great tips!_
 
@@ -77,12 +77,12 @@ Diggin' Toby's style? Have an event, an interview, a new job, a wedding, or do y
 
 **Shoot Details:**
 
-**Location:** T[he Arnold Arboretum](http://arboretum.harvard.edu/)**Shirt: **[9tailors](http://www.9tailors.com/)
-**Pants:** [9tailors](http://www.9tailors.com/)
-**Sports Coat:** [9tailors](http://www.9tailors.com/)
-**Tie:** [TheTieBar](http://thetiebar.com/)
-**Sweater: **[H&M](http://www.hm.com/us/)
-**Scarf: **[H&M](http://www.hm.com/us/)
+**Location:** T[he Arnold Arboretum](http://arboretum.harvard.edu/) **Shirt:** [9tailors](http://www.9tailors.com/) 
+**Pants:** [9tailors](http://www.9tailors.com/)
+**Sports Coat:** [9tailors](http://www.9tailors.com/)
+**Tie:** [TheTieBar](http://thetiebar.com/)
+**Sweater:** [H&M](http://www.hm.com/us/)
+**Scarf:** [H&M](http://www.hm.com/us/)
 
-**Hat: **Smitty from [Goorin Brothers](http://www.goorin.com/)
-**Suspenders:** [Geoffrey Beene](http://www.geoffreybeene.com/)
+**Hat:** Smitty from [Goorin Brothers](http://www.goorin.com/)
+**Suspenders:** [Geoffrey Beene](http://www.geoffreybeene.com/)

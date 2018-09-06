@@ -19,18 +19,18 @@ featuredImage: /uploads/2014/10/BadRabbits-022.jpg
 ---
 [![](http://1.bp.blogspot.com/-dpt0eqUh3v0/UiiwiNF_I7I/AAAAAAAADgs/u2l6j83bCs0/s640/BadRabbits-065.jpg)](http://1.bp.blogspot.com/-dpt0eqUh3v0/UiiwiNF_I7I/AAAAAAAADgs/u2l6j83bCs0/s1600/BadRabbits-065.jpg)
 
-In early 2013, we met the [Bad Rabbits](http://en.wikipedia.org/wiki/Bad_Rabbits) and discussed a design collaboration with the chart-topping band.  After brainstorming everything from inspiration to color to each gent's individual preference, we set upon a mission of style. True to [9tailors](http://www.9tailors.com/) form, we wanted to highlight the personalities of each band member whilst introducing  classic looks and new trends alike. The result? My personal favorite project to date. With one-of-a-kind accessories from our friends at [Salmagundi](http://salmagundiboston.com/), [Bobby From Boston](https://www.facebook.com/pages/Bobby-From-Boston/177838382272669), and [KarmaLoop](http://www.karmaloop.com/?utm_source=google&utm_medium=cpc&utm_campaign=search_engine&utm_term=karma%20loop&gclid=CNGs29H6tLkCFQ6f4Aod4DgAjw), we conjured up some fly, unique, well-fitted ensembles that screamed originality.
-See the pictures from the Bad Rabbits photo shoot with our highly esteemed photographer, [Channing Johnson](http://www.channingjohnson.com/), at the incredible [House of Blues' Foundation Room](http://www.houseofblues.com/venues/clubvenues/boston/foundationroom.php). The entire space, with its hidden nooks and crannies of lush funkiness, was the perfect backdrop to the vibe and theme we intended to capture. After the shoot, BR debuted their 9tailors duds on [Jimmy Kimmel Live!](http://2013/06/we-love-bad-rabbits.html) All in all, we couldn't have had a better time working with this group and are beyond thrilled with how everything turned out. 
-Read on for more information about Bad Rabbits. You can also catch them live on Arsenio Hall, September 24 on [CBS](http://www.cbstvd.com/shows.aspx?showID=82).
+In early 2013, we met the [Bad Rabbits](http://en.wikipedia.org/wiki/Bad_Rabbits) and discussed a design collaboration with the chart-topping band. After brainstorming everything from inspiration to color to each gent's individual preference, we set upon a mission of style. True to [9tailors](http://www.9tailors.com/) form, we wanted to highlight the personalities of each band member whilst introducing classic looks and new trends alike. The result? My personal favorite project to date. With one-of-a-kind accessories from our friends at [Salmagundi](http://salmagundiboston.com/), [Bobby From Boston](https://www.facebook.com/pages/Bobby-From-Boston/177838382272669), and [KarmaLoop](http://www.karmaloop.com/?utm_source=google&utm_medium=cpc&utm_campaign=search_engine&utm_term=karma%20loop&gclid=CNGs29H6tLkCFQ6f4Aod4DgAjw), we conjured up some fly, unique, well-fitted ensembles that screamed originality.
+ See the pictures from the Bad Rabbits photo shoot with our highly esteemed photographer, [Channing Johnson](http://www.channingjohnson.com/), at the incredible [House of Blues' Foundation Room](http://www.houseofblues.com/venues/clubvenues/boston/foundationroom.php). The entire space, with its hidden nooks and crannies of lush funkiness, was the perfect backdrop to the vibe and theme we intended to capture. After the shoot, BR debuted their 9tailors duds on [Jimmy Kimmel Live!](http://2013/06/we-love-bad-rabbits.html) All in all, we couldn't have had a better time working with this group and are beyond thrilled with how everything turned out. 
+ Read on for more information about Bad Rabbits. You can also catch them live on Arsenio Hall, September 24 on [CBS](http://www.cbstvd.com/shows.aspx?showID=82).
 
 [![](http://4.bp.blogspot.com/-yGz0daQpRE8/Uiiv5-cVwGI/AAAAAAAADgQ/sSncGP9jVcQ/s640/BadRabbits-038.jpg)](http://4.bp.blogspot.com/-yGz0daQpRE8/Uiiv5-cVwGI/AAAAAAAADgQ/sSncGP9jVcQ/s1600/BadRabbits-038.jpg)
 
 Left to Right: RP Thompson, Santi Araujo, Fredua Boakye, Sheel Dave, Salim Akram, and Graham Masser
 
-**H****ow long have you all been playing together?**
+ **H****ow long have you all been playing together?**
 **"**Five years as Bad Rabbits but we've all played together around ten years."
-What/Who inspires your sound?
-"We could list our influences all day but some of the big ones are Michael Jackson, Deftones, Prince, Earth Wind and Fire, Glassjaw, At the Drive In, Teddy Riley, Rick James, James Fauntleroy, Sly Stone, Pharrell Williams, our band-mates, our friends, family, culture, and peers."
+ What/Who inspires your sound?
+"We could list our influences all day but some of the big ones are Michael Jackson, Deftones, Prince, Earth Wind and Fire, Glassjaw, At the Drive In, Teddy Riley, Rick James, James Fauntleroy, Sly Stone, Pharrell Williams, our band-mates, our friends, family, culture, and peers."
 "We also inspire each other. Each of us has a distinct musical palette and we are constantly introducing each other to new music and pushing each other creatively." 
 
 What's the most pivotal/favorite moment for Bad Rabbits this year?
@@ -64,14 +64,14 @@ Vintage suspenders from Bobby from Boston
 
 [![](http://1.bp.blogspot.com/-fUB51i7CQkA/UiiwydigbRI/AAAAAAAADg0/V_hiqIqFKlo/s640/BadRabbits-061.jpg)](http://1.bp.blogspot.com/-fUB51i7CQkA/UiiwydigbRI/AAAAAAAADg0/V_hiqIqFKlo/s1600/BadRabbits-061.jpg)
 
-Huge thank yous and shout outs to Jessen and his crew at [Salmagundi](http://salmagundiboston.com/), the fellas at [Bobby From Boston](https://www.facebook.com/pages/Bobby-From-Boston/177838382272669) warehouse, [KarmaLoop](http://www.karmaloop.com/?utm_source=google&utm_medium=cpc&utm_campaign=search_engine&utm_term=karma%20loop&gclid=CNGs29H6tLkCFQ6f4Aod4DgAjw) for providing the shoes, the always lovely [Channing Johnson](http://channing%20johnson/), and the management team behind the [Foundation Room.](http://www.houseofblues.com/venues/clubvenues/boston/foundationroom.php)
+Huge thank yous and shout outs to Jessen and his crew at [Salmagundi](http://salmagundiboston.com/), the fellas at [Bobby From Boston](https://www.facebook.com/pages/Bobby-From-Boston/177838382272669) warehouse, [KarmaLoop](http://www.karmaloop.com/?utm_source=google&utm_medium=cpc&utm_campaign=search_engine&utm_term=karma%20loop&gclid=CNGs29H6tLkCFQ6f4Aod4DgAjw) for providing the shoes, the always lovely [Channing Johnson](http://channing%20johnson/), and the management team behind the [Foundation Room.](http://www.houseofblues.com/venues/clubvenues/boston/foundationroom.php) 
 
 Stay tuned to the blog this week for personal profiles of each band member.
 
-	*Location: [House of Blues Foundation Room](http://www.houseofblues.com/venues/clubvenues/boston/foundationroom.php)
-	*Hats, orange bow tie, pocket square: [Salmagundi](http://salmagundiboston.com/)
-	*Vintage ties and suspenders: [Bobby from Boston](https://www.facebook.com/pages/Bobby-From-Boston/177838382272669)
-	*Shoes: [Karmaloop](http://www.karmaloop.com/?utm_source=google&utm_medium=cpc&utm_campaign=search_engine&utm_term=karma%20loop&gclid=CNGs29H6tLkCFQ6f4Aod4DgAjw)
-	*Shirt and Suits: [9tailors](http://www.9tailors.com/)
+	* Location: [House of Blues Foundation Room](http://www.houseofblues.com/venues/clubvenues/boston/foundationroom.php)
+	* Hats, orange bow tie, pocket square: [Salmagundi](http://salmagundiboston.com/)
+	* Vintage ties and suspenders: [Bobby from Boston](https://www.facebook.com/pages/Bobby-From-Boston/177838382272669)
+	* Shoes: [Karmaloop](http://www.karmaloop.com/?utm_source=google&utm_medium=cpc&utm_campaign=search_engine&utm_term=karma%20loop&gclid=CNGs29H6tLkCFQ6f4Aod4DgAjw)
+	* Shirt and Suits: [9tailors](http://www.9tailors.com/)
 
 See something you like? Want to create your own shirt, suit, or suit separate? Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }})

@@ -15,7 +15,7 @@ tags:
   - menswear
 featuredImage: null
 ---
-[![](http://1.bp.blogspot.com/_RlJ3L7W6dBw/TCiOaVipxsI/AAAAAAAAIZI/aObVw8xTLkQ/s400/nyc_event_flyer_20100627.jpg)](http://1.bp.blogspot.com/_RlJ3L7W6dBw/TCiOaVipxsI/AAAAAAAAIZI/aObVw8xTLkQ/s1600/nyc_event_flyer_20100627.jpg)
+[![](http://1.bp.blogspot.com/_RlJ3L7W6dBw/TCiOaVipxsI/AAAAAAAAIZI/aObVw8xTLkQ/s400/nyc_event_flyer_20100627.jpg)](http://1.bp.blogspot.com/_RlJ3L7W6dBw/TCiOaVipxsI/AAAAAAAAIZI/aObVw8xTLkQ/s1600/nyc_event_flyer_20100627.jpg) 
 
 9tailors is coming to New York! Come to Hotel Bedford to meet with 9tailors CEO Samantah Shih and other knowledgeable 9tailors staff to make your dream shirt. During your appointment, you will have our undivided attention- whether it be during measuring, discussing fit requests, or picking out fabric and accents. 
 

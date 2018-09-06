@@ -19,9 +19,9 @@ featuredImage: /uploads/2014/10/dan.jpg
 ---
 [![](http://4.bp.blogspot.com/-TVbFsyFINko/UJKoQtoFIYI/AAAAAAAABOs/aN4J2rqwt_Y/s1600/DanRomeroProfile.jpg)](http://4.bp.blogspot.com/-TVbFsyFINko/UJKoQtoFIYI/AAAAAAAABOs/aN4J2rqwt_Y/s1600/DanRomeroProfile.jpg)
 
-Meet Dan Romero, a stylish [9tailors](http://www.9tailors.com/) client who waved goodbye to off-the-rack shopping long ago. As a young professional in a fairly conservative field, this handsome lad always comes to our studio brimming with design ideas that exceed trend-setting. He often creates classic yet modern garments that match his effortless look and cordial demeanor, as seen above in a [9tailors](http://www.9tailors.com/) sports coat and shirt. 
+Meet Dan Romero, a stylish [9tailors](http://www.9tailors.com/) client who waved goodbye to off-the-rack shopping long ago. As a young professional in a fairly conservative field, this handsome lad always comes to our studio brimming with design ideas that exceed trend-setting. He often creates classic yet modern garments that match his effortless look and cordial demeanor, as seen above in a [9tailors](http://www.9tailors.com/) sports coat and shirt. 
 
-**Name:**
+ **Name:**
 Dan Romero
 
 **Age:**
@@ -31,21 +31,21 @@ Dan Romero
 
 Mansfield, MA
 
-**Current Residence:**
+ **Current Residence:**
 
 South Boston, MA
 
 **Occupation:**
 Consultant
-**How long have you been a 9tailors client?**
+ **How long have you been a 9tailors client?**
 
 A year and a half
-**Why choose custom?**
+ **Why choose custom?**
 
-I'm a fairly lean guy, but with broader shoulders, so most off-the-rack shirts don't fit well. Regular cut shirts result in the dreaded "muffin top", whereas slim fit end up too tight up top. Same goes for jackets. I purchased my first custom shirt and jacket from 9tailors last fall and have been hooked ever since.
+I'm a fairly lean guy, but with broader shoulders, so most off-the-rack shirts don't fit well. Regular cut shirts result in the dreaded "muffin top", whereas slim fit end up too tight up top. Same goes for jackets. I purchased my first custom shirt and jacket from 9tailors last fall and have been hooked ever since.
 
  **What inspires your style? Why?**
-I'm a big fan of "all-American style"—the right blend of classy, casual and rugged. Think JFK, Paul Newman and Steve McQueen.
+I'm a big fan of "all-American style"—the right blend of classy, casual and rugged. Think JFK, Paul Newman and Steve McQueen. 
 
 In terms of elegance in dressing, Luciano Barbera has it figured out. Not only does he make some of the nicest fabrics in the world, but he's probably the world's most elegant dresser. If you were to sum up my thinking on clothing in a quote, it would be this one from him: "True elegance has just one rule: simplicity."
 
@@ -71,7 +71,7 @@ Inspired? Envisioning a certain kind of suit or suit separate you might like to 
 
 **Shoot Details:**
 
-**Location:** T[he Arnold Arboretum](http://arboretum.harvard.edu/)**Shirt: **[9tailors](http://www.9tailors.com/)
-**Pants:** [9tailors](http://www.9tailors.com/)
-**Sports Coat:** [9tailors](http://www.9tailors.com/)
-**Tie:** [Jegman](http://www.jegman.com/)
+**Location:** T[he Arnold Arboretum](http://arboretum.harvard.edu/) **Shirt:** [9tailors](http://www.9tailors.com/) 
+**Pants:** [9tailors](http://www.9tailors.com/)
+**Sports Coat:** [9tailors](http://www.9tailors.com/)
+**Tie:** [Jegman](http://www.jegman.com/)

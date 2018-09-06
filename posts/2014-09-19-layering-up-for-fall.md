@@ -18,7 +18,7 @@ featuredImage: /uploads/2014/10/j.jpg
 ---
 Temperatures are dropping and leaves are turning...fall is here! Here are a few tips on how to layer up without looking like the Michelin man.
 
-**Tip #1: Scarves!** Yes, scarves _can_ be manly. In fact, they can add just the right touch to an outfit, while giving you a ton of extra warmth. Your neck, head and hands are the likely to be the only uncovered body parts, so wearing the appropriate gear will keep you significantly warmer without needing a full jacket.
+**Tip #1: Scarves!** Yes, scarves _can_ be manly. In fact, they can add just the right touch to an outfit, while giving you a ton of extra warmth. Your neck, head and hands are the likely to be the only uncovered body parts, so wearing the appropriate gear will keep you significantly warmer without needing a full jacket.
 
 [![](http://3.bp.blogspot.com/-mTHrZdVLZQY/VBxwiaVLnTI/AAAAAAAAAq8/jZFZ44SAi3Q/s1600/20120328-9tailors-0195.jpg)](http://3.bp.blogspot.com/-mTHrZdVLZQY/VBxwiaVLnTI/AAAAAAAAAq8/jZFZ44SAi3Q/s1600/20120328-9tailors-0195.jpg)
 
@@ -58,10 +58,10 @@ Mix and match that makes you dizzy. Way too much going on here.
 
 Mix and match patterns, textures and colors done just right!
 
-**Tip #5: Sweaters/cardigans!** A simple, solid sweater can go a long way. Pick up some standard fall colored knits...greys, burgundy, browns, navy...you get the point. Not only do they keep you toasty, but they switch up your regular outfits, making it appear that you have an enormous wardrobe.
+**Tip #5: Sweaters/cardigans!** A simple, solid sweater can go a long way. Pick up some standard fall colored knits...greys, burgundy, browns, navy...you get the point. Not only do they keep you toasty, but they switch up your regular outfits, making it appear that you have an enormous wardrobe.
 
 [![](http://3.bp.blogspot.com/-_g_110JftUY/VBxzZr62DOI/AAAAAAAAArk/ZNdsK2oriQM/s1600/IMG_8524.jpg)](http://3.bp.blogspot.com/-_g_110JftUY/VBxzZr62DOI/AAAAAAAAArk/ZNdsK2oriQM/s1600/IMG_8524.jpg)
 
 9tailors custom shirt, [Jegman](http://www.jegman.com/) tie
 
-So there you have it, some simple tips to staying warm _and_ looking great. Contact us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to order your vests, tweeds, patterned shirts and custom jackets! We'll have you looking dapper in no time.
+So there you have it, some simple tips to staying warm _and_ looking great. Contact us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to order your vests, tweeds, patterned shirts and custom jackets! We'll have you looking dapper in no time.

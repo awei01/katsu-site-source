@@ -20,6 +20,6 @@ You can tone down a purple/yellow combo with a black suit. If even that is too b
 
 [![Men with Yellow Tie](http://www.polyvore.com/cgi/img-set/BQcDAAAAAwoDanBnAAAABC5vdXQKFmhQN0NVcWxwM3hHZV9sUnd6WWttbEEAAAACaWQKAWUAAAAEc2l6ZQ.jpg "Men with Yellow Tie")](http://www.polyvore.com/men_with_yellow_tie/set?.embedder=1536106&.mid=embed&id=19108921)[![Fashion Trends & Styles - Polyvore](http://cdn.polyvore.com/rsrc/img/logo_embed_alt_63x21.png "Fashion Trends & Styles - Polyvore")](http://www.polyvore.com/)
 
-[Men with Yellow Tie](http://www.polyvore.com/men_with_yellow_tie/set?.embedder=1536106&.mid=embed&id=19108921) by [makikoharris](http://www.polyvore.com/cgi/profile?.embedder=1536106&.mid=embed&id=1536106) on [Polyvore.com](http://www.polyvore.com/)
+ [Men with Yellow Tie](http://www.polyvore.com/men_with_yellow_tie/set?.embedder=1536106&.mid=embed&id=19108921) by [makikoharris](http://www.polyvore.com/cgi/profile?.embedder=1536106&.mid=embed&id=1536106) on [Polyvore.com](http://www.polyvore.com/)
 
 Want to find some new shirts to jazz up old shirt-and-tie combos? Come into 9tailors today! Start designing [here](http://9tailors.com/).

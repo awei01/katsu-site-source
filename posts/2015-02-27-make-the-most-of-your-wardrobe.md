@@ -41,12 +41,12 @@ Now I may be partial, but I think that every man needs a grey (lighter shade, id
 
 [![SHOES]({{ site.baseUrl }}/uploads/SHOES.jpg)]({{ site.baseUrl }}/uploads/SHOES.jpg)
 
-Everyone loves a good wingtip shoe (or boot). This particular color happens to work  with a lot of different options. In the photo above you can see it being worn formally, business casual (always sneak in olive pants at work if you can get away with it!) and with jeans.
+Everyone loves a good wingtip shoe (or boot). This particular color happens to work with a lot of different options. In the photo above you can see it being worn formally, business casual (always sneak in olive pants at work if you can get away with it!) and with jeans.
 
 **#5: GINGHAM SHIRT**
 
 [![GINGHAMSHIRT]({{ site.baseUrl }}/uploads/GINGHAMSHIRT.jpg)]({{ site.baseUrl }}/uploads/GINGHAMSHIRT.jpg)
 
-Gingham shirts are always a good option for menswear. They are just the right amount of pattern without being too loud. Navy gingham is a go to, but you're just as wise to invest in maroon, lavender and grey gingham shirts as well. Not into a big pattern? Get a microcheck gingham for some pattern with an overall solid color look from a distance. Gingham can pretty much be worn under any circumstance other than a black tie occasion.
+Gingham shirts are always a good option for menswear. They are just the right amount of pattern without being too loud. Navy gingham is a go to, but you're just as wise to invest in maroon, lavender and grey gingham shirts as well. Not into a big pattern? Get a microcheck gingham for some pattern with an overall solid color look from a distance. Gingham can pretty much be worn under any circumstance other than a black tie occasion.
 
-With that in mind, have no qualms when picking up any of these items - they'll serve you well. Oh and [{{ site.emails.info }}](mailto:{{ site.emails.info }}) will recommend a great place to get your grey suits and gingham button downs. Stay tuned for our March package deals!
+With that in mind, have no qualms when picking up any of these items - they'll serve you well. Oh and [{{ site.emails.info }}](mailto:{{ site.emails.info }}) will recommend a great place to get your grey suits and gingham button downs. Stay tuned for our March package deals!

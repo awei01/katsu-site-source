@@ -22,7 +22,7 @@ Nick Offerman has also offered his services to mademan.com to create an instruct
 
 No Shave November is all about the beards and growing as much hair as you can. Men who participate in No Shave November tend to keep their beards at least through December as well. They use the time in November to grow the beard and December to trim or style it. The purpose of No Shave November is a more independently driven fundraiser by each participant. If you choose to raise funds in the No Shave November route, you must find your own charity rather than registrar like the Movember movement, depending on what charity you choose.
 
-Take a look at [The World Beard Championships](http://www.worldbeardchampionships.com/) for some inspiration for mustaches and beards alike.
+Take a look at [The World Beard Championships](http://www.worldbeardchampionships.com/) for some inspiration for mustaches and beards alike.
 
 [![](http://www.worldbeardchampionships.com/wp-content/uploads/2013/01/Willi-Chevalier-by-Sacks.jpg)](http://www.worldbeardchampionships.com/wp-content/uploads/2013/01/Willi-Chevalier-by-Sacks.jpg)
 

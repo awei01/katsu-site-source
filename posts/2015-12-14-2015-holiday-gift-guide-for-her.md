@@ -14,11 +14,11 @@ tags:
   - womens fashion
 featuredImage: /uploads/2015/12/gift-wrap.jpg
 ---
-Not quite sure what to buy for your lovely lady? We're here to make things a little easier for you! Our style consultants Eboni and Ivy compiled a list of their top 5 must haves for the holiday season. Whether she wants to keep warm snuggled under a fur blanket or try out a new yoga studio there is surely something here she'll love.
+Not quite sure what to buy for your lovely lady? We're here to make things a little easier for you! Our style consultants Eboni and Ivy compiled a list of their top 5 must haves for the holiday season. Whether she wants to keep warm snuggled under a fur blanket or try out a new yoga studio there is surely something here she'll love.
 
 ![](https://ci4.googleusercontent.com/proxy/dbnz2SJS2GD5g1s_Y9PixyQsiyz0s16fG3MGQWYqiOUV-MRzBMeNiYyn76dhhC-ovjvzQ8qVLPX0N1MCfhhXxoa9eZZpTZgo4PUdKL-tBbutu1AUazuUV9wCPwxalG5sEBJwAKxGgbOa3N87SMMe=s0-d-e1-ft#http://ak2.polyvoreimg.com/cgi/img-set/cid/184563821/id/bFVH1Tqg5RGFEqrD7EzHKw/size/y.jpg)
 
-1. [ClassPass One Month of Unlimited Workouts $119](https://classpass.com/gifts)
+1\. [ClassPass One Month of Unlimited Workouts $119](https://classpass.com/gifts)
 
 2\. [Zara Faux Fur Waistcoat $99.90](http://www.zara.com/us/en/woman/evening/faux-fur-waistcoat-c764512p2909033.html)
 
@@ -26,7 +26,7 @@ Not quite sure what to buy for your lovely lady? We're here to make things a li
 
 4\. [Dolce & Gabbana The One Rollerball $31](http://www.sephora.com/the-one-P195321?skuId=1429794)
 
-5. [Zara High Heel Mountain Ankle Boots $69.90](http://www.zara.com/us/en/woman/shoes/view-all/high-heel-mountain-ankle-boots-c734142p3003027.html)
+5\. [Zara High Heel Mountain Ankle Boots $69.90](http://www.zara.com/us/en/woman/shoes/view-all/high-heel-mountain-ankle-boots-c734142p3003027.html)
 
 ![](https://ci5.googleusercontent.com/proxy/wp49_EbaHbFfvfuDhYdGz5AzULBBtWSXYEnOydiXshmtVYM4ao45GIyS5UaC4S4IDge5f_Ib0cG2hWo7Api3QTndRmS5XcjQBjtOgMRgsQp-BESpeAy6NvVgerrCZiLr_LvQf74HBMXuHZAZOwCl=s0-d-e1-ft#http://ak1.polyvoreimg.com/cgi/img-set/cid/184620106/id/SDmuISyg5RGtWuAD6eDk1w/size/y.jpg)
 

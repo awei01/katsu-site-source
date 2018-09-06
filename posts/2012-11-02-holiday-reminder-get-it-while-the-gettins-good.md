@@ -18,7 +18,7 @@ featuredImage: /uploads/2014/10/11.jpg
 
 As the holidays approach _(slowly, surely, more quickly than you realize, gasp!)_, you may be in the market for some fancy, new duds, right? Ensure you have your 9tailors items in time to debut at all of your wintertime festivities. To guarantee any garments before December 25, keep the following dates in mind for appointments:
 
-	*MONDAY, November 12 =last day for shirt orders
-	*SATURDAY, November 17 = last day for suit orders
+	* MONDAY, November 12 = last day for shirt orders
+	* SATURDAY, November 17 = last day for suit orders 
 
 Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to make your appointment in advance so you don't have to worry when it comes down to the wire. Come on, be the hit of your holiday parties this year!

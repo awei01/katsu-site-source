@@ -15,9 +15,9 @@ tags:
   - menswear
 featuredImage: /uploads/2014/10/72.jpg
 ---
-Only a few more days until the two-hour premier of the best show on television, _Mad Men._ 18 months is a long time to wait! Aside from the handsome specimens (men and women alike, hubba hubba) that grace the set of this spectacular series, the intricate wardrobe has caused a welcome resurgence of style over the past few years. Especially in menswear. A style that screams distinguished, classic, timely, sharp, crisp, infinitely cool, and _bad_. Not bad meaning bad but bad meaning _goooooood._ A style every man should emulate (as many male [9tailors](http://www.9tailors.com/) clients do exceptionallywell). Since the beginning of _Mad Men,_ its fashion has been much applauded and praised all over the interwebs. Rightly so! Authenticity is hard to replicate so accurately and precisely. Kudos to the costume designers led by genius [Janie Bryant](http://janiebryant.com/), who nail it every time by conveying character traits through clothing.
+Only a few more days until the two-hour premier of the best show on television, _Mad Men._ 18 months is a long time to wait! Aside from the handsome specimens (men and women alike, hubba hubba) that grace the set of this spectacular series, the intricate wardrobe has caused a welcome resurgence of style over the past few years. Especially in menswear. A style that screams distinguished, classic, timely, sharp, crisp, infinitely cool, and _bad_. Not bad meaning bad but bad meaning _goooooood._ A style every man should emulate (as many male [9tailors](http://www.9tailors.com/) clients do exceptionally well). Since the beginning of _Mad Men,_ its fashion has been much applauded and praised all over the interwebs. Rightly so! Authenticity is hard to replicate so accurately and precisely. Kudos to the costume designers led by genius [Janie Bryant](http://janiebryant.com/), who nail it every time by conveying character traits through clothing.
 
-Let's take a gander at the top five best _Mad Men_ trends, shall we? From Sterling Cooper to Sterling/Cooper/Draper/Pryce!
+Let's take a gander at the top five best _Mad Men_ trends, shall we? From Sterling Cooper to Sterling/Cooper/Draper/Pryce!
 
 1.The Slim Fit Suit. It seems more and more of our clients are going for this streamlined, custom look. When you have a suit that fits your proportions, your physique is elongated and slimmed down. While we prefer a single breasted suit, double breasted can also be worn in a more European, sleek style. We 9tailors ladies also recommend a three-piece ensemble...when you take your jacket off, your look is still pulled together by a complementary vest/waistcoat.
 
@@ -53,7 +53,7 @@ Let's take a gander at the top five best _Mad Men_ trends, shall we? From Sterl
 
 [![](http://4.bp.blogspot.com/-Jk1GZAQ-0ec/T2tQHBdER-I/AAAAAAAAAGI/YX4TBCPGIAE/s320/episode-8-father-gill-peggy.jpg)](http://4.bp.blogspot.com/-Jk1GZAQ-0ec/T2tQHBdER-I/AAAAAAAAAGI/YX4TBCPGIAE/s1600/episode-8-father-gill-peggy.jpg)
 
-5\. Tuxedo! It dominated this year's [Oscars](http://2012/02/oscars-2012-ode-to-classics.html), proving you just can't go wrong with a classic tuxedo. Everything about it exudes refinement and elegance.
+5\. Tuxedo! It dominated this year's [Oscars](http://2012/02/oscars-2012-ode-to-classics.html), proving you just can't go wrong with a classic tuxedo. Everything about it exudes refinement and elegance.
 
 [![](http://4.bp.blogspot.com/-sIhqD0x2XMA/T2tPkG5rJiI/AAAAAAAAAF4/nj_Yx03omzY/s320/episode-5-betty.jpg)](http://4.bp.blogspot.com/-sIhqD0x2XMA/T2tPkG5rJiI/AAAAAAAAAF4/nj_Yx03omzY/s1600/episode-5-betty.jpg)
 
@@ -65,4 +65,4 @@ Let's take a gander at the top five best _Mad Men_ trends, shall we? From Sterl
 
 What say you, gentlemen? Feeling an urge to splurge on a new spring trend? How about a crisp white shirt with french cuffs like a _Mad_ man? Email [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and make an appointment to design your custom shirt, tuxedo, sports coat, suiting separates, or slim fit suit today!
 
-\*All photos courtesy of [http://blogs.amctv.com/photo-galleries/](http://blogs.amctv.com/photo-galleries/)
+\*All photos courtesy of [http://blogs.amctv.com/photo-galleries/](http://blogs.amctv.com/photo-galleries/)

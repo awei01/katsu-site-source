@@ -15,11 +15,11 @@ Happy Holidays! We hope that you are staying _nice and warm_, spending time with
 
 ###### Friday December 22nd: Open 11 am - 6 pm
 
-###### Saturday December 23rd: CLOSED
+###### Saturday December 23rd: CLOSED
 
-###### Sunday December 24th: CLOSED CHRISTMAS EVE
+###### Sunday December 24th: CLOSED CHRISTMAS EVE
 
-###### Monday December 25th: CLOSED MERRY CHRISTMAS
+###### Monday December 25th: CLOSED MERRY CHRISTMAS
 
 ###### Tues 12/26-Thurs 12/28 Open 11 am - 7 pm
 

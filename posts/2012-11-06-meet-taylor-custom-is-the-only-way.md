@@ -23,9 +23,9 @@ featuredImage: /uploads/2014/10/5.jpg
 ---
 [![](http://2.bp.blogspot.com/-tbwkuK6kANI/UJKbY-BZ7_I/AAAAAAAABN0/FqGBK95L-fw/s1600/TaylorTwellmanProfile.jpg)](http://2.bp.blogspot.com/-tbwkuK6kANI/UJKbY-BZ7_I/AAAAAAAABN0/FqGBK95L-fw/s1600/TaylorTwellmanProfile.jpg)
 
-Meet Taylor Twellman, a well-known, fashion-savvy [9tailors](http://www.9tailors.com/) client who prefers custom clothing above all else. As a young professional in the spotlight, this [ESPN](http://espn.go.com/) analyst understands and appreciates attire that fits him properly and exudes his individual taste.  Pictured above in a [9tailors](http://www.9tailors.com/) trench coat, the former [New England Revolution](http://www.revolutionsoccer.net/) star rocks steady in a style all his own. 
+Meet Taylor Twellman, a well-known, fashion-savvy [9tailors](http://www.9tailors.com/) client who prefers custom clothing above all else. As a young professional in the spotlight, this [ESPN](http://espn.go.com/) analyst understands and appreciates attire that fits him properly and exudes his individual taste. Pictured above in a [9tailors](http://www.9tailors.com/) trench coat, the former [New England Revolution](http://www.revolutionsoccer.net/) star rocks steady in a style all his own. 
 
-**Name:**
+ **Name:**
 Taylor Twellman
 
 **Age:**
@@ -35,31 +35,31 @@ Taylor Twellman
 
 Boston, MA
 
-**Current Residence:**
+ **Current Residence:**
 
 Boston, MA
 
 **Occupation:**
 TV Personality
-**How long have you been a 9tailors client?**
+ **How long have you been a 9tailors client?**
 
 One year
-**Why choose custom?**
+ **Why choose custom?**
 
 When you're on TV, it's especially important that you look the part. You have to make sure your attire is both clean and sharp but also fitting to you personally. Custom is the only way.
 
-**What inspires your style? Why?**
+ **What inspires your style? Why?**
 I think when you look sharp on TV, the viewers will take you more seriously and so will your colleagues.
 
-**What is your favorite piece from 9tailors?**
+ **What is your favorite piece from 9tailors?**
 My custom shirts. A must have.
 
-**What would be your style advice to other men in your professional field?**
+ **What would be your style advice to other men in your professional field?**
 Follow my lead. Ha!
 
 _Take heed, fellas. Man knows how to dress!_
 
-See below for more of Taylor's custom style, shot by our photographer, [Channing Johnson](http://www.channingjohnson.com/). Want more photos? Visit out Facebook page [here](https://www.facebook.com/pages/9tailors/49696314250) and like our page!
+ See below for more of Taylor's custom style, shot by our photographer, [Channing Johnson](http://www.channingjohnson.com/). Want more photos? Visit out Facebook page [here](https://www.facebook.com/pages/9tailors/49696314250) and like our page!
 
 [![](http://4.bp.blogspot.com/-Fl5SjYyIo-A/UJKX9vMoExI/AAAAAAAABMU/vs3FFRLbJD0/s640/4Q_I8oI98HLnlmUa7XU3WiFzuQEtw8d-f3FV2ema3zc%25252Cy82akXXiywAPKMxP5mxygc8J1R_ktPcEVkHtTOSYA90.jpg)](http://4.bp.blogspot.com/-Fl5SjYyIo-A/UJKX9vMoExI/AAAAAAAABMU/vs3FFRLbJD0/s1600/4Q_I8oI98HLnlmUa7XU3WiFzuQEtw8d-f3FV2ema3zc%25252Cy82akXXiywAPKMxP5mxygc8J1R_ktPcEVkHtTOSYA90.jpg)
 
@@ -73,13 +73,13 @@ See below for more of Taylor's custom style, shot by our photographer, [Channing
 
 [![](http://3.bp.blogspot.com/-la4e9WIxem8/UJKYDiRQeDI/AAAAAAAABM0/Iuj0AKJlB-I/s640/KDyGNLf1XOBfExHCseeJlxlJhSah7sy3tw1OqV7X_sY%25252C-EtvedkMTwaFyEA3umXqppXORQRUag04gViUR4huzsc.jpg)](http://3.bp.blogspot.com/-la4e9WIxem8/UJKYDiRQeDI/AAAAAAAABM0/Iuj0AKJlB-I/s1600/KDyGNLf1XOBfExHCseeJlxlJhSah7sy3tw1OqV7X_sY%25252C-EtvedkMTwaFyEA3umXqppXORQRUag04gViUR4huzsc.jpg)
 
-Want to get Taylor's look? Have an idea in mind for a custom shirt or suit? Email a Style Consultant [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and make your design appointment today!
+ Want to get Taylor's look? Have an idea in mind for a custom shirt or suit? Email a Style Consultant [{{ site.emails.info }}](mailto:{{ site.emails.info }}) and make your design appointment today!
 
 **Shoot Details:**
 
-**Location:** Downtown Boston**Shirt: **[9tailors](http://www.9tailors.com/)
-**Pants:** [9tailors](http://www.9tailors.com/)
-**Trench Coat:** [9tailors](http://www.9tailors.com/)
-**Tie:** [Jegman](http://www.jegman.com/)
+**Location:** Downtown Boston **Shirt:** [9tailors](http://www.9tailors.com/) 
+**Pants:** [9tailors](http://www.9tailors.com/)
+**Trench Coat:** [9tailors](http://www.9tailors.com/)
+**Tie:** [Jegman](http://www.jegman.com/)
 **Sweater:** [H&M](http://www.hm.com/us/)
-**Scarf: **[H&M](http://www.hm.com/us/)
+**Scarf:** [H&M](http://www.hm.com/us/)

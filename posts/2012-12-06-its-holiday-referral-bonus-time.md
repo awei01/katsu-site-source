@@ -30,6 +30,6 @@ Refer 10 friends ($500) = 1 Free Custom Suit
 
 In order to be eligible, your referred friend must purchase something over $100 in order for both of you to receive the $50.00 in referral credit.
 
-To participate refer your friend, click [here](https://docs.google.com/spreadsheet/viewform?formkey=dGlnX1RsVHBNZVp4TlNqZkFsQ0FtZmc6MA#gid=0) (rules included).
+To participate refer your friend, click [here](https://docs.google.com/spreadsheet/viewform?formkey=dGlnX1RsVHBNZVp4TlNqZkFsQ0FtZmc6MA#gid=0) (rules included).
 
 \*\*Please note that prior referrals are not eligible. Eligible referral period is December 4 through January 31.\*\*

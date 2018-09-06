@@ -21,4 +21,4 @@ That's right. We're going to New York City.
 
 Book your appointment by e-mailing {{ site.emails.info }} (and we're booking up really fast).
 
- Location TBD
+ Location TBD

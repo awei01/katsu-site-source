@@ -31,7 +31,7 @@ Shirts take up much less space, especially when pressed and folded at the dry cl
 
 **TIP #3: Save room by wearing items**
 
-Wear the suit on the plane if you have a morning flight and be ready for your first-up meeting. Not into the full suit on the flight? It's much easier to pack a pair of suit trousers as opposed to the jacket. Wear the jacket as a  blazer and store it safely above your seat if you need to remove it.
+Wear the suit on the plane if you have a morning flight and be ready for your first-up meeting. Not into the full suit on the flight? It's much easier to pack a pair of suit trousers as opposed to the jacket. Wear the jacket as a blazer and store it safely above your seat if you need to remove it.
 
 [![greyblazer]({{ site.baseUrl }}/uploads/greyblazer.jpg)]({{ site.baseUrl }}/uploads/greyblazer.jpg)
 
@@ -43,7 +43,7 @@ Why struggle taking your shoes off and putting them on again and awkwardly bendi
 
 **TIP #5: Bring a versatile v-neck**
 
-Bring a navy v-neck sweater for layers. It'll be light weight enough to pack for the plane,  you can go to a less formal meeting or gathering by pairing it with a button down and your suit trousers and go with or without a tie. You can also use it as a casual item on it's own for any off-duty time you have.
+Bring a navy v-neck sweater for layers. It'll be light weight enough to pack for the plane, you can go to a less formal meeting or gathering by pairing it with a button down and your suit trousers and go with or without a tie. You can also use it as a casual item on it's own for any off-duty time you have.
 
 [![VNECKS]({{ site.baseUrl }}/uploads/VNECKS.jpg)]({{ site.baseUrl }}/uploads/VNECKS.jpg)
 

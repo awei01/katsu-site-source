@@ -15,7 +15,7 @@ tags:
   - menswear
 featuredImage: /uploads/2016/05/linensale.jpg
 ---
-It's beginning to feel much more like summer and now is a great time to add a few new lightweight pieces into your wardrobe. What better way to do so then with linen and seersucker? If you happen to be getting married this summer linen is a great suit choice. Perfect for a beach destination wedding or a laid back brunch. Wear them as a full suit or switch it up and pair your blazer with a pair of jeans for a more casual look.
+It's beginning to feel much more like summer and now is a great time to add a few new lightweight pieces into your wardrobe. What better way to do so then with linen and seersucker? If you happen to be getting married this summer linen is a great suit choice. Perfect for a beach destination wedding or a laid back brunch. Wear them as a full suit or switch it up and pair your blazer with a pair of jeans for a more casual look.
 
 [![linensuitsale]({{ site.baseUrl }}/uploads/linen1.jpg)]({{ site.baseUrl }}/uploads/linen1.jpg)
 
@@ -23,10 +23,10 @@ Need a little inspiration? Head on over to [Pinterest](https://www.pinterest.com
 
 \*Rules and Restrictions
 
-	*Sale period: May 31, 2016 – June 11, 2016
-	*The promotion applies only to qualifying custom 2-piece and 3-piece suits.
-	*A la carte design options are still full price.
-	*Does not apply to past purchases.
-	*Cannot be combined with any other sales or discounts.
-	*Shipping and handling charges apply to all promoted items.
-	*Void where prohibited.
+	* Sale period: May 31, 2016 – June 11, 2016
+	* The promotion applies only to qualifying custom 2-piece and 3-piece suits.
+	* A la carte design options are still full price.
+	* Does not apply to past purchases.
+	* Cannot be combined with any other sales or discounts.
+	* Shipping and handling charges apply to all promoted items.
+	* Void where prohibited.

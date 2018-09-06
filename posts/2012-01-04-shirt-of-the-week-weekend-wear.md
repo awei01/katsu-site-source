@@ -15,7 +15,7 @@ tags:
   - menswear
 featuredImage: /uploads/2014/10/Valentines-Guide_03.jpg
 ---
-It's understandable that you may want to get out of your suit after a grueling week of work.  But there is no need to abandon all sense of style when transitioning into your weekend wardrobe.
+It's understandable that you may want to get out of your suit after a grueling week of work. But there is no need to abandon all sense of style when transitioning into your weekend wardrobe.
 
 [![](http://1.bp.blogspot.com/-MmuOpvrmQGQ/TwSGBbb2ksI/AAAAAAAABFE/ERCy_-sh1C8/s320/shirtofweek_1c.jpg)](http://1.bp.blogspot.com/-MmuOpvrmQGQ/TwSGBbb2ksI/AAAAAAAABFE/ERCy_-sh1C8/s1600/shirtofweek_1c.jpg)
 

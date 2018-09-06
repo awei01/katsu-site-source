@@ -25,22 +25,22 @@ Once you've received an invitation to a polo match make sure you clarify the dre
 
 **Clothing-**
 
-	*_Men-_ A typical look for men includes chinos or dress pants and a polo or dress shirt. Definitely keep a blazer or sport coat on hand because outdoor events, especially polo matches, depend on the (often uncooperative) weather. Since polo matches are day-time affairs, linen, pinstripes, seersucker, and pastels fit the bill.
-	*_Women-_ While dresses are popular, separates are definitely also acceptable. Play with colors, patterns, and textures. Bright reds or bold greens, nautical stripes or whimsical polka dots, delicate lace or breathable linen, it's all an option while spectating. A light sweater is a smart item to have on hand if the weather gets chilly.
+	* _Men-_ A typical look for men includes chinos or dress pants and a polo or dress shirt. Definitely keep a blazer or sport coat on hand because outdoor events, especially polo matches, depend on the (often uncooperative) weather. Since polo matches are day-time affairs, linen, pinstripes, seersucker, and pastels fit the bill.
+	* _Women-_ While dresses are popular, separates are definitely also acceptable. Play with colors, patterns, and textures. Bright reds or bold greens, nautical stripes or whimsical polka dots, delicate lace or breathable linen, it's all an option while spectating. A light sweater is a smart item to have on hand if the weather gets chilly.
 
 ![](http://3.bp.blogspot.com/-bMiEkaFAjaE/VWihMlvy2sI/AAAAAAAAQb8/dGLyR8pdDEE/s1600/VVpolo-20.jpg)
 
 **Shoes-** Ever heard of "divot stomping"? A traditional element of polo matches, divot stomping occurs during half time when spectators are invited to walk over the playing field in an attempt to level the turf that the horses have just kicked up. For this reason, flat shoes are a polo must.
 
-	*_Men-_ Lots of options: brogues, driving shoes, loafers. Make sure you're comfortable and that your look is cohesive.
-	*_Women-_ While you'd love to wear your favorite sky-high heels, flats, wedges, and sandals are more grass appropriate.
+	* _Men-_ Lots of options: brogues, driving shoes, loafers. Make sure you're comfortable and that your look is cohesive.
+	* _Women-_ While you'd love to wear your favorite sky-high heels, flats, wedges, and sandals are more grass appropriate.
 
 ![](http://bluebesos.com/wp-content/uploads/2014/08/IMG_0401-1024x694.jpg)
 
-**Accessories-** Beyond outdoor essentials like hats, sunglasses, and even binoculars (you don't want to miss any action on the field, right?), make sure you've got a few other accessories to spice up your outfit. Do be wary of piling on too many extras, though. And while it might not be considered an accessory, an umbrella is always handy to fend off rain; we cannot stress how important it is to check the forecast ahead of time.
+**Accessories-** Beyond outdoor essentials like hats, sunglasses, and even binoculars (you don't want to miss any action on the field, right?), make sure you've got a few other accessories to spice up your outfit. Do be wary of piling on too many extras, though. And while it might not be considered an accessory, an umbrella is always handy to fend off rain; we cannot stress how important it is to check the forecast ahead of time.
 
-	*_Men-_ Ties and pocket squares are great first-choice accessories, almost bordering on essentials. And if you're typically subjected to a strict office dress code that mandates neutral socks, use a fun weekend event like a polo match to sport a more exciting pair.
-	*_Women-_ Use accessories to add pops of color and playfulness. Silk scarves are a great option, as are hats, purses, and jewelry. If you're carrying a clutch, opt for an unusual shape or pattern.
+	* _Men-_ Ties and pocket squares are great first-choice accessories, almost bordering on essentials. And if you're typically subjected to a strict office dress code that mandates neutral socks, use a fun weekend event like a polo match to sport a more exciting pair.
+	* _Women-_ Use accessories to add pops of color and playfulness. Silk scarves are a great option, as are hats, purses, and jewelry. If you're carrying a clutch, opt for an unusual shape or pattern.
 
 ![](http://hbz.h-cdn.co/assets/15/23/480x720/hbz-street-style-vc-polo-04_1.jpg)
 

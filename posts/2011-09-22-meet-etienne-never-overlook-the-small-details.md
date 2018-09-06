@@ -15,7 +15,7 @@ featuredImage: /uploads/2014/11/46.jpg
 ---
 [![](http://3.bp.blogspot.com/-6RHmVez2TwI/TntdHjczRVI/AAAAAAAAAzU/xmcCFJePCic/s1600/etienne_profile.jpg)](http://3.bp.blogspot.com/-6RHmVez2TwI/TntdHjczRVI/AAAAAAAAAzU/xmcCFJePCic/s1600/etienne_profile.jpg)
 
-Here is Etienne, yet another stylish 9tailors client. He has a penchant for bowties- that he ties himself, prints with prints, and lots of color. Despite staying up late studying the law at one of the most prestigious law schools in the world, Etienne is never too busy to keep his shirts crisp and shoes shined. It's in the details, gentlemen.
+Here is Etienne, yet another stylish 9tailors client. He has a penchant for bowties- that he ties himself, prints with prints, and lots of color. Despite staying up late studying the law at one of the most prestigious law schools in the world, Etienne is never too busy to keep his shirts crisp and shoes shined. It's in the details, gentlemen.
 
 Etienne has accomplished what few men do; he artfully balances class with color. And, when done right, as Etienne masterfully demonstrates in his photos, a dash of color can elevate your look. Check out the way he pairs a subtle red check suit with brightly colored ties and pocket squares.
 

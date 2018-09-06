@@ -19,7 +19,7 @@ Day in and day out, you get up, get dressed, and put on your socks and shoes. Bu
 
 9tailors chatted with Jonathan about his personal obsession with socks (hint: he purposely cuffs his pants to show off the socks he's wearing), what customers on his site are currently digging, and also where he sees A Man Among Socks in the future.
 
-**** [![pic 1 for AMAS blog]({{ site.baseUrl }}/uploads/pic-1-for-AMAS-blog-300x294.jpg)]({{ site.baseUrl }}/uploads/pic-1-for-AMAS-blog.jpg)****
+ ****[![pic 1 for AMAS blog]({{ site.baseUrl }}/uploads/pic-1-for-AMAS-blog-300x294.jpg)]({{ site.baseUrl }}/uploads/pic-1-for-AMAS-blog.jpg)**** 
 
 **_9tailors_:** When and why did you start A Man Among Socks?
 
@@ -35,17 +35,17 @@ Day in and day out, you get up, get dressed, and put on your socks and shoes. Bu
 
 **_9tailors_:** What are your top three favorite socks that A Man Among Socks carries?
 
-** _JC_:** JL The Brand's Skull and Crossbones, MrD London's Mariner Anchor (A Man Among Socks is the exclusive US distributor for MrD London!) and DeadSoxy's The Clarksdale.
+ **_JC_:** JL The Brand's Skull and Crossbones, MrD London's Mariner Anchor (A Man Among Socks is the exclusive US distributor for MrD London!) and DeadSoxy's The Clarksdale.
 
 \[caption id="attachment\_3294" align="aligncenter" width="460"\][![Screen Shot 2015-07-08 at 12.14.28 PM]({{ site.baseUrl }}/uploads/Screen-Shot-2015-07-08-at-12.14.28-PM-300x161.png)]({{ site.baseUrl }}/uploads/2015/07/Screen-Shot-2015-07-08-at-12.14.28-PM.png) From left to right: JL The Brand's Skull and Crossbones, MrD London's Mariner Anchor, DeadSoxy's The Clarksdale\[/caption\]
 
 **_9tailors_:** Is there a best-selling sock on the site?
 
-** _JC_:** MrD London's Mariner Anchor sock.
+ **_JC_:** MrD London's Mariner Anchor sock.
 
 **_9tailors_:** How do you pick which new brands and styles to carry?
 
-** _JC_:** We utilize social media to find and communicate with the brands we carry, and want to carry. We are open to offering just about anything that falls under the "Men's Fashion Sock" category. Sure, there might be some socks on the site that don't appeal to a certain someone, but they do to others... That's the whole point: endless brands and styles so that there is something for everyone!
+ **_JC_:** We utilize social media to find and communicate with the brands we carry, and want to carry. We are open to offering just about anything that falls under the "Men's Fashion Sock" category. Sure, there might be some socks on the site that don't appeal to a certain someone, but they do to others... That's the whole point: endless brands and styles so that there is something for everyone!
 
 **_9tailors_:** Where do you see A Man Among Socks five years from now?
 

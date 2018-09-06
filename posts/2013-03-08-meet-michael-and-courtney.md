@@ -20,15 +20,15 @@ featuredImage: /uploads/2014/10/courtandmike.jpg
 
 **What are your names?**
 
-Groom: Michael Philbin
-Bride: Courtney (Swanda) Philbin
-Groomsmen: Philip Lamere (BM), Tristram Arscott, Caleb Constenstein, Corey Fitzpatrick, Aashish Goswami, Jonathan Larson, James Tucker
+Groom: Michael Philbin 
+Bride: Courtney (Swanda) Philbin 
+Groomsmen: Philip Lamere (BM), Tristram Arscott, Caleb Constenstein, Corey Fitzpatrick, Aashish Goswami, Jonathan Larson, James Tucker 
 Bridesmaids: Jennifer Swanda (MoH), Caitlin Brome, Erika Gold, Kimberly Hansen, Jessica Murray, Courtney Philbin, Megan Philbin, Erin Unger
 
 **Where and when was the big day?**
 
-Ceremony: The Old Round Church, Richmond, VT
-Reception: The Inn at the Round Barn Farm, Waitsfield, VT
+Ceremony: The Old Round Church, Richmond, VT 
+Reception: The Inn at the Round Barn Farm, Waitsfield, VT 
 June 23, 2012
 
 **How was the weather? Was your wedding indoors/outdoors?**

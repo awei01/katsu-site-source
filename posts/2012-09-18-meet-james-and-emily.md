@@ -18,7 +18,7 @@ tags:
   - wedding suit
 featuredImage: /uploads/2014/10/41.jpg
 ---
-As wedding planning can get awfully tiresome and unbearably stressful, we understand your needs as a couple to make everything run as smoothly and perfectly as you have always dreamt it. That's why we take time getting to know you and what you are searching for. We work _with_ you to achieve the exclusive look that helps tell your love story. At [9tailors](http://www.9tailors.com/), we thrive on helping people design their wedding attire. Read below about James and Emily's experience.
+As wedding planning can get awfully tiresome and unbearably stressful, we understand your needs as a couple to make everything run as smoothly and perfectly as you have always dreamt it. That's why we take time getting to know you and what you are searching for. We work _with_ you to achieve the exclusive look that helps tell your love story. At [9tailors](http://www.9tailors.com/), we thrive on helping people design their wedding attire. Read below about James and Emily's experience.
 
 [![](http://2.bp.blogspot.com/-PTFtVcD9LrU/UFIYrhmQLHI/AAAAAAAAA58/MutQbi6Jxfw/s200/jemilycake016.jpg)](http://2.bp.blogspot.com/-PTFtVcD9LrU/UFIYrhmQLHI/AAAAAAAAA58/MutQbi6Jxfw/s1600/jemilycake016.jpg)
 
@@ -74,6 +74,6 @@ We had so much fun taking pictures in the photo booth. It was a time to be playf
 
 Before the dancing ensued...
 
-Upcoming nuptials? Thinking about designing your own shirt or suit?  Garment turnaround time is typically five weeks. We offer rush priority for an additional fee, but we recommend having a consultation at least two months prior to your wedding date (to alleviate your stress and ensure the perfect fit!) Email a style consultant at [{{ site.emails.customerservice }}](mailto:{{ site.emails.customerservice }}) for any questions or to request more information. 
+Upcoming nuptials? Thinking about designing your own shirt or suit? Garment turnaround time is typically five weeks. We offer rush priority for an additional fee, but we recommend having a consultation at least two months prior to your wedding date (to alleviate your stress and ensure the perfect fit!) Email a style consultant at [{{ site.emails.customerservice }}](mailto:{{ site.emails.customerservice }}) for any questions or to request more information. 
 
 All photos courtesy of [Petersbarrett Photography](http://www.petersbarrettphotography.com/)

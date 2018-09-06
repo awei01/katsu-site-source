@@ -22,7 +22,7 @@ featuredImage: /uploads/2014/10/justin.jpg
 ---
 [![](http://1.bp.blogspot.com/-4BJOrc0BxJM/Uc3L-twNAXI/AAAAAAAADMU/MWyTSWO8v_E/s640/JustinWanProfile.jpg)](http://1.bp.blogspot.com/-4BJOrc0BxJM/Uc3L-twNAXI/AAAAAAAADMU/MWyTSWO8v_E/s1000/JustinWanProfile.jpg)
 
-**************Meet Justin Wan, a friendly, stylish business student who has not only referred family members (we count him as well as both his brother and sister among our revered clients) but who also has introduced a bevy of buddies to [9tailors](http://www.9tailors.com/)!An inquisitive young gent with superb attention to detail, Justin sporadically pops by every few months to check in with us on what trends he can incorporate into his wardrobe. Seen above in************** [9tailors](http://www.9tailors.com/) khaki cotton pants, white shirt, [OooTie](http://www.oootie.com/) bow tie, and subtle pinstripe blazer, Justin is ready for summer (and so are we!) 
+ **************Meet Justin Wan, a friendly, stylish business student who has not only referred family members (we count him as well as both his brother and sister among our revered clients) but who also has introduced a bevy of buddies to [9tailors](http://www.9tailors.com/)! An inquisitive young gent with superb attention to detail, Justin sporadically pops by every few months to check in with us on what trends he can incorporate into his wardrobe. Seen above in************** [9tailors](http://www.9tailors.com/) khaki cotton pants, white shirt, [OooTie](http://www.oootie.com/) bow tie, and subtle pinstripe blazer, Justin is ready for summer (and so are we!) 
 
 **Age:** 26
 
@@ -32,26 +32,26 @@ featuredImage: /uploads/2014/10/justin.jpg
 
 **Occupation:** MBA Student
 
-**How long have you been a 9tailors client?** 
+ **How long have you been a 9tailors client?** 
 About 2 years
 
 **Why choose custom?**
 
-Custom-made, tailored clothing offers variety in form, perfect fit and extra function; not easily found off the rack. [9tailors](http://www.9tailors.com/) really speaks to these points by offering customized jacket linings, working buttons, contrast stitching and so much more. It's not every day I get to look and feel like a million bucks, just the days I put on a piece from [9tailors](http://www.9tailors.com/).
+Custom-made, tailored clothing offers variety in form, perfect fit and extra function; not easily found off the rack. [9tailors](http://www.9tailors.com/) really speaks to these points by offering customized jacket linings, working buttons, contrast stitching and so much more. It's not every day I get to look and feel like a million bucks, just the days I put on a piece from [9tailors](http://www.9tailors.com/).
 
-**What would be your style advice to other men in your professional field? **
+**What would be your style advice to other men in your professional field?** 
 
 At minimum, you probably want to get at least two suits: one for thinking (e.g. class, business lunches, adopting puppies from a local animal shelter) and one for drinking (weddings, fancy date nights, outclassing other suits).
 
-**What/who inspires your style? Why? **
+**What/who inspires your style? Why?** 
 
 Bruce Wayne inspires me. He understands that wearing the right suit can lead to opportunity, including catching bad guys and making money. Plus, he looks cool in black.
 
-**What is your favorite piece from 9tailors? **
+**What is your favorite piece from 9tailors?** 
 
 My current favorite piece from 9tailors was put together by one their style consultants: double breasted, double vented, peaked lapel, polka-dot lining, purple piping, pink contrast stitching on the bottom jacket button hole, and working buttons.
-_Word up, Justin! At minimum, one should definitely have two suits: one for thinking **and** one for drinking._
-Peruse the pictures below, courtesy of one of Boston's best (and our favorite) photographers, [Channing Johnson](http://www.channingjohnson.com/).
+ _Word up, Justin! At minimum, one should definitely have two suits: one for thinking **and** one for drinking._
+ Peruse the pictures below, courtesy of one of Boston's best (and our favorite) photographers, [Channing Johnson](http://www.channingjohnson.com/).
 
 [![](http://2.bp.blogspot.com/-2UL0vmVNee8/Uc3JjYO62rI/AAAAAAAADLU/_o4U9JBR7Cc/s400/20120414-9tailors-0729.jpg)](http://2.bp.blogspot.com/-2UL0vmVNee8/Uc3JjYO62rI/AAAAAAAADLU/_o4U9JBR7Cc/s1000/20120414-9tailors-0729.jpg)
 

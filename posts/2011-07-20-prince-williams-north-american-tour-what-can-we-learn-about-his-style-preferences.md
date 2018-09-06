@@ -21,7 +21,7 @@ Much of the attention, from magazines to TV, has focused on what Kate wore durin
 
 [![](http://img.ibtimes.com/www/data/images/full/2011/07/10/128399-william-and-kate-u-s-tour-day-3.jpg)](http://img.ibtimes.com/www/data/images/full/2011/07/10/128399-william-and-kate-u-s-tour-day-3.jpg)
 
-**Formal Wear: **
+**Formal Wear:** 
 There's no doubt about it. William can wear tuxedo - a double-breasted suit with a wide peaked lapel at that. His taste in men's formal wear is classic and sophisticated. His tuxedo jacket is perfectly tailored to his slim build. The pants are a nice width - too skinny and it might look too trendy. The broad lapels accentuate his square shoulders, giving him the perfect V shape. He's tuxedo studs are off-white, which shows that he is into understated accessories and details. There's nothing flashy about his outfit, yet he stands out even when his wife looks as gorgeous as she does.
 
 [![](http://cdn02.cdn.socialitelife.com/wp-content/uploads/2011/07/Prince-William-Catherine-Duchess-Of-Cambridge-Various-Stolen-Glances-Canadian-Tour-07072011-3801.jpg)](http://cdn02.cdn.socialitelife.com/wp-content/uploads/2011/07/Prince-William-Catherine-Duchess-Of-Cambridge-Various-Stolen-Glances-Canadian-Tour-07072011-3801.jpg)

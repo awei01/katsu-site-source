@@ -30,4 +30,4 @@ Seersucker: you wanted it, we got it. A lightweight treasure, seersucker is a co
 
 [![](http://3.bp.blogspot.com/-FOsG8TcqW3k/UYPw31UdEnI/AAAAAAAAC00/Ac0IBpJrfdY/s400/image_3.jpeg)](http://3.bp.blogspot.com/-FOsG8TcqW3k/UYPw31UdEnI/AAAAAAAAC00/Ac0IBpJrfdY/s1600/image_3.jpeg)
 
-Pining for seersucker? Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to book your design appointment and claim that light, fanciful fabric to make your own custom suit.
+Pining for seersucker? Email a Style Consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to book your design appointment and claim that light, fanciful fabric to make your own custom suit.

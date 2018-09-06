@@ -15,7 +15,7 @@ tags:
   - pop start
 featuredImage: /uploads/2014/10/11.gif
 ---
-Calling all [9tailors](http://www.9tailors.com/) aficionados, new and revered! We are participating in the first launching of [POPstart](http://3.bp.blogspot.com/-qcqpFMgp6R4/T4SRZ-iSTBI/AAAAAAAAALw/xTZchopAqqk/s320/POPStart_postcard.gif) this month. Dreamt up by a team of Harvard Business School students,  "POPstart is an exciting retail store for consumers and starts ups to celebrate and find each other. Located in the heart of Newbury Street, the store is over 2,000 square feet, offering start-ups a unique opportunity to access a large customer base."
+Calling all [9tailors](http://www.9tailors.com/) aficionados, new and revered! We are participating in the first launching of [POPstart](http://3.bp.blogspot.com/-qcqpFMgp6R4/T4SRZ-iSTBI/AAAAAAAAALw/xTZchopAqqk/s320/POPStart_postcard.gif) this month. Dreamt up by a team of Harvard Business School students, "POPstart is an exciting retail store for consumers and starts ups to celebrate and find each other. Located in the heart of Newbury Street, the store is over 2,000 square feet, offering start-ups a unique opportunity to access a large customer base."
 
 **WHEN: Saturday and Sunday, April 21-22, 11am-7pm**
 

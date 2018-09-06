@@ -16,7 +16,7 @@ tags:
   - style
 featuredImage: /uploads/2015/04/ALLORNOTHING.jpg
 ---
-Denim has had its in's and out's over the past few decades. While it can be done terribly wrong, it can also be oh so right. Below we have some 70's, 80's and 90's renditions.
+Denim has had its in's and out's over the past few decades. While it can be done terribly wrong, it can also be oh so right. Below we have some 70's, 80's and 90's renditions.
 
 [![DATEDDENIM]({{ site.baseUrl }}/uploads/DATEDDENIM.jpg)]({{ site.baseUrl }}/uploads/DATEDDENIM.jpg)
 

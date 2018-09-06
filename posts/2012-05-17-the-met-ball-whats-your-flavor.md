@@ -56,7 +56,7 @@ Getty Images
 
 ### Are you ready for some football...
 
-I know, some of us may still harbor a little bitterness for Gisele because of  her, um, less-than-savory remarks about the Patriots after that Super Bowl that shan't be mentioned (really?!?!) But this golden couple takes center stage every year at the Met Ball and doesn't good ol' Tom look fetching in his midnight navy velvet jacket and over-sized bow tie?
+I know, some of us may still harbor a little bitterness for Gisele because of her, um, less-than-savory remarks about the Patriots after that Super Bowl that shan't be mentioned (really?!?!) But this golden couple takes center stage every year at the Met Ball and doesn't good ol' Tom look fetching in his midnight navy velvet jacket and over-sized bow tie?
 
 [![](http://2.bp.blogspot.com/-saNiP7JmZyU/T7QZw2BKejI/AAAAAAAAASc/PnwQjpObElA/s400/10982807-large.jpg)](http://2.bp.blogspot.com/-saNiP7JmZyU/T7QZw2BKejI/AAAAAAAAASc/PnwQjpObElA/s1600/10982807-large.jpg)
 

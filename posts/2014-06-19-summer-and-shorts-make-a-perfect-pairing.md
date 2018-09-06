@@ -13,7 +13,7 @@ tags:
   - summer menswear
 featuredImage: /uploads/2014/10/SHORTS.jpg
 ---
-Summer is finally here and mercury is rising fast! Whether you're golfing, beaching, barbecuing or just spending time with friends and family, there is one item you'll definitely need to stay cool. [9tailors](http://9tailors.com/) is now offering it. Can you guess? Shorts!
+Summer is finally here and mercury is rising fast! Whether you're golfing, beaching, barbecuing or just spending time with friends and family, there is one item you'll definitely need to stay cool. [9tailors](http://9tailors.com/) is now offering it. Can you guess? Shorts!
 
 [![](http://1.bp.blogspot.com/-96gVd4EXr4Q/U6CnpRVoSJI/AAAAAAAAAec/qBbc1GnhALw/s1600/SHORTS.JPG)](http://1.bp.blogspot.com/-96gVd4EXr4Q/U6CnpRVoSJI/AAAAAAAAAec/qBbc1GnhALw/s1600/SHORTS.JPG)
 
@@ -31,6 +31,6 @@ Or, on the beach or at a lobster bake...
 
 We've got you covered!
 
-Let us know how you'll be wearing your shorts. Share your summer inspiration with us. Or, for more men's style inspiration, follow us on [Facebook](https://www.facebook.com/9tailors), [Twitter](http://twitter.com/9tailors), [Instagram](http://instagram.com/9tailors) or [Pinterest](http://www.pinterest.com/9tailors).
+Let us know how you'll be wearing your shorts. Share your summer inspiration with us. Or, for more men's style inspiration, follow us on [Facebook](https://www.facebook.com/9tailors), [Twitter](http://twitter.com/9tailors), [Instagram](http://instagram.com/9tailors) or [Pinterest](http://www.pinterest.com/9tailors).
 
-Contact us today to get your very own 9tailors custom shorts. Email us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}).
+Contact us today to get your very own 9tailors custom shorts. Email us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}).

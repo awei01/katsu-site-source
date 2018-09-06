@@ -17,7 +17,7 @@ tags:
   - what to wear for the 4th of july
 featuredImage: /uploads/2015/07/bbq.jpg
 ---
-You've fired up the grill, filled the pool for swimming, and all your friends are on their way over. Everything is lined up for your barbecue but do you have something to wear? Fourth of July weekend is prime time for barbecues so make sure you're ready for yours or your friends with one of these three looks.
+You've fired up the grill, filled the pool for swimming, and all your friends are on their way over. Everything is lined up for your barbecue but do you have something to wear? Fourth of July weekend is prime time for barbecues so make sure you're ready for yours or your friends with one of these three looks.
 
 If you already have an outfit but are still looking for the perfect accessory to add, check out the men's accessories brand [Cufflinks.com](http://www.cufflinks.com/). Based out of Dallas, TX, Cufflinks.com offers accessories for any occasion. To celebrate this weekend's holiday, Cufflinks.com will be offering 10% off orders over $100 (code: stars) and 15% off orders over $150 (code: stripes).
 
@@ -32,11 +32,11 @@ For a whimsical touch, wear this pair of grill-themed silver cufflinks.
 
 ### The Dapper Dude
 
-Headed straight from work to a party? A patterned shirt and tie with basic chinos is the right look for you. The red, white, and blue colors are perfect for the 4th but still subtle enough that you won't look like a walking flag.
+Headed straight from work to a party? A patterned shirt and tie with basic chinos is the right look for you. The red, white, and blue colors are perfect for the 4th but still subtle enough that you won't look like a walking flag.
 
 [![Screen Shot 2015-06-30 at 1.05.24 PM]({{ site.baseUrl }}/uploads/Screen-Shot-2015-06-30-at-1.05.24-PM-226x300.png)]({{ site.baseUrl }}/uploads/2015/07/Screen-Shot-2015-06-30-at-1.05.24-PM.png)
 
-Looking for a finishing touch? Opt for a watch or a silver tie bar.
+Looking for a finishing touch? Opt for a watch or a silver tie bar.
 
 \[caption id="attachment\_3263" align="aligncenter" width="372" class=" "\][![Screen Shot 2015-07-01 at 12.25.49 PM]({{ site.baseUrl }}/uploads/Screen-Shot-2015-07-01-at-12.25.49-PM-300x141.png)]({{ site.baseUrl }}/uploads/2015/07/Screen-Shot-2015-07-01-at-12.25.49-PM.png) WT1906 Red Watch and Sterling Silver Short Tie Bar from Cufflinks.com\[/caption\]
 

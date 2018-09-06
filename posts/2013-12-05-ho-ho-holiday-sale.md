@@ -23,7 +23,7 @@ Contact us [{{ site.emails.info }}](mailto:{{ site.emails.info }}) or at 617.286
 
 Rules & Restrictions
 
-	*Discount applies to all products except: A Collection Suiting, Suit Separates, Shirting, non-9tailors accessories, or alterations fees. 
-	*Discounts cannot be applied towards gift cards. 
-	*Discount applies to single client's purchase of $150.00+. 
-	*Sale cannot be combined with past promotions, referral credits or discounts.
+	* Discount applies to all products except: A Collection Suiting, Suit Separates, Shirting, non-9tailors accessories, or alterations fees. 
+	* Discounts cannot be applied towards gift cards. 
+	* Discount applies to single client's purchase of $150.00+. 
+	* Sale cannot be combined with past promotions, referral credits or discounts.

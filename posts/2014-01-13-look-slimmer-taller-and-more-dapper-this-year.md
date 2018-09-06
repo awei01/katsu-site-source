@@ -28,15 +28,15 @@ We're bringing back the ever popular package deals to help you look and feel you
 
 [![](http://1.bp.blogspot.com/-4_mJYEOW8ek/UtBR0_DG1uI/AAAAAAAATX4/iLsD7kk4qsA/s1600/package_3_201401.jpg)](http://1.bp.blogspot.com/-4_mJYEOW8ek/UtBR0_DG1uI/AAAAAAAATX4/iLsD7kk4qsA/s1600/package_3_201401.jpg)
 
-Email us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) for a consultation. 
-Some rules and restrictions:
+Email us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) for a consultation. 
+ Some rules and restrictions:
 
-	*Promotion applies to specified shirting and suiting pricing levels.
-	*Packages cannot be shared. 
-	*A la carte design options calculated at a 10% discount. 
-	*Full payment is required upon purchase.
-	*Does not apply to past purchases.
-	*If you return any of the promotion items, we will subtract your discount from your return credit. 
-	*Shipping and handling charges apply to all promoted items.
-	*Void where prohibited.
-	*Expires January 31, 2014
+	* Promotion applies to specified shirting and suiting pricing levels.
+	* Packages cannot be shared. 
+	* A la carte design options calculated at a 10% discount. 
+	* Full payment is required upon purchase.
+	* Does not apply to past purchases.
+	* If you return any of the promotion items, we will subtract your discount from your return credit. 
+	* Shipping and handling charges apply to all promoted items.
+	* Void where prohibited.
+	* Expires January 31, 2014

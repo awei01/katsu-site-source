@@ -33,11 +33,11 @@ In our humble opinion, every gentleman could use a crisp white dress shirt that 
 
 \* Discount Rules and Restrictions:
 
-	*Discount applies to full-priced 9tailors custom dress shirts in the 100% cotton range. 
+	* Discount applies to full-priced 9tailors custom dress shirts in the 100% cotton range. 
 
-*Discount does _**not**_ apply to colors or patterns other than pure solid white or white on white textured fabrics.
+ * Discount does _**not**_ apply to colors or patterns other than pure solid white or white on white textured fabrics.
 
-	*Discount applies to merchandise purchased or ordered from now until February 28th, 2013
-	*Discount cannot be applied to men's and women's accessories, sample sale items or shipping;
-	*Discount cannot be combined with other offers or promotions.
-	*Extras (monogram, contrast fabrics, special buttons) will be charged at full price. A la carte design options are not inclusive in discounted shirt.
+	* Discount applies to merchandise purchased or ordered from now until February 28th, 2013
+	* Discount cannot be applied to men's and women's accessories, sample sale items or shipping;
+	* Discount cannot be combined with other offers or promotions.
+	* Extras (monogram, contrast fabrics, special buttons) will be charged at full price. A la carte design options are not inclusive in discounted shirt.

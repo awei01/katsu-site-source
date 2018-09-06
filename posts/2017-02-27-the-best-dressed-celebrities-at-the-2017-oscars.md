@@ -14,13 +14,13 @@ tags:
   - menswear
 featuredImage: /uploads/2017/02/mahershala_ali_oscars_cover-1.jpg
 ---
-From metallics to ruffle tuxedo shirts and a jaw dropping red gown a few celebs stole the show at the 89th annual Academy Awards. Below are a few of our best dressed.
+From metallics to ruffle tuxedo shirts and a jaw dropping red gown a few celebs stole the show at the 89th annual Academy Awards. Below are a few of our best dressed.
 
 #### Mahershala Ali
 
 ![mahershala_ali_oscars_2017]({{ site.baseUrl }}/uploads/2017/02/mahershala_ali_oscars_2017-683x1024.jpg)
 
-Mahershala, who took home the oscar for best-supporting actor for his role in _Moonlight,_ is easily one of our favorites from the night. He looked dapper in all black wearing a Ermenegildo Zegna Couture tuxedo. Could he be the new Idris Elba? We think so!
+Mahershala, who took home the oscar for best-supporting actor for his role in _Moonlight,_ is easily one of our favorites from the night. He looked dapper in all black wearing a Ermenegildo Zegna Couture tuxedo. Could he be the new Idris Elba? We think so!
 
 #### Taraji P. Henson
 
@@ -44,19 +44,19 @@ Dev, who brought his mom Anita who looked gorgeous, donned a white Burberry tuxe
 
 ![ryan-gosling]({{ site.baseUrl }}/uploads/2017/02/ryan-gosling.jpg)
 
-Are we bringing back ruffle tuxedo shirts? Well when you're Ryan Gosling you can do just that. The _La La Land _nominee looked great in Gucci.
+Are we bringing back ruffle tuxedo shirts? Well when you're Ryan Gosling you can do just that. The _La La Land_ nominee looked great in Gucci.
 
 #### Aldis Hodge
 
 ![89th Annual Academy Awards - Arrivals]({{ site.baseUrl }}/uploads/2017/02/aldis_hodge_oscars_2017.jpg)
 
-_Hidden Figure's_ star Aldis scores major fashion points with the decorative lapel chain he added to his tuxedo.
+_Hidden Figure's_ star Aldis scores major fashion points with the decorative lapel chain he added to his tuxedo.
 
 #### Jessica Biel + Justin Timberlake
 
 ![jessica_justin_oscars_2017]({{ site.baseUrl }}/uploads/2017/02/jessica_justin_oscars_2017-e1488215290196.jpg)
 
-When has metallic gold ever looked so good? Biel looked elegant in her gown by KaufmanFranco. Justin looked dapper in Tom Ford but we must admit Biel is definitely the center of attention in this photo.
+When has metallic gold ever looked so good? Biel looked elegant in her gown by KaufmanFranco. Justin looked dapper in Tom Ford but we must admit Biel is definitely the center of attention in this photo.
 
 #### Chris Evans
 

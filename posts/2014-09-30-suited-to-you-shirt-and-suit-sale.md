@@ -18,15 +18,15 @@ featuredImage: /uploads/2014/10/suitsale_main_2014oct1.jpg
 
 For a limited time only, we will custom-make a free shirt (valued at $79.00) for every two-piece suit purchase! Our expert Style Consultants will guide you by selecting the perfect shirt to go with your well-fitted, modern suit. This will surely be your sharpest looking outfit...ever.
 
-Want to book an appointment with a style consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}). 
+Want to book an appointment with a style consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}). 
 
 Rules & Restrictions
 
-	*You will receive a $79.00 credit towards a shirt for each suit purchase.
-	*Promotions cannot be combined
-	*Shirt credit cannot be gifted to someone else, must be used by client purchasing suit
-	*Must be redeemed in the same appointment
-	*Applies for Super 150 suiting and above only
-	*Cannot be redeemed for cash or cash equivalent
-	*Sale cannot be used on past purchases
-	*Expires October 18, 2014
+	* You will receive a $79.00 credit towards a shirt for each suit purchase.
+	* Promotions cannot be combined
+	* Shirt credit cannot be gifted to someone else, must be used by client purchasing suit
+	* Must be redeemed in the same appointment
+	* Applies for Super 150 suiting and above only
+	* Cannot be redeemed for cash or cash equivalent
+	* Sale cannot be used on past purchases
+	* Expires October 18, 2014

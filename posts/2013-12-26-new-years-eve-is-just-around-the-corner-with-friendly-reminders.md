@@ -11,7 +11,7 @@ tags:
   - new years eve
 featuredImage: /uploads/2014/10/slae.jpg
 ---
-Christmas has ended but the holiday season strides on. Put the ugly sweaters and stockings away, now is the time for New Years Eve festivities. Themed parties from the [80s](http://bostoneventguide.com/countdown-to-the-80s) to [James Bond](http://www.bostonnewyearseveparty.com/) are occurring all over Boston and appropriate attire for each place is a must.
+Christmas has ended but the holiday season strides on. Put the ugly sweaters and stockings away, now is the time for New Years Eve festivities. Themed parties from the [80s](http://bostoneventguide.com/countdown-to-the-80s) to [James Bond](http://www.bostonnewyearseveparty.com/) are occurring all over Boston and appropriate attire for each place is a must.
 
 [![](http://3.bp.blogspot.com/-Ue-hBhpWcnk/UryCaERstbI/AAAAAAAAAnU/iK2ShiXRM-I/s640/fun.-2012-suits,+source+-+99scenes.jpg)](http://3.bp.blogspot.com/-Ue-hBhpWcnk/UryCaERstbI/AAAAAAAAAnU/iK2ShiXRM-I/s1600/fun.-2012-suits,+source+-+99scenes.jpg)
 

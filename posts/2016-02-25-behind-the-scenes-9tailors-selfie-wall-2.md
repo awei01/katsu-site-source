@@ -15,7 +15,7 @@ tags:
   - studio
 featuredImage: /uploads/2016/02/7e30a955-bbc4-4090-a138-394802a44e57.jpg
 ---
-What's new at 9tailors?
+What's new at 9tailors?
 
 Our loft interior recently got a boost! By just adding some wallpaper and props, we transformed an empty corner, into our now one-of-a-kind selfie wall! You can now drop in and snap a quick pic whenever you're due for an appointment or fitting.
 

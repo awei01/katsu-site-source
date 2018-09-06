@@ -19,7 +19,7 @@ featuredImage: /uploads/2014/10/bowtie.png
 ---
 [![](http://2.bp.blogspot.com/-g7axeWJcPhk/UrMe-0r8DsI/AAAAAAAAAmU/m25WPJowrp8/s400/545881_716042841757288_949865890_n.png)](http://2.bp.blogspot.com/-g7axeWJcPhk/UrMe-0r8DsI/AAAAAAAAAmU/m25WPJowrp8/s1600/545881_716042841757288_949865890_n.png)
 
-[oOotie](http://www.oootie.com/) is not only fashionably forward with it's quirky designs but is generous. 10% of their net sales go to multiple charities based on the design. Their core collection go towards scholarships in technical fields like science and math. Their donations this past year included the [One Fund](https://secure.onefundboston.org/) program to aide the victims of the Boston Marathon Bombing and [Push America](http://www.pushamerica.org/), a program geared towards those with disabilities.
+[oOotie](http://www.oootie.com/) is not only fashionably forward with it's quirky designs but is generous. 10% of their net sales go to multiple charities based on the design. Their core collection go towards scholarships in technical fields like science and math. Their donations this past year included the [One Fund](https://secure.onefundboston.org/) program to aide the victims of the Boston Marathon Bombing and [Push America](http://www.pushamerica.org/), a program geared towards those with disabilities.
 
 Help them support their many causes and help yourself learn how to tie a bow tie. Join us tonight at our bow tie tying workshop from 5 - 8 PM in our Boston Showroom.
 
@@ -41,6 +41,6 @@ Bow ties received a major push towards mainstream with the help of Justin Timber
 
 [![](http://1.bp.blogspot.com/-uqDQeYUztbQ/UrMl-njTZ-I/AAAAAAAAAmw/BCEEVBBm-L4/s640/99+problems+bow+tie,+source-werdplai.png)](http://1.bp.blogspot.com/-uqDQeYUztbQ/UrMl-njTZ-I/AAAAAAAAAmw/BCEEVBBm-L4/s1600/99+problems+bow+tie,+source-werdplai.png)
 
-source: werdplai 
+source: werdplai 
 
 Interested in keeping up to date with our events? Want to know more about accessories or coordinating? Contact a style consultant {{ site.emails.info }}

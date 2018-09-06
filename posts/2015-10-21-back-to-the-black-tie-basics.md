@@ -18,7 +18,7 @@ tags:
   - tuxedo
 featuredImage: /uploads/2015/10/9609cd7b1c5c9b28bfdb4a9cc4bd5878.jpg
 ---
-Almost everyone can relate to the confusion and slight intimidation that usually accompanies the words "black tie optional" or "formal attire", or even just "black tie". "What does that even mean?", might cross your mind while you try and scan the invitation for clues. Luckily, we have come up with a handy guide to the black tie basics for all you puzzled gentlemen out there.
+Almost everyone can relate to the confusion and slight intimidation that usually accompanies the words "black tie optional" or "formal attire", or even just "black tie". "What does that even mean?", might cross your mind while you try and scan the invitation for clues. Luckily, we have come up with a handy guide to the black tie basics for all you puzzled gentlemen out there.
 
 ##### **Suits and Tuxedos**
 
@@ -26,20 +26,20 @@ For most people, it is hard to tell the difference between a suit and a tux, but
 
 Tuxedo
 
-	*Jacket and pants are black or midnight blue
-	*Lapel and buttons are satin
-	*Trousers have a satin side stripe
-	*Lapel would be peaked, notched, or shawl
-	*Jacket can be double or single breasted
-	*A cummerbund is worn with the folds pointing upward
-	*A waistcoat can be worn instead, but only with a single-breasted jacket
+	* Jacket and pants are black or midnight blue
+	* Lapel and buttons are satin
+	* Trousers have a satin side stripe
+	* Lapel would be peaked, notched, or shawl
+	* Jacket can be double or single breasted
+	* A cummerbund is worn with the folds pointing upward
+	* A waistcoat can be worn instead, but only with a single-breasted jacket
 
 Suit
 
-	*Jacket and pants can be any color
-	*No satin
-	*The lapel can be any style
-	*Instead of a cummerbund or waistcoat, a regular vest is more common
+	* Jacket and pants can be any color
+	* No satin
+	* The lapel can be any style
+	* Instead of a cummerbund or waistcoat, a regular vest is more common
 
 Note: A three-piece suit is NOT a tuxedo
 
@@ -47,7 +47,7 @@ Note: A three-piece suit is NOT a tuxedo
 
 9tailors bonus tip: Shawl lapel = slimmer silhouette.
 
-#####**Shirts**
+##### **Shirts**
 
 As far as shirts go, a regular button down shirt is not acceptable at a black tie affair. The convention is a white dress shirt with a turned down collar. The plackets are covered and the front panel is a heavier material, typically with texture. If you want to add a little flair without straying from tradition, try horizontal-ridged pleating on your tuxedo shirt. Below is what your shirt and tuxedo should look like put together.
 
@@ -55,7 +55,7 @@ As far as shirts go, a regular button down shirt is not acceptable at a black ti
 
 ##### **Grooming**
 
-Hair should be washed and brushed.  Similarly, you should be clean-shaven (unless you always have a beard or moustache). If you have a beard or moustache, make sure it is trimmed and brushed.
+Hair should be washed and brushed. Similarly, you should be clean-shaven (unless you always have a beard or moustache). If you have a beard or moustache, make sure it is trimmed and brushed.
 
 ##### **Accessories**
 

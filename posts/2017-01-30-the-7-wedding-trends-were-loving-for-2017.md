@@ -18,13 +18,13 @@ Planning a 2017 wedding? We've compiled a list of the top wedding trends that wi
 
 #### **Industrial + Modern Spaces**
 
-Industrial spaces won't be going out of style anytime soon. We'll be seeing **a lot of exposed brick** this upcoming year. This time around there will be a mix of brick and modern elements such as glamorous chandeliers.
+Industrial spaces won't be going out of style anytime soon. We'll be seeing **a lot of exposed brick** this upcoming year. This time around there will be a mix of brick and modern elements such as glamorous chandeliers.
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/d3/c1/11/d3c111795fa4dd23788f639fa321ddaf.jpg)
 
 #### **Warm Colors**
 
-Incorporate **warm tones of yellow, red and golden oranges** into your wedding decor and wardrobe. Amp up your tuxedo with marsala, also known as maroon, as a base for your jacket and pants and add black satin to your lapel. If you can't pick just one, going with multiple colors is another trend for 2017.
+Incorporate **warm tones of yellow, red and golden oranges** into your wedding decor and wardrobe. Amp up your tuxedo with marsala, also known as maroon, as a base for your jacket and pants and add black satin to your lapel. If you can't pick just one, going with multiple colors is another trend for 2017.
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/11/6e/2a/116e2a4c44661f777f34d563a8423630.jpg)
 
@@ -54,8 +54,8 @@ Everyone knows a wedding is basically **one huge party**... once you get through
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/0b/5a/d3/0b5ad359f273a9da039ec76943b060b1.jpg)
 
-#### ** Two Looks for the Groom**
+#### **Two Looks for the Groom**
 
-Brides can have two looks... so why can't the groom? A classic black or navy tux for the ceremony is a great formal option and a bold pop of color for the reception is a great fun option. **Does he have a favorite color?** Go with that for the second look. There's nothing wrong with showing a bit of personality!
+Brides can have two looks... so why can't the groom? A classic black or navy tux for the ceremony is a great formal option and a bold pop of color for the reception is a great fun option. **Does he have a favorite color?** Go with that for the second look. There's nothing wrong with showing a bit of personality!
 
 ![](https://s-media-cache-ak0.pinimg.com/564x/73/68/43/73684374cf1570d44d965d96167bbf6d.jpg)

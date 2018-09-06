@@ -34,7 +34,7 @@ One of our lovely, lovely clients has granted us this gracious access, Tanya Cas
 
 **Current Residence:** Somerville, MA
 
-**Occupation:** Director of Analytics
+**Occupation:** Director of Analytics
 
 **How Long Have You Been a 9tailors Client?** 11 Months
 

@@ -42,7 +42,7 @@ If you're not one for patterns, there's always the solid colored shirts that isn
 
 [![](http://4.bp.blogspot.com/-DN0N3JLyois/Uuv0afNnJhI/AAAAAAAABDg/aMoHEkVGNAA/s1600/Valentines+Guide_03.jpg)](http://4.bp.blogspot.com/-DN0N3JLyois/Uuv0afNnJhI/AAAAAAAABDg/aMoHEkVGNAA/s1600/Valentines+Guide_03.jpg)
 
-Loving 9tailors custom shirts paired with [OoOtie](http://oootie.com/) bowties
+Loving 9tailors custom shirts paired with [OoOtie](http://oootie.com/) bowties
 
 Need help dressing for your date? Not sure what to wear when meeting the significant other's friends and family? Want to experiment with patterns and different colors but not sure how to? Contact a style consultant at {{ site.emails.info }}. We would love to work with you ;-)
 

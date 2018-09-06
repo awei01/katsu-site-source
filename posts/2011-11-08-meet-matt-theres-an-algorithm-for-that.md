@@ -63,7 +63,7 @@ Another detail, that does not go unnoticed, is the contrast fabric on the besoms
 Shoot Details:
 **Location:** Beacon Hill
 **Suit:** 9tailors
-**Shirt:** 9tailors**Tie:** His Own
+**Shirt:** 9tailors **Tie:** His Own
 **Tie Clip:** [Tsai Clip](http://www.tsaiclip.com/)
 
 Step-up your look with a vest this season. Works great to dress up jeans and a button-down or to add something interesting to a standard two piece suit.

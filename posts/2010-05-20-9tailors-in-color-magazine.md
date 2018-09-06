@@ -15,6 +15,6 @@ featuredImage: null
 ---
 Our founder Samantha Shih was recently featured in Color Magazine. Check out the full feature here: [http://tiny.cc/vnhz8](http://tiny.cc/vnhz8). 
 
-[![](http://2.bp.blogspot.com/_20LDsLnO2rk/S_VjVkT8LEI/AAAAAAAAADQ/1PoWU-nOJtY/s320/28_9tailors.jpg)](http://2.bp.blogspot.com/_20LDsLnO2rk/S_VjVkT8LEI/AAAAAAAAADQ/1PoWU-nOJtY/s1600/28_9tailors.jpg)
+[![](http://2.bp.blogspot.com/_20LDsLnO2rk/S_VjVkT8LEI/AAAAAAAAADQ/1PoWU-nOJtY/s320/28_9tailors.jpg)](http://2.bp.blogspot.com/_20LDsLnO2rk/S_VjVkT8LEI/AAAAAAAAADQ/1PoWU-nOJtY/s1600/28_9tailors.jpg) 
 
 Find out how Sam conceived of 9tailors, the origins behind the name, a discussion about producing goods in China, and the next exciting steps for 9tailors (hint hint: more women's items and suits!).

@@ -16,10 +16,10 @@ tags:
   - menswear tips
 featuredImage: /uploads/2014/10/111.jpg
 ---
-If you're a custom clothing aficionado, you understand the importance of the pant break: where your trousers meet your shoes. However, with all of the trends out there, it's hard to know what break will look best. Seemingly, there's either much confusion or not enough attention paid to this integral part of how your suit should fit your proportions. Ultimately, it depends on you and your personal style, but here are some helpful hints to guide your choice.
+If you're a custom clothing aficionado, you understand the importance of the pant break: where your trousers meet your shoes. However, with all of the trends out there, it's hard to know what break will look best. Seemingly, there's either much confusion or not enough attention paid to this integral part of how your suit should fit your proportions. Ultimately, it depends on you and your personal style, but here are some helpful hints to guide your choice.
 
 **Too Much**
-We are here to tell you that too much break is NOT a good look. It comes off as disheveled, sloppy, and glaringly obvious that a visit to the the tailor is required to adjust your pants to proper length. It also singlehandedly defeats the purpose of wearing a suit, especially when you're trying to look dapper.
+We are here to tell you that too much break is NOT a good look. It comes off as disheveled, sloppy, and glaringly obvious that a visit to the the tailor is required to adjust your pants to proper length. It also singlehandedly defeats the purpose of wearing a suit, especially when you're trying to look dapper.
 
 [![](http://4.bp.blogspot.com/-K-hhyGn4ZCQ/T159rdM4kqI/AAAAAAAAAAw/pEp-lZw1rsc/s320/TooMuchBreak.jpg)](http://4.bp.blogspot.com/-K-hhyGn4ZCQ/T159rdM4kqI/AAAAAAAAAAw/pEp-lZw1rsc/s1600/TooMuchBreak.jpg)
 
@@ -51,7 +51,7 @@ The most traditional and classic look is the medium break. Known for its conserv
 Courtesy of Telegraph.co.uk
 
 **The Short Break**
-For the trendsetters who keep a watchful eye on the runway, this is a look that you know well as more and more designers consider this a style standard. The short break is generally a higher hem that gives little, if only barely, a crease to the pant leg and hits just below the top of your shoe front (a la [Thom Browne](http://guy.com/2011/10/12/covering-your-ass-thom-brownes-silly-pants-make-sense/)). Some refer to this as a "high water" pant, as it can show a bit of ankle. Any body type that wants to make a statement can pull this off, but it's generally delineated to more slender gentlemen. Not meant for those who are weary to reveal some ankle.
+For the trendsetters who keep a watchful eye on the runway, this is a look that you know well as more and more designers consider this a style standard. The short break is generally a higher hem that gives little, if only barely, a crease to the pant leg and hits just below the top of your shoe front (a la [Thom Browne](http://guy.com/2011/10/12/covering-your-ass-thom-brownes-silly-pants-make-sense/)). Some refer to this as a "high water" pant, as it can show a bit of ankle. Any body type that wants to make a statement can pull this off, but it's generally delineated to more slender gentlemen. Not meant for those who are weary to reveal some ankle.
 
 [![](http://3.bp.blogspot.com/-Ygw3tUjiSxg/T16WX0EnPeI/AAAAAAAAABY/BfU1m6vrXDY/s1600/ankles-250x300.jpg)](http://3.bp.blogspot.com/-Ygw3tUjiSxg/T16WX0EnPeI/AAAAAAAAABY/BfU1m6vrXDY/s1600/ankles-250x300.jpg)
 
@@ -66,6 +66,6 @@ Courtesy of GQ
 
 Those who don this look have guts. If you love it, go for it! If you hate it, better leave it be. The most important thing about wearing a look well is how comfortable you feel.
 
-Still unsure what pant break you favor the most, or which one will accommodate your personal style? Email a style consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) for some sage advice on pant styles and lengths, or make an appointment to custom-design the look you crave.
+Still unsure what pant break you favor the most, or which one will accommodate your personal style? Email a style consultant at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) for some sage advice on pant styles and lengths, or make an appointment to custom-design the look you crave.
 
 \*["These are the Breaks" by Kurtis Blow](http://www.youtube.com/watch?v=5ZDUEilS5M4)

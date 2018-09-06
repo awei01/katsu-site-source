@@ -25,7 +25,7 @@ Fall is New England's prime season and we still have a little bit left of it bef
 
 Wear them under slacks at work or loosely tied over your jeans for an awesome casual look on the weekend.
 
- **THE CHUKKA BOOT**
+ **THE CHUKKA BOOT**
 
 [![](http://4.bp.blogspot.com/-hHWTeTlQVzA/VCW-x6sr47I/AAAAAAAAAtY/dvLfmq8hNIM/s1600/suede%2Bchukka.jpg)](http://4.bp.blogspot.com/-hHWTeTlQVzA/VCW-x6sr47I/AAAAAAAAAtY/dvLfmq8hNIM/s1600/suede%2Bchukka.jpg)
 
@@ -39,7 +39,7 @@ These pair nicely with jeans or colored trousers. Also, try switching out the na
 
 [Magnanni](http://shop.nordstrom.com/s/magnanni-miro-double-monk-strap-shoe-men/3298553?origin=category&contextualcategoryid=0&fashioncolor=&resultback=0)
 
-Having an overall classy look and being different from your usual footwear, this particular shoe pairs very nicely with slim cut, cuffed trousers. Go for it.
+Having an overall classy look and being different from your usual footwear, this particular shoe pairs very nicely with slim cut, cuffed trousers. Go for it.
 
 **THE CHELSEA BOOT**
 

@@ -19,6 +19,7 @@ tags:
 featuredImage: /uploads/2014/11/lookup.jpg
 ---
 
+
 [![jump1]({{ site.baseUrl }}/uploads/jump1.jpg)]({{ site.baseUrl }}/uploads/jump1.jpg)
 
 After doing a fun fall photo shoot, we couldn't help but put together all of the amazing jump shots we got!

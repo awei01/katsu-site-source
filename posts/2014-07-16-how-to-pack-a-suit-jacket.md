@@ -25,14 +25,14 @@ by using our step-by-step instruction:
 
 [![](http://2.bp.blogspot.com/-xR003ETVwQ8/U8A0vCiTv3I/AAAAAAAAAjQ/xbQ4Rp26CvE/s1600/packing.jpg)](http://2.bp.blogspot.com/-xR003ETVwQ8/U8A0vCiTv3I/AAAAAAAAAjQ/xbQ4Rp26CvE/s1600/packing.jpg)
 
-	1.Grab your suit jacket
-	2.Reach both hands into the shoulders of the jacket
-	3.Ensure your hands reach to the end of the shoulder inside the jacket
-	4.Fold the shoulders back to meet each other (as if clapping your hands together)
-	5.Take one of your hands and turn the jacket inside out by folding it over the other shoulder (Keeping the lining outside keeps the fabric safe when packed)
-	6.Ensure it's folded over neatly, meeting the other shoulder,
-	7.Straighten it out
-	8.Fold it half neatly
-	9.Place neatly in your suitcase and hop on the bus/car/boat/plane!
+	1. Grab your suit jacket
+	2. Reach both hands into the shoulders of the jacket
+	3. Ensure your hands reach to the end of the shoulder inside the jacket
+	4. Fold the shoulders back to meet each other (as if clapping your hands together)
+	5. Take one of your hands and turn the jacket inside out by folding it over the other shoulder (Keeping the lining outside keeps the fabric safe when packed)
+	6. Ensure it's folded over neatly, meeting the other shoulder,
+	7. Straighten it out
+	8. Fold it half neatly
+	9. Place neatly in your suitcase and hop on the bus/car/boat/plane!
 
-To see the full video how-to, follow us on [Instagram](http://instagram.com/9tailors). Happy travels, gentlemen!
+To see the full video how-to, follow us on [Instagram](http://instagram.com/9tailors). Happy travels, gentlemen!

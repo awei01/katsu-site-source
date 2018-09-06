@@ -14,9 +14,9 @@ tags:
   - menswear
 featuredImage: null
 ---
-[![](http://1.bp.blogspot.com/_RlJ3L7W6dBw/Smh7D3NrD-I/AAAAAAAAHtc/aDMfr-OzC4w/s320/boston_front_20090829+v2.jpg.gif)](http://1.bp.blogspot.com/_RlJ3L7W6dBw/Smh7D3NrD-I/AAAAAAAAHtc/aDMfr-OzC4w/s1600-h/boston_front_20090829+v2.jpg.gif)Men - we make collars that fit your neck (and sleeve, and torso, and bicep...) 
+[![](http://1.bp.blogspot.com/_RlJ3L7W6dBw/Smh7D3NrD-I/AAAAAAAAHtc/aDMfr-OzC4w/s320/boston_front_20090829+v2.jpg.gif)](http://1.bp.blogspot.com/_RlJ3L7W6dBw/Smh7D3NrD-I/AAAAAAAAHtc/aDMfr-OzC4w/s1600-h/boston_front_20090829+v2.jpg.gif)Men - we make collars that fit your neck (and sleeve, and torso, and bicep...) 
 
-[![](http://1.bp.blogspot.com/_RlJ3L7W6dBw/Smh7DjRQMKI/AAAAAAAAHtU/mrX7blJbhXQ/s320/womenboston_front_20090829+v1.gif)](http://1.bp.blogspot.com/_RlJ3L7W6dBw/Smh7DjRQMKI/AAAAAAAAHtU/mrX7blJbhXQ/s1600-h/womenboston_front_20090829+v1.gif) Ladies - we make custom blouses and tunics 
+[![](http://1.bp.blogspot.com/_RlJ3L7W6dBw/Smh7DjRQMKI/AAAAAAAAHtU/mrX7blJbhXQ/s320/womenboston_front_20090829+v1.gif)](http://1.bp.blogspot.com/_RlJ3L7W6dBw/Smh7DjRQMKI/AAAAAAAAHtU/mrX7blJbhXQ/s1600-h/womenboston_front_20090829+v1.gif) Ladies - we make custom blouses and tunics 
 
 So, we've been getting lots of questions about when our next event will be. The wait is over, people! We'll be hosting our **3rd Custom Clothing Event on Saturday, August 29.**
 

@@ -20,14 +20,14 @@ Today is Samuel Adam's Cicerone Test.
 Samuel Adams Beer
 source: thedraftlist
 
-A cicerone is an official beer connoisseur who has been officially certified by the [Cicerone Certification Program](http://cicerone.org/). [Samuel Adams](http://www.samueladams.com/) offers their employees training within the company to pass their cicerone program. As a reward, the company generously gives them a custom made blazer (made by us), commemorating their achievement.
+A cicerone is an official beer connoisseur who has been officially certified by the [Cicerone Certification Program](http://cicerone.org/). [Samuel Adams](http://www.samueladams.com/) offers their employees training within the company to pass their cicerone program. As a reward, the company generously gives them a custom made blazer (made by us), commemorating their achievement.
 
 [![](http://2.bp.blogspot.com/-97Z3nyXu90o/UxDoHxK4qCI/AAAAAAAABTU/X7fxjaa-5aI/s1600/sam+adams+blazer.jpg)](http://2.bp.blogspot.com/-97Z3nyXu90o/UxDoHxK4qCI/AAAAAAAABTU/X7fxjaa-5aI/s1600/sam+adams+blazer.jpg)
 
 Custom 9tailors Blazer exclusively for Samuel Adams Cicerones
 (tie: [Jegman](http://www.jegman.com/))
 
-Just like our other garments, these are custom made to each person. A few days before the exam, our expert style consultants go to the [Boston Beer Company'](http://www.bostonbeer.com/)s Headquarters at the [Design Center](http://bostondesign.com/) to measure each potential cicerone.
+Just like our other garments, these are custom made to each person. A few days before the exam, our expert style consultants go to the [Boston Beer Company'](http://www.bostonbeer.com/)s Headquarters at the [Design Center](http://bostondesign.com/) to measure each potential cicerone.
 
 You need more than just love for craft beer and being able to handle beer so hoppy you can chew it (gross). Having a beer belly, drinking copious amounts of Sam Adams beers and going on multiple brewery tours doesn't get you into the club either, becoming a cicerone is not easy. There were a handful of candidates that were getting measured for a second time and they've made the test more difficult. Some students say they recommend opening their books 4 months in advance, otherwise, study for as long as you can. One guy decided it was best to cram everything in, in 3 weeks to which another candidate scoffed at and says there's no way he'll pass.
 

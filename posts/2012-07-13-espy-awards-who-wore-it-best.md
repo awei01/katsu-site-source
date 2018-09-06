@@ -16,7 +16,7 @@ tags:
   - who wore it best
 featuredImage: /uploads/2014/10/dd.jpg
 ---
-Did you catch the ESPYs on Wednesday night? Athletes should trade in their uniforms for formalwear more often. See how your favorite sportoes suit up. 
+Did you catch the ESPYs on Wednesday night? Athletes should trade in their uniforms for formalwear more often. See how your favorite sportoes suit up. 
 
 ### Gray Suits and Skinny Ties
 
@@ -32,7 +32,7 @@ Shaun White, former "Flying Tomato"turned "Animal" cleans up well
 
 ### Red Carpet vs. Live Performance
 
-Thank goodness Nas took off that shiny, pleather (?) black shirt he was wearing on the Red Carpet! No bueno. Swizz Beatz also debuted an interesting look with gun holster-straps. Is this a new man bag? For their live performance, the two rap stars had a wardrobe change (thankfully). While Nas keeps it classy in a black tuxedo and black bow tie, Swizz effectively pulls off an opposite look with a black shirt with white suit.What do you think? Do you prefer the Red Carpet ensembles or the lyric-spitting performance duds?
+Thank goodness Nas took off that shiny, pleather (?) black shirt he was wearing on the Red Carpet! No bueno. Swizz Beatz also debuted an interesting look with gun holster-straps. Is this a new man bag? For their live performance, the two rap stars had a wardrobe change (thankfully). While Nas keeps it classy in a black tuxedo and black bow tie, Swizz effectively pulls off an opposite look with a black shirt with white suit.What do you think? Do you prefer the Red Carpet ensembles or the lyric-spitting performance duds?
 
 [![](http://2.bp.blogspot.com/-pTL43Bb0Mhc/UABFywCuuMI/AAAAAAAAAfY/I38hh2_vhpQ/s320/slide_238274_1216642_free.jpg)](http://2.bp.blogspot.com/-pTL43Bb0Mhc/UABFywCuuMI/AAAAAAAAAfY/I38hh2_vhpQ/s1600/slide_238274_1216642_free.jpg)
 
@@ -52,7 +52,7 @@ Perfect suiting for summer. Did you know about our [suit sale](http://2012/07/we
 
 [![](http://2.bp.blogspot.com/-XYswqGsjRkM/UABC91lua-I/AAAAAAAAAes/owfZxWZjhaQ/s320/slide_238274_1216627_free.jpg)](http://2.bp.blogspot.com/-XYswqGsjRkM/UABC91lua-I/AAAAAAAAAes/owfZxWZjhaQ/s1600/slide_238274_1216627_free.jpg)
 
-Donald Driver in complementary colors of light blue jacket and light  khaki pants
+Donald Driver in complementary colors of light blue jacket and light khaki pants
 
 [![](http://1.bp.blogspot.com/-iQuFOwHHCqk/UABC_JKeHAI/AAAAAAAAAe0/_NcL_u6mfkc/s320/slide_238274_1216654_free.jpg)](http://1.bp.blogspot.com/-iQuFOwHHCqk/UABC_JKeHAI/AAAAAAAAAe0/_NcL_u6mfkc/s1600/slide_238274_1216654_free.jpg)
 
@@ -68,7 +68,7 @@ As always, this is an accessory that really steps up an outfit. You can have fun
 
 [![](http://1.bp.blogspot.com/-k4E93PuQeuE/UABLuP7EBsI/AAAAAAAAAfs/ayL2BvD6HMI/s320/slide_238274_1217010_free.jpg)](http://1.bp.blogspot.com/-k4E93PuQeuE/UABLuP7EBsI/AAAAAAAAAfs/ayL2BvD6HMI/s1600/slide_238274_1217010_free.jpg)
 
-Thomas DeCoud in a red bow tie and grey suit, a la  Pee Wee Herman
+Thomas DeCoud in a red bow tie and grey suit, a la Pee Wee Herman
 
 [![](http://4.bp.blogspot.com/-OX1NgpZTOm8/UABDDoCRpSI/AAAAAAAAAfM/WfrFQ0H9rpA/s320/2012ESPYAWARDS010729--525x415.jpg)](http://4.bp.blogspot.com/-OX1NgpZTOm8/UABDDoCRpSI/AAAAAAAAAfM/WfrFQ0H9rpA/s1600/2012ESPYAWARDS010729--525x415.jpg)
 
@@ -82,11 +82,11 @@ These players really stepped outside the box. And we dig it! I might re-think th
 
 JR Davis in pinstriped jacket and Chucks
 
-The black detail on Vernon Davis's plum lapel is terrific.  Paired with a polka dot bow tie, maroon shirt studs, and thick black-framed glasses, Vernon is the epitome of geek chic. 
+The black detail on Vernon Davis's plum lapel is terrific. Paired with a polka dot bow tie, maroon shirt studs, and thick black-framed glasses, Vernon is the epitome of geek chic. 
 
 [![](http://1.bp.blogspot.com/-EqMZ6F2zV5A/UABC6yARDVI/AAAAAAAAAeU/X28BaggLYxk/s320/slide_238274_1216588_free.jpg)](http://1.bp.blogspot.com/-EqMZ6F2zV5A/UABC6yARDVI/AAAAAAAAAeU/X28BaggLYxk/s1600/slide_238274_1216588_free.jpg)
 
-Vern!
+Vern! 
 
 DeMaryius Thomas of the Broncoes went all out! Sure, this getup is kinda loud and crazy, but he looks sharp! The balance of gray and black coordinates very well, not too much and not too little. Well done! Best Award for Best Moment = Best Dressed at the ESPYs.
 
@@ -94,6 +94,6 @@ DeMaryius Thomas of the Broncoes went all out! Sure, this getup is kinda loud an
 
 Demaryius Thomas
 
-All photos courtesy of [Associated Press](http://ap.org/) and  [Huffington Post](http://www.huffingtonpost.com/)
+All photos courtesy of [Associated Press](http://ap.org/) and [Huffington Post](http://www.huffingtonpost.com/)
 
 Have an upcoming formal event? Email [{{ site.emails.info }}](mailto:{{ site.emails.info }}) to make an appointment and create a custom shirt or suit all your own.

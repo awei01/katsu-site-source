@@ -46,7 +46,7 @@ Here's to hoping our coach and client from [Illinois State University](http://ww
 
 **Occupation**: College Basketball Coach
 
-**How Long Have You Been a 9tailors Client? **
+**How Long Have You Been a 9tailors Client?** 
 1 year
 
 **Why Choose Custom?**
@@ -61,7 +61,7 @@ Jay Wright, Head Coach from Villanova. He always looks nice and sharp.
 **What is Your Favorite Piece from 9tailors?**
 My custom made dress shirt.
 
-**How Difficult is it to Find Garments That Targets Your Specific Needs and Style? **
+**How Difficult is it to Find Garments That Targets Your Specific Needs and Style?** 
 Very.
 
 [![](http://4.bp.blogspot.com/-b0JaPauG3V4/UxY7Pw15MmI/AAAAAAAABVE/v2xeGR9Mqg0/s1600/dana+ford_01.jpg)](http://4.bp.blogspot.com/-b0JaPauG3V4/UxY7Pw15MmI/AAAAAAAABVE/v2xeGR9Mqg0/s1600/dana+ford_01.jpg)

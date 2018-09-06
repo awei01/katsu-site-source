@@ -42,7 +42,7 @@ Source: [Ted Baker](http://www.tedbaker.com/)
 
 The louder the print, the more casual you become. Something to keep in mind when wearing loud floral is to watch when it starts adapting a tropical flavor. Once you go there, you either border or enter the Hawaiian shirt territory; which are great for vacations or if you work at [Pixar](http://www.pixar.com/), but not so much for every day work wear. This shirt keeps an upbeat playful attitude while catering to those who are bolder than someone just entertaining floral.
 
-source: [Gitman Bros](http://www.gitmanvintage.com/), Mon Chou Chou print
+source: [Gitman Bros](http://www.gitmanvintage.com/), Mon Chou Chou print
 
 What's really growing in popularity are tiny prints and I love them! It's more playful than floral but can still be conservative at first glance due to its small scale. They are also in vogue this season for men but I'm sure they'll be sticking around much longer than that.
 

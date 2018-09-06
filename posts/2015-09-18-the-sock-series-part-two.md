@@ -16,7 +16,7 @@ tags:
   - menswear
 featuredImage: /uploads/2015/09/85cc966b046730c0eb85bf182295dcb8.jpg
 ---
-**A few weeks back we dissected the anatomy of a sock so that you could pick the most comfortable pair. [If you missed it, we've got you covered]({{ site.baseUrl }}/2015/08/the-sock-series-part-one-sock-101/). Now we're moving on to the key to upping your #sockgame, which is choosing the right colors and patterns. Socks can add flare to an outfit but it only works if they're properly coordinated. Take this short quiz to unlock some sock and shoe pairs that fit any occasion. **
+**A few weeks back we dissected the anatomy of a sock so that you could pick the most comfortable pair. [If you missed it, we've got you covered]({{ site.baseUrl }}/2015/08/the-sock-series-part-one-sock-101/). Now we're moving on to the key to upping your #sockgame, which is choosing the right colors and patterns. Socks can add flare to an outfit but it only works if they're properly coordinated. Take this short quiz to unlock some sock and shoe pairs that fit any occasion.** 
 
 [![whereareyougoing4]({{ site.baseUrl }}/uploads/whereareyougoing4-1024x791.jpg)]({{ site.baseUrl }}/uploads/whereareyougoing4.jpg)
 
@@ -30,4 +30,4 @@ featuredImage: /uploads/2015/09/85cc966b046730c0eb85bf182295dcb8.jpg
 
 ![](http://media-cdn.timesfreepress.com/img/photos/2015/04/26/042715emen19894890836_t755_hb65453e0bf766a1359967000141419b42605df0d.jpg)
 
-**And with that, you are well-versed in the art of socks. Match well, mix well, and most importantly, make your own sock rules. If you're looking for new socks to add to (or to start) your collection, head to [A Man Among Socks.](https://amanamongsocks.com/)If you need more sock styling inspiration, check out 9tailors' [Pinterest](https://www.pinterest.com/9tailors/sockspiration/) board dedicated solely to sock kind. You can also contact us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) for a suit to match your favorite pair.**
+**And with that, you are well-versed in the art of socks. Match well, mix well, and most importantly, make your own sock rules. If you're looking for new socks to add to (or to start) your collection, head to [A Man Among Socks.](https://amanamongsocks.com/) If you need more sock styling inspiration, check out 9tailors' [Pinterest](https://www.pinterest.com/9tailors/sockspiration/) board dedicated solely to sock kind. You can also contact us at [{{ site.emails.info }}](mailto:{{ site.emails.info }}) for a suit to match your favorite pair.**

@@ -17,7 +17,7 @@ featuredImage: /uploads/2014/10/designup03.jpg
 ---
 [![](http://1.bp.blogspot.com/-hNctq_7ZNms/UrDS_OzDdkI/AAAAAAAAS8Q/OgoO53I_LV8/s640/oootie_event_2013dec.jpg)](http://1.bp.blogspot.com/-hNctq_7ZNms/UrDS_OzDdkI/AAAAAAAAS8Q/OgoO53I_LV8/s1600/oootie_event_2013dec.jpg)
 
-We've all been there. We have a bow tie. Then, we fumble around while watching a [Youtube](http://www.youtube.com/) video. We tie, untie, struggle...but, we're still left with untied bow tie. Fear not. Learn _the knot_ once and for all. The talented folks behind the incredible brand, [OoOtie](http://oootie.com/) will be dropping by to teach you how to tie a bow tie.
+We've all been there. We have a bow tie. Then, we fumble around while watching a [Youtube](http://www.youtube.com/) video. We tie, untie, struggle...but, we're still left with untied bow tie. Fear not. Learn _the knot_ once and for all. The talented folks behind the incredible brand, [OoOtie](http://oootie.com/) will be dropping by to teach you how to tie a bow tie.
 
 Details below:
 
@@ -29,7 +29,7 @@ December 19, 2013
 
 RSVP: [{{ site.emails.info }}](mailto:{{ site.emails.info }})
 
-_Swing by after work. Grab a drink. Get style help. _
+_Swing by after work. Grab a drink. Get style help._ 
 
 Get $25.00 off your next custom shirt with your bow tie purchase.\*
 

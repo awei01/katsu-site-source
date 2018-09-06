@@ -14,7 +14,7 @@ tags:
 featuredImage: null
 ---
 [![](http://2.bp.blogspot.com/_20LDsLnO2rk/TBpIbpXvaBI/AAAAAAAAARM/sE55895ZK4Y/s320/28_9tailors.jpg)](http://2.bp.blogspot.com/_20LDsLnO2rk/TBpIbpXvaBI/AAAAAAAAARM/sE55895ZK4Y/s1600/28_9tailors.jpg)
-[![](http://2.bp.blogspot.com/_20LDsLnO2rk/TBpIQEJBeXI/AAAAAAAAARE/psQGlvYBs0k/s320/womenofcolor.jpg)](http://2.bp.blogspot.com/_20LDsLnO2rk/TBpIQEJBeXI/AAAAAAAAARE/psQGlvYBs0k/s1600/womenofcolor.jpg)CEO Samantha Shih will be a panelist at the 2010 Women of Color Leadership & Empowerment Forum. The forum will involve a cocktail reception, dinner, and a performance by jazz vocalist [Rajdulari](http://www.rajdularimusic.com/Home.html). The panel-style discussion will focus on women of color in high leadership positions such as Samantha Shih. 
+[![](http://2.bp.blogspot.com/_20LDsLnO2rk/TBpIQEJBeXI/AAAAAAAAARE/psQGlvYBs0k/s320/womenofcolor.jpg)](http://2.bp.blogspot.com/_20LDsLnO2rk/TBpIQEJBeXI/AAAAAAAAARE/psQGlvYBs0k/s1600/womenofcolor.jpg) CEO Samantha Shih will be a panelist at the 2010 Women of Color Leadership & Empowerment Forum. The forum will involve a cocktail reception, dinner, and a performance by jazz vocalist [Rajdulari](http://www.rajdularimusic.com/Home.html). The panel-style discussion will focus on women of color in high leadership positions such as Samantha Shih. 
 
 The event will be on June 24th, 2010 from 6PM-10PM at the Mandarin Oriental, Boston. 
 

@@ -20,11 +20,12 @@ tags:
 featuredImage: /uploads/2014/10/21.jpg
 ---
 
+
 [![](http://2.bp.blogspot.com/-MDhZlEYk9o4/UFNlGrU81AI/AAAAAAAAA9A/7WRbS2X9X9g/s640/RobertProfile.jpg)](http://2.bp.blogspot.com/-MDhZlEYk9o4/UFNlGrU81AI/AAAAAAAAA9A/7WRbS2X9X9g/s1600/RobertProfile.jpg)
 
 Meet Robert Ebeling, an exuberant [9tailors](http://www.9tailors.com/) client who has a knack for color coordination and an even more impressive flair for design. Our consultations with Robert are chock-full of creativity—this man knows what he wants and has wonderful ideas that we enjoy immensely! Seen here in a gray heathered tweed suit, the slim young gent is ready to take on Fall. Read more below about Robert's hankering for herringbone and compulsion for custom fit.
 
-**Name:** 
+ **Name:** 
 
 Robert L Ebeling III, M.D.
 
@@ -54,19 +55,19 @@ Where to start! For me the number one reason is very simple . . . FIT. Off-the-r
 
 Because of the personal nature of creating custom clothing, wearing it really changes your attitude (though you can still have a bad day in great clothes). And attitude is the most important aspect of style.
 
-**Who/what inspires your style? Why?**
+ **Who/what inspires your style? Why?**
 
-My style is more understated elegance than "in your face."I start with a timeless look, then "clean it up" by removing elements that distract. Everything without serious purpose must go! Back pockets on pants? Don't need ‘em. Boutonniere's hole in a suit lapel? Really? Buttons visible on a shirt? Too busy. By focusing on the real elements of the clothing, I make the clothing cleaner, sleeker, and slightly dressier.
+My style is more understated elegance than "in your face." I start with a timeless look, then "clean it up" by removing elements that distract. Everything without serious purpose must go! Back pockets on pants? Don't need ‘em. Boutonniere's hole in a suit lapel? Really? Buttons visible on a shirt? Too busy. By focusing on the real elements of the clothing, I make the clothing cleaner, sleeker, and slightly dressier.
 
-I sometimes look to Jason Statham, Daniel Craig, and Matt Bomer for ideas, and then make them my own. These men have all the elements: fit, complementary colors, clean lines, timeless appeal, and attitude. Ask anyone: Who do you think of when you say "tuxedo"?, and I'm pretty sure the answer is James Bond. A tux is so simple, so perfect, and (nearly) always appropriate. Craig also has a great sense of style off the camera as well. Jason Statham really knows fit, everything he wears is well-cut and timeless. He is the first person I ever really thought made a black suit look spectacular. I really admire Bomer's character Neal Caffrey. I have never seen a man whose clothing fits so perfectly. Every. Single. Time. Black, grey, brown, pinstripe, 3-piece, you name it! And it has been worn before, but never with such style, fit, and attention to detail as he does.
-**What is your favorite piece from 9tailors?**
+I sometimes look to Jason Statham, Daniel Craig, and Matt Bomer for ideas, and then make them my own. These men have all the elements: fit, complementary colors, clean lines, timeless appeal, and attitude. Ask anyone: Who do you think of when you say "tuxedo"?, and I'm pretty sure the answer is James Bond. A tux is so simple, so perfect, and (nearly) always appropriate. Craig also has a great sense of style off the camera as well. Jason Statham really knows fit, everything he wears is well-cut and timeless. He is the first person I ever really thought made a black suit look spectacular. I really admire Bomer's character Neal Caffrey. I have never seen a man whose clothing fits so perfectly. Every. Single. Time. Black, grey, brown, pinstripe, 3-piece, you name it! And it has been worn before, but never with such style, fit, and attention to detail as he does.
+ **What is your favorite piece from 9tailors?**
 
-All of them!  If I had to pick just one, it would be my new white-on-white pattern shirt with an eyelet collar. You never see those anymore.  I think it adds that extra "something" that pushes the shirt from great to incredible.
-**What would be your style advice to other men in your professional field?**
+All of them! If I had to pick just one, it would be my new white-on-white pattern shirt with an eyelet collar. You never see those anymore. I think it adds that extra "something" that pushes the shirt from great to incredible.
+ **What would be your style advice to other men in your professional field?**
 
-****Medicine is a very conservative field when it comes to dress, but that doesn't mean you can't dress WELL!  We dedicate so much time to our patients (that is, after all, why we're here), we often forget to spend time on ourselves.  Dressing well does not have to mean flashy colors or an hour in the morning deciding what to wear.  Try adding a new color shirt in the same tone as your other shirts; this way the new shirt will match most of the ties you already own.  With khaki pants, try a moss green shirt; with black pants go with a lavender one. ****
+****Medicine is a very conservative field when it comes to dress, but that doesn't mean you can't dress WELL! We dedicate so much time to our patients (that is, after all, why we're here), we often forget to spend time on ourselves. Dressing well does not have to mean flashy colors or an hour in the morning deciding what to wear. Try adding a new color shirt in the same tone as your other shirts; this way the new shirt will match most of the ties you already own. With khaki pants, try a moss green shirt; with black pants go with a lavender one. **** 
 
-_Oh, you fancy, huh? Sage advice, Robert. _
+_Oh, you fancy, huh? Sage advice, Robert._ 
 
 See below for more of Robert's dashing style, shot by our fantastic photographer, [Channing Johnson](http://www.channingjohnson.com/). Or, check out our Facebook page [here](https://www.facebook.com/pages/9tailors/49696314250) for more photos. 
 

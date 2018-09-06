@@ -22,11 +22,11 @@ Email {{ site.emails.info }} for more information or to schedule an appointment.
 
 \*Rules and Restrictions
 
-	*Sale period: April 25, 2016 – May 9, 2016
-	*The promotion applies only to qualifying custom shirts in the C, D, E, and F categories. A la carte design options are still full price.
-	*Unless the promotion indicates otherwise, free shirt applies to the lowest-priced qualifying item and may not be combined with other offers.
-	*If you return any of the promotion items, we will subtract your discount from your return credit.
-	*Does not apply to past purchases.
-	*Cannot be combined with any other sales or discounts.
-	*Shipping and handling charges apply to all promoted items.
-	*Void where prohibited.
+	* Sale period: April 25, 2016 – May 9, 2016
+	* The promotion applies only to qualifying custom shirts in the C, D, E, and F categories. A la carte design options are still full price.
+	* Unless the promotion indicates otherwise, free shirt applies to the lowest-priced qualifying item and may not be combined with other offers.
+	* If you return any of the promotion items, we will subtract your discount from your return credit.
+	* Does not apply to past purchases.
+	* Cannot be combined with any other sales or discounts.
+	* Shipping and handling charges apply to all promoted items.
+	* Void where prohibited.

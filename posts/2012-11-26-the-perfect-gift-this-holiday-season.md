@@ -23,7 +23,7 @@ Take a shirt, for example. Everyone has their own preferences on color, pattern,
 
 [![](http://3.bp.blogspot.com/-6rGtSs9lPwg/UKVYr13WdHI/AAAAAAAAAB0/EESvd8SCV0Q/s320/hanging+shirts.JPG)](http://3.bp.blogspot.com/-6rGtSs9lPwg/UKVYr13WdHI/AAAAAAAAAB0/EESvd8SCV0Q/s1600/hanging+shirts.JPG)
 
- Why stop the fun at colors and patterns? The receiver of your gift card gets to go all out on their shirt. Below is a custom monogram and contrast fabric on the inside cuff.
+ Why stop the fun at colors and patterns? The receiver of your gift card gets to go all out on their shirt. Below is a custom monogram and contrast fabric on the inside cuff.
 
 [![](http://1.bp.blogspot.com/-rHVqxEzINQw/UKVZRnJwC3I/AAAAAAAAACU/LF_vcmaM3hM/s320/monogram+and+contrast+cuff.JPG)](http://1.bp.blogspot.com/-rHVqxEzINQw/UKVZRnJwC3I/AAAAAAAAACU/LF_vcmaM3hM/s1600/monogram+and+contrast+cuff.JPG)
 
@@ -35,11 +35,11 @@ Not only will your friend or loved one get a great gift that was exactly what th
 
 [![](http://2.bp.blogspot.com/-0nQYpIppeMA/UKVZqv-20EI/AAAAAAAAACs/45tKyckFAtE/s320/plain+front.JPG)](http://2.bp.blogspot.com/-0nQYpIppeMA/UKVZqv-20EI/AAAAAAAAACs/45tKyckFAtE/s1600/plain+front.JPG)
 
- How custom is custom? As custom as you'd like.
+ How custom is custom? As custom as you'd like.
 
 [![](http://2.bp.blogspot.com/-rmNTGSh5G5Q/UKVaR4ptu5I/AAAAAAAAAC0/fr_OYKy-CIo/s320/roll+tabs.JPG)](http://2.bp.blogspot.com/-rmNTGSh5G5Q/UKVaR4ptu5I/AAAAAAAAAC0/fr_OYKy-CIo/s1600/roll+tabs.JPG)
 
-  With this, your giftee has a gift that he/she loves and will hang onto for a while. So, the moral of the story is, avoid that awkward experience of giving the wrong gift and go with a simple, tasteful gift that can't go wrong....a 9tailors gift card.
+ With this, your giftee has a gift that he/she loves and will hang onto for a while. So, the moral of the story is, avoid that awkward experience of giving the wrong gift and go with a simple, tasteful gift that can't go wrong....a 9tailors gift card.
 
 [![](http://1.bp.blogspot.com/-kP9PgQuF66E/UKVUKhKqtvI/AAAAAAAAABk/2geaybSRxfQ/s320/giftcard.JPG)](http://1.bp.blogspot.com/-kP9PgQuF66E/UKVUKhKqtvI/AAAAAAAAABk/2geaybSRxfQ/s1600/giftcard.JPG)
 

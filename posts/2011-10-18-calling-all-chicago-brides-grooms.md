@@ -15,7 +15,7 @@ tags:
   - wedding
 featuredImage: /uploads/2014/11/r1.jpg
 ---
-Our [9tailors](http://9tailors.com/) Wedding Style Consultants will be in Chicago the first week of November to meet with brides and grooms.
+Our [9tailors](http://9tailors.com/) Wedding Style Consultants will be in Chicago the first week of November to meet with brides and grooms.
 
 During your appointment, you'll meet one-on-one with a Wedding Style Consultant, who will provide advice on how to outfit the groom and his wedding party in our custom tuxedos, suits or dress shirts. The Style Consultant will answer all of your questions and navigate all the choices so that your groom will look his most dashing and stylish on the day of the wedding.
 
@@ -31,6 +31,6 @@ Available Dates: November 1, 2 and 4 (November 3 is currently booked)
 Available Times: 11:00AM to 8:00PM
 Appointment Location: [Affinia Chicago](http://www.affinia.com/Chicago-Hotel.aspx?name=Affinia-Chicago)
 
-Check out our portfolio on [StyleMePretty](http://9tailors.stylemepretty.com/vendor-profile/) (we're a featured vendor!).
+Check out our portfolio on [StyleMePretty](http://9tailors.stylemepretty.com/vendor-profile/) (we're a featured vendor!).
 
 Want to learn more? E-mail us at [{{ site.emails.weddings }}](mailto:{{ site.emails.weddings }}).

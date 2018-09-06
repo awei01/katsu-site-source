@@ -27,18 +27,18 @@ If you think you or your co-workers would be interested, shoot us an email at [{
 
 \*9tailors On-Location Program Guidelines
 
-	*For the 9tailors On-Location ("On-Location"), there no set-up costs or minimum purchase required. However, if the location is outside of 30 miles outside of Boston, a transportation fee of $25.00 may be required. 
-	*Available in New England only.  
-	*On-Location activities include helping clients get measured, design shirts and select fabrics. Follow-up fittings can also be arranged. 
-	*Design and measurement consultations available for men and women.
-	*Minimum of 3 people per event. 
-	*The organizer will receive $10 off per person who purchases. If you contact us before August 31st, 2011 and set up an on-location fitting, we will give you 1 free shirt valued at $100.\*\*
-	*If the event does not meet the above minimum standards, 9tailors holds the right to decline the event. 
-	*On-Location may be subject to availability.  
+	* For the 9tailors On-Location ("On-Location"), there no set-up costs or minimum purchase required. However, if the location is outside of 30 miles outside of Boston, a transportation fee of $25.00 may be required. 
+	* Available in New England only. 
+	* On-Location activities include helping clients get measured, design shirts and select fabrics. Follow-up fittings can also be arranged. 
+	* Design and measurement consultations available for men and women.
+	* Minimum of 3 people per event. 
+	* The organizer will receive $10 off per person who purchases. If you contact us before August 31st, 2011 and set up an on-location fitting, we will give you 1 free shirt valued at $100.\*\*
+	* If the event does not meet the above minimum standards, 9tailors holds the right to decline the event. 
+	* On-Location may be subject to availability. 
 
 \*\*Free Shirt Promotion Rules:
 
-	*Organizers must contact us before August 31, 2011.
-	*Organizer will receive 1 free shirt in which the base value of the shirt is $100 or less.
-	*Must be redeemed the day of the event.
-	*Cannot be combined with any other promotion or discounts 9tailors is currently running.
+	* Organizers must contact us before August 31, 2011.
+	* Organizer will receive 1 free shirt in which the base value of the shirt is $100 or less.
+	* Must be redeemed the day of the event.
+	* Cannot be combined with any other promotion or discounts 9tailors is currently running.

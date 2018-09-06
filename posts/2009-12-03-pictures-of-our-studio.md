@@ -13,7 +13,7 @@ tags:
   - menswear
 featuredImage: null
 ---
-[![](http://2.bp.blogspot.com/_RlJ3L7W6dBw/SxclICe01pI/AAAAAAAAH7A/oVNw3Vnd2eM/s320/photo_16.jpg)](http://2.bp.blogspot.com/_RlJ3L7W6dBw/SxclICe01pI/AAAAAAAAH7A/oVNw3Vnd2eM/s1600-h/photo_16.jpg)The 9tailors Studio 
+[![](http://2.bp.blogspot.com/_RlJ3L7W6dBw/SxclICe01pI/AAAAAAAAH7A/oVNw3Vnd2eM/s320/photo_16.jpg)](http://2.bp.blogspot.com/_RlJ3L7W6dBw/SxclICe01pI/AAAAAAAAH7A/oVNw3Vnd2eM/s1600-h/photo_16.jpg)The 9tailors Studio 
 
 [![](http://3.bp.blogspot.com/_RlJ3L7W6dBw/Sxci_muDOvI/AAAAAAAAH6o/gg-JCIuo3FE/s320/photo_12.jpg)](http://3.bp.blogspot.com/_RlJ3L7W6dBw/Sxci_muDOvI/AAAAAAAAH6o/gg-JCIuo3FE/s1600-h/photo_12.jpg)Clients and 9tailors Stylists working together 
 

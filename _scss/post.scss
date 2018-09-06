@@ -1,80 +1,66 @@
 .site-post {
-  margin-bottom: 6em;
+  margin-bottom: 6rem;
 
   .site-post-hero {
     position: relative;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    // // align-items: center;
     justify-content: flex-end;
-    height: 100vh;
-    padding: 4rem;
-    margin-bottom: 4em;
-    background: #000;
-    color: rgba(255, 255, 255, 0.95);
-    text-shadow: 0.05rem 0.05rem 0.1rem $color-black-screened-25;
-    // text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;
-    // text-shadow: 0.05rem 0.05rem 0.1rem rgba(255, 255, 255, 0.25);
 
-    .site-post-hero-image {
-      position: absolute;
-      z-index: 1;
-      top: 0;
-      bottom: 0;
-      right: 0;
-      left: 0;
-      @extend %background-cover;
-      background-position: center top;
-      background-attachment: fixed;
-      opacity: 0.5;
+    &.has-background {
+      height: 100vh;
+      background: #000;
+      color: rgba(255, 255, 255, 0.95);
+      text-shadow: 0.05rem 0.05rem 0.1rem $color-black-screened-25;
+      // text-shadow: h-shadow v-shadow blur-radius color|none|initial|inherit;
+      // text-shadow: 0.05rem 0.05rem 0.1rem rgba(255, 255, 255, 0.25);
 
-      &:before {
-        // provide a white blur over image when scrolling
-        background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5));
-        top: 50%;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        content: "";
+      .site-post-hero-background {
+        display: block;
         position: absolute;
+        // z-index: 1;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        @extend %background-cover;
+        background-position: center top;
+        background-attachment: fixed;
+        opacity: 0.5;
+
+        // gradient shadow over image
+        &:before {
+          background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5));
+          top: 50%;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          content: "";
+          position: absolute;
+        }
       }
-    }
 
-    .site-post-hero-content {
-      position: relative;
-      width: 100%;
-      z-index: 2;
-      .site-post-title {
-        border-color: #fff;
-      }
+      .site-post-title { border-bottom-color: #fff; }
     }
   }
 
-  & > .site-post-meta {
-    // display: none;
-    margin: 10rem 8rem 3rem 8rem;
+  .site-post-hero-background { display: none; }
+
+  .site-post-hero-content {
+    margin-top: 8rem;
+    z-index: 1;
   }
 
-  .site-post-meta {
-  }
-
-  .site-post-title {
-    font-size: 4rem;
-    font-weight: normal;
-    font-family: $font-league-gothic;
-    text-transform: uppercase;
-    border-bottom: 1px solid #000;
-    margin-bottom: 0.5rem;
-  }
-
+  // POST CONTENT
   .site-post-content {
-    margin: 0 8rem;
     font-size: 1.2rem;
     line-height: 1.8rem;
+
     img {
       display: block;
       margin: 2em auto 3em auto;
-      width: 80%;
+      width: 100%;
       height: auto;
       border: 1px solid #ddd;
       // box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit;

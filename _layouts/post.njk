@@ -1,25 +1,36 @@
 {% extends '@template.njk' %}
 
 {% block contents %}
+
   <div class="site-post">
-    {% if featuredImage %}
-      <div class="site-post-hero">
-        <div class="site-post-hero-image" style="background-image: url('{{ featuredImage }}')"></div>
-        <div class="site-post-hero-content">
-          <div class="site-post-meta">
-            <h1 class="site-post-title">{{ title }}</h1>
-            <div class="site-post-date">{{ date }}</div>
-          </div>
+    <div class="site-post-hero {{ featuredImage | ternary('has-background', '') }}">
+      <div class="site-post-hero-background" style="background-image: url('{{ featuredImage }}')"></div>
+      <div class="site-post-hero-content">
+        <div class="site-layout-container">
+          <h1 class="site-post-title">{{ title }}</h1>
+          <div class="site-post-date">{{ dateObject | formatDate }}</div>
         </div>
       </div>
-    {% else %}
-      <div class="site-post-meta">
-        <h1 class="site-post-title">{{ title }}</h1>
-        <div class="site-post-date">{{ date }}</div>
-      </div>
-    {% endif %}
-      <div class="site-post-content">
-        {{ contents }}
-      </div>
+    </div>
+    <div class="site-post-content site-layout-container">
+      {{ contents }}
+    </div>
   </div>
+
+  <div class="site-post-adjacent">
+    {% set prevPost = collections.posts.getSiblingOf(key, -1) %}
+    {% if prevPost %}
+      <a class="site-post-preview" href="{{ prevPost.path }}">
+        {{ prevPost.title }}
+      </a>
+    {% endif %}
+
+    {% set nextPost = collections.posts.getSiblingOf(key, 1) %}
+    {% if nextPost %}
+      <a class="site-post-preview" href="{{ nextPost.path }}">
+        {{ nextPost.title }}
+      </a>
+    {% endif %}
+  </div>
+
 {% endblock %}

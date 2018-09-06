@@ -17,20 +17,22 @@
     </div>
   </div>
 
-  <div class="site-post-adjacent">
+  <div class="site-layout-container">
     {% set prevPost = collections.posts.getSiblingOf(key, -1) %}
     {% if prevPost %}
       <a class="site-post-preview" href="{{ prevPost.path }}">
-        {{ prevPost.title }}
+        <h1 class="site-post-preview-title">{{ prevPost.title }}</h1>
       </a>
     {% endif %}
 
+{#
     {% set nextPost = collections.posts.getSiblingOf(key, 1) %}
     {% if nextPost %}
-      <a class="site-post-preview" href="{{ nextPost.path }}">
+      <a class="site-post-adjacents-preview" href="{{ nextPost.path }}">
         {{ nextPost.title }}
       </a>
     {% endif %}
+#}
   </div>
 
 {% endblock %}

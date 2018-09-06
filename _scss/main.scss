@@ -1,8 +1,11 @@
 @import './_fonts';
 @import 'node_modules/normalize-scss/sass/normalize/_import-now';
+@import './_exports';
+@import './_colors';
 
 html {
   height: 100%;
+  font-size: 13px;
 }
 
 body {
@@ -15,10 +18,16 @@ body {
   // body
   background: #fff;
   font-family: $font-pt-sans;
-  font-size: 16px;
+  font-size: 1rem;
   height: 100%;
 }
 
+// default link styling
+a {
+  color: $color-black-screened-50;
+  transition: background-color 200ms ease;
+  &:hover { color: $color-black-screened-25; }
+}
 
 @import './_exports';
 @import './_colors';

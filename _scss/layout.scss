@@ -4,7 +4,20 @@
   flex-direction: column;
   justify-content: space-between;
 
+  .site-post-title {
+    font-size: 4rem;
+    font-weight: normal;
+    font-family: $font-league-gothic;
+    text-transform: uppercase;
+    border-bottom: 1px solid #000;
+    margin-bottom: 0.5rem;
+  }
+
   .site-layout-content {
     flex: 1 0 auto;
+  }
+
+  .site-layout-container {
+    margin: 2rem;
   }
 }

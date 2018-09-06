@@ -38,13 +38,13 @@ For days when it's a bit too cold to only wear a sweater throwing a blazer on wi
 
 #### **Denim Jacket + T-Shirt**
 
-Denim jackets tend to make an appearance once the flowers begin to bloom, however you don't have to store them away just yet. They are perfect to throw on over a t-shirt  for fall.
+Denim jackets tend to make an appearance once the flowers begin to bloom, however you don't have to store them away just yet. They are perfect to throw on over a t-shirt for fall.
 
-Keep the color classic with deep indigo hues or a light stonewash. Pair it with a white t-shirt for a classic look or a darker color to keep everything monochromatic. Denim jackets work well over jeans or chinos.
+Keep the color classic with deep indigo hues or a light stonewash. Pair it with a white t-shirt for a classic look or a darker color to keep everything monochromatic. Denim jackets work well over jeans or chinos.
 
 #### **Bomber Jacket + T-Shirt**
 
-Bomber jackets have been making a major comeback this year. With their nods to athleisure, they are a great go-to for the weekend.
+Bomber jackets have been making a major comeback this year. With their nods to athleisure, they are a great go-to for the weekend.
 
 #### **Overcoat + Blazer + Turtleneck**
 

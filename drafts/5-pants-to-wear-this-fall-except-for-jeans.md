@@ -17,24 +17,24 @@ tags:
   - what to wear
 featuredImage: /uploads/2016/08/woolpants.jpg
 ---
-Jeans are so commonly worn now that you probably refer to them as your pants by now. However, if you're looking to switch out your go-to denim for something new, we have a list of options for you.
+Jeans are so commonly worn now that you probably refer to them as your pants by now. However, if you're looking to switch out your go-to denim for something new, we have a list of options for you.
 
 [![ photo woolpants_zpsbpqverqz.jpg](http://i1249.photobucket.com/albums/hh509/jessica_nguyen15/woolpants_zpsbpqverqz.jpg)](http://s1249.photobucket.com/user/jessica_nguyen15/media/woolpants_zpsbpqverqz.jpg.html)
 
-#### 1) Wool Pants
+#### 1) Wool Pants
 
 If you have to wear a suit everyday, then this alternative may not be new for you. The rule of thumb is to choose a jacket that is the same color as the pants for a more uniform, professional look. However, wool trousers do not have to be in your typical conservative shades of black, blue, and gray. Next time you decide to order either a suit or just a pair of pants at 9tailors, try adding subtle prints to your wool trousers.
 
 #### [![ photo corduroys3_zpszxuiph2a.jpg](http://i1249.photobucket.com/albums/hh509/jessica_nguyen15/corduroys3_zpszxuiph2a.jpg)](http://s1249.photobucket.com/user/jessica_nguyen15/media/corduroys3_zpszxuiph2a.jpg.html)
 2) Corduroys
 
-With fall coming around the corner, the rugged look of corduroys should be sought after. They come in a variety of rich, jewel-toned shades - perfect to match with the autumn scenery! Corduroys are known to be durable and insulating material-wise, so if you're wearing corduroys, you won't have to worry too much about bundling up for the incoming cooler temperatures.
+With fall coming around the corner, the rugged look of corduroys should be sought after. They come in a variety of rich, jewel-toned shades - perfect to match with the autumn scenery! Corduroys are known to be durable and insulating material-wise, so if you're wearing corduroys, you won't have to worry too much about bundling up for the incoming cooler temperatures.
 
 [![ photo khakis_zps9tsvoihw.jpg](http://i1249.photobucket.com/albums/hh509/jessica_nguyen15/khakis_zps9tsvoihw.jpg)](http://s1249.photobucket.com/user/jessica_nguyen15/media/khakis_zps9tsvoihw.jpg.html)
 
 #### 3) Khakis
 
-Also coming in many hues, khakis are a great alternative to jeans. We would recommend wearing khakis when the weather is slightly more forgiving given their lightweight nature. Khakis allow you to put together a variety of casual and slightly more formal outfits. As a matter of fact, they are ideal for business casual events - you can match them with jackets of different colors and styles and still look work-appropriate!
+Also coming in many hues, khakis are a great alternative to jeans. We would recommend wearing khakis when the weather is slightly more forgiving given their lightweight nature. Khakis allow you to put together a variety of casual and slightly more formal outfits. As a matter of fact, they are ideal for business casual events - you can match them with jackets of different colors and styles and still look work-appropriate!
 
 [![ photo joggers2_zpshydcoj5y.jpg](http://i1249.photobucket.com/albums/hh509/jessica_nguyen15/joggers2_zpshydcoj5y.jpg)](http://s1249.photobucket.com/user/jessica_nguyen15/media/joggers2_zpshydcoj5y.jpg.html)
 

@@ -18,21 +18,21 @@ featuredImage: /uploads/2015/03/fabric.jpeg
 ---
 [![Etienne bow tie]({{ site.baseUrl }}/uploads/Etienne-bow-tie.jpg)]({{ site.baseUrl }}/uploads/Etienne-bow-tie.jpg)
 
-When it comes to the world of custom suiting, a lot of words and terms can be thrown around that you may or may not know the meaning of. Some cluelessly nod and smile when someone is giving them details, but it's really best if you have an idea of the ins and outs of the item you are about to spend a little more money on. Let's start out with some basic things you might hear.
+When it comes to the world of custom suiting, a lot of words and terms can be thrown around that you may or may not know the meaning of. Some cluelessly nod and smile when someone is giving them details, but it's really best if you have an idea of the ins and outs of the item you are about to spend a little more money on. Let's start out with some basic things you might hear.
 
-**Thread count:**  the number of threads per square inch within a fabric.
+**Thread count:** the number of threads per square inch within a fabric.
 
 [![threadcount]({{ site.baseUrl }}/uploads/threadcount-300x263.jpg)]({{ site.baseUrl }}/uploads/threadcount.jpg)
 
-**One ply/two ply:** In the **textile** arts, **plying** is a process used to create a strong, balanced yarn. It is done by taking two or more strands of yarn that each have a twist to them and putting them together. The strands are twisted together, in the direction opposite that in which they were spun. If something is "two ply", it is double the amount of thread in a square inch.
+**One ply/two ply:** In the **textile** arts, **plying** is a process used to create a strong, balanced yarn. It is done by taking two or more strands of yarn that each have a twist to them and putting them together. The strands are twisted together, in the direction opposite that in which they were spun. If something is "two ply", it is double the amount of thread in a square inch.
 
 [![shirtfabrics]({{ site.baseUrl }}/uploads/shirtfabrics.jpg)]({{ site.baseUrl }}/uploads/shirtfabrics.jpg)
 
 2 ply, 100% cotton shirts will be your most comfortable, breathable option. A plus of cotton/poly blends is that they have some wrinkle resistance, which for some is a must.
 
-**Super count:** similar to the concept of thread count, the super count is an index of the fineness of the wool fiber and is most commonly seen as a label on wool apparel, wool fabric, and yarn.
+**Super count:** similar to the concept of thread count, the super count is an index of the fineness of the wool fiber and is most commonly seen as a label on wool apparel, wool fabric, and yarn.
 
-**Weft and warp:** The two ways the threads are woven in a piece of fabric. "Warp" is yarn going lengthwise, "weft" is yarn going width-wise.
+**Weft and warp:** The two ways the threads are woven in a piece of fabric. "Warp" is yarn going lengthwise, "weft" is yarn going width-wise.
 
 ![weftandwarp]({{ site.baseUrl }}/uploads/weftandwarp.jpg)An off the rack suit will often be around a Super 100 thread count (Hugo Boss, Men's Warehouse, etc), although you can ask for a higher super count and see if they offer it.
 

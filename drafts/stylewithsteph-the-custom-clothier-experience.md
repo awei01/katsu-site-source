@@ -15,7 +15,7 @@ tags:
   - mens fashion tips
 featuredImage: /uploads/2018/07/custom-clothier-pic-1.jpg
 ---
-In the first segment of our #StyleWithSteph series, we sat down with our in-house stylist to understand why the custom clothier experience is one you'll undoubtedly want to return to time and time again. According to Stephanie, it's not the process behind the product that defines the service, but the quality of the experience that matches the quality of the clothing. Here's what we learned from our expert:
+In the first segment of our #StyleWithSteph series, we sat down with our in-house stylist to understand why the custom clothier experience is one you'll undoubtedly want to return to time and time again. According to Stephanie, it's not the process behind the product that defines the service, but the quality of the experience that matches the quality of the clothing. Here's what we learned from our expert:
 
 ###### A custom clothier allows you to be the author of your own story.
 
@@ -27,7 +27,7 @@ Whether it's a suit, shirt, or tux, your design is _by_ you, and _for_ you. From
 
 One common misconception is that a stylist's job is to design your garment, with your approval. In actuality, a stylist merely acts as a guide in your design process—laying out your options, and helping, in any way possible, to bring your vision to life. 
 
-###### You'll always _look_ good, and you'll _feel_ even better. 
+###### You'll always _look_ good, and you'll _feel_ even better. 
 
 ![Kev pic 1]({{ site.baseUrl }}/uploads/2018/07/9tailors-blog-2-pic-2-768x1024.jpg)
 

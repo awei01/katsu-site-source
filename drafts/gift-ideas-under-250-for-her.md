@@ -14,7 +14,7 @@ Finding the perfect gift can be a bit tricky. There's a lot that goes into the e
 
 ![Red Roses Scent Surrond Diffuser $95]({{ site.baseUrl }}/uploads/2017/12/Screen-Shot-2017-12-04-at-2.58.54-PM-259x300.png)
 
-Let the smell of roses fill the room. A reed diffuser is the perfect alternative to candles because she won't have to worry about if the flame was put out before leaving work.
+Let the smell of roses fill the room. A reed diffuser is the perfect alternative to candles because she won't have to worry about if the flame was put out before leaving work.
 
 #### [Bath + Shower Gel $20](https://www.sephora.com/product/sugar-lemon-shower-gel-P7823?skuId=974543&icid2=products%20grid:p7823)
 

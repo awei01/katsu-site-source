@@ -1,4 +1,4 @@
-$topnav-height: 5rem;
+$topnav-height: 7rem;
 
 .site-topnav-shim {
   height: $topnav-height;
@@ -10,51 +10,52 @@ $topnav-height: 5rem;
 
 .site-topnav {
   height: $topnav-height;
-  background: rgba(255, 255, 255, 0.95);
+  background: rgba(255, 255, 255, 0.97);
   position: fixed;
   z-index: 100;
   top: 0;
-  width: 100%;
-  padding: 0 1rem;
+  left: 0;
+  right: 0;
+  padding: 0;
   // box-shadow: none|h-offset v-offset blur spread color |inset|initial|inherit;
   box-shadow: 0 0 0.25rem 0.1rem $color-black-screened-50;
 
-  .site-topnav-logo {
-    width: 10rem;
-    height: 100%;
-    padding: 0.5rem 0;
-    // transition opacity on hover
-    background-color: transparent;
-    transition: background-color 200ms ease;
-    &:hover {
-      background-color: rgba(255, 255, 255, 0.5);
-    }
-    .object-logo {
-      width: 100%;
-      height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  .site-topnav-primary {
+    flex: 1 0 auto;
+    align-items: stretch;
+    font-size: 1.75rem;
+  }
+  .site-topnav-secondary {
+    overflow: auto;
+    flex: 0 0 auto;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    background: rgba(0, 0, 0, 0.05);
+    font-size: 1.5rem;
+    padding: 0 0.5rem;
+    .site-topnav-link { padding: 0.5rem; }
+    .site-topnav-link:hover, .site-topnav-link:active {
+      background: rgba(0, 0, 0, 0.1);
     }
   }
 
-  .site-topnav-menu-toggler {
-    font-size: 2rem;
+  .site-topnav-logo {
+    min-height: 100%;
+    width: 9rem;
+    padding: 0.5rem 1rem;
+    .object-logo { width: 100%; height: 100%; }
   }
 
   .site-topnav-link {
     font-family: $font-league-gothic;
-    font-size: 2rem;
     text-transform: uppercase;
-    padding: 0.5rem 1rem;
-    // hover transition for color, background, text-decoration
-    color: rgba(0, 0, 0, 0.6);
-    background: transparent;
+    height: 100%;
     text-decoration: none;
-    transition-property: color, background;
-    transition-duration: 200ms;
-    transition-timing-function: ease;
-    &:hover {
-      color: #000;
-      background: rgba(255, 255, 255, 0.5);
-      text-decoration: underline;
-    }
+    padding: 0.5rem 1rem;
+  }
+  .site-topnav-link:hover, .site-topnav-link:active {
+    color: #000;
   }
 }

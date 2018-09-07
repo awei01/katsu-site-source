@@ -1,23 +1,35 @@
-<div class="site-topnav object-level">
-  <a class="site-topnav-logo object-level-item" href="/">
-    <div class="object-logo"></div>
-  </a>
-  <div class="site-topnav-menu-toggler object-level-item">
-    <i class="fas fa-bars"></i>
+<div class="site-topnav">
+
+  <div class="site-topnav-primary object-level">
+    <a class="site-topnav-logo" href="/">
+      <div class="object-logo"></div>
+    </a>
+    <div class="object-level">
+      <a class="site-topnav-link object-level-item" href="tel:{{ site.telephone }}">{{ site.telephone }}</a>
+    </div>
   </div>
 
-  <!--
-  <div class="site-topnav-links">
-    <div class="object-level">
-      <div class="site-topnav-link object-level-item">Casual</div>
-      <div class="site-topnav-link object-level-item">Business</div>
-      <div class="site-topnav-link object-level-item">Formal</div>
-    </div>
-    <div class="object-level">
-      <div class="site-topnav-link object-level-item">Pricing</div>
-      <a class="site-topnav-link object-level-item" href="/blog">Blog</a>
-    </div>
+  <div class="site-topnav-secondary object-level">
+    <a class="site-topnav-link object-level-item">Casual</a>
+    <a class="site-topnav-link object-level-item">Business</a>
+    <a class="site-topnav-link object-level-item">Formal</a>
+    <a class="site-topnav-link object-level-item">Pricing</a>
+    <a class="site-topnav-link object-level-item" href="/blog">Blog</a>
   </div>
-  -->
+
+{#     <div class="site-topnav-links object-level">
+      <div class="object-level">
+        <div class="site-topnav-link object-level-item">Casual</div>
+        <div class="site-topnav-link object-level-item">Business</div>
+        <div class="site-topnav-link object-level-item">Formal</div>
+      </div>
+      <div class="object-level">
+        <div class="site-topnav-link object-level-item">Pricing</div>
+        <a class="site-topnav-link object-level-item" href="/blog">Blog</a>
+        <a class="site-topnav-link object-level-item" href="tel:{{ site.telephone }}">{{ site.telephone }}</a>
+      </div>
+    </div>
+ #}
 </div>
+
 <div class="site-topnav-shim"></div>

@@ -5,7 +5,7 @@
   <div class="site-post">
     <div class="site-post-hero {{ featuredImage | ternary('has-background', '') }}">
       <div class="site-post-hero-background" style="background-image: url('{{ featuredImage }}')"></div>
-      <div class="site-post-hero-content">
+      <div class="site-post-hero-content"><!-- needs containing [.site-post-hero-content] to push the contents down to bottom of background -->
         <div class="site-layout-container">
           <h1 class="site-post-title">{{ title }}</h1>
           <div class="site-post-date">{{ dateObject | formatDate }}</div>
@@ -18,14 +18,18 @@
   </div>
 
   <div class="site-layout-container">
+{#
     {% set prevPost = collections.posts.getSiblingOf(key, -1) %}
     {% if prevPost %}
-      <a class="site-post-preview" href="{{ prevPost.path }}">
-        <h1 class="site-post-preview-title">{{ prevPost.title }}</h1>
+      <a class="site-post-preview {{ prevPost.featuredImage | ternary('has-background', '') }}" href="{{ prevPost.path }}">
+        <div class="site-post-preview-background" style="background-image: url('{{ prevPost.featuredImage }}')"></div>
+        <div class="site-post-preview-content">
+          <h1 class="site-post-preview-title">{{ prevPost.title }}</h1>
+          <div class="site-post-preview-date">{{ prevPost.dateObject | formatDate }}</div>
+        </div>
       </a>
     {% endif %}
 
-{#
     {% set nextPost = collections.posts.getSiblingOf(key, 1) %}
     {% if nextPost %}
       <a class="site-post-adjacents-preview" href="{{ nextPost.path }}">

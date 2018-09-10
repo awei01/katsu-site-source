@@ -1,5 +1,0 @@
-<ul>
-{% for post in collections.posts | sliceArray(0, 2) %}
-  <li><a href="{{ post.path }}">{{ post.title }}</a>: {{ post.date }}</li>
-{% endfor %}
-</ul>

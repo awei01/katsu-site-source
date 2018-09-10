@@ -8,6 +8,15 @@
     // // align-items: center;
     justify-content: flex-end;
 
+    .site-post-title {
+      font-size: 4rem;
+      font-weight: normal;
+      font-family: $font-league-gothic;
+      text-transform: uppercase;
+      border-bottom: 1px solid #000;
+      margin-bottom: 0.5rem;
+    }
+
     &.has-background {
       height: 100vh;
       background: #000;
@@ -54,8 +63,9 @@
 
   // POST CONTENT
   .site-post-content {
-    font-size: 1.2rem;
-    line-height: 1.8rem;
+    font-size: 1.3rem;
+    font-weight: 100;
+    line-height: 1.6; // no unit here
 
     img {
       display: block;
@@ -70,5 +80,33 @@
   }
 }
 
-.site-post-adjacents {
+.site-post-preview {
+  display: block;
+  position: relative;
+
+  &.has-background {
+    background: #000;
+    color: rgba(255, 255, 255, 0.95);
+    text-shadow: 0.05rem 0.05rem 0.1rem $color-black-screened-25;
+
+    .site-post-preview-background {
+      display: block;
+      position: absolute;
+      // z-index: 1;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      @extend %background-cover;
+      opacity: 0.5;
+    }
+  }
+
+  .site-post-preview-background {
+    display: none;
+  }
+
+  .site-post-preview-title {
+    // font-size:
+  }
 }

@@ -2,11 +2,13 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: nowrap;
 
   .object-level-item {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-wrap: nowrap;
     flex: 0 0 auto;
   }
 }

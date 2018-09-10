@@ -1,0 +1,14 @@
+<div class="blog-list">
+{% for post in collections.posts | sliceArray(0, 15) %}
+  <a class="blog-list-item {{ post.featuredImage | ternary('has-background', '') }}" href="{{ post.path }}">
+    <div class="blog-list-item-background" style="background-image: url('{{ post.featuredImage }}')"></div>
+    <div class="blog-list-item-content"><!-- needs containing [.site-post-hero-content] to push the contents down to bottom of background -->
+      <div class="site-layout-container">
+        <h1 class="site-post-title">{{ post.title }}</h1>
+        <div class="site-post-date">{{ post.date }}</div>
+        <div class="site-post-excerpt">{{ post.excerpt }}</div>
+      </div>
+    </div>
+  </a>
+{% endfor %}
+</div>

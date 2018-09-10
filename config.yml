@@ -1,0 +1,4 @@
+backend:
+  name: bitbucket
+  repo: mr-rugby/site-content
+  branch: staging
